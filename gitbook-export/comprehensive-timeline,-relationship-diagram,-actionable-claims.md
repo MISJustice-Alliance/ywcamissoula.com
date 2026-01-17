@@ -47,7 +47,8 @@ description: Comprehensive timeline of critical events and actionable claims.
 * Bryan Tipp representation begins
 * Misdemeanor and felony charges
 * Harassment from YWCA associates
-* MT Case dismissal
+* [Prosecution delays full case dismissal](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
+* [MT Case dismissal](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
 * Edmonds PD witness intimidation & obstruction of justice
 * WA case coerced plea deals&#x20;
 
