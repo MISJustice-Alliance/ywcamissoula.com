@@ -6,7 +6,7 @@ tags:
   - Claims
   - 2014-2025
   - Master Document
-description: '- First contact with accuser - Initial allegations - Seattle case begins'
+description: Comprehensive timeline of critical events and actionable claims.
 ---
 
 # Comprehensive Timeline, Relationship Diagram, & Actionable Claims
