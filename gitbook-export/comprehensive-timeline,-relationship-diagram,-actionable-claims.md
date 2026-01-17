@@ -1,9 +1,12 @@
 ---
-title: "Comprehensive Timeline, Relationship Diagram, & Actionable Claims"
-description: "- First contact with accuser
-- Initial allegations
-- Seattle case begins"
-tags: ["Timeline", "Relationship Diagram", "Claims", "2014-2025", "Master Document"]
+title: Comprehensive Timeline, Relationship Diagram, & Actionable Claims
+tags:
+  - Timeline
+  - Relationship Diagram
+  - Claims
+  - 2014-2025
+  - Master Document
+description: '- First contact with accuser - Initial allegations - Seattle case begins'
 ---
 
 # Comprehensive Timeline, Relationship Diagram, & Actionable Claims
@@ -11,46 +14,53 @@ tags: ["Timeline", "Relationship Diagram", "Claims", "2014-2025", "Master Docume
 ## Master Timeline (2014-2025)
 
 ### 2014-2015: Initial Events
-- First contact with accuser
-- Initial allegations
-- Seattle case begins
 
-### 2015-2016: Seattle Proceedings
-- Arrest and excessive bail
-- Patricia Fulton representation
-- Coerced plea entry
-- Seattle OPA complaint filed
+* Initial allegations
+
+### 2015-2016: Edmonds & Seattle Proceedings
+
+* Edmonds case begins
+* Seattle case begins
+* Arrest and excessive bail
+* Patricia Fulton representation
+* Coerced Edmonds plea entry
+* [Seattle case dismissed](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net)
+* [Seattle OPA complaint filed](https://cr-2025-002-complaint-10_misjusticealliance.arweave.net/)
 
 ### 2016-2017: Appeal Attempts
-- Bar complaint against Fulton
-- DOH complaint against Dr. Miranda
-- Plea withdrawal attempts
+
+* [Bar complaint against Fulton](https://cr-2025-002-complaint-14_misjusticealliance.arweave.net/)
+* DOH complaint against Dr. Miranda
+* [Plea withdrawal attempts](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
 
 ### 2017-2018: Montana Involvement
-- Move to Montana
-- YWCA involvement begins
-- E'Lise Chard protection order abuse
-- Stalking charges filed
+
+* Move to Montana
+* YWCA involvement begins
+* E'Lise Chard protection order abuse
+* Stalking charges filed
 
 ### 2018-2020: Escalation
-- Bryan Tipp representation begins
-- Misdemeanor and felony charges
-- Harassment from YWCA associates
-- Case dismissals
+
+* Bryan Tipp representation begins
+* Misdemeanor and felony charges
+* Harassment from YWCA associates
+* Case dismissals
 
 ### 2020-2025: Federal Action
-- Federal DOJ complaint filed
-- FBI report filed
-- MT Bar complaint against Tipp
-- Ongoing civil rights advocacy
+
+* Federal DOJ complaint filed
+* FBI report filed
+* MT Bar complaint against Tipp
+* Ongoing civil rights advocacy
 
 ## Relationship Diagram
 
-- YWCA Missoula (Detective Brueckner on board)
-- Missoula Police Department
-- Prosecutors
-- Defense attorneys (Bryan Tipp, Patricia Fulton)
-- Accusers and associates
+* YWCA Missoula (Detective Brueckner on board)
+* Missoula Police Department
+* Prosecutors
+* Defense attorneys (Bryan Tipp, Patricia Fulton)
+* Accusers and associates
 
 ## Actionable Claims Summary
 
