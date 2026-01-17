@@ -83,18 +83,6 @@
 
 * [Evidence Related to Civil Rights Violations of Mr Nuno (2015-2025)](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025.md)
 
-## Sources & References
-
-* [Sources: Legal Analysis of Civil Rights Violations and Related Claims - The Case of Mr Nuno (2015-2025)](sources-legal-analysis-of-civil-rights-violations-and-related-claims-the-case-of.md)
-* [Sources: Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](sources-fourteenth-amendment-equal-protection-and-due-process-violations-2015-20.md)
-* [Sources: Legal Analysis of Inflicting Extreme Psychological Trauma](sources-legal-analysis-of-inflicting-extreme-psychological-trauma.md)
-* [Sources: Legal Analysis: Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability (2017-2025)](sources-legal-analysis-bryan-tipps-malpractice-its-devastating-impact-on-civil-r.md)
-* [Sources: Legal Analysis: The YWCA Complaint Case - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct (2017-2019)](sources-legal-analysis-the-ywca-complaint-case-civil-rights-violations,-false-im.md)
-* [Sources: Legal Analysis of Allegations Against YWCA Missoula](sources-legal-analysis-of-allegations-against-ywca-missoula.md)
-* [Sources: Legal Red Flags: The Missoula Needs & Gaps Analysis as Evidence of Institutional Corruption and Systemic Abuse](sources-legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institut.md)
-* [Sources: Post-Mortem of MT DoJ POST Complaint Response and Dismissal](sources-post-mortem-of-mt-doj-post-complaint-response-and-dismissal.md)
-* [Sources: YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](sources-ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-201.md)
-
 ## Appendices
 
 * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
