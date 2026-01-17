@@ -50,10 +50,19 @@
 
 ## Montana Bar Complaints
 
-* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp,-colburn,-lockwood,-p.c.-july.md)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
+* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
+  * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
+  * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/README.md)
+    * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
+    * [Appendix B: List of Motions That Should Have Been Filed](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed.md)
+    * [Appendix C: Constitutional Violations Identified But Not Addressed](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-c-constitutional-violations-identified-but-not-addressed.md)
+    * [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
+  * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/README.md)
+    * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-september-2025.md)
+    * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
 * [MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo.md)
-* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025.md)
+* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
+  * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
 
 ## Montana State Complaints
 
