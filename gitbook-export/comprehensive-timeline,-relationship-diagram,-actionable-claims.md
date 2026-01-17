@@ -61,18 +61,20 @@ description: Comprehensive timeline of critical events and actionable claims.
 
 ## Relationship Diagram
 
-* YWCA Missoula (Detective Brueckner on board)
+{% embed url="https://tacbh7prijxnl5ifqup6i6bcppoy4zc5a3rj66o6qmtrvur4u5ga.arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w" %}
+
+* YWCA Board (Detective Brueckner on board)
+* YWCA Staff (E'Lise Chard / Rebecca Pettit)
 * Missoula Police Department
 * Prosecutors
 
-{% embed url="https://tacbh7prijxnl5ifqup6i6bcppoy4zc5a3rj66o6qmtrvur4u5ga.arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w" %}
-
-#### Expanded Diagram
-
-* Defense attorneys (Bryan Tipp, Patricia Fulton)
-* Accusers and associates
+## Expanded Diagram
 
 {% embed url="https://cr-2024-002-evidence-5_misjusticealliance.arweave.net" %}
+
+* Danielle Chard, accusers, and associates
+* Edmonds & Seattle PD + Missoula PD (Cross-jurisdictional back-channeled coordination)
+* Defense attorneys (Bryan Tipp, Patricia Fulton)
 
 ## Actionable Claims Summary
 
