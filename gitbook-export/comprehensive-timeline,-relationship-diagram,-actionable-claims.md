@@ -13,6 +13,8 @@ description: '- First contact with accuser - Initial allegations - Seattle case 
 
 ## Master Timeline (2014-2025)
 
+![](.gitbook/assets/case-timeline.png)
+
 ### 2014-2015: Initial Events
 
 * Initial allegations
