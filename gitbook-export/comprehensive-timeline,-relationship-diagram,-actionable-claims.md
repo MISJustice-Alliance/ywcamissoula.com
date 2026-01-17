@@ -45,9 +45,11 @@ description: '- First contact with accuser - Initial allegations - Seattle case 
 * Bryan Tipp representation begins
 * Misdemeanor and felony charges
 * Harassment from YWCA associates
-* Case dismissals
+* MT Case dismissal
+* Edmonds PD witness intimidation & obstruction of justice
+* WA case coerced plea deals&#x20;
 
-### 2020-2025: Federal Action
+### 2020-2025: Federal Filings
 
 * Federal DOJ complaint filed
 * FBI report filed
@@ -55,6 +57,8 @@ description: '- First contact with accuser - Initial allegations - Seattle case 
 * Ongoing civil rights advocacy
 
 ## Relationship Diagram
+
+![](https://tacbh7prijxnl5ifqup6i6bcppoy4zc5a3rj66o6qmtrvur4u5ga.arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w)
 
 * YWCA Missoula (Detective Brueckner on board)
 * Missoula Police Department
