@@ -1,4 +1,4 @@
-# Table of Contents
+# Table of contents
 
 ## Overview
 
@@ -19,9 +19,7 @@
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
 
-## Civil Rights Violations
-
-### Montana Cases
+## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
 * [Allegations Against YWCA of Missoula & Board Member Detective Connie Brueckner: Patterns of Abuse of Power & Unethical Relationships](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
@@ -33,7 +31,7 @@
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
 * [Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to Become the Sexual Assault Capital of the Country](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
-### Washington Cases
+## Washington Cases
 
 * [Washington Legal Cases Index](washington-legal-cases-index.md)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
@@ -44,38 +42,32 @@
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
 * [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
 
-## Official Complaints & Filings
-
-### Federal Complaints
+## Federal Complaints
 
 * [Federal and State Department Complaints](federal-and-state-department-complaints.md)
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](federal-doj-civil-rights-division-filing-658793-skb-august-2025.md)
 * [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations, Institutional Corruption, and Coordinated Harassment (November 2025)](fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations,-insti.md)
 
-### Montana Bar Complaints
+## Montana Bar Complaints
 
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp,-colburn,-lockwood,-p.c.-july.md)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](mt-bar-complaint-odc-no.-25-147-supplemental-submission-#1-august-2025.md)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #2 (September 2025)](mt-bar-complaint-odc-no.-25-147-supplemental-submission-#2-september-2025.md)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](mt-bar-complaint-odc-no.-25-147-supplemental-submission-#3-september,-2025.md)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](mt-bar-complaint-odc-no.-25-147-supplemental-submission-#3-cover-letter-septembe.md)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](mt-bar-complaint-odc-no.-25-147-supplemental-submission-#3.1-september,-2025.md)
+* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
 * [MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo.md)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025.md)
 
-### Montana State Complaints
+## Montana State Complaints
 
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 
-### Washington State Complaints
+## Washington State Complaints
 
 * [WA State Bar Complaint: Patricia Fulton (2016)](wa-state-bar-complaint-patricia-fulton-2016.md)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](seattle-opa-complaint-2016opa-1167-2016.md)
 * [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 
-### YWCA Complaints
+## YWCA Complaints
 
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
 
