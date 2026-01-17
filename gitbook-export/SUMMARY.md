@@ -65,6 +65,7 @@
   * [MT Bar Complaint ODC No. 25-147:  ODC Ruling (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
+  * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
 
 ## Montana State Complaints
 
@@ -93,7 +94,3 @@
 * [Appendix C: Constitutional Violations Identified But Not Addressed](appendix-c-constitutional-violations-identified-but-not-addressed.md)
 * [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
 * [Appendix: Documentation of Lost Civil Claims and Statute of Limitations](appendix-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
-
-***
-
-* [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)

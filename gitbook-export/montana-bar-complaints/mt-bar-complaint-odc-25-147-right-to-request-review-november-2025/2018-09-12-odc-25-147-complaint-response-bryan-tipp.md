@@ -1,3 +1,7 @@
+---
+hidden: true
+---
+
 # 2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp
 
 ## Office of Disciplinary Counsel for the State of Montana
