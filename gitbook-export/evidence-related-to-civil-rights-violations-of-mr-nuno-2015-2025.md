@@ -23,24 +23,14 @@ This comprehensive evidence analysis documents the extensive documentation suppo
 
 ### A. Constitutional Violations Evidence
 
-The documentary evidence supporting constitutional violations falls into several critical categories that meet established legal standards for civil rights litigation\[1]:
+The documentary evidence supporting constitutional violations falls into several critical categories that meet established legal standards for civil rights litigation:
 
 ### 1. **Visual Documentation**
 
-Research confirms that "visual documentation of discriminatory incidents or practices can provide convincing evidence"\[1]. The case includes:
+Research confirms that "visual documentation of discriminatory incidents or practices can provide convincing evidence". The case includes:
 
 * **GPS Monitoring Data**: Electronic ankle monitor records proving compliance with all court orders and absence from alleged harassment locations; supporting evidence of agoraphobia diagnosis (multiple days with little-to-no movement; multiple instances of contact from Missoula Parole Department to confirm equipment not malfunctioning due to lack of movement).
 * **Digital Communications**: Complete email threads and social media interactions disproving stalking allegations
-* **Photographic Evidence**: Documentation of warrantless home entry and arrest incidents
-* **Video Recordings**: Security footage from various incidents
-
-### 2. **Audio Documentation**
-
-"Recording discriminatory statements, conversations, or interactions can be very helpful to establishing discriminatory intent"\[1]. Evidence includes:
-
-* **Recorded Police Interactions**: Audio of threats made during attempted evidence presentation
-* **Voicemail Threats**: Documentation of ongoing harassment via spoofed phone calls
-* **Court Proceedings**: Transcripts of judicial findings regarding protected speech
 
 ### B. Fourth Amendment Violations Evidence
 
@@ -223,6 +213,7 @@ The evidence demonstrates systematic prosecutorial misconduct violating _Brady v
 * Receipt acknowledgment of Mr. Nuno's formal complaint
 * Documentation of donation gesture accompanying complaint
 * Evidence of continued employment without investigation
+* [Suppression of contact received via e-mail providing character witness directly contradicting E'Lise Chard's narrative.](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)&#x20;
 
 ### 2. **Failure to Investigate Evidence**
 
@@ -267,7 +258,7 @@ Evidence supporting state action doctrine liability:
 **Present-Day Evidence Through July 2025**:
 
 * **Daily Threats**: Call logs, social media screenshots, witness statements
-* **Professional Sabotage**: Employment interference documentation, client contact records
+* **Professional Sabotage**: [Employment interference documentation, client contact records](https://cr-2025-002-evidence-18_misjusticealliance.arweave.net/)
 * **Law Enforcement Harassment**: Reports of continued coordination with Missoula Police
 * **Cyberstalking**: Digital forensics showing anonymous account creation and targeting
 
@@ -278,13 +269,12 @@ Evidence supporting state action doctrine liability:
 * IP address tracking linking anonymous accounts to YWCA networks
 * Spoofed phone call documentation and analysis
 * Social media forensics showing coordinated harassment campaigns
-* Cell tower data correlation with harassment incident timing
 
 ## IX. Expert Testimony and Analysis Requirements
 
 ### A. Required Expert Analysis
 
-Based on the evidence compiled, successful litigation will require expert testimony in several areas\[5]:
+Based on the evidence compiled, successful litigation will require expert testimony in several areas:
 
 ### 1. **Constitutional Law Experts**
 
@@ -300,9 +290,9 @@ Based on the evidence compiled, successful litigation will require expert testim
 
 ### 3. **Psychological and Medical Experts**
 
-* BPD and false memory formation analysis
-* PTSD diagnosis and causation testimony
-* Ongoing psychological harm assessment
+* Danielle Chard's BPD and false memory formation analysis
+* Mr Nuno's cPTSD diagnosis and causation testimony
+* Mr Nuno's ongoing psychological harm assessment
 
 ### 4. **Economic Damage Experts**
 
@@ -336,7 +326,7 @@ The evidence must meet established standards for civil rights litigation. Resear
 
 ### A. Evidence Preservation Standards
 
-Following established civil rights litigation protocols\[7], all evidence has been preserved according to legal standards:
+Following established civil rights litigation protocols, all evidence has been preserved according to legal standards:
 
 * **Digital Evidence**: Proper chain of custody and forensic imaging
 * **Documentary Evidence**: Original documents with authentication records
@@ -369,6 +359,10 @@ Evidence supporting RICO claims under 18 U.S.C. 1961(5):
 * **Extortion**: Witness intimidation and coerced plea negotiations
 * **Civil Rights Conspiracy**: Coordinated violation of constitutional protections
 
+### C. Timeline
+
+{% embed url="https://cr-2025-001-evidence-4_misjusticealliance.arweave.net" %}
+
 ## XIII. Conclusion
 
 The evidentiary record in Mr Nuno's case represents one of the most comprehensive and well-documented civil rights violation campaigns in recent legal history. The evidence demonstrates systematic constitutional violations by multiple government actors and private parties, resulting in quantifiable damages exceeding $3.44 million and immeasurable harm to constitutional rights.
@@ -381,7 +375,11 @@ The preservation and organization of this evidence according to established lega
 
 ## Sources
 
-See: [Sources: Expanded Legal Analysis of Ongoing Civil Rights Violations and Harassment Against Mr Nuno](sources-expanded-legal-analysis.md)
+#### Documented YWCA Offenses
+
+* [Arthur Brown Post](https://cr-2025-001-evidence-8_misjusticealliance.arweave.net/)
+* [Alledged HIPPA Violations](https://cr-2025-001-evidence-3_misjusticealliance.arweave.net/)
+* [Sworn declaration of Elvis Nuno](https://cr-2025-001-evidence-20_misjusticealliance.arweave.net/)
 
 ***
 

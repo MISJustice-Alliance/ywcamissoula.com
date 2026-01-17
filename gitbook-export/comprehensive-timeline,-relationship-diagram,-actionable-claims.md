@@ -32,7 +32,7 @@ description: Comprehensive timeline of critical events and actionable claims.
 ### 2016-2017: Appeal Attempts
 
 * [Bar complaint against Fulton](https://cr-2025-002-complaint-14_misjusticealliance.arweave.net/)
-* DOH complaint against Dr. Miranda
+* [DOH complaint against Dr. Miranda](https://cr-2025-002-evidence-8_misjusticealliance.arweave.net/)
 * [Plea withdrawal attempts](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
 
 ### 2017-2018: Montana Involvement
@@ -54,20 +54,25 @@ description: Comprehensive timeline of critical events and actionable claims.
 
 ### 2020-2025: Federal Filings
 
-* Federal DOJ complaint filed
-* FBI report filed
-* MT Bar complaint against Tipp
+* [Federal DOJ complaint filed](https://arweave.net/jhgdZIgw_b4d_VcW0Es89fiLvOv-xV_OF3QqdzloY8Q)
+* [FBI report filed](https://www.notion.so/FBI-Report-Filing-Pattern-of-Cross-Jurisdictional-Civil-Rights-Violations-Institutional-Corruptio-2acca07db84980c28196da4d46a0d309?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
+* [MT Bar complaint against Tipp](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
 * Ongoing civil rights advocacy
 
 ## Relationship Diagram
 
-![](https://tacbh7prijxnl5ifqup6i6bcppoy4zc5a3rj66o6qmtrvur4u5ga.arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w)
-
 * YWCA Missoula (Detective Brueckner on board)
 * Missoula Police Department
 * Prosecutors
+
+{% embed url="https://tacbh7prijxnl5ifqup6i6bcppoy4zc5a3rj66o6qmtrvur4u5ga.arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w" %}
+
+#### Expanded Diagram
+
 * Defense attorneys (Bryan Tipp, Patricia Fulton)
 * Accusers and associates
+
+{% embed url="https://cr-2024-002-evidence-5_misjusticealliance.arweave.net" %}
 
 ## Actionable Claims Summary
 
