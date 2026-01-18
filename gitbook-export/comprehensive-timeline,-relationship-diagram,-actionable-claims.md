@@ -31,11 +31,16 @@ description: Comprehensive timeline of critical events and actionable claims.
 
 * [Bar complaint against Fulton](https://cr-2025-002-complaint-14_misjusticealliance.arweave.net/)
 * [DOH complaint against Dr. Miranda](https://cr-2025-002-evidence-8_misjusticealliance.arweave.net/)
-* [Plea withdrawal attempts](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
+* [Motion to withdraw plea submitted to Edmonds court](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
+* Plea withdrawal is denied by Edmonds Court
+* Mazone law firm retained to appeal Edmonds court decision
+* Mr Nuno's funds exhausted
+* Forced migration from WA due to unsafe environment
 
 ### 2017-2018: Montana Involvement
 
 * Move to Montana
+* WA appeal of Edmonds court decision is denied by Supiror court
 * YWCA involvement begins
 * [Mr Nuno's parents file complaint due to harassment from Detective Smith](https://cr-2025-002-complaint-16_misjusticealliance.arweave.net/)
 * [Mr Nuno sends complaint + $400 donation to YWCA](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
@@ -60,6 +65,7 @@ description: Comprehensive timeline of critical events and actionable claims.
 * [Federal DOJ complaint filed](https://arweave.net/jhgdZIgw_b4d_VcW0Es89fiLvOv-xV_OF3QqdzloY8Q)
 * [FBI report filed](https://www.notion.so/FBI-Report-Filing-Pattern-of-Cross-Jurisdictional-Civil-Rights-Violations-Institutional-Corruptio-2acca07db84980c28196da4d46a0d309?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
 * [MT Bar complaint against Tipp](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
+* Forced migration from MT due to unsafe environment
 * Ongoing civil rights advocacy
 
 ## Relationship Diagram
