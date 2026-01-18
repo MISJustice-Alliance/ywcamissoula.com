@@ -12,7 +12,7 @@
 
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Legal Red Flags: The Missoula Needs & Gaps Analysis as Evidence of Institutional Corruption and Systemic Abuse](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
+* [Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * [Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
@@ -22,14 +22,14 @@
 ## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
-* [Allegations Against YWCA of Missoula & Board Member Detective Connie Brueckner: Patterns of Abuse of Power & Unethical Relationships](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
-* [Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to Become the Sexual Assault Capital of the Country](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [Remembering When: Missoula Rape Capital Era and Institutional Failures](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
 ## Washington Cases
 
@@ -41,6 +41,7 @@
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
 * [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
+* [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 
 ## State & Federal Complaints
 

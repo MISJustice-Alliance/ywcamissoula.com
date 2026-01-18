@@ -1,7 +1,16 @@
 ---
-title: "2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability"
-description: "Bryan Tipp's advice to \"give the matter time,\" coupled with his refusal to pursue or even explain available civil remedies, breached core duties of..."
-tags: ["Bryan Tipp", "Legal Analysis", "Legal Malpractice", "Missoula", "Montana"]
+title: >-
+  2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights
+  Accountability
+tags:
+  - Bryan Tipp
+  - Legal Analysis
+  - Legal Malpractice
+  - Missoula
+  - Montana
+description: >-
+  Bryan Tipp malpractice analysis (2017-2025). Missed statutes of limitation,
+  lost Section 1983 claims, and civil rights damages.
 ---
 
 # 2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability
@@ -18,15 +27,15 @@ Bryan Tipp's advice to "give the matter time," coupled with his refusal to pursu
 
 ## II. Timeline of Missed Civil Deadlines Caused by Counsel's Inaction
 
-| Incident | Accrual Date | SOL Deadline | Result |
-|----------|--------------|--------------|--------|
-| 2015 Edmonds SWAT raid | Oct 2015 | Oct 2018 | Time-barred |
-| 2016 false DV arrest | Mar 2016 | Mar 2019 | Lost claims |
-| 2017 Missoula stalking charges | Nov 2017 | Nov 2020 | Claims extinguished |
-| 2018 warrantless home entry | Aug 2018 | Aug 2021 | Strongest claim barred |
-| 2020 witness-intimidation | Feb 2020 | Feb 2023 | Just lapsed |
+| Incident                       | Accrual Date | SOL Deadline | Result                 |
+| ------------------------------ | ------------ | ------------ | ---------------------- |
+| 2015 Edmonds SWAT raid         | Oct 2015     | Oct 2018     | Time-barred            |
+| 2016 false DV arrest           | Mar 2016     | Mar 2019     | Lost claims            |
+| 2017 Missoula stalking charges | Nov 2017     | Nov 2020     | Claims extinguished    |
+| 2018 warrantless home entry    | Aug 2018     | Aug 2021     | Strongest claim barred |
+| 2020 witness-intimidation      | Feb 2020     | Feb 2023     | Just lapsed            |
 
-*Total direct economic loss from now-barred claims: $6.4-8.4 million*
+_Total direct economic loss from now-barred claims: $6.4-8.4 million_
 
 ## III. Element-by-Element Malpractice Assessment
 
@@ -37,6 +46,6 @@ Bryan Tipp's advice to "give the matter time," coupled with his refusal to pursu
 
 ## VI. Litigation Outlook Against Tipp
 
-- **Timeliness**: Filing before 2028 satisfies Montana's discovery rule
-- **Measure of Damages**: Value of lost underlying claims plus consequential loss
-- **Proof Strategy**: Expert testimony establishing standard-of-care breaches
+* **Timeliness**: Filing before 2028 satisfies Montana's discovery rule
+* **Measure of Damages**: Value of lost underlying claims plus consequential loss
+* **Proof Strategy**: Expert testimony establishing standard-of-care breaches

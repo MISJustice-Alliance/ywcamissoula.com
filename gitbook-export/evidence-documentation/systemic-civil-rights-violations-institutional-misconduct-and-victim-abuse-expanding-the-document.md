@@ -1,8 +1,7 @@
 ---
 description: >-
-  Tracing Missoula’s justice & victim‑services evolved from the 2012 “rape
-  capital” scandal into a captured network where police, prosecutors, and YWCA
-  leadership allegedly coordinate retaliation...
+  Long-form report on systemic civil rights violations and institutional capture
+  in Missoula: YWCA, police, prosecutors, and retaliation patterns.
 ---
 
 # Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document

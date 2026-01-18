@@ -6,8 +6,8 @@ tags:
   - Federal
   - State
 description: >-
-  - Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025) - FBI
-  Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations,...
+  Index of federal and state complaint filings: DOJ Civil Rights, FBI report,
+  Washington Bar/DOH, Seattle OPA, Montana Bar, and POST complaints.
 ---
 
 # Federal and State Department Complaints

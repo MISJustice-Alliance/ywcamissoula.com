@@ -1,7 +1,16 @@
 ---
-title: "YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures"
-description: "The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented patterns of civil rights violations and institutional corruption..."
-tags: ["Legal Analysis", "Missoula", "Montana", "YWCA", "YWCA of Missoula"]
+title: >-
+  YWCA of Missoula: A Captured System Operating Through Coordinated
+  Institutional Failures
+tags:
+  - Legal Analysis
+  - Missoula
+  - Montana
+  - YWCA
+  - YWCA of Missoula
+description: >-
+  YWCA of Missoula institutional capture overview. Coordination with
+  police/prosecutors, retaliation claims, and RICO/1985 red flags.
 ---
 
 # YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures
@@ -18,24 +27,24 @@ The case against Mr Nuno demonstrates how captured institutions operate in coord
 
 The case was transferred from Officer Ethan Smith (removed for obvious conflicts) directly to Detective Brueckner, whose undisclosed YWCA board membership enabled escalating constitutional violations including:
 
-- Warrantless home invasion during a business meeting, resulting in loss of $150,000 annual IT consulting contract
-- Mass seizure of electronics and social media data with no evidence found
-- 18-month malicious prosecution with charges ultimately dismissed
-- Coordinated harassment across multiple jurisdictions
+* Warrantless home invasion during a business meeting, resulting in loss of $150,000 annual IT consulting contract
+* Mass seizure of electronics and social media data with no evidence found
+* 18-month malicious prosecution with charges ultimately dismissed
+* Coordinated harassment across multiple jurisdictions
 
 ## Legal Red Flags: Criminal Activity Masquerading as Social Services
 
 ### RICO Violations: Enterprise Corruption
 
-- Pattern of racketeering activity spanning multiple incidents across years
-- Enterprise liability for coordinated institutional corruption
-- Interstate commerce impact through federal funding and business destruction
+* Pattern of racketeering activity spanning multiple incidents across years
+* Enterprise liability for coordinated institutional corruption
+* Interstate commerce impact through federal funding and business destruction
 
 ### Civil Rights Conspiracy (42 U.S.C. Section 1985)
 
-- Coordinated deprivation of constitutional rights under color of law
-- Interstate coordination between Washington and Montana agencies
-- Pattern of retaliation for protected speech activities
+* Coordinated deprivation of constitutional rights under color of law
+* Interstate coordination between Washington and Montana agencies
+* Pattern of retaliation for protected speech activities
 
 ## Conclusion
 

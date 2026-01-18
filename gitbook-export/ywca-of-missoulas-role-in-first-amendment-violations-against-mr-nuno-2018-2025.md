@@ -1,7 +1,17 @@
 ---
-title: "YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)"
-description: "This legal analysis examines the YWCA of Missoula's institutional liability for violating Mr Nuno's First Amendment rights through their failure to..."
-tags: ["Civil Rights Violations", "First Amendment Violations", "Legal Analysis", "Missoula", "Montana", "YWCA of Missoula"]
+title: >-
+  YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno
+  (2018-2025)
+tags:
+  - Civil Rights Violations
+  - First Amendment Violations
+  - Legal Analysis
+  - Missoula
+  - Montana
+  - YWCA of Missoula
+description: >-
+  First Amendment retaliation analysis (2018-2025). YWCA of Missoula conduct,
+  protected complaints, and related damages for Mr Nuno.
 ---
 
 # YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)
@@ -22,17 +32,17 @@ The YWCA of Missoula operates as a nonprofit organization providing government-f
 
 Mr. Nuno's formal 2017 complaint to the YWCA President constituted core petition activity under the First Amendment's Petition Clause. The complaint:
 
-- Detailed systematic false police reports by E'Lise Chard and Rebecca Pettit
-- Documented abuse of organizational positions to facilitate harassment
-- Requested cessation of misconduct and organizational accountability
-- Included a goodwill donation demonstrating support for the YWCA mission
+* Detailed systematic false police reports by E'Lise Chard and Rebecca Pettit
+* Documented abuse of organizational positions to facilitate harassment
+* Requested cessation of misconduct and organizational accountability
+* Included a goodwill donation demonstrating support for the YWCA mission
 
 ## VIII. Damages and Economic Impact
 
-| Category | Amount | Connection to YWCA Violations |
-|----------|--------|-------------------------------|
-| Lost IT Career | $2,100,000 | Harassment campaign began following YWCA complaint |
-| Contract Losses | $680,000 | Professional defamation by YWCA affiliates |
-| Legal Fees | $387,000 | Defense against YWCA-coordinated false charges |
-| Medical Costs | $148,000 | Complex PTSD treatment from ongoing harassment |
-| **Total Economic** | **$3,315,000** | Direct result of YWCA's failure to act |
+| Category           | Amount         | Connection to YWCA Violations                      |
+| ------------------ | -------------- | -------------------------------------------------- |
+| Lost IT Career     | $2,100,000     | Harassment campaign began following YWCA complaint |
+| Contract Losses    | $680,000       | Professional defamation by YWCA affiliates         |
+| Legal Fees         | $387,000       | Defense against YWCA-coordinated false charges     |
+| Medical Costs      | $148,000       | Complex PTSD treatment from ongoing harassment     |
+| **Total Economic** | **$3,315,000** | Direct result of YWCA's failure to act             |

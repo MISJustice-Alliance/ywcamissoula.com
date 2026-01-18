@@ -1,7 +1,16 @@
 ---
-title: "Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration"
-description: "The totality of available evidence - including staff and client accounts, DOJ audits, court-facing advocacy practices, and the organization's..."
-tags: ["Legal Analysis", "YWCA of Missoula", "Board Conflicts", "Police Integration", "Missoula", "Montana"]
+title: 'Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration'
+tags:
+  - Legal Analysis
+  - YWCA of Missoula
+  - Board Conflicts
+  - Police Integration
+  - Missoula
+  - Montana
+description: >-
+  YWCA of Missoula governance and conflict analysis. Board ties to law
+  enforcement, confidentiality risks, and case evidence related to the Nuno
+  matter.
 ---
 
 # Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration
@@ -11,6 +20,7 @@ tags: ["Legal Analysis", "YWCA of Missoula", "Board Conflicts", "Police Integrat
 The totality of available evidence - including staff and client accounts, DOJ audits, court-facing advocacy practices, and the organization's governance structure - identifies a persistent, structural risk at YWCA Missoula: institutional capture through overlapping relationships with law enforcement and prosecutorial actors.
 
 This risk is magnified by:
+
 1. The empirical reality that law enforcement officers perpetrate intimate partner violence at significantly higher rates than the general population
 2. The presence of a Missoula Police Department detective on the YWCA Board of Directors
 3. Specific case histories where YWCA staff conduct allegedly contributed to escalation, harassment, or overreach against targeted individuals
@@ -26,14 +36,16 @@ Documentary records reflect a pattern in which YWCA-affiliated staff allegedly l
 ## Recommendations for Immediate Remediation
 
 ### Governance and Ethics
-- Remove active law enforcement officers from the Board
-- Establish an independent ethics and compliance committee
-- Adopt comprehensive conflict-of-interest policy
+
+* Remove active law enforcement officers from the Board
+* Establish an independent ethics and compliance committee
+* Adopt comprehensive conflict-of-interest policy
 
 ### Client Safety, Confidentiality, and Independence
-- Implement auditable information governance
-- Prohibit staff from issuing court recommendations beyond verified documentation
-- Create dedicated pathway for survivors alleging officer-involved abuse
+
+* Implement auditable information governance
+* Prohibit staff from issuing court recommendations beyond verified documentation
+* Create dedicated pathway for survivors alleging officer-involved abuse
 
 ## Conclusion
 

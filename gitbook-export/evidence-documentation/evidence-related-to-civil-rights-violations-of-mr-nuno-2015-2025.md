@@ -1,8 +1,7 @@
 ---
 description: >-
-  This comprehensive evidence analysis documents the extensive documentation
-  supporting systematic civil rights violations against Mr. Nuno spanning a
-  decade across Washington and Montana jurisdictions.
+  Evidence map for civil rights claims: key records, damages support,
+  Fourth/First Amendment issues, YWCA misconduct, and RICO predicate themes.
 ---
 
 # Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al

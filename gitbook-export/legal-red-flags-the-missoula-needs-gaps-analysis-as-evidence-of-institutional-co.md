@@ -1,9 +1,15 @@
 ---
-title: "Legal Red Flags: The Missoula Needs & Gaps Analysis as Evidence of Institutional Corruption and Systemic Abuse"
-description: "The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented patterns of civil rights violations and institutional corruption..."
+title: >-
+  Legal Red Flags: The Missoula Needs & Gaps Analysis as Evidence of
+  Institutional Corruption and Systemic Abuse
+description: >-
+  Analysis of the 2024 Missoula Needs and Gaps report as evidence of
+  institutional capture. YWCA, MPD conflicts, and civil rights implications.
 ---
 
-# A Captured System Operating Through Coordinated Institutional Failures
+# Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture
+
+## A Captured System Operating Through Coordinated Institutional Failures
 
 The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented patterns of civil rights violations and institutional corruption involving the YWCA Missoula, Missoula Police Department, and prosecutorial agencies, reveals not merely service deficiencies but active institutional capture designed to suppress accountability while generating millions in funding through manufactured crises.
 
@@ -11,46 +17,53 @@ The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented pa
 
 Detective Connie Brueckner's simultaneous service on the YWCA Board of Directors while investigating complaints against YWCA employees represents unprecedented institutional capture that has enabled systematic constitutional violations, client exploitation, and the weaponization of victim services against critics of the system.
 
-# The Documented Pattern: From Individual Persecution to Systemic Client Exploitation
+## The Documented Pattern: From Individual Persecution to Systemic Client Exploitation
 
-## The Nuno Case: A Template for Institutional Retaliation
+### The Nuno Case: A Template for Institutional Retaliation
 
 The case against Mr Nuno demonstrates how captured institutions operate in coordination to suppress dissent. When Mr. Nuno filed a formal complaint with YWCA leadership regarding staff misconduct, accompanied by a $400 donation showing good faith support, the response was immediate institutional retaliation.
 
-- **Warrantless home invasion** during a business meeting, resulting in loss of $150,000 annual IT consulting contract
-- **Mass seizure of electronics** with no evidence found despite exhaustive searches
-- **18-month malicious prosecution** with charges ultimately dismissed
-- **Coordinated harassment** across multiple jurisdictions designed to destroy professional reputation
+* **Warrantless home invasion** during a business meeting, resulting in loss of $150,000 annual IT consulting contract
+* **Mass seizure of electronics** with no evidence found despite exhaustive searches
+* **18-month malicious prosecution** with charges ultimately dismissed
+* **Coordinated harassment** across multiple jurisdictions designed to destroy professional reputation
 
-## New Evidence: Counseling Confidentiality Violations and Social Network Exploitation
+### New Evidence: Counseling Confidentiality Violations and Social Network Exploitation
 
 Recent client testimony reveals systematic violations of professional counseling ethics that demonstrate the depth of institutional corruption.
 
-# Legal Red Flags: Criminal Activity Masquerading as Social Services
+## Legal Red Flags: Criminal Activity Masquerading as Social Services
 
-## HIPAA and Professional Ethics Violations
-## RICO Violations: Enterprise Corruption
-## Civil Rights Conspiracy (42 U.S.C. Section 1985)
-## Federal Grant Fraud and Money Laundering
+### HIPAA and Professional Ethics Violations
 
-# Systemic Reform Requirements: Breaking Institutional Capture
+### RICO Violations: Enterprise Corruption
 
-## Immediate Governance Reforms
-- Remove Law Enforcement from Victim Advocacy Governance
-- Establish Genuine Independence
+### Civil Rights Conspiracy (42 U.S.C. Section 1985)
 
-## Client Protection and Professional Standards
-- Immediate Confidentiality Protection
-- Professional Standards Enforcement
+### Federal Grant Fraud and Money Laundering
 
-## Financial Accountability and Transparency
-- Federal Investigation Required
-- Independent Financial Oversight
+## Systemic Reform Requirements: Breaking Institutional Capture
 
-## Legal Accountability for Constitutional Violations
-- Criminal Prosecutions
-- Civil Remedies
+### Immediate Governance Reforms
 
-# Conclusion
+* Remove Law Enforcement from Victim Advocacy Governance
+* Establish Genuine Independence
+
+### Client Protection and Professional Standards
+
+* Immediate Confidentiality Protection
+* Professional Standards Enforcement
+
+### Financial Accountability and Transparency
+
+* Federal Investigation Required
+* Independent Financial Oversight
+
+### Legal Accountability for Constitutional Violations
+
+* Criminal Prosecutions
+* Civil Remedies
+
+## Conclusion
 
 The evidence demonstrates that current leadership cannot reform these systems because they are the systems. Only external intervention can break the cycle of institutional capture that has transformed victim services into enforcement mechanisms while generating millions in profit from manufactured crisis and systematic client harm.

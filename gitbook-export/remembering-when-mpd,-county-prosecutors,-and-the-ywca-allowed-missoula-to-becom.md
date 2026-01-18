@@ -1,10 +1,21 @@
 ---
-title: "Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to Become the Sexual Assault Capital of the Country"
-description: "In 2012 Missoula caught national attention for becoming what was referred to as the \"rape capital of the country\" when the public became aware of a..."
-tags: ["2012", "Civil Rights Violations", "Federal DoJ Investigation", "Missoula", "Montana", "Police Corruption", "YWCA of Missoula"]
+title: >-
+  Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to
+  Become the Sexual Assault Capital of the Country
+tags:
+  - '2012'
+  - Civil Rights Violations
+  - Federal DoJ Investigation
+  - Missoula
+  - Montana
+  - Police Corruption
+  - YWCA of Missoula
+description: >-
+  Background on Missoula institutional failures and YWCA governance conflicts.
+  Context for DOJ scrutiny and later retaliation patterns.
 ---
 
-# Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to Become the Sexual Assault Capital of the Country
+# Remembering When: Missoula Rape Capital Era and Institutional Failures
 
 ## The Roots of Missoula's Present Day Institutional Corruption
 
@@ -23,18 +34,21 @@ The empirical backdrop compounds these concerns. Multiple studies find that poli
 ## How Does This Get Fixed?
 
 ### 1. Governance and Ethics Reform
-- Remove active law enforcement officers from the Board of victim advocacy institutions
-- Establish an independent ethics and compliance committee
-- Adopt and enforce a comprehensive conflict-of-interest policy
+
+* Remove active law enforcement officers from the Board of victim advocacy institutions
+* Establish an independent ethics and compliance committee
+* Adopt and enforce a comprehensive conflict-of-interest policy
 
 ### 2. Client Safety, Confidentiality, and Independence
-- Implement auditable information governance
-- Prohibit staff from issuing court recommendations beyond verified documentation
-- Create a dedicated pathway for survivors alleging officer-involved abuse
+
+* Implement auditable information governance
+* Prohibit staff from issuing court recommendations beyond verified documentation
+* Create a dedicated pathway for survivors alleging officer-involved abuse
 
 ### 3. Accountability and Redress
-- Open an independent investigation into staff misconduct allegations
-- Create a survivor grievance process overseen by an external ombudsperson
+
+* Open an independent investigation into staff misconduct allegations
+* Create a survivor grievance process overseen by an external ombudsperson
 
 ## Conclusion
 

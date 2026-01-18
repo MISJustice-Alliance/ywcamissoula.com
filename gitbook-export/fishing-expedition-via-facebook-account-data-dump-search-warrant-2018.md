@@ -1,14 +1,22 @@
 ---
-title: "Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)"
-description: "The prosecution's Facebook search warrant requesting \"all data contained in [Mr. Nuno's] account\" represents a paradigmatic Fourth Amendment..."
-tags: ["Civil Rights Violations", "Fourth Amendment Violations", "Legal Analysis", "Missoula", "Montana", "Search Warrant"]
+title: Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)
+tags:
+  - Civil Rights Violations
+  - Fourth Amendment Violations
+  - Legal Analysis
+  - Missoula
+  - Montana
+  - Search Warrant
+description: >-
+  2018 Facebook data dump warrant analysis. Overbroad digital search, Fourth
+  Amendment issues, and chilling effect on protected speech.
 ---
 
 # Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)
 
 ## Introduction
 
-The prosecution's Facebook search warrant requesting "*all* data contained in [Mr. Nuno's] account" represents a paradigmatic **Fourth Amendment violation** through an overbroad "fishing expedition" that lacked the constitutional particularity requirement.
+The prosecution's Facebook search warrant requesting "_all_ data contained in \[Mr. Nuno's] account" represents a paradigmatic **Fourth Amendment violation** through an overbroad "fishing expedition" that lacked the constitutional particularity requirement.
 
 ## I. Fourth Amendment Violations in the Facebook Search Warrant
 
@@ -36,9 +44,9 @@ Despite recognizing and arguing the constitutional violations, Tipp simultaneous
 
 ### Professional Negligence
 
-- Montana Rule 1.1 (Competence) - Failed to provide necessary legal knowledge
-- Montana Rule 1.3 (Diligence) - Allowed statute of limitations to expire
-- Montana Rule 1.4 (Communication) - Failed to inform about civil rights claims
+* Montana Rule 1.1 (Competence) - Failed to provide necessary legal knowledge
+* Montana Rule 1.3 (Diligence) - Allowed statute of limitations to expire
+* Montana Rule 1.4 (Communication) - Failed to inform about civil rights claims
 
 ## Expired Claims Due to Tipp's Negligence
 
