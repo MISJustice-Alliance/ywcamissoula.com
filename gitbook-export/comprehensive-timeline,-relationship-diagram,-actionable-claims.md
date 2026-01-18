@@ -13,8 +13,6 @@ description: Comprehensive timeline of critical events and actionable claims.
 
 ## Master Timeline (2014-2025)
 
-![](.gitbook/assets/case-timeline.png)
-
 ### 2014-2015: Initial Events
 
 * Initial allegations
@@ -39,13 +37,18 @@ description: Comprehensive timeline of critical events and actionable claims.
 
 * Move to Montana
 * YWCA involvement begins
-* E'Lise Chard protection order abuse
+* [Mr Nuno's parents file complaint due to harassment from Detective Smith](https://cr-2025-002-complaint-16_misjusticealliance.arweave.net/)
+* [Mr Nuno sends complaint + $400 donation to YWCA](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
+* [E'Lise Chard protection order abuse + perjury](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
+* Judge Warren rules YWCA complaint protected 1st amendment speech
+* Detective Smith removed from cased for "obvious impropriety"
+* Detective Brueckner assigned to case while on YWCA board
 * Stalking charges filed
 
 ### 2018-2020: Escalation
 
 * Bryan Tipp representation begins
-* Misdemeanor and felony charges
+* Misdemeanor and felony charges filed in WA
 * Harassment from YWCA associates
 * [Prosecution delays full case dismissal](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
 * [MT Case dismissal](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
