@@ -7,6 +7,8 @@ description: >-
 
 # MT Bar Complaint ODC No. 25-147:  Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)
 
+{% include "../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ### Response to Bryan Charles Tipp's Bar Complaint Answer
 
 **From:** Elvis Nuno

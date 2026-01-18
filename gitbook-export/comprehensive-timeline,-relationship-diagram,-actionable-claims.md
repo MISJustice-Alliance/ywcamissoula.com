@@ -56,7 +56,7 @@ Each bullet is a waypoint to the underlying record, filing, or analysis.
 * [YWCA complaint and Google reviews (2018-2020)](ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
 * [E'Lise Chard: protection order filing abuse (June 2018)](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md): [evidence packet](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
 * [Judge Warren rules the YWCA complaint protected First Amendment speech](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
-* [Detective Smith removed for "obvious impropriety"](appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
+* [Detective Smith removed for "obvious impropriety"](/broken/spaces/1wVVtf6V5BVc7mbV09eH/pages/sX3emXZVDe3hPhOqNrDi)
 * [Detective Connie Brueckner assigned while serving on YWCA board](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [Stalking charges filed and related civil rights violations (2017-2019)](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Stalking charging documents (September 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)

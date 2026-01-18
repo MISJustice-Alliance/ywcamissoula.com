@@ -7,6 +7,8 @@ description: >-
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 **Montana Bar Association Office of Disciplinary Counsel**
 
 **ODC Case No. 25-147**

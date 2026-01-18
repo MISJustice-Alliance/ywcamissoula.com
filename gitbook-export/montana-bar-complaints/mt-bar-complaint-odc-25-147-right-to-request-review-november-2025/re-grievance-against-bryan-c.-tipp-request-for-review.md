@@ -7,6 +7,8 @@ description: >-
 
 # RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW
 
+{% include "../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ## BEFORE THE OFFICE OF DISCIPLINARY COUNSEL
 
 ## COMMISSION ON PRACTICE

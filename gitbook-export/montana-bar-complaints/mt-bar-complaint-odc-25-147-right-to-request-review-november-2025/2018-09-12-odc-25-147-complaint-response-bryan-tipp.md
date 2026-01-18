@@ -4,6 +4,8 @@ hidden: true
 
 # 2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp
 
+{% include "../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ## Office of Disciplinary Counsel for the State of Montana
 
 Investigator: Sheena M. Broadwater

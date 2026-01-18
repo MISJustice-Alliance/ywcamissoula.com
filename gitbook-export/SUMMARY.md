@@ -61,6 +61,7 @@
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/README.md)
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-september-2025.md)
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
+  * [MisJustice Alliance case file (2df48ac7…)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
 * [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/README.md)
   * [MT Bar Complaint ODC No. 25-147:  Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025.md)
   * [MT Bar Complaint ODC No. 25-147:  ODC Ruling (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
@@ -84,15 +85,18 @@
 
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
 
-## Evidence Documentation
+## Additional Evidence & Documentation
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document](evidence-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanding-the-document.md)
-* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](evidence-documentation/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025.md)
-
-## Appendices
-
-* [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
-* [Appendix B: List of Motions That Should Have Been Filed](appendix-b-list-of-motions-that-should-have-been-filed.md)
-* [Appendix C: Constitutional Violations Identified But Not Addressed](appendix-c-constitutional-violations-identified-but-not-addressed.md)
-* [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
-* [Appendix: Documentation of Lost Civil Claims and Statute of Limitations](appendix-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/README.md)
+  * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
+    * [Scope and primary evidence types](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types.md)
+    * [Fourth Amendment evidence (entry, seizure, and digital search)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md)
+    * [Fabricated evidence and false reporting](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting.md)
+    * [First Amendment retaliation evidence (protected speech → escalation)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md)
+    * [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp.md)
+    * [Prosecutorial misconduct evidence](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md)
+    * [YWCA institutional liability evidence](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence.md)
+    * [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
+    * [Ongoing harassment and RICO predicate framing](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing.md)
+    * [MisJustice Alliance case file (d81209a2…)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
+    * [MisJustice Alliance case file (daf82b62…)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)

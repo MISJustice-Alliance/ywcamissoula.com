@@ -7,6 +7,8 @@ description: >-
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ## I. INTRODUCTION
 
 This supplemental submission provides additional documentation and analysis of attorney Bryan Tipp's professional misconduct in his representation of Elvis Nuno from 2018-2022. The evidence presented herein demonstrates multiple violations of the Montana Rules of Professional Conduct (MRPC), resulting in substantial prejudice to Mr. Nuno's constitutional rights and civil remedies.

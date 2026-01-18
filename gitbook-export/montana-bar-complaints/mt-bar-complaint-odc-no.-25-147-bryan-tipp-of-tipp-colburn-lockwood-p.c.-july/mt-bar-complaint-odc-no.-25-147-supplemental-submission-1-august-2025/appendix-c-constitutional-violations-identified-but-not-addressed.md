@@ -7,6 +7,8 @@ description: >-
 
 # Appendix C: Constitutional Violations Identified But Not Addressed
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 #### **SUMMARY**
 
 Throughout his representation of Elvis Nuno from mid 2018 through 2020, Bryan Tipp failed to identify, challenge, or address multiple clear constitutional violations despite overwhelming evidence supporting such challenges. The case ultimately resulted in a **deferred prosecution agreement** after 18 months, followed by **dismissal with prejudice** after an additional 12 months—a total of **30 months** of unnecessary legal proceedings that could have been resolved immediately through proper constitutional challenges.

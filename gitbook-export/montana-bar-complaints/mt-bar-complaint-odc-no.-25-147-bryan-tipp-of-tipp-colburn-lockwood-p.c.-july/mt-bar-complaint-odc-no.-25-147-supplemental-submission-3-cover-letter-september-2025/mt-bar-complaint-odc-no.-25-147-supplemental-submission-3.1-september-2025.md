@@ -7,6 +7,8 @@ description: >-
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 **TO:** Office of Disciplinary Counsel
 
 **FROM:** Anonymous Legal Assistance Group

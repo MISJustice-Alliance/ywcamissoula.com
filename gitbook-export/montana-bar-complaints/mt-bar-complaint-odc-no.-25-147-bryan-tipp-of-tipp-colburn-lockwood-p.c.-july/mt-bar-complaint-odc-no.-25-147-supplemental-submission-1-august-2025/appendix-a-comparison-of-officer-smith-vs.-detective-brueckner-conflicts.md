@@ -7,6 +7,8 @@ description: >-
 
 # Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ## **SUMMARY**
 
 The comparison between Officer Ethan Smith's conflict (which led to his removal) and Detective Brueckner's conflict (which went unaddressed) reveals a pattern of escalating institutional corruption that Bryan Tipp completely failed to recognize or challenge. While Smith was appropriately removed for a personal relationship conflict, the case was transferred to Detective Brueckner whose **institutional conflict was far more severe** and directly implicated the organization at the center of the prosecution.

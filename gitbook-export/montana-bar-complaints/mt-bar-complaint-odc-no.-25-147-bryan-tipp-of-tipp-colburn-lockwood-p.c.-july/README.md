@@ -17,6 +17,8 @@ description: >-
 
 # MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)
 
+{% include "../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ## I. Grounds for Complaint
 
 I allege that Bryan Tipp, while representing me in criminal proceedings (State v. Nuno, Missoula County), committed legal malpractice and violated the Montana Rules of Professional Conduct by:
@@ -49,7 +51,3 @@ I allege that Bryan Tipp, while representing me in criminal proceedings (State v
 3. **Refer** to Commission on Practice for formal proceedings
 
 ***
-
-{% hint style="info" %}
-See published record of ODC No. 25-147 here: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
-{% endhint %}

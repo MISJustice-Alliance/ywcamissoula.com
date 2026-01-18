@@ -7,6 +7,8 @@ description: >-
 
 # Appendix B: List of Motions That Should Have Been Filed
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 #### **SUMMARY**
 
 During 18 months of representation, Bryan Tipp filed **ZERO substantive motions** despite overwhelming evidence of constitutional violations, conflicts of interest, prosecutorial misconduct, and complete lack of evidence. The case was eventually dismissed with prejudice only after Tipp negotiated an unnecessary "deferred prosecution agreement" requiring 12 months of compliance with no serious law violations—a condition that should have been wholly unnecessary given the absence of any substantive evidence and clear constitutional violations.

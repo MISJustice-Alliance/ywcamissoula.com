@@ -7,6 +7,8 @@ description: >-
 
 # Appendix D: Documentation of Lost Civil Claims and Statute of Limitations
 
+{% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+
 ## I. **TIPP'S SPECIFIC MALPRACTICE CONDUCT**
 
 ### **A. Explicit Advice Against Civil Litigation**
