@@ -55,6 +55,7 @@ description: Comprehensive timeline of critical events and actionable claims.
 * Bryan Tipp representation begins
 * Misdemeanor and felony charges filed in WA
 * Harassment from YWCA associates
+* Missoula PD home invasion, warrantless arrest, and false imprisonment
 * [Prosecution delays full case dismissal](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
 * [MT Case dismissal](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
 * Edmonds PD witness intimidation & obstruction of justice
