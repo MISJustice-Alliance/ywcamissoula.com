@@ -85,8 +85,8 @@
 
 ## Evidence Documentation
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document](evidence-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanding-the-document/README.md)
-  * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](evidence-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanding-the-document/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025.md)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document](evidence-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanding-the-document.md)
+* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](evidence-documentation/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025.md)
 
 ## Appendices
 

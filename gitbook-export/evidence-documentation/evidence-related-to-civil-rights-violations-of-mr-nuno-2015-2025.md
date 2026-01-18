@@ -1,17 +1,8 @@
 ---
-title: Evidence Related to Civil Rights Violations of Mr Nuno (2015-2025)
-tags:
-  - Civil Rights Violations
-  - Evidence
-  - Legal Analysis
-  - Missoula
-  - Montana
-  - YWCA of Missoula
 description: >-
   This comprehensive evidence analysis documents the extensive documentation
   supporting systematic civil rights violations against Mr. Nuno spanning a
   decade across Washington and Montana jurisdictions.
-hidden: true
 ---
 
 # Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al
@@ -24,9 +15,9 @@ The core point is simple: the record contains repeatable, timestamped, third‑p
 
 If you want the full narrative and legal theory, start here:
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document](./)
-* [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document](systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanding-the-document.md)
+* [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 
 ***
 
@@ -78,7 +69,7 @@ These records are useful because they do not rely on anyone’s memory.
 #### B. August 2018 warrantless home entry and detention
 
 Pair this page with:\
-[Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](../../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
+[Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 
 Key supporting items:
 
@@ -89,7 +80,7 @@ Key supporting items:
 #### C. Facebook “all data” warrant as a fishing expedition
 
 Pair this page with:\
-[Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
+[Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 
 Key supporting items:
 
@@ -308,4 +299,4 @@ This is not in line with the YWCA's mission. While they may help some in need, t
 
 I urge anyone who has faced this pattern of harassment, intimidation, and abuse of power to come forward. Accountability is essential to restore the YWCA's role as a shield for those in need, not a weapon for those seeking to cause harm.
 
-![Google Review Screenshot](../../.gitbook/assets/image.png)
+![Google Review Screenshot](../.gitbook/assets/image.png)
