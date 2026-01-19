@@ -7,6 +7,7 @@
 * [Civil Rights Violations and Related Claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
 * [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
+* [Sources & record index](overview/sources-and-record-index.md)
 
 ## Legal Analysis
 
