@@ -268,7 +268,108 @@ Knudsen and DOJ lawyers argued statewide officer lists create privacy risks. The
 
 POST later turned that position into formal policy. It stopped releasing database exports of officer identity and job history. It now responds only to officer-by-officer lookups. This blocks tracking “wandering officers” across departments. It also blocks research on lateral transfers into Montana. That undermines statewide accountability and public trust. This makes Montana an outlier among states sharing this data. This significantly reduces transparency and public oversight.
 
-#### B. James Dimitri Owens: Excessive Force Against Individual with Mental Illness (June 30, 2025)
+#### B. Historical context: POST transparency and retaliation against investigators (Lake County, 2010–2013)
+
+Montana’s current POST secrecy debates have a documented history. In Lake County, POST brought administrative complaints against multiple officers. The allegations ranged from ethics violations to witness intimidation and perjury. Criminal prosecution largely did not follow.\
+Source: Matthew Frank, _To Serve and Deflect_, Missoula Independent (accessed via Internet Archive snapshot). [Archived link](https://web.archive.org/web/20160910080807/http://missoulanews.bigskypress.com/missoula/to-serve-and-deflect/Content?oid=1882726\&mode=print)
+
+The reporting is relevant here for two reasons:
+
+* It shows POST’s role limits. POST can suspend or revoke certification. It is not a criminal agency.
+* It shows how accountability efforts can be targeted. The piece describes smear and pressure campaigns. Those campaigns undermined a Montana game warden. They also undermined POST’s then-director.
+
+The same pattern also appears in Missoula-linked complaints where closure happens quickly and then becomes non-reviewable in practice.
+
+**Nuno POST complaint (August 2025: rapid closure + “over 5 years old” policy)**
+
+This complaint was submitted on **Tuesday, Aug 12, 2025 at 5:52 PM**. A closure response arrived the next morning. It stated POST will not investigate most allegations. It also stated POST generally will not investigate allegations “over 5 years old.”\
+Citation: https://misjustice-alliance-ywca.notion.site/MT-DoJ-Public-Safety-Officer-Standards-Training-POST-Complaint-August-2025-24dca07db849806f8f87eab279e35538
+
+POST’s stated rationale (one sentence):
+
+> “Additionally, except in very limited circumstances, POST does not investigate allegations that are over 5 years old, based on policy and procedures adopted by the Council.”
+
+The complainant repeatedly clarified the timeframe issue. The matter started over five years ago. It continued into the present. The final response restated closure.
+
+Why this matters for the pattern in this report:
+
+* It shows a “5-year” filter can short-circuit review of ongoing conduct.
+* It shows follow-up clarification may not reopen a closed matter.
+* It shows how administrative closure can end accountability pathways fast.
+
+<details>
+
+<summary>Email chain excerpts (Aug 12–27, 2025)</summary>
+
+Initial e-mail submission of the POST complaint Sent: Tuesday, August 12, 2025 5:52 PM
+
+On Wednesday, August 13th, 2025 at 08:42, Bolger, Katrina \<KBolger@mt.gov> wrote:
+
+> Mr. Nuno,\
+> Director Allred has reviewed your complaint information. The majority of the issues that you have outlined are not within POST’s purview. Additionally, except in very limited circumstances, POST does not investigate allegations that are over 5 years old, based on policy and procedures adopted by the Council.\
+> Katrina Bolger, ACP\
+> Advanced Certified Paralegal - Discovery\
+> Montana Public Safety Officer Standards and Training Council
+
+On Wednesday, August 13th, 2025 at 12:57, Elvis Nuno wrote:
+
+> I find it difficult to believe that this issue was seriously or adequately reviewed in less than 24hrs.\
+> These issues started over 5 years ago (in my case, in particular). They continue to this day, presenting not just present but future damage and danger to not only myself, but the community at large, and clearly outline corruption, conflicts of interest, and abuse of power that have become so engrained in MPD structural organization that they fundamentally alter their daily operations.\
+> I respectfully request that this matter is seriously reviewed, and not merely swept under the rug as if these structural and organizational defiencies are fine, particularly when there was already a federal DoJ investigation from which their findings were left either ignored or over-corrected to create an entirely new set of very serious issues.\
+> Sincerely,\
+> Elvis Nuno
+
+On Wednesday, August 13th, 2025 at 13:08, Elvis Nuno \<elvis.nuno@proton.me> wrote:
+
+> Perhaps your organization is not properly trained or staffed, or your purview too narrow to address these endemic issues. Is there perhaps another department inside the MT DoJ that would be better equipped to provide a serious and legitimate investigation? These are very serious on-going issues that have been allowed to continue unabated, and facilitate serious civil rights violations and abuse of power without any concern of being held accountable for their actions.\
+> Please provide me with the proper contact information for the organization inside the MT DoJ that actually governs MPD operational standards and practices.\
+> Thank you in advance for you assistance in addressing these current and extremely serious organizational issues that stand in direct opposition to the stated mission of upholding constitutional standards and practices.\
+> Sincerely,\
+> Elvis Nuno
+
+On Friday, August 15, 2025 at 07:06, Elvis Nuno \<elvis.nuno@proton.me> wrote:
+
+> Not to spam this thread or anything… But I kind of need some response to know if my complaint was formally dismissed after reading little more than the cover page… Or if it is being taken seriously, and actually investigated with the thoroughness it necessitates. Please let me know at your soonest convenience.\
+> Thanks in advance.\
+> -Elvis Nuno
+
+On Wednesday, August 20th, 2025 at 14:43, Elvis Nuno \<elvis.nuno@proton.me> wrote:
+
+> I have attempted to contact you via phone and left a voicemail message. However, I require confirmation regarding the status of this complaint.\
+> For clarity, this complaint pertains to a matter that commenced over five years ago and has persisted with a level of regularity that it should be considered that it continues to the present day.\
+> At the very least, the attached PDF (which has already been submitted) should be carefully reviewed to ascertain the existence of serious organizational structures that raise significant concerns about the ethical and independent operation of Missoula PD, the YWCA of Missoula, and the Missoula County Prosecutors’ Office.
+
+From: Elvis Nuno \<elvis.nuno@proton.me>\
+Sent: Tuesday, August 26, 2025 6:18 PM\
+To: Bolger, Katrina \<KBolger@mt.gov>\
+Cc: Allred, Timothy \<Timothy.Allred@mt.gov>\
+Subject: RE: \[EXTERNAL] Request for Investigation – Allegations of Police Corruption and Civil Rights Violations
+
+> I have been very polite and patient in trying to work with your department.\
+> If the only problem is that I need to re-submit a re-worded complaint that emphasizes what the issue is not: "an isolated incident involving a few civil rights violations that happened to me, and only me, a few years ago,"\
+> What the issue is: "a series of events that began years ago, triggered by a formal complaint submitted by mail in the form of a polite letter and $400 donation, that resulted in years of extreme legal escalation, shockingly flagrant civil rights violations, and malicious harassment that continues to present day... and most notably this is an established pattern of nearly identical incidents spanning well over a decade of (re)victimizing a wide cross-section of individuals."\
+> For the sake of ensuring there is no confusion of the purview and content of my formal complaint I have attached what is closer to an editorial article than a technical legal analysis. If I do not receive a prompt response: I will consider the matter (prematurely) closed, document the refusal to even attempt a review of the matter (much less any actual investigation), and will have to widen the audience in seeking assistance from to ensure the safety of myself, my family, and the community of Missoula in general.\
+> Thank you in advance for your time and serious consideration of this matter that desperately requires urgent and immediate attention.\
+> Sincerely,\
+> Elvis Nuno
+
+On Wednesday, August 27th, 2025 at 06:59, Bolger, Katrina \<KBolger@mt.gov> wrote:
+
+> Mr. Nuno,\
+> For the reasons stated in my August 13, 2025, email below, POST will not proceed with an investigation of the allegations and this matter is closed.\
+> Katrina Bolger, ACP\
+> Advanced Certified Paralegal - Discovery\
+> Montana Public Safety Officer Standards and Training Council
+
+</details>
+
+Two short excerpts capture the framing used in the reporting:
+
+> “you can't break the law if you are the law”
+
+> POST counsel described Lake County as a “wild, wild West.”
+
+#### C. James Dimitri Owens: Excessive Force Against Individual with Mental Illness (June 30, 2025)
 
 On June 30, 2025, Missoula County Sheriff's deputies forcefully restrained 27-year-old James Dimitri Owens, who lives with severe mental illness, at the Missoula County Courthouse. NBC Montana captured video of the incident.
 
@@ -283,7 +384,7 @@ Owens's mother, Connie Schade, described approximately 18 months of psychiatric 
 
 The Missoula County Sheriff's Office confirmed a "use of force incident" occurred and stated "a standard review is underway"—the same review process that resulted in zero use-of-force complaints being ruled in favor of civilians from 2016-2022.
 
-#### C. 2004 False Felony Arrest: Lasting Employment Impact
+#### D. 2004 False Felony Arrest: Lasting Employment Impact
 
 Reddit user imasongwriter reported in January 2026:
 
@@ -296,7 +397,7 @@ The victim's statement reveals:
 * **Permanent employment impact** from false felony record 22 years later
 * **Victim's ongoing trauma**: "I pray daily that those involved face terrible consequences"
 
-#### D. Officer Ethan Smith: Pattern of Harassment Targeting Victims' Families
+#### E. Officer Ethan Smith: Pattern of Harassment Targeting Victims' Families
 
 Mr. Nuno's father, Tyrone Nuno, filed a formal complaint in March 2018 regarding Officer Ethan Smith's conduct:
 
@@ -533,3 +634,7 @@ This report synthesizes evidence from 76+ sources including:
 * Montana Board of Crime Control roundtable documentation
 * Mr. Nuno's sworn declarations, complaint letters, and court documents
 * Media coverage from ESPN, New York Times, ABC News, Time Magazine, NBC Montana
+
+Additional long-form reporting used for historical context:
+
+* Matthew Frank, _To Serve and Deflect_, Missoula Independent (archived via Internet Archive). https://web.archive.org/web/20160910080807/http://missoulanews.bigskypress.com/missoula/to-serve-and-deflect/Content?oid=1882726\&mode=print
