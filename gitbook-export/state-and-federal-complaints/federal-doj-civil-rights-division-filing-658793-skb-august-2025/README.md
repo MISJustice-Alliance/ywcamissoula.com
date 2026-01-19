@@ -18,6 +18,12 @@ Related packets:
 * [CR-2025-001 — Case files index](../../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * [CR-2025-002 — Case files index](../../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
+***
+
+{% hint style="info" %}
+These are the intake/receipt artifacts for report number **658793-SKB**.
+{% endhint %}
+
 ### Initial US DoJ submission
 
 * [US DoJ online submission confirmation (redacted)](https://arweave.net/jhgdZIgw_b4d_VcW0Es89fiLvOv-xV_OF3QqdzloY8Q)
@@ -25,9 +31,3 @@ Related packets:
 ### US DoJ response
 
 * [US DoJ receipt letter (658793-SKB)](https://arweave.net/p8GuVC8SNzjtgFoKw1KDvVJMPgwoDvYbfelQJ1pzGR4)
-
-{% hint style="info" %}
-These are the intake/receipt artifacts for report number **658793-SKB**.
-
-If you want the full complaint package replicated inside GitBook (one page per PDF), we can do that next.
-{% endhint %}
