@@ -258,9 +258,15 @@ Police Scorecard data for Missoula Police Department reveals systematic failure 
 * **6 discrimination complaints**: **0% ruled in favor of civilians**
 * **Alleged crimes by police**: Data not available
 
-This near-zero accountability rate for use-of-force and discrimination complaints creates an environment of impunity enabling continued constitutional violations.&#x20;
+This near-zero accountability rate for use-of-force and discrimination complaints creates an environment of impunity enabling continued constitutional violations.
 
-Furthermore, [as reported by local Montana publication The Pulp](https://thepulp.org/montana-blocks-access-to-basic-police-data/), the Montana POST Council, under pressure from the Attorney General’s office, stopped releasing basic officer information (including names) that had previously been public, citing the Montana Constitution’s right to privacy and limiting disclosures to only officers whose certifications had been sanctioned. This has had a significantly deleterious effect on overall transparency holding Montana law enforcement publicly accountable.&#x20;
+Furthermore, [as reported by The Pulp](https://thepulp.org/montana-blocks-access-to-basic-police-data/), Montana POST reversed prior practice. In 2017 and 2019, POST released officer rosters to reporters. In 2022, it refused an Associated Press request for names and employers.
+
+That about-face tracked POST’s loss of independence. In 2019, lawmakers reorganized POST under the Department of Justice. In 2021, AG Austin Knudsen’s staff began supervising records responses. Council members raised separation-of-powers concerns. They described DOJ directing a quasi-judicial body’s disclosures.
+
+Knudsen and DOJ lawyers argued statewide officer lists create privacy risks. They cited Montana’s constitutional right to privacy. They warned names could enable doxxing and harassment. They also raised cartel-threat scenarios and litigation fears. In May 2022, the council voted after a closed session. It limited disclosure to officers sanctioned by POST.
+
+POST later turned that position into formal policy. It stopped releasing database exports of officer identity and job history. It now responds only to officer-by-officer lookups. This blocks tracking “wandering officers” across departments. It also blocks research on lateral transfers into Montana. That undermines statewide accountability and public trust. This makes Montana an outlier among states sharing this data. This significantly reduces transparency and public oversight.
 
 #### B. James Dimitri Owens: Excessive Force Against Individual with Mental Illness (June 30, 2025)
 
