@@ -42,6 +42,30 @@ Recent client testimony reveals systematic violations of professional counseling
 
 ### Federal Grant Fraud and Money Laundering
 
+#### Meadowlark evictions + Rapid Rehousing cap mismatch (Oct 2021)
+
+This is not proof of fraud by itself. It is a **dated, third-party record** that can anchor a funding/compliance inquiry.
+
+MontanaRightNow reported that four families were being evicted from YWCA Meadowlark due to capacity and a growing waitlist. The report states YWCA told families staying **more than 90 days** they had **two weeks to a month** to leave. It also states the Rapid Rehousing program’s **payment cap** did not align with Missoula rental prices, leaving families at risk of homelessness.\
+Source: [Four families being evicted from the YWCA Meadowlark due to a growing waitlist (MontanaRightNow, Oct 2021)](https://www.montanarightnow.com/missoula/four-families-being-evicted-from-the-ywca-meadowlark-due-to-a-growing-waitlist/article_02d85c24-2884-11ec-863a-43bfdd6b42c2.html)
+
+Potential grant-fraud / compliance angles (requires records):
+
+* **Disclosure and intake representations**: written shelter rules, signed acknowledgments, and any “no move-out date” representations.
+* **Termination standards**: what constitutes “cause,” and whether capacity-based exits are permitted under the governing program rules.
+* **Due process**: notice periods, grievance/appeal pathway, and documentation that it was offered.
+* **Outcome reporting**: how exits were coded (housed vs homeless), and how “families served” and “successful outcomes” were counted.
+* **Reasonable program design**: whether Rapid Rehousing caps were updated to market, and how “success” was represented to funders despite known rent mismatch.
+* **Waitlist governance**: coordinated entry criteria, prioritization rules, and any deviation logs.
+
+Minimum document set to request (targeted):
+
+* Grant agreements and current-year NOFO / program rules for shelter + rehousing funds in use.
+* Shelter handbook policies (all versions) and change logs for 2020–2022.
+* All termination/eviction notices issued in Oct 2021 (redacted if needed).
+* Rapid Rehousing payment standards/caps and rent reasonableness documentation.
+* Quarterly/annual performance reports submitted to funders covering that period.
+
 ## Systemic Reform Requirements: Breaking Institutional Capture
 
 ### Immediate Governance Reforms

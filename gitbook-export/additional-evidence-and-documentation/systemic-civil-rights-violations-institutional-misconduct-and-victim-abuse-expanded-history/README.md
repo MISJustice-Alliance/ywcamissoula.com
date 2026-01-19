@@ -4,7 +4,7 @@ description: >-
   in Missoula: YWCA, police, prosecutors, and retaliation patterns.
 ---
 
-# Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document
+# Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History
 
 ### Introduction & Case Summary
 
@@ -332,6 +332,11 @@ YWCA Missoula operates with capacity policies that **manufacture periods of home
 * **Selective policy enforcement**: Staff bend policies for compliant clients while strictly enforcing gaps on those who "ruffle feathers by advocating for fair treatment"
 * **"Treated like a number instead of real human beings"**: Service allocation based on client obedience rather than objective criteria
 * **Full capacity operations**: People sleeping in conference rooms during winter
+
+Third-party media reporting supports the existence and enforcement of a **90-day cutoff** at Meadowlark in fall 2021.
+
+MontanaRightNow reported that YWCA Meadowlark told families who had been in shelter **more than 90 days** they had **two weeks to a month** before eviction, citing a growing waitlist. The story described a mother with three children (ages **10, 9, and 7**) facing loss of shelter during dropping temperatures and stated that the Rapid Rehousing payment cap did not align with Missoula rents.\
+Source: [Four families being evicted from the YWCA Meadowlark due to a growing waitlist (MontanaRightNow, Oct 2021)](https://www.montanarightnow.com/missoula/four-families-being-evicted-from-the-ywca-meadowlark-due-to-a-growing-waitlist/article_02d85c24-2884-11ec-863a-43bfdd6b42c2.html)
 
 This discriminatory treatment constitutes **bias-based service allocation** that may inflate reported metrics: clients cycling through the system without achieving lasting stability, creating repeat "families helped" numbers for grant reporting while perpetuating underlying problems.
 
