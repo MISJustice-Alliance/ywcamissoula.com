@@ -41,7 +41,7 @@ Related record sets:
 
 * Aug 2018: Unlawful arrest in Montana triggered by off-record call from WA officer
 * 2019-2020: Parallel, resource-draining prosecutions in WA and MT
-* 2020: King County prosecutors threatened Mr. Nuno's Montana-based partner with custody loss
+* 2020: King County prosecutors threatened Mr. Nuno's romantic partner, and widowed single mother, with permanent custody loss of her only child
 
 ## III. Systematic Constitutional Violations
 
