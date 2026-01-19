@@ -35,6 +35,11 @@ Start with these hubs. They are designed to point to the underlying source docum
 #### 4) Evidence maps (by theme)
 
 * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/)
+* [CR-2025-001 — Case files index](../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+
+Key external bibliography packet:
+
+* [Source documentation citations (Jan 1, 2026)](https://cr-2024-001-other_misjusticealliance.arweave.net/)
 
 ### Bibliography (secondary / public sources)
 

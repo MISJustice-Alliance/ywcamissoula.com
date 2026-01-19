@@ -21,6 +21,12 @@ This page organizes the damages record. It includes quantified loss plus reputat
 * Client “safety concern” communications.
 * Lost opportunities linked to dismissed-but-visible charges.
 
+### Related exhibits (CR-2025-001)
+
+* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* [Estimated damages by victim class (chart)](https://cr-2025-001-evidence-6_misjusticealliance.arweave.net/)
+* [Federal funding chart (exhibit)](https://cr-2025-001-evidence-7_misjusticealliance.arweave.net/)
+
 ***
 
 **Previous:** [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md) · **Next:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md)

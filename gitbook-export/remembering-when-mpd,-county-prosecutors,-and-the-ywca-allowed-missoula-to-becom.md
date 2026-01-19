@@ -25,6 +25,12 @@ This national attention triggered the US DoJ to launch an exhaustive investigati
 
 In 2013-2014 the US DoJ began the process of publishing their findings and securing formal agreements with Missoula law enforcement, prosecutorial agencies, and local community victims advocacy institutions (of which the YWCA was included), and concluded with formally closing the case in 2016.
 
+### Supporting documents (CR-2025-001)
+
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [Remembering When (PDF)](https://cr-2025-001-evidence-25_misjusticealliance.arweave.net/)
+* [MPD sustained compliance report (DOJ MOU)](https://cr-2025-001-evidence-12_misjusticealliance.arweave.net/)
+
 ## Institutional Conflicts of Interest and Board Composition
 
 The YWCA of Missoula's governance structure presents an immediate central red flag: a sitting MPD detective (Connie Brueckner) as a Board member at-large, alongside other government-linked directors. This arrangement threatens core fiduciary duties and undermines the appearance and reality of independence.

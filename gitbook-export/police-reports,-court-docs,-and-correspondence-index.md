@@ -34,6 +34,7 @@ description: >-
 
 * Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)
 * FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations (November 2025)
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 
 ## Washington State Department Complaints
 

@@ -12,6 +12,13 @@ The civil rights violations documented in the case of Elvis Ryland Nuno represen
 
 The documented evidence establishes that Mr. Nuno's case—characterized by Detective Connie Brueckner's unprecedented dual role as both YWCA Board member and investigating officer, retaliatory prosecution following protected First Amendment complaints, warrantless home invasions, and career destruction—fits within a broader pattern of institutional capture that has victimized multiple populations including sexual assault survivors, domestic violence victims, YWCA clients, individuals with mental illness, disabled persons, and families seeking services.
 
+#### Key external packets (CR-2025-001)
+
+* [CR-2025-001 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [Shelter and the Storm (PDF)](https://cr-2025-001-evidence-23_misjusticealliance.arweave.net/)
+* [Investigative report: YWCA Missoula (PDF)](https://cr-2025-001-evidence-24_misjusticealliance.arweave.net/)
+* [Source documentation citations (PDF)](https://cr-2024-001-other_misjusticealliance.arweave.net/)
+
 **Key Findings:**
 
 * **2012–2014 Federal Investigation**: U.S. Department of Justice investigation found Missoula became "America's rape capital" with systematic gender discrimination in prosecution of 350 sexual assault cases, resulting in only 16.5% prosecution rate

@@ -45,3 +45,11 @@ The documented complaints and reviews establish:
 2. Retaliation against those who file complaints
 3. Institutional capture preventing accountability
 4. Coordination between YWCA and law enforcement
+
+### Related public-facing exhibits (CR-2025-001)
+
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [Arthur Brown Google review (screenshot)](https://cr-2025-001-evidence-10_misjusticealliance.arweave.net/)
+* [Reddit complaints (screenshot)](https://cr-2025-001-evidence-9_misjusticealliance.arweave.net/)
+* Facebook thread screenshots: [1](https://cr-2025-001-evidence-8_misjusticealliance.arweave.net/) · [2](https://cr-2025-001-evidence-3_misjusticealliance.arweave.net/)
+* [Alleged confidentiality breach (screenshot)](https://cr-2025-001-evidence-21_misjusticealliance.arweave.net/)

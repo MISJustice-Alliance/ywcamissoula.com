@@ -20,6 +20,14 @@ Common suppressed or minimized items include:
 4. **Improper motive** (retaliation and coordinated pressure).
 5. **Damages** (see damages section).
 
+### CR-2025-001 prosecutor outreach letters
+
+These letters package prosecutorial-misconduct allegations into a review-ready format.
+
+* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* [Missoula County Prosecutors Office outreach (09-21-2025)](https://cr-2025-001-evidence-28_misjusticealliance.arweave.net/)
+* [Missoula County Prosecutors Office follow-up (10-08-2025)](https://cr-2025-001-evidence-29_misjusticealliance.arweave.net/)
+
 ***
 
 **Previous:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp.md) · **Next:** [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)

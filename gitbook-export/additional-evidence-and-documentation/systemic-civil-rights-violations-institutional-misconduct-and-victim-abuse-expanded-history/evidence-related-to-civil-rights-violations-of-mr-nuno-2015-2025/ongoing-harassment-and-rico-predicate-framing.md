@@ -3,6 +3,7 @@
 This page groups post-2019 harassment records and an evidence-first RICO/pattern framing.
 
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Related packet: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
 
 ### Ongoing harassment evidence (2019–2025+)
 
@@ -36,8 +37,9 @@ Keep this evidence-driven. Avoid conclusions that require a court finding.
 
 ### Key external source links
 
-* [Arthur Brown post](https://cr-2025-001-evidence-8_misjusticealliance.arweave.net/)
-* [Alleged HIPAA violations](https://cr-2025-001-evidence-3_misjusticealliance.arweave.net/)
+* [Arthur Brown Google review (screenshot)](https://cr-2025-001-evidence-10_misjusticealliance.arweave.net/)
+* [Alleged confidentiality breach (screenshot)](https://cr-2025-001-evidence-21_misjusticealliance.arweave.net/)
+* Facebook thread screenshots: [1](https://cr-2025-001-evidence-8_misjusticealliance.arweave.net/) · [2](https://cr-2025-001-evidence-3_misjusticealliance.arweave.net/)
 * [Sworn declaration of Elvis Nuno](https://cr-2025-001-evidence-20_misjusticealliance.arweave.net/)
 
 ### Appendix A: Photo evidence of continued harassment (August 2022)

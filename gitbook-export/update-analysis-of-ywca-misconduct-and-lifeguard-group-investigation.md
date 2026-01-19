@@ -15,6 +15,12 @@ description: >-
 
 The provided documentation reveals a troubling pattern of institutional corruption involving **Detective Connie Brueckner**, who simultaneously served on the YWCA Missoula Board of Directors while investigating complaints against YWCA employees.
 
+### Supporting documents (CR-2025-001)
+
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [YWCA misconduct + LifeGuard Group cover-up (PDF)](https://arweave.net/z090jtLboolS9BP_oTv_QSKSAhHTtev6iD_MnI2IRCo)
+* [YWCA relationship diagram (PNG)](https://arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w)
+
 ## Detective Connie Brueckner: The Central Conflict of Interest
 
 ### Institutional Capture Through Board Service

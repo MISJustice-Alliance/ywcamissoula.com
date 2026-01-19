@@ -7,12 +7,11 @@ description: Index page for the external case file and its linked evidence docum
 Use this page as a stable internal index for the external case file.
 
 * External case page: https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c
+* Related packets: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 {% hint style="info" %}
-I can’t automatically pull every linked file from that external page from inside GitBook.
-
-If you paste the list of evidence URLs (or upload a screenshot), I’ll create one GitBook page per document and link each one into the right analysis sections.
+If you paste the list of evidence URLs (or upload a screenshot), I’ll create one GitBook page per document and cross-link them into the relevant analysis pages.
 {% endhint %}
 
 ### Embedded view
@@ -25,16 +24,6 @@ Add items here as we extract them:
 
 * **Doc title** → link
 * **Doc title** → link
-
-### Where these docs usually get referenced
-
-As we create pages per document, I’ll cross-link them into:
-
-* [Fourth Amendment evidence (entry, seizure, and digital search)](fourth-amendment-evidence-entry-seizure-and-digital-search.md)
-* [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md)
-* [First Amendment retaliation evidence (protected speech → escalation)](first-amendment-retaliation-evidence-protected-speech-escalation.md)
-* [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md)
-* [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
 
 ***
 

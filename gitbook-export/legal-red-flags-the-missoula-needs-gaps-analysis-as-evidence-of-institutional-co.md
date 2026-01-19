@@ -17,6 +17,13 @@ The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented pa
 
 Detective Connie Brueckner's simultaneous service on the YWCA Board of Directors while investigating complaints against YWCA employees represents unprecedented institutional capture that has enabled systematic constitutional violations, client exploitation, and the weaponization of victim services against critics of the system.
 
+### Primary documents referenced (CR-2025-001)
+
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [Missoula Needs & Gaps Analysis (2024) — certified](https://cr-2025-001-evidence-13_misjusticealliance.arweave.net/)
+* [MPD sustained compliance report (DOJ MOU)](https://cr-2025-001-evidence-12_misjusticealliance.arweave.net/)
+* [Federal funding chart (exhibit)](https://cr-2025-001-evidence-7_misjusticealliance.arweave.net/)
+
 ## The Documented Pattern: From Individual Persecution to Systemic Client Exploitation
 
 ### The Nuno Case: A Template for Institutional Retaliation

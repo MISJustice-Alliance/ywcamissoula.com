@@ -33,6 +33,7 @@ This evidence map is split into smaller pages.
 * [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)
 * [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
 * [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md)
+* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
 * [MisJustice Alliance case file (d81209a2…)](misjustice-alliance-case-file-d81209a2....md)
 * [MisJustice Alliance case file (daf82b62…)](misjustice-alliance-case-file-daf82b62....md)
 

@@ -77,6 +77,7 @@ Each bullet is a waypoint to the underlying record, filing, or analysis.
 
 * [DOJ Civil Rights Division filing (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
 * [FBI report filing (November 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * [Montana Bar complaint re: Bryan Tipp (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
 * [MT DOJ POST complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-mortem of POST complaint dismissal](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)

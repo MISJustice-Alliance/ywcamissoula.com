@@ -8,6 +8,7 @@ This page groups records supporting a protected-activity → escalation pattern.
 
 * The written YWCA complaint and attachments.
 * Documentation of follow-on complaints to government offices.
+* CR-2025-001 outreach packets: [case files index](cr-2025-001-case-files-index.md)
 * Timelines showing escalation after protected petitioning activity.
 
 ### Causation support

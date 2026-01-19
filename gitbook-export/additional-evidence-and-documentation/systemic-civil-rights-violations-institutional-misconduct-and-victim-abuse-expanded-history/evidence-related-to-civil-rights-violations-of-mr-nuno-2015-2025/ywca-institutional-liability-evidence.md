@@ -10,6 +10,12 @@ This page groups notice, ratification, and state-action indicators tied to YWCA-
 * Failure to investigate or remediate after notice.
 * Continued operational proximity to law enforcement actors.
 
+CR-2025-001 notice records:
+
+* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* [YWCA first notice (request for response)](https://cr-2025-001-evidence-26_misjusticealliance.arweave.net/)
+* [YWCA second notice (follow-up)](https://cr-2025-001-evidence-27_misjusticealliance.arweave.net/)
+
 Useful external record:
 
 * [Suppression of character witness email contradicting E’Lise Chard narrative](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
