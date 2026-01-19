@@ -14,7 +14,7 @@ The core point is simple: the record contains repeatable, timestamped, third‑p
 
 If you want the full narrative and legal theory, start here:
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanding the Document](../)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../)
 * [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](../../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../../../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 
