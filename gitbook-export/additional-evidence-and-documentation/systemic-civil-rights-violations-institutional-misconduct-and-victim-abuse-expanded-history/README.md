@@ -258,7 +258,9 @@ Police Scorecard data for Missoula Police Department reveals systematic failure 
 * **6 discrimination complaints**: **0% ruled in favor of civilians**
 * **Alleged crimes by police**: Data not available
 
-This near-zero accountability rate for use-of-force and discrimination complaints creates an environment of impunity enabling continued constitutional violations.
+This near-zero accountability rate for use-of-force and discrimination complaints creates an environment of impunity enabling continued constitutional violations.&#x20;
+
+Furthermore, [as reported by local Montana publication The Pulp](https://thepulp.org/montana-blocks-access-to-basic-police-data/), the Montana POST Council, under pressure from the Attorney General’s office, stopped releasing basic officer information (including names) that had previously been public, citing the Montana Constitution’s right to privacy and limiting disclosures to only officers whose certifications had been sanctioned. This has had a significantly deleterious effect on overall transparency holding Montana law enforcement publicly accountable.&#x20;
 
 #### B. James Dimitri Owens: Excessive Force Against Individual with Mental Illness (June 30, 2025)
 
