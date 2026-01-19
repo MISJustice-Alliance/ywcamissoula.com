@@ -28,4 +28,8 @@ This was the first case in the long series of similar criminal charges that woul
 
 A complaint filed with the Washington Department of Health ([2017-3122PY](https://cr-2025-002-evidence-8_misjusticealliance.arweave.net/)) by Mr. Nuno, his family, and his therapist of four years was denied without explanation of how the case was investigated.
 
+Related:
+
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+
 Immediately following the investigation, Dr. Marta J.L. Miranda closed her practice and relocated to Washington, D.C. Her current status is listed as "not accepting new clients."

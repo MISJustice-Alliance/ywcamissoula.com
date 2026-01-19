@@ -17,6 +17,11 @@ description: >-
 
 [E-Mail: RE: \[EXTERNAL\] Request for Investigation – Allegations of Police Corruption and Civil Rights Violations](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
 
+Related:
+
+* [Original MT DoJ POST complaint (08-12-2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+
 ## The Fundamental Misunderstanding
 
 The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents a profound failure to comprehend the nature and scope of the allegations. The response stating that "POST does not investigate allegations that are over 5 years old" fundamentally mischaracterizes what the documentation clearly establishes: **this is not a case of isolated historical incidents, but rather an ongoing pattern of institutional harassment that continues to the present day**.

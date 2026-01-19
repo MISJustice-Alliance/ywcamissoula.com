@@ -12,25 +12,26 @@ description: >-
 
 # Federal and State Department Complaints
 
-### Federal Department Complaints
+### Case file indexes (published document sets)
 
-* [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](https://www.notion.so/Federal-DoJ-Civil-Rights-Division-Filing-658793-SKB-August-2025-260ca07db84980ff8692efafa09cbee3?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations, Institutional Corruption, and Coordinated Harassment (November 2025)](https://www.notion.so/FBI-Report-Filing-Pattern-of-Cross-Jurisdictional-Civil-Rights-Violations-Institutional-Corruptio-2acca07db84980c28196da4d46a0d309?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
+* [CR-2025-001 — Case files index](../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-002 — Case files index](../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
-### Washington State Department Complaints
+### Federal department complaints
 
-* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.notion.so/WA-State-Bar-Complaint-Patricia-Fulton-2016-227ca07db849813ab5c7d10fce07fc75?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.notion.so/WA-State-Dept-of-Health-Complaint-Dr-Marta-Miranda-2016-227ca07db84980338c3ceddbf6468d39?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.notion.so/Seattle-OPA-Complaint-2016OPA-1167-2016-22eca07db84980e18aded90acf1c4720?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](https://www.notion.so/MOTION-TO-SEAL-OR-REDACT-COURT-RECORD-Dr-Marta-Miranda-Evaluation-Edmonds-Municipal-Court-Nov--2a1ca07db849800ea0d9f0e35b28adef?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
+* [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
+* [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations, Institutional Corruption, and Coordinated Harassment (November 2025)](federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 
-### Montana State Department Complaints
+### Washington state complaints
 
-* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-No-25-147-Bryan-Tipp-of-Tipp-Colburn-Lockwood-P-C-July-2025-222ca07db8498094b8bcf91fb3466cf1?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-No-25-147-Supplemental-Submission-1-August-2025-247ca07db84980519b90cef22ff23b73)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #2 (September 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-No-25-147-Supplemental-Submission-2-September-2025-261ca07db84980e08999e9629f521dfd?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-No-25-147-Supplemental-Submission-3-September-2025-274ca07db8498022ac3cf23887220ca6?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-No-25-147-Supplemental-Submission-3-1-September-2025-276ca07db849806c88bfd097db628701?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-No-25-147-Response-to-Bryan-Tipp-Bar-Complaint-Answer-October-2025-282ca07db84980d28e1fe314ca895520?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.notion.so/MT-DoJ-Public-Safety-Officer-Standards-Training-POST-Complaint-August-2025-24dca07db849806f8f87eab279e35538?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
-* [MT Bar Complaint ODC-15-147 - Right To Request Review (November 2025)](https://www.notion.so/MT-Bar-Complaint-ODC-15-147-Right-To-Request-Review-November-2025-2acca07db84980c29efffe5373634c28?v=238ca07db84980ffbb25000c8597ce62\&source=copy_link)
+* [WA State Bar Complaint: Patricia Fulton (2016)](../wa-state-bar-complaint-patricia-fulton-2016.md)
+* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](../wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
+* [Seattle OPA Complaint - 2016OPA-1167 (2016)](../seattle-opa-complaint-2016opa-1167-2016.md)
+* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
+
+### Montana state complaints
+
+* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](../mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
+* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)

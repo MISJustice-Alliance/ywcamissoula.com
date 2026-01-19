@@ -20,6 +20,11 @@ description: >-
 
 [\[PDF: Copy of Official Notarized Document Submitted to the MT DoJ POST Department on August 12th, 2025\]](https://cr-2025-002-complaint-11_misjusticealliance.arweave.net/)
 
+Related correspondence:
+
+* [POST email chain / escalation (Aug 2025)](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+
 ## Summary
 
 I respectfully submit this complaint regarding a pattern of civil rights violations, conflicts of interest, and abuse of power by Missoula Police Department personnel - specifically Ethan Smith and Connie Brueckner - and by MPD as an institution, connected to matters involving the YWCA of Missoula and culminating in an unlawful arrest and false imprisonment in or around August 2018.

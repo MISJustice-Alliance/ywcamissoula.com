@@ -37,6 +37,8 @@ Analysis of E'Lise Chard's manipulation of the protection order filing system in
 
 ## Evidence
 
+* [E’Lise Chard petition for order of protection (06-2018)](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 * Court filings and transcripts
 * Prior statements contradicting sworn testimony
 * Communication records

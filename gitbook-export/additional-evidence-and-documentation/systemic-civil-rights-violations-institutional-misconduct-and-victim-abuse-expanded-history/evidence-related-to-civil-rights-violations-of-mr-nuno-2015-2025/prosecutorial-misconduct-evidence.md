@@ -28,6 +28,16 @@ These letters package prosecutorial-misconduct allegations into a review-ready f
 * [Missoula County Prosecutors Office outreach (09-21-2025)](https://cr-2025-001-evidence-28_misjusticealliance.arweave.net/)
 * [Missoula County Prosecutors Office follow-up (10-08-2025)](https://cr-2025-001-evidence-29_misjusticealliance.arweave.net/)
 
+### CR-2025-002 criminal referral package (multi-jurisdiction)
+
+High-signal packets that consolidate prosecutorial misconduct + civil-rights framing:
+
+* [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+* [Case summary criminal referral (external)](https://cr-2025-002-other-2_misjusticealliance.arweave.net/)
+* [DOJ Public Integrity cover letter (external)](https://doc8_doj_public_integrity_cover_letter_misjusticealliance.arweave.net/)
+* [USAO Western Washington cover letter (external)](https://doc7_usao_west_wa_cover_letter_misjusticealliance.arweave.net/)
+* [USAO Montana cover letter (external)](https://doc6_usao_mt_cover_letter_misjusticealliance.arweave.net/)
+
 ***
 
 **Previous:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp.md) · **Next:** [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)

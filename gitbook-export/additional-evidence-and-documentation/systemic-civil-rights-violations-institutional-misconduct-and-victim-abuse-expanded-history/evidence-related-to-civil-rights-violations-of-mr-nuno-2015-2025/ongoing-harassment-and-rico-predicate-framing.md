@@ -3,7 +3,7 @@
 This page groups post-2019 harassment records and an evidence-first RICO/pattern framing.
 
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Related packet: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* Related packets: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md) · [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
 
 ### Ongoing harassment evidence (2019–2025+)
 

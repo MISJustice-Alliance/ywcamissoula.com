@@ -24,7 +24,7 @@
 
 * [Montana Legal Cases](montana-legal-cases.md)
 * [YWCA of Missoula Allegations and Brueckner Conflict of Interest](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
-* [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
@@ -48,7 +48,7 @@
 
 * [Federal and State Department Complaints](state-and-federal-complaints/federal-and-state-department-complaints.md)
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/README.md)
-  * [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations, Institutional Corruption, and Coordinated Harassment (November 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
+  * [FBI report filing — cross-jurisdiction civil rights violations (Nov 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 
 ## Montana Bar Complaints
 
@@ -102,3 +102,4 @@
     * [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
     * [MisJustice Alliance case file (d81209a2…)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
     * [MisJustice Alliance case file (daf82b62…)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+    * [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)

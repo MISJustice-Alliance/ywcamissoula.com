@@ -19,4 +19,8 @@ Official complaint filed with Seattle Office of Professional Accountability rega
 
 The complaint documents police report fabrication, unlawful detention, excessive bail, and systemic oversight failures involving the transformation of a police report as it passed through three law enforcement agencies.
 
+Related:
+
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+
 {% embed url="https://cr-2025-002-complaint-10_misjusticealliance.arweave.net" %}
