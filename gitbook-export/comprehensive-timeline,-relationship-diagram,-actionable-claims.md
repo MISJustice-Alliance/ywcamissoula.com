@@ -8,14 +8,15 @@ tags:
   - Master Document
 description: >-
   Master timeline and index (2014-2025) of filings, evidence, relationship
-  diagrams, and actionable civil rights claims in Montana and Washington.
+  diagrams, and actionable civil rights claims in Montana and Washington in
+  regards to the Nuno case.
 ---
 
 # Comprehensive Timeline, Relationship Diagram, & Actionable Claims
 
 ## Master timeline (2014-2025)
 
-Use this page as a high-signal index.
+Use this page as a high-signal index in the Nuno case.
 
 Each bullet is a waypoint to the underlying record, filing, or analysis.
 
