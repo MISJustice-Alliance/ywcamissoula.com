@@ -16,7 +16,7 @@ description: >-
 
 ## Master timeline (2014-2025)
 
-Use this page as a high-signal index in the Nuno case.
+Use this page as a high-signal index of the Nuno case and currently actionable cases for which statute of limitations has yet to expire, or which strong tolling arguments exist.
 
 Each bullet is a waypoint to the underlying record, filing, or analysis.
 
