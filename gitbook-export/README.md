@@ -8,7 +8,7 @@ description: >-
 
 # Introduction
 
-## Missoula ecosystem misconduct documentation (2012–present)
+## Missoula law enforcement and victim-advocacy ecosystem misconduct documentation (2012–present)
 
 This site documents alleged misconduct tied to three core institutions in Missoula. Those institutions are Missoula Police Department (MPD), Missoula County prosecutors, and YWCA of Missoula.
 
