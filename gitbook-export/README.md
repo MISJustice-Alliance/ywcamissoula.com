@@ -12,13 +12,13 @@ description: >-
 
 This site documents alleged misconduct tied to three core institutions in Missoula. Those institutions are Missoula Police Department (MPD), Missoula County prosecutors, and YWCA of Missoula.
 
-The Nuno case (2015–2025) is the detailed case study and evidentiary spine. It is used as a springboard into wider endemic issues in this local ecosystem.
+**The Nuno case (2015–2025) is the detailed case study and evidentiary spine. It is used as a springboard into wider endemic issues in this local law enforcement, prosecutorial, and "victim advocacy" ecosystem.**
 
 It documents alleged abuse of power against vulnerable people. It also documents alleged weaponization of “victim advocacy” workflows.
 
 The record includes materials reaching back to 2012 and earlier. It continues through current events and ongoing outcomes.
 
-The pattern described here raises urgent civil-rights and public-integrity concerns. It warrants immediate independent state and federal investigation and intervention.
+**The pattern described here raises** **urgent civil-rights and public-integrity concerns**. **It warrants immediate independent state and federal investigation and intervention.**
 
 This documentation centers on First, Fourth, and Fourteenth Amendment issues. It also centers on 42 U.S.C. § 1983 and related civil-rights theories. It includes complaint packages filed with state and federal agencies.
 
