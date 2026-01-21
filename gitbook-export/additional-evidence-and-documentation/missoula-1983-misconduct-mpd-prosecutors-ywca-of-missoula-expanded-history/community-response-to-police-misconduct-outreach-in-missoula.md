@@ -31,7 +31,7 @@ However, MISJustice Alliance tracked a concrete outreach outcome:
 
 ### 1. The Outreach Post: Intent and Framing
 
-The original poster (OP) framed the thread explicitly as **victim outreach**, not as a general political rant. Key characteristics:
+The original poster (OP) — MISJustice Allinace — framed the thread explicitly as **victim outreach**, not as a general political rant. Key characteristics:
 
 * It targets specific institutions: Missoula Police Department (MPD), Missoula County, YWCA Missoula, and the Missoula County Attorney’s Office.
 * It references **documentation, timelines, and prior analyses** about alleged institutional misconduct and civil rights violations.
@@ -62,7 +62,7 @@ Several comments display open hostility toward the outreach effort and, by exten
 This comment combines multiple tactics:
 
 * Dismissing the work as “tons of ‘analysis’” in scare quotes, implying it is pseudo‑analysis rather than serious documentation.
-* Asserting “no links to any actual real documents” — which is factually incorrect if the OP has provided references or links in their broader body of work, and even if not, shifts the focus from whether the claims _could_ be documented to whether they are presented in the format the commenter prefers.
+* Asserting “no links to any actual real documents” — which is factually incorrect if the OP has provided references and links in their broader body of work, but the commenter shifts the focus from whether the claims _could_ be documented to whether they are presented in the format the commenter prefers.
 * Pathologizing OP as “mentally ill” — a classic ad hominem attack, especially common against whistleblowers or survivors of complex institutional abuse, and implicitly undermining any future testimony by people associated with the same effort.
 * Threat framing: “before they get sued or locked up” — suggesting OP’s actions are not only unhinged but also criminally or civilly actionable, intended to instill fear in both OP and any others who might speak up.
 
@@ -76,7 +76,7 @@ Here the tactics are:
 * Seizing on a **single factual detail** (e.g., retirement status of a named officer) as a wedge to discredit the entire body of allegations and documentation.
 * Shifting the frame from “Are there systemic patterns of rights violations, retaliation, and collusion?” to “This one role title is slightly off; therefore, the whole project is invalid.”
 
-Both comments are examples of **delegitimizing rhetoric**: they do not engage the primary allegations or evidence; instead, they target OP’s mental state, methods, or minor factual points.
+Both comments are examples of **delegitimizing rhetoric**: they do not engage the primary allegations or evidence; instead, they target OP’s mental state, methods, or minor factual points, and framing the OP as an individual rather than a collective organization who's body of work is the product of a collaborative effort.
 
 #### 2.2 Broader Hostile Dynamics
 
