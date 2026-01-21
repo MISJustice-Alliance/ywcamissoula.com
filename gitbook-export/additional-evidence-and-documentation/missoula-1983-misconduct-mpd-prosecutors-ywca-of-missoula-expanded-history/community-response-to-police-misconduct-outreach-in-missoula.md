@@ -1,6 +1,6 @@
 ---
 description: >-
-  Analysis a Missoula Reddit outreach thread on alleged institutional
+  Analysis of a Missoula Reddit outreach thread on alleged institutional
   misconduct, showing that hostile replies and downvoting created a “heckler’s
   veto” that discourages victims from speaking up.
 ---
