@@ -83,7 +83,7 @@ Both comments are examples of **delegitimizing rhetoric**: they do not engage th
 Beyond those explicit quotes, the thread as a whole shows:
 
 * **Downvoting of OP and supportive comments**, causing them to collapse or sink in the default sort order, while more hostile or mocking comments are relatively more visible.
-* Accusations that the effort is a “conspiracy theory,” “paranoid,” or “delusional.”
+* Accusations that the effort is a “conspiracy theory,” “paranoid,” or “delusional," and an attempt to "publicly smear" an organization that "does so much good."
 * Pushback framed as “rational skepticism” but expressed through sarcasm or derision rather than substantive question or critique.
 * Implicit gatekeeping: suggestions that only people with perfect documentation, perfect institutional language, and non-traumatized communication styles deserve to be heard.
 
