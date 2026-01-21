@@ -9,6 +9,14 @@
 * [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)
+* [Datasets](overview/datasets/README.md)
+  * [Dataset catalog](overview/datasets/dataset-catalog.md)
+  * [How to publish dataset landing pages (SEO)](overview/datasets/how-to-publish-dataset-landing-pages-seo.md)
+  * [Primary records dataset](overview/datasets/primary-records-dataset.md)
+  * [Official complaints dataset](overview/datasets/official-complaints-dataset.md)
+  * [Timeline & claims map dataset](overview/datasets/timeline-and-claims-map-dataset.md)
+  * [SEO meta snapshot](overview/datasets/seo-meta-snapshot.md)
+  * [Structured data bundle (single file)](overview/datasets/structured-data-bundle-single-file.md)
 
 ## Legal Analysis
 

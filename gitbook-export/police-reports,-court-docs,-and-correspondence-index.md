@@ -16,6 +16,8 @@ description: >-
 
 ## Police Reports, Court Docs, and Correspondence
 
+Dataset landing page: [Primary records dataset](overview/datasets/primary-records-dataset.md).
+
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Seattle PD written statement re: incident #2016-348587 (2016)](https://cr-2025-002-evidence-12_misjusticealliance.arweave.net/)
 * [Edmonds court: declaration of ineffective assistance (2016)](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)

@@ -14,6 +14,12 @@ Use this page as the canonical source list for the project. It includes (1) **pr
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
 {% endhint %}
 
+### Dataset landing pages (for search + citation)
+
+If you want to cite or share a whole collection, use the dataset landing pages:
+
+* [Dataset catalog](datasets/dataset-catalog.md)
+
 ### Primary records (record index)
 
 #### 1) Master navigation
