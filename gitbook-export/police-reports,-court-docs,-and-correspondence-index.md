@@ -22,7 +22,7 @@ description: >-
 * [Seattle Municipal Court #613225: dismissal order (2016)](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net/)
 * [Complaint re: MPD Officer Ethan Smith (March 2018)](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
-* E'Lise Chard/YWCA Missoula: Chard Harassment Complaint & Nuno Character Reference (August 2018)
+* E'Lise Chard / YWCA of Missoula: Chard harassment complaint & Nuno character reference (August 2018)
 * [E-Mail correspondence w/ Bryan Tipp (Dec 2020 / Jan 2021)](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
 * [Missoula stalking case: dismissal with prejudice (2020)](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
 * [Missoula stalking case: dismissal delay letter (Dec 2020)](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
@@ -35,8 +35,8 @@ description: >-
 
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
 * [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations (November 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
-* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
 ## Washington State Department Complaints
 

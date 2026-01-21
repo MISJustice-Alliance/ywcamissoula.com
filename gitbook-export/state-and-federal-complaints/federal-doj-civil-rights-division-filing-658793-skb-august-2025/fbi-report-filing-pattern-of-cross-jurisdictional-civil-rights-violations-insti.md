@@ -10,11 +10,12 @@ tags:
   - Official Complaint
   - RICO
 description: >-
-  Case Reference: DoJ Report Number 658793-SKB Submitted by: Mr Nuno Date:
-  November 15, 2025
+  FBI referral request for DOJ report 658793-SKB (Nov 2025): alleged Missoula
+  §1983 misconduct and retaliation pattern involving MPD, prosecutors, and YWCA
+  of Missoula.
 ---
 
-# FBI report filing — cross-jurisdiction civil rights violations (Nov 2025)
+# FBI referral request: Missoula §1983 misconduct + retaliation pattern
 
 **Case Reference:** DoJ Report Number 658793-SKB **Submitted by:** Mr Nuno **Date:** November 15, 2025
 
@@ -27,7 +28,7 @@ This statement documents over a decade of systematic constitutional violations, 
 Related record sets:
 
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](./)
-* [CR-2025-002 — Case files index](../../additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](../../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
 ## I. Institutional Corruption: The YWCA-Law Enforcement Nexus
 

@@ -2,6 +2,8 @@
 
 This page groups records supporting a protected-activity → escalation pattern.
 
+For a Missoula-specific, MPD-focused jump page, use: [MPD retaliation and escalation after complaints — evidence index](mpd-retaliation-and-escalation-after-complaints-evidence-index.md).
+
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 ### Protected activity records

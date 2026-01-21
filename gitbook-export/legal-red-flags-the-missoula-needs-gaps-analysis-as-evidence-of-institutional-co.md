@@ -3,11 +3,12 @@ title: >-
   Legal Red Flags: The Missoula Needs & Gaps Analysis as Evidence of
   Institutional Corruption and Systemic Abuse
 description: >-
-  Analysis of the 2024 Missoula Needs and Gaps report as evidence of
-  institutional capture. YWCA, MPD conflicts, and civil rights implications.
+  Missoula homelessness funding analysis: 2024 Needs & Gaps report,
+  institutional capture signals, and links to YWCA of Missoula, Missoula Police
+  Department (MPD), and prosecutors.
 ---
 
-# Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture
+# Missoula homelessness funding + institutional capture (YWCA of Missoula / MPD)
 
 ## A Captured System Operating Through Coordinated Institutional Failures
 
@@ -19,7 +20,7 @@ Detective Connie Brueckner's simultaneous service on the YWCA Board of Directors
 
 ### Primary documents referenced (CR-2025-001)
 
-* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * [Missoula Needs & Gaps Analysis (2024) — certified](https://cr-2025-001-evidence-13_misjusticealliance.arweave.net/)
 * [MPD sustained compliance report (DOJ MOU)](https://cr-2025-001-evidence-12_misjusticealliance.arweave.net/)
 * [Federal funding chart (exhibit)](https://cr-2025-001-evidence-7_misjusticealliance.arweave.net/)

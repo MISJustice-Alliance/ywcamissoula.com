@@ -3,8 +3,9 @@
 ## Overview
 
 * [Introduction](README.md)
+* [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* [Civil Rights Violations and Related Claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
+* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
 * [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)
@@ -13,9 +14,9 @@
 
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
+* [Missoula homelessness funding + institutional capture (YWCA of Missoula / MPD)](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* [Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
+* [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
@@ -48,10 +49,11 @@
 
 * [Federal and State Department Complaints](state-and-federal-complaints/federal-and-state-department-complaints.md)
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/README.md)
-  * [FBI report filing — cross-jurisdiction civil rights violations (Nov 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
+  * [FBI referral request: Missoula §1983 misconduct + retaliation pattern](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 
 ## Montana Bar Complaints
 
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
   * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/README.md)
@@ -88,18 +90,21 @@
 
 ## Additional Evidence & Documentation
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/README.md)
-  * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
-    * [Scope and primary evidence types](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types.md)
-    * [Fourth Amendment evidence (entry, seizure, and digital search)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md)
-    * [Fabricated evidence and false reporting](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting.md)
-    * [First Amendment retaliation evidence (protected speech → escalation)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md)
-    * [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp.md)
-    * [Prosecutorial misconduct evidence](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md)
-    * [YWCA institutional liability evidence](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence.md)
-    * [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
-    * [Ongoing harassment and RICO predicate framing](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing.md)
-    * [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-    * [MisJustice Alliance case file (d81209a2…)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
-    * [MisJustice Alliance case file (daf82b62…)](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
-    * [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
+  * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
+    * [Scope and primary evidence types](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types.md)
+    * [Fourth Amendment evidence (entry, seizure, and digital search)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md)
+    * [Fabricated evidence and false reporting](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting.md)
+    * [MPD retaliation and escalation after complaints (evidence index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
+    * [First Amendment retaliation evidence (protected speech → escalation)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md)
+    * [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp.md)
+    * [Prosecutorial misconduct evidence](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md)
+    * [YWCA institutional liability evidence](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence.md)
+    * [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
+    * [Ongoing harassment and RICO predicate framing](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing.md)
+    * [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+    * [MisJustice Alliance case file (d81209a2…)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
+    * [MisJustice Alliance case file (daf82b62…)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+    * [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+    * [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
+    * [Prosecutorial misconduct and Brady issues (evidence index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)

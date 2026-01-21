@@ -2,6 +2,8 @@
 
 This page maps Brady/suppression themes and a malicious prosecution checklist to record types.
 
+For a packet-style jump page, use: [Prosecutorial misconduct and Brady issues (evidence index)](prosecutorial-misconduct-and-brady-issues-evidence-index.md).
+
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 ### Brady / suppression themes

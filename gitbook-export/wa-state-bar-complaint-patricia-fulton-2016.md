@@ -22,7 +22,7 @@ On December 15th, 2015, I retained Patricia Fulton as a defense attorney in a do
 External source copy:
 
 * [WA State Bar Complaint: Patricia Fulton (PDF)](https://cr-2025-002-complaint-14_misjusticealliance.arweave.net/)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
 ## Key Issues:
 

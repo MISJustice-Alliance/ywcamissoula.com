@@ -30,6 +30,6 @@ A complaint filed with the Washington Department of Health ([2017-3122PY](https:
 
 Related:
 
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
 Immediately following the investigation, Dr. Marta J.L. Miranda closed her practice and relocated to Washington, D.C. Her current status is listed as "not accepting new clients."

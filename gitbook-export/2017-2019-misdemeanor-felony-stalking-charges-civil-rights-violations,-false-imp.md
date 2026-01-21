@@ -26,7 +26,7 @@ The case ultimately resulted in **dismissal with prejudice** in 2018, confirming
 
 * [Court order: dismissal with prejudice (Missoula)](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
 * [Defense counsel letter re: delayed dismissal (Dec 2020)](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
 ## I. The Protected Speech Catalyst: 2017 YWCA Complaint
 

@@ -20,6 +20,38 @@ Use this page as a high-signal index of the Nuno case and currently actionable c
 
 Each bullet is a waypoint to the underlying record, filing, or analysis.
 
+### FAQ (how to use this timeline)
+
+#### What time period does this timeline cover?
+
+It spans 2014–2025 and emphasizes events tied to the Nuno record.
+
+Washington events are included where they connect to later Montana escalation.
+
+#### What does “actionable claims” mean here?
+
+It means claims presented as potentially viable because statutes have not expired, or tolling arguments are asserted.
+
+For claim framing, see [Civil Rights Violations and Related Claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md).
+
+#### How should I use the relationship diagram?
+
+Use it to identify potential conflicts, overlapping roles, and recurring actors across agencies.
+
+Start with the embedded diagram and the linked YWCA/MPD/prosecutor nodes.
+
+#### Where do I find the underlying documents for a timeline bullet?
+
+Many bullets link directly to a page that contains the relevant record or analysis.
+
+For broader record navigation, use [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md).
+
+#### Why include Washington when the misconduct focus is Missoula?
+
+Washington events are used as context for credibility, intent, and cross-jurisdiction pattern indicators.
+
+They also frame later vulnerability and leverage dynamics that appear in Montana.
+
 ### 2014-2015: Early events (Washington)
 
 * [Initial allegations and relationship context](civil-rights-violations-and-related-claims-2015-2025.md)
@@ -78,8 +110,8 @@ Each bullet is a waypoint to the underlying record, filing, or analysis.
 
 * [DOJ Civil Rights Division filing (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
 * [FBI report filing (November 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
-* [CR-2025-001 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/systemic-civil-rights-violations-institutional-misconduct-and-victim-abuse-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 * [Montana Bar complaint re: Bryan Tipp (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
 * [MT DOJ POST complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-mortem of POST complaint dismissal](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)

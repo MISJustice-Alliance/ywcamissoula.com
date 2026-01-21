@@ -9,13 +9,18 @@ tags:
   - Montana
   - Institutional Corruption
 description: >-
-  Evidence summary of YWCA of Missoula allegations. Board conflicts, client harm
-  claims, confidentiality issues, and related civil rights theories.
+  Evidence summary of YWCA of Missoula allegations, including conflict of
+  interest issues, board-level police ties, confidentiality risks, and related
+  civil rights theories.
 ---
 
 # YWCA of Missoula Allegations and Brueckner Conflict of Interest
 
-The totality of available evidence reveals that YWCA Missoula operates as a captured institution that systematically abuses vulnerable populations while serving as an enforcement arm for prosecutorial retaliation against critics.
+This page summarizes alleged YWCA misconduct with a focus on **YWCA of Missoula conflict of interest** risks and downstream harm.
+
+For a document-first entry point, use: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md).
+
+The totality of available evidence presented here alleges that YWCA Missoula operates as a captured institution that harms vulnerable populations while functioning as an enforcement or escalation channel for retaliation against critics.
 
 ## Institutional Structure and Governance Violations
 

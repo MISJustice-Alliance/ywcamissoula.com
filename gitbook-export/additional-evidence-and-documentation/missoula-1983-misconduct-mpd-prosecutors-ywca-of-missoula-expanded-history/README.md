@@ -1,14 +1,15 @@
 ---
 description: >-
-  Long-form report on systemic civil rights violations and institutional capture
-  in Missoula: YWCA, police, prosecutors, and retaliation patterns.
+  Expanded history of alleged Missoula §1983 misconduct: MPD, Missoula County
+  prosecutors, and YWCA of Missoula, using the Nuno case (2015–2025) as the
+  evidence spine.
 ---
 
-# Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History
+# Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)
 
 ### Introduction & Case Summary
 
-The civil rights violations documented in the case of Elvis Ryland Nuno represent not an isolated incident but rather a manifestation of deeply entrenched institutional corruption within Missoula, Montana's law enforcement, prosecutorial, and victim advocacy systems. This report expands the evidentiary record to encompass systematic patterns of abuse affecting multiple victims across more than a decade, revealing coordinated misconduct by the YWCA Missoula, Missoula Police Department, and Missoula County Attorney's Office that preceded, paralleled, and followed Mr. Nuno's experience.
+The civil rights violations documented in the case of Elvis Ryland Nuno represent not an isolated incident but rather a manifestation of deeply entrenched institutional corruption within Missoula, Montana's law enforcement, prosecutorial, and victim advocacy systems. This report expands the evidentiary record to encompass systematic patterns of abuse affecting multiple victims across more than a decade, revealing coordinated misconduct by the **YWCA of Missoula**, **Missoula Police Department (MPD)**, and Missoula County Attorney's Office that preceded, paralleled, and followed Mr. Nuno's experience.
 
 The documented evidence establishes that Mr. Nuno's case—characterized by Detective Connie Brueckner's unprecedented dual role as both YWCA Board member and investigating officer, retaliatory prosecution following protected First Amendment complaints, warrantless home invasions, and career destruction—fits within a broader pattern of institutional capture that has victimized multiple populations including sexual assault survivors, domestic violence victims, YWCA clients, individuals with mental illness, disabled persons, and families seeking services.
 
@@ -16,7 +17,7 @@ The documented evidence establishes that Mr. Nuno's case—characterized by Dete
 
 * [CR-2025-001 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * [Shelter and the Storm (PDF)](https://cr-2025-001-evidence-23_misjusticealliance.arweave.net/)
-* [Investigative report: YWCA Missoula (PDF)](https://cr-2025-001-evidence-24_misjusticealliance.arweave.net/)
+* [Investigative report: YWCA of Missoula (PDF)](https://cr-2025-001-evidence-24_misjusticealliance.arweave.net/)
 * [Source documentation citations (PDF)](https://cr-2024-001-other_misjusticealliance.arweave.net/)
 
 **Key Findings:**
@@ -109,15 +110,15 @@ The DOJ was forced to gather information through alternative sources. A settleme
 
 Former University of Montana journalism professor John C. Williams characterized the institutional environment: "The football team was recruiting too many thugs. Rape was not the only problem. There was vandalism, personal assaults, destruction of property. Players were pampered and adored. Too many had the feeling they were bulletproof and immune to rules. They acted like arrogant marauders".
 
-This federal investigation and settlement established critical context: the same Missoula law enforcement and prosecutorial entities that systematically discriminated against sexual assault victims through gender bias created the institutional environment in which subsequent abuses—including those documented in Mr. Nuno's case—would flourish. The YWCA Missoula, explicitly identified in the 2014 DOJ settlement as a "community partner" in reformed processes, subsequently became a vehicle for institutional retaliation rather than victim advocacy.
+This federal investigation and settlement established critical context: the same Missoula law enforcement and prosecutorial entities that systematically discriminated against sexual assault victims through gender bias created the institutional environment in which subsequent abuses—including those documented in Mr. Nuno's case—would flourish. The **YWCA of Missoula**, explicitly identified in the 2014 DOJ settlement as a "community partner" in reformed processes, subsequently became a vehicle for institutional retaliation rather than victim advocacy.
 
 ***
 
-### II. YWCA Missoula: From Victim Advocacy to Institutional Weapon
+### II. YWCA of Missoula: From Victim Advocacy to Institutional Weapon
 
 #### A. Structural Corruption: Detective Connie Brueckner's Dual Role
 
-The most egregious institutional conflict enabling systematic abuse is Detective Connie Brueckner's simultaneous service on the YWCA Missoula Board of Directors while investigating complaints against YWCA employees. ProPublica nonprofit records conclusively establish Brueckner as a YWCA Board member-at-large with her employer identified as "Missoula PD".
+The most egregious institutional conflict enabling systematic abuse is Detective Connie Brueckner's simultaneous service on the **YWCA of Missoula** Board of Directors while investigating complaints against YWCA employees. ProPublica nonprofit records conclusively establish Brueckner as a YWCA Board member-at-large with her employer identified as "Missoula PD" (i.e., **Missoula Police Department (MPD)**).
 
 This arrangement creates:
 
@@ -148,7 +149,7 @@ The client's discovery that a YWCA staff member maintained personal social media
 
 **Pattern of Disability Discrimination:**
 
-Clients consistently report that YWCA Missoula performs poorly with disabled clients. One victim stated: "when I looked up crap about them they have tons of bad reviews at not being very good with the disabled which I can attest to". This pattern, combined with reports of discrimination against "advocacy-minded clients," raises potential liability under the Americans with Disabilities Act.
+Clients consistently report that **YWCA of Missoula** performs poorly with disabled clients. One victim stated: "when I looked up crap about them they have tons of bad reviews at not being very good with the disabled which I can attest to". This pattern, combined with reports of discrimination against "advocacy-minded clients," raises potential liability under the Americans with Disabilities Act.
 
 #### C. The Arthur Brown Case: Court Manipulation
 
@@ -411,7 +412,7 @@ Officer Smith's commanding officer **removed him from the case** for "obvious ap
 
 #### A. Strip Search Demands and Institutional Capture
 
-The LifeGuard Group's LifeHouse at Crooked Tree Ranch, operating as an anti-human trafficking safe house, exemplifies how institutional capture and weak oversight enable systematic abuse beyond YWCA facilities. Since opening in 2023, **four women and two children have fled the ranch to stay at the YWCA Missoula shelter**.
+The LifeGuard Group's LifeHouse at Crooked Tree Ranch, operating as an anti-human trafficking safe house, exemplifies how institutional capture and weak oversight enable systematic abuse beyond YWCA facilities. Since opening in 2023, **four women and two children have fled the ranch to stay at the YWCA of Missoula shelter**.
 
 Montana Department of Justice correspondence documents that **staff requested strip and cavity searches of a survivor and her daughter** at the safe house. Later DOJ communications characterized these as "inappropriate practices" but apparently did not produce a formal criminal investigation.
 
@@ -424,7 +425,7 @@ LifeGuard Group is:
 * Operates with close law enforcement and state connections similar to YWCA integration
 * **Not directly regulated** by Montana DOJ, revealing "systemic regulatory voids in the broader victim-advocacy and shelter ecosystem"
 
-The Crooked Tree Ranch case demonstrates that institutional capture and weak oversight extend beyond YWCA Missoula, forming a **pattern where organizations with deep law-enforcement ties engage in questionable or harmful practices with minimal external accountability**.
+The Crooked Tree Ranch case demonstrates that institutional capture and weak oversight extend beyond **YWCA of Missoula**, forming a **pattern where organizations with deep law-enforcement ties engage in questionable or harmful practices with minimal external accountability**.
 
 ***
 
@@ -442,7 +443,7 @@ Despite substantial ongoing flows of HUD, Continuum of Care (CoC), Emergency Sol
 
 #### B. Manufactured Homelessness Through Policy Manipulation
 
-YWCA Missoula operates with capacity policies that **manufacture periods of homelessness**:
+**YWCA of Missoula** operates with capacity policies that **manufacture periods of homelessness**:
 
 * **90-day shelter limits** followed by **30-day waiting periods** creating artificial gaps in housing
 * **Selective policy enforcement**: Staff bend policies for compliant clients while strictly enforcing gaps on those who "ruffle feathers by advocating for fair treatment"
@@ -609,7 +610,7 @@ The documented evidence spans:
 
 The civil rights violations documented in the case of Elvis Nuno represent not an isolated incident of overzealous prosecution but rather a manifestation of deeply entrenched institutional corruption within Missoula's law enforcement, prosecutorial, and victim advocacy systems. The evidence presented—spanning federal investigations, victim testimony, employee reviews, court records, and institutional documents—establishes systematic patterns of abuse affecting multiple populations across more than a decade.
 
-The 2012-2014 federal investigation found Missoula law enforcement and prosecutors engaged in systematic gender discrimination that made the city "America's rape capital." Rather than producing lasting reform, the settlement created surface compliance while enabling deeper institutional capture. The YWCA Missoula, designated as a "community partner" in reformed processes, became a vehicle for institutional retaliation through Detective Connie Brueckner's unprecedented dual role as both Board member and investigating officer.
+The 2012-2014 federal investigation found Missoula law enforcement and prosecutors engaged in systematic gender discrimination that made the city "America's rape capital." Rather than producing lasting reform, the settlement created surface compliance while enabling deeper institutional capture. The **YWCA of Missoula**, designated as a "community partner" in reformed processes, became a vehicle for institutional retaliation through Detective Connie Brueckner's unprecedented dual role as both Board member and investigating officer.
 
 Current and former YWCA clients report confidentiality violations, disability discrimination, selective service delivery punishing advocates, weaponization of child protective services reporting, and letters to judges lacking factual foundation. Employee reviews spanning 2018-2024 document untrained staff, exploitative compensation, oppressive management, and mistrust of leadership. Police accountability metrics show near-zero civilian complaint success, particularly for use-of-force and discrimination claims. The homelessness industrial complex perpetuates crisis for profit through 90-day shelter limits, 30-day waiting periods, and bias-based service allocation.
 

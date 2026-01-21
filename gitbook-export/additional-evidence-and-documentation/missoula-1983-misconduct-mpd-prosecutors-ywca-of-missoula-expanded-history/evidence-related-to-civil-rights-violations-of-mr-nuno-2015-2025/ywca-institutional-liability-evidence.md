@@ -3,6 +3,7 @@
 This page groups notice, ratification, and state-action indicators tied to YWCA-related conduct.
 
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Jump index: [YWCA of Missoula board conflicts (investigative index)](ywca-of-missoula-board-conflicts-investigative-index.md)
 
 ### Knowledge and ratification
 

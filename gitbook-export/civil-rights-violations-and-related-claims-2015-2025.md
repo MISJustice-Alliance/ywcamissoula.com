@@ -7,14 +7,14 @@ tags:
   - Montana
   - 2015-2025
 description: >-
-  Legal analysis of alleged civil rights violations (2015-2025): malicious
-  prosecution, constitutional claims, Section 1983 theories, and damages
-  analysis in Missoula.
+  Missoula §1983 misconduct analysis (2015-2025): First/Fourteenth Amendment
+  claims, malicious prosecution, prosecutorial misconduct, and damages in the
+  Nuno case record.
 ---
 
-# Civil Rights Violations and Related Claims (2015-2025)
+# Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)
 
-## Introduction
+## Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)
 
 This comprehensive legal analysis examines a decade-long pattern of systematic civil rights violations, malicious prosecution, and abuse of power perpetrated against Mr Nuno by multiple governmental and quasi-governmental entities in Missoula, Montana.
 
@@ -25,6 +25,38 @@ This comprehensive legal analysis examines a decade-long pattern of systematic c
 * **Economic Damages**: Loss of $150,000/year IT consulting contract and career destruction totaling over $2.1 million
 * **Legal Malpractice**: Attorney Bryan Tipp's failures in representation
 * **Estimated Total Damages**: $11.4 million including punitive damages and RICO treble damages
+
+### FAQ (claims + evidence navigation)
+
+#### What legal claims are summarized here?
+
+This page centers on constitutional claims (First, Fourth, Fourteenth Amendments) and federal civil-rights theories.
+
+It also references malicious prosecution, Brady issues, and related damages framing.
+
+#### Where should I start if I’m verifying facts rather than reading analysis?
+
+Use the timeline first, then follow each event into primary record.
+
+Start with [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md) and [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md).
+
+#### Where is the “theme → evidence” map?
+
+Use the evidence map page and its sub-pages by claim type.
+
+Start here: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/).
+
+#### How does this connect to alleged revictimization in “victim advocacy” systems?
+
+The analysis treats victim-services channels as potential leverage points.
+
+It focuses on alleged retaliation after complaints and conflict-infected advocacy workflows.
+
+#### Where do I go for deeper legal theory?
+
+Use the Legal Analysis section, especially Fourteenth Amendment and institutional capture material.
+
+Start with [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md) and [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md).
 
 ## I. Background and Timeline of Events
 
