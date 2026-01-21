@@ -121,6 +121,45 @@ Because individual comments can be deleted or edited over time, the most durable
   * **Affirm OP’s general concern**, saying versions of “I believe this is happening,” or “I’ve heard similar stories,” or “I’m not surprised.”
   * Criticize the tone or density of OP’s documentation but still **acknowledge systemic issues** in Missoula’s institutions.
 
+#### Example: alleged intimidation using YWCA status + law-enforcement ties
+
+One response in the thread alleges exactly the kind of “soft power” intimidation that shows up across victim reports.
+
+> "Ive known of at least one YWCA employee abusing their status and legal connections to intimidate and threaten people in their personal life, outside of their work. Think "you better do what I want or else ill have my cop buddy fuck with you/cook up a story to CPS/use my position to deny you or your loved one service." Think "jilted lover"
+>
+> A complaint was filed. Nothing came of it. Employee got a promotion not long afterward. Im not surprised if it wasnt an isolated issue."
+
+This is an echo of a broader pattern described throughout this project. The claim is not just “bad service.” It is alleged **retaliation leverage** via police/CPS adjacency.
+
+It is also a direct parallel to the Nuno case record. That record repeatedly centers alleged escalation after complaints and alleged “advocacy” channels being weaponized. Start here: [Nuno case system overview and full article index](../../overview/nuno-case-system-overview-and-full-article-index.md).
+
+For the closest YWCA-specific parallels in this documentation, see:
+
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+
+**Concrete citation list (YWCA parallels)**
+
+Use these when you want “show me the artifact,” not just narrative.
+
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+  * [Harassment screenshot compilation (Tyleen Root)](https://cr-2025-002-evidence-18_misjusticealliance.arweave.net/)
+  * [YWCA email complaint + witness statement](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
+  * [E-Mail correspondence w/ Bryan Tipp (Jan 2021)](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
+  * [CR-2025-002 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](../../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
+  * [2017 Complaint to YWCA President (packet)](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
+  * [Google review 01 (screenshot)](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/)
+  * [Google review 02 (screenshot)](https://cr-2025-002-evidence-7_misjusticealliance.arweave.net/)
+  * [Arthur Brown Google review (screenshot)](https://cr-2025-001-evidence-10_misjusticealliance.arweave.net/)
+  * [Reddit complaints (screenshot)](https://cr-2025-001-evidence-9_misjusticealliance.arweave.net/)
+  * [Alleged confidentiality breach (screenshot)](https://cr-2025-001-evidence-21_misjusticealliance.arweave.net/)
+  * [CR-2025-001 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+
+If you need the closest “mechanism match” narrative to the Reddit quote (complaint → no action → ratification / escalation), use:
+
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+
 In other words, even on a thread where hostility and skepticism are overrepresented, **there is non-trivial corroboration**: five people publicly came forward, and two more reached out privately.
 
 That is precisely what victim-outreach efforts aim to test: are there isolated grievances, or do people independently step forward with aligned patterns once a safe‑enough prompt exists?
