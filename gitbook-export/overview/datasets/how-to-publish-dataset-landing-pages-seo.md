@@ -2,6 +2,7 @@
 description: >-
   A lightweight pattern for making evidence collections easier to index and
   cite.
+hidden: true
 ---
 
 # How to publish dataset landing pages (SEO)

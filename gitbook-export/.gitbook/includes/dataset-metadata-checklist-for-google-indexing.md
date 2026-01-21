@@ -19,7 +19,3 @@ Use this checklist at the top of any dataset landing page.
 * **License / usage** (if unclear, say “Unspecified”)
 * **Citation format** (how you want people to cite)
 * **Limitations** (redactions, missing items, verification notes)
-
-{% hint style="info" %}
-Google “Dataset” results usually require machine-readable structured data. If you have a place to add it, publish a structured data block that matches the fields above.
-{% endhint %}

@@ -10,12 +10,6 @@ This is a **single JSON-LD bundle** you can paste into your site `<head>`.
 
 If you prefer a file, copy the block into `structured-data.jsonld`.
 
-{% hint style="info" %}
-This bundle uses the base URL `https://www.ywcaofmissoula.com`.
-
-If your published URLs differ, update `@id`, `url`, and `contentUrl` values.
-{% endhint %}
-
 ```json
 {
   "@context": "https://schema.org",
@@ -142,10 +136,3 @@ If your published URLs differ, update `@id`, `url`, and `contentUrl` values.
   ]
 }
 ```
-
-### How to turn this into a zip
-
-1. Copy the JSON block into `structured-data.jsonld`.
-2. Zip it locally.
-
-GitBook can’t attach a zip directly in this workspace.
