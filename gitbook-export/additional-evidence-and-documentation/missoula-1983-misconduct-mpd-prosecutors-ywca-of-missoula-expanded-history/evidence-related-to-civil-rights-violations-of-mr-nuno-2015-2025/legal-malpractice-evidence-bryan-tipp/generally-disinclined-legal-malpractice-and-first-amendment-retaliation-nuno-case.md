@@ -438,40 +438,7 @@ Nuno has already filed **June 1, 2025 Complaint** with Montana Office of Discipl
 
 ***
 
-### IX. PROCEDURAL POSTURE & NEXT STEPS
-
-#### A. Immediate Actions (Next 30 Days)
-
-1. **Retain Montana-licensed civil malpractice counsel** experienced in legal malpractice and federal civil rights coordination
-2. **Issue demand letter** to Tipp Coburn Lockwood P.C. (and their insurance carrier) with:
-   * Detailed factual chronology (Oct 15–Jan 6, 2021)
-   * Email exhibits (Oct 15, Dec 23 exchange; Jan 4 escalation)
-   * Legal analysis of each MRPC breach
-   * Damages calculation with expert valuation
-   * Request for settlement authority
-3. **Serve subpoena on Tipp firm** for complete case file (RPC 1.16(d) compliance); obtain time records, internal email communications, retention agreement
-4. **Identify and retain legal malpractice expert witness** (out-of-state recommended to avoid local bar conflicts) to opine on standard of care
-
-#### B. Short-Term (30–90 Days)
-
-1. **Conduct discovery exchange** with Tipp firm's counsel
-2. **Retain economist** to quantify lost 1983 and defamation verdicts; calculate career damages
-3. **Draft complaint** identifying four key breaches:
-   * Failure to advise SOL deadlines (Rule 1.4)
-   * Failure to investigate Brueckner conflict (Rule 1.1)
-   * Failure to provide requested institutional letter (Rule 1.3)
-   * Failure to provide exit advisement upon dismissal (Rule 1.16(d))
-4. **Prepare for settlement negotiation** with insurance carrier; establish BATNA (walk-away value if no settlement by \[date])
-
-#### C. Medium-Term (3–6 Months)
-
-1. **If no settlement:** File complaint in Montana District Court (likely Missoula County or federal diversity)
-2. **Pursue equitable tolling arguments** for any 1983 claims Nuno wishes to assert in parallel federal civil rights action (separate litigation)
-3. **Coordinate with federal civil rights counsel** on timing of complementary § 1983 filings against Missoula PD, prosecutors, YWCA
-
-***
-
-### X. EVIDENCE & DOCUMENTATION
+### IX. EVIDENCE & DOCUMENTATION
 
 #### Primary Evidence
 
@@ -488,7 +455,7 @@ Nuno has already filed **June 1, 2025 Complaint** with Montana Office of Discipl
 
 ***
 
-### XI. ANTICIPATED JUDICIAL RECEPTIVITY
+### X. ANTICIPATED JUDICIAL RECEPTIVITY
 
 #### Montana State Court Factors Favoring Plaintiff
 
@@ -500,7 +467,7 @@ Nuno has already filed **June 1, 2025 Complaint** with Montana Office of Discipl
 
 ***
 
-### XII. CONCLUSION & RECOMMENDATIONS
+### XI. CONCLUSION & RECOMMENDATIONS
 
 #### Summary of Breach
 
