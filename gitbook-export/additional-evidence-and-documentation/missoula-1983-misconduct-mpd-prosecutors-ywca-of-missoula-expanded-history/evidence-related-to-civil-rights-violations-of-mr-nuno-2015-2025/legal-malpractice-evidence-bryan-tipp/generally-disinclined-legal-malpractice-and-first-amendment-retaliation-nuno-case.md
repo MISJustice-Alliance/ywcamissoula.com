@@ -484,14 +484,6 @@ Bryan Tipp's malpractice is **structural and multi-layered:**
 * **Non-economic damages:** Ongoing PTSD, career destruction, family trauma
 * **Punitive exposure:** $9.6M–$25.2M (institutional recklessness multiplier)
 
-#### Recommended Litigation Strategy
-
-**Phase 1 (Immediate):** Demand letter + expert retention → Settlement negotiation window realistic by Q2 2026
-
-**Phase 2 (Contingency):** File state court complaint if no settlement → Anticipate Tipp firm's weak counter-arguments; prepare for deposition testimony that will likely contradict defensive claims
-
-**Phase 3 (Coordination):** Use malpractice settlement proceeds to fund federal civil rights action (§ 1983 with equitable tolling arguments) + RICO claims against institutional defendants
-
 ***
 
 ### FINAL OBSERVATION
