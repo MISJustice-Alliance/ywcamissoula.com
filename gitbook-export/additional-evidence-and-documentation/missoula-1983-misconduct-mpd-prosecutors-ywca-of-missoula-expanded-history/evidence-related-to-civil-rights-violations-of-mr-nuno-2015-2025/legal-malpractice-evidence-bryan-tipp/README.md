@@ -2,7 +2,13 @@
 
 This page focuses on records showing knowledge, advice, and resulting statute exposure.
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../)
+
+### Key pages
+
+* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md) (deep dive; Dec 23, 2020 correspondence)
+* [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../../../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md) (overview)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../../../../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md) (primary filings)
 
 ### “Give the matter time” + statute risk
 
@@ -28,4 +34,4 @@ This page focuses on records showing knowledge, advice, and resulting statute ex
 
 ***
 
-**Previous:** [First Amendment retaliation evidence (protected speech → escalation)](first-amendment-retaliation-evidence-protected-speech-escalation.md) · **Next:** [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md)
+**Previous:** [First Amendment retaliation evidence (protected speech → escalation)](../first-amendment-retaliation-evidence-protected-speech-escalation.md) · **Next:** [Prosecutorial misconduct evidence](../prosecutorial-misconduct-evidence.md)

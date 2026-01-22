@@ -33,6 +33,7 @@ Related starting points:
 
 * [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
 * [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
 
 ### Suggested reading order
 

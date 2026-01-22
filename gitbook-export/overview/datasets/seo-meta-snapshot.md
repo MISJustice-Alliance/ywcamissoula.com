@@ -10,7 +10,7 @@ description: >-
 
 Use this as an exportable reference for search metadata.
 
-Last updated: **2026-01-21**
+Last updated: **2026-01-22**
 
 ### Site-level focus (search intent)
 
@@ -62,6 +62,19 @@ Core legal framing:
 * Target queries:
   * `Missoula civil rights timeline 2014 2025`
   * `Section 1983 Missoula timeline`
+
+### High-value analysis pages (should index)
+
+#### "Generally disinclined" malpractice analysis (Dec 23, 2020 correspondence)
+
+* URL: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
+* Title: `"Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)`
+* Description: `How Bryan Tipp’s refusal to act on known First Amendment retaliation and harassment cost Elvis Nuno his civil rights claims.`
+* Target queries:
+  * `Bryan Tipp generally disinclined`
+  * `Montana legal malpractice statute of limitations`
+  * `First Amendment retaliation Missoula`
+  * `Missoula Deputy County Attorney Brian Lowney letter December 23 2020`
 
 ### Dataset landing pages (collection-level SEO)
 

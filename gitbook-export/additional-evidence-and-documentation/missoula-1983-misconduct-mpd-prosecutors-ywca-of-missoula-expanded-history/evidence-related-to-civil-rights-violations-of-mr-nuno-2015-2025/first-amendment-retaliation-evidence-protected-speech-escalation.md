@@ -19,6 +19,10 @@ For a Missoula-specific, MPD-focused jump page, use: [MPD retaliation and escala
 * Escalation despite weak or absent evidence.
 * Consistent patterns across different venues and time periods.
 
+### Related deep dive
+
+* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md) (Dec 23, 2020 correspondence; SOL timing)
+
 ***
 
-**Previous:** [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md) · **Next:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp.md)
+**Previous:** [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md) · **Next:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/)
