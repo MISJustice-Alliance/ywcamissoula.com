@@ -292,8 +292,8 @@ Conservative valuation of claims expired due to Tipp's malpractice:
 * Ongoing emotional distress, PTSD, agoraphobia (diagnosed)
 * Inability to pursue accountability against perpetrators
 * Professional reputation destruction (unremediable now)
-* Family trauma (parental health decline, sibling stress)
-* Two forced interstate relocations to escape harassment
+* Family trauma (parental health decline)
+* Two forced interstate relocations to escape threats and harassment
 
 **Punitive damages multiplier:**
 
