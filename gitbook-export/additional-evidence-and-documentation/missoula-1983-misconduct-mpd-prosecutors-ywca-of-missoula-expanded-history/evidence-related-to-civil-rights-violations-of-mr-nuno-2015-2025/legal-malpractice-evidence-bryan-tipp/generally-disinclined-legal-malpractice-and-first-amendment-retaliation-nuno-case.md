@@ -1,7 +1,8 @@
 ---
 description: >-
   How Bryan Tipp’s refusal to act on known First Amendment retaliation and
-  harassment cost Elvis Nuno his civil rights claims.
+  harassment cost Mr Nuno his reputation, career, company, and civil rights
+  claims.
 ---
 
 # "Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)
