@@ -40,7 +40,7 @@ This date is pivotal in any comprehensive legal analysis because it establishes:
 
 #### A. Objective Reality: 24/7 Electronic Monitoring and Travel Ban
 
-Mr. Nuno was subjected to the following conditions of pretrial release while representing himself and then under Tipp's representation (mid-2018 through January 2021):
+Mr. Nuno was subjected to the following conditions of pretrial release while representing himself and then under Tipp's representation (mid-2018 through December 2021):
 
 * **GPS ankle bracelet**: Continuous electronic monitoring, tracked in real-time by law enforcement.
 * **Geographic confinement**: Prohibited from leaving Missoula County without prior written court permission.
