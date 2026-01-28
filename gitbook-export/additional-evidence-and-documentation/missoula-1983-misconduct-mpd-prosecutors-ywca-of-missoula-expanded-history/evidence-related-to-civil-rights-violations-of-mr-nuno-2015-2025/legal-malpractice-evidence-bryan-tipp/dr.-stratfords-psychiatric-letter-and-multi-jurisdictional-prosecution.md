@@ -78,13 +78,13 @@ Mr. Nuno faced simultaneous or near-simultaneous criminal prosecutions across mu
 
 **Multi-Jurisdictional Criminal Prosecutions: 2015-2021**
 
-| Jurisdiction | Case Type                  | Year(s)   | Outcome                                 | Allegations                              |
-| ------------ | -------------------------- | --------- | --------------------------------------- | ---------------------------------------- |
-| Seattle, WA  | Harassment (Case 613225)   | 2015-2016 | Dismissed with prejudice Aug 2016       | False 911 call; false DV order violation |
-| Edmonds, WA  | Stalking/DV-related        | 2016-2017 | Dismissed/Ineffective assistance raised | False report from Danielle Chard         |
-| Bellevue, WA | Stalking/DV-related        | 2016-2017 | Dismissed                               | Pattern of false reporting               |
-| Tumwater, WA | Harassment/Stalking        | 2016-2017 | Dismissed                               | Cross-jurisdictional coordination        |
-| Missoula, MT | Stalking (multiple counts) | 2017-2018 | Dismissed with prejudice Jan 2021       | Retaliatory charges post-YWCA complaint  |
+| Jurisdiction | Case Type                  | Year(s)   | Outcome                                    | Allegations                              |
+| ------------ | -------------------------- | --------- | ------------------------------------------ | ---------------------------------------- |
+| Seattle, WA  | Harassment (Case 613225)   | 2015-2016 | Dismissed with prejudice Aug 2016          | False 911 call; false DV order violation |
+| Edmonds, WA  | Stalking/DV-related        | 2016-2017 | Coerced Plea/Ineffective assistance raised | False report from Danielle Chard         |
+| Bellevue, WA | Stalking/DV-related        | 2016-2019 | Coerced Pleas/Witness Tampering            | Pattern of false reporting               |
+| Tumwater, WA | Harassment/Stalking        | 2016-2019 | Coerced Plea/Witness Tampering             | Cross-jurisdictional coordination        |
+| Missoula, MT | Stalking (multiple counts) | 2017-2021 | Dismissed with prejudice Jan 2021          | Retaliatory charges post-YWCA complaint  |
 
 #### B. Chronological Cascade: Correlation with Protected Activity
 
