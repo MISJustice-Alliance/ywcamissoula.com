@@ -92,14 +92,14 @@ The pattern of prosecutions shows direct correlation with Mr. Nuno's protected s
 
 **2015–2016: Initial False Reports (Washington)**
 
-* December 4, 2015: Danielle Chard files false harassment report with Seattle PD (Report 2015-421345), alleging Mr. Nuno contacted her via email after a breakup.
+* December 4, 2015: Danielle Chard files false harassment report with Seattle PD (Report 2015-421345), alleging Mr. Nuno contacted her via email after a breakup, evidence of continued bi-directional communication uncovered from prosecutions subpoena of phone records.
 * August 23, 2016: Seattle Municipal Court dismisses Case 613225 "with prejudice due to proof," signaling insufficient evidence supported the original complaint.
 * Pattern: Serial false reports from the Chard sisters across Washington jurisdictions (Edmonds, Bellevue, Tumwater) trigger investigations, despite weak evidence.
 
 **2017: The Trigger Event—Mr. Nuno's Protected YWCA Complaint**
 
 * September 17, 2017: Mr. Nuno files formal written complaint with YWCA Missoula leadership, documenting harassment and misconduct by E'Lise Chard (YWCA staff member) and requesting institutional remedies. This is core protected petitioning activity under the First Amendment and Montana law.
-* September 2017–December 2017: Investigation lead Detective Connie Brueckner (simultaneously serving on YWCA board of directors) escalates contact with E'Lise Chard, creating apparent conflict of interest.
+* September 2017–December 2017: Detective Ethan Smith removed from case; investigation assigned to Detective Connie Brueckner (simultaneously serving on YWCA board of directors) escalates case with E'Lise Chard, creating clear conflict of interest.
 
 **2017–2018: Retaliatory Escalation in Missoula**
 
@@ -109,13 +109,13 @@ The pattern of prosecutions shows direct correlation with Mr. Nuno's protected s
 
 **2018–2019: Parallel Washington Prosecutions Continue**
 
-* Coerced plea in Washington involving fraudulent psychological evaluation by Dr. Miranda (September 2016 eval later discovered to contain fabrications, yet used to support charges).
+* Coerced plea in Washington involving ineffective legal council, followed by fraudulent psychological evaluation by Dr. Miranda (September 2016 eval later discovered to contain fabrications, yet used to support charges, as well as serious HIPPA violations).
 * Tipp fails to coordinate multi-state defense, leaving Washington prosecutions unaddressed.
 
-**January 6, 2021: Dismissal**
+**December 6, 2021: Dismissal**
 
 * All Missoula County charges (DC-18-587) dismissed with prejudice by motion, finding insufficient evidence.
-* Criminal case closed after 3+ years of prosecution, GPS monitoring, and psychological devastation.
+* Criminal case closed after 3+ years of prosecution, GPS monitoring, loss of career, and psychological devastation.
 
 #### C. Pattern-or-Practice Analysis: Elements of Coordinated Retaliation
 
