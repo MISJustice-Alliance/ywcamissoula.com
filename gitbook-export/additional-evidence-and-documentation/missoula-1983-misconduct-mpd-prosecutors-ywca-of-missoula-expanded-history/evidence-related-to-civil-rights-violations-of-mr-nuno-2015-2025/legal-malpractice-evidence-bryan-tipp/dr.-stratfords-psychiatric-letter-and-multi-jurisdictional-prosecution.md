@@ -299,9 +299,9 @@ These satisfy Montana's definition of "severe emotional distress"—not mere ups
 Washington cases (2015–2017) were relatively quickly dismissed or found insufficient:
 
 * **Seattle (Case 613225)**: Dismissed with prejudice August 23, 2016 "due to proof"—language indicating insufficient evidence to support original complaint.
-* **Edmonds, Bellevue, Tumwater**: Dismissed or marked for ineffective assistance of counsel; pattern of weak evidence.
+* **Edmonds, Bellevue, Tumwater**: Coerced pleas marked for ineffective assistance of counsel and witness tampering; pattern of weak evidence.
 
-**Analysis**: Washington prosecutors appear to have recognized the falsity and retaliatory nature of charges, leading to dismissals. The rapid disposition allowed Mr. Nuno brief respite from Washington jurisdiction prosecutions, though parallel harassment continued through employment discrimination and cyber-stalking by the Chard sisters and YWCA affiliates.
+**Analysis**: Washington prosecutors appear to have recognized the falsity and retaliatory nature of charges, leading to dismissal, or extreme measures to coerce pleas by witness tampering via threats to Mr Nuno's romantic partner. Parallel harassment continued through employment discrimination and cyber-stalking by the Chard sisters and YWCA affiliates.
 
 #### B. Missoula Cases: Prolonged Prosecution and Institutional Capture
 
