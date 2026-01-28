@@ -45,7 +45,7 @@ Mr. Nuno was subjected to the following conditions of pretrial release while rep
 * **GPS ankle bracelet**: Continuous electronic monitoring, tracked in real-time by law enforcement.
 * **Geographic confinement**: Prohibited from leaving Missoula County without prior written court permission.
 * **Mobility restrictions**: Functionally under house arrest, with exceptions only for attorney appointments, medical visits, employment, and religious observance (if approved).
-* **Surveillance period**: Continuous from approximately September 2018 through January 6, 2021 (dismissal date)—approximately 28 months of 24/7 tracking.
+* **Surveillance period**: Continuous from approximately September 2018 through December 6, 2020 (dismissal date)—approximately 18 months of 24/7 tracking.
 
 #### B. Dr. Stratford's "Constantly Watched" Symptom: From Paranoia to Rational Response
 
