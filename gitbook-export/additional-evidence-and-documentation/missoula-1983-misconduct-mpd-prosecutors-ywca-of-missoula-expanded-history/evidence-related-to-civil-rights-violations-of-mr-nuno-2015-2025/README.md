@@ -29,7 +29,7 @@ This evidence map is split into smaller pages.
 * [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md)
 * [MPD retaliation and escalation after complaints (evidence index)](mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
 * [First Amendment retaliation evidence (protected speech → escalation)](first-amendment-retaliation-evidence-protected-speech-escalation.md)
-* [Legal malpractice evidence (Bryan Tipp)](../legal-malpractice-evidence-bryan-tipp/)
+* [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/)
 * [Prosecutorial misconduct and Brady issues (evidence index)](prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 * [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md)
 * [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)

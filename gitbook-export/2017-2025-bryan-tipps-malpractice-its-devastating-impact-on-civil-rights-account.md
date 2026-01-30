@@ -21,8 +21,8 @@ Bryan Tipp's advice to "give the matter time," coupled with his refusal to pursu
 
 ### Key supporting analysis
 
-* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md) (Dec 23, 2020 correspondence + SOL timing)
-* Evidence hub: [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/)
+* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md) (Dec 23, 2020 correspondence + SOL timing)
+* Evidence hub: [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
 
 ## I. Applicable Standards Governing Attorney Conduct
 
