@@ -9,13 +9,15 @@ tags:
   - Missoula
   - Montana
 description: >-
-  Bryan Tipp malpractice analysis (2017-2025). Missed statutes of limitation,
-  lost Section 1983 claims, and civil rights damages.
+  Bryan Tipp malpractice analysis (Missoula / 2017–2025): missed statutes of
+  limitation, lost §1983 claims, and quantified civil-rights damages.
 ---
 
-# 2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability
+# Bryan Tipp malpractice (2017–2025): missed §1983 deadlines and civil-rights damages
 
 ## Introduction
+
+Quick hub: [Bryan Tipp](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md).
 
 Bryan Tipp's advice to "give the matter time," coupled with his refusal to pursue or even explain available civil remedies, breached core duties of competence, diligence, and communication. The breach let the three-year Montana statute of limitations expire on every viable Section 1983, defamation, IIED, and false-imprisonment claim arising from 2015-2018 incidents.
 

@@ -1,9 +1,9 @@
 ---
 title: Civil Rights Violations Documentation
 description: >-
-  Documentation focused on alleged misconduct by MPD, Missoula County
-  prosecutors, and YWCA of Missoula (2012–present). The Nuno case is the core
-  case study (2015–2025).
+  Alleged misconduct involving YWCA Missoula, Missoula Police (MPD),
+  prosecutors, and attorney Bryan Tipp. Nuno case is the evidence spine
+  (2015–2025).
 ---
 
 # Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)
@@ -11,6 +11,12 @@ description: >-
 ## Introduction
 
 This site documents alleged misconduct tied to three core institutions in Missoula. Those institutions are Missoula Police Department (MPD), Missoula County prosecutors, and YWCA of Missoula.
+
+### Common searches (fast entry points)
+
+* [YWCA Missoula](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* [Bryan Tipp](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
+* [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 
 **The Nuno case (2015–2025) is the detailed case study and evidentiary spine. It is used as a springboard into wider endemic issues in this local law enforcement, prosecutorial, and "victim advocacy" ecosystem.**
 

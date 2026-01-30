@@ -10,7 +10,7 @@ description: >-
 
 Use this as an exportable reference for search metadata.
 
-Last updated: **2026-01-22**
+Last updated: **2026-01-30**
 
 ### Site-level focus (search intent)
 
@@ -45,6 +45,40 @@ Core legal framing:
   * `Missoula prosecutors civil rights violations`
   * `YWCA of Missoula conflict of interest`
 
+#### Search hubs (exact-match queries)
+
+These pages are designed to be the first click from common branded searches.
+
+**YWCA Missoula**
+
+* URL: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* Title: `YWCA Missoula: conflicts of interest, MPD integration, and evidence index`
+* Description: `YWCA Missoula (YWCA of Missoula): allegations of conflict of interest, police/prosecutor integration signals, and a curated index of primary records and analysis.`
+* Target queries:
+  * `YWCA Missoula`
+  * `YWCA of Missoula`
+  * `YWCA Missoula conflict of interest`
+
+**Bryan Tipp**
+
+* URL: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](../bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
+* Title: `Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index`
+* Description: `Bryan Tipp (Tipp, Colburn, Lockwood): malpractice allegations tied to missed statutes of limitations and lost §1983 claims, with links to bar-complaint filings and supporting records.`
+* Target queries:
+  * `Bryan Tipp`
+  * `Tipp Colburn Lockwood`
+  * `Montana Bar complaint Bryan Tipp`
+
+**Missoula Police**
+
+* URL: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](../missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
+* Title: `Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index`
+* Description: `Missoula Police Department (MPD): curated entry point for alleged misconduct, retaliation patterns, warrants/searches, and links into primary records and case timelines.`
+* Target queries:
+  * `Missoula Police`
+  * `Missoula Police Department`
+  * `MPD Missoula`
+
 #### System overview / site map
 
 * URL: [Nuno case system overview and full article index](../nuno-case-system-overview-and-full-article-index.md)
@@ -75,6 +109,17 @@ Core legal framing:
   * `Montana legal malpractice statute of limitations`
   * `First Amendment retaliation Missoula`
   * `Missoula Deputy County Attorney Brian Lowney letter December 23 2020`
+
+#### Stratford psychiatric letter (Apr 10, 2019) + GPS monitoring harm
+
+* URL: [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](../../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
+* Title: `2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice`
+* Description: `April 10, 2019 psychiatric letter documenting harm during GPS monitoring and parallel MT/WA prosecutions; supports §1983, IIED, and malpractice analysis.`
+* Target queries:
+  * `Dr William Stratford letter April 10 2019`
+  * `GPS ankle monitor pretrial release Missoula`
+  * `Missoula stalking case dismissal with prejudice 2021`
+  * `Bryan Tipp malpractice psychiatric letter`
 
 ### Dataset landing pages (collection-level SEO)
 

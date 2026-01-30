@@ -17,13 +17,16 @@
   * [Timeline & claims map dataset](overview/datasets/timeline-and-claims-map-dataset.md)
   * [SEO meta snapshot](overview/datasets/seo-meta-snapshot.md)
   * [Structured data bundle (single file)](overview/datasets/structured-data-bundle-single-file.md)
+* [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
+* [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 
 ## Legal Analysis
 
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
 * [Missoula homelessness funding + institutional capture (YWCA of Missoula / MPD)](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
-* [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* [Bryan Tipp malpractice (2017–2025): missed §1983 deadlines and civil-rights damages](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
@@ -32,7 +35,7 @@
 ## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
-* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [YWCA Missoula: allegations and Brueckner conflict of interest](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
@@ -117,5 +120,5 @@
     * [Prosecutorial misconduct and Brady issues (evidence index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
   * [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/README.md)
     * ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
-    * [Dr. Stratford's Psychiatric Letter and Multi-Jurisdictional Prosecution](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/dr.-stratfords-psychiatric-letter-and-multi-jurisdictional-prosecution.md)
+    * [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
 * [Community Response to Police Misconduct Outreach in Missoula](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/community-response-to-police-misconduct-outreach-in-missoula.md)

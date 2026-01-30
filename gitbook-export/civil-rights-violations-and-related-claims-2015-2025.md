@@ -7,14 +7,16 @@ tags:
   - Montana
   - 2015-2025
 description: >-
-  Missoula §1983 misconduct analysis (2015-2025): First/Fourteenth Amendment
-  claims, malicious prosecution, prosecutorial misconduct, and damages in the
-  Nuno case record.
+  Missoula Police (MPD) §1983 misconduct analysis (2015-2025): First/Fourteenth
+  Amendment claims, malicious prosecution, prosecutorial misconduct, and damages
+  in the Nuno case record.
 ---
 
 # Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)
 
 ## Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)
+
+Quick hub: [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md).
 
 This comprehensive legal analysis examines a decade-long pattern of systematic civil rights violations, malicious prosecution, and abuse of power perpetrated against Mr Nuno by multiple governmental and quasi-governmental entities in Missoula, Montana.
 
