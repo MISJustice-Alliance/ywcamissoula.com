@@ -67,7 +67,7 @@ Core legal framing:
 
 #### "Generally disinclined" malpractice analysis (Dec 23, 2020 correspondence)
 
-* URL: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
+* URL: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
 * Title: `"Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)`
 * Description: `How Bryan Tipp’s refusal to act on known First Amendment retaliation and harassment cost Elvis Nuno his civil rights claims.`
 * Target queries:

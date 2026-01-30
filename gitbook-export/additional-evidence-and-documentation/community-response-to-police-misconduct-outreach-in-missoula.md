@@ -131,34 +131,34 @@ One response in the thread alleges exactly the kind of “soft power” intimida
 
 This is an echo of a broader pattern described throughout this project. The claim is not just “bad service.” It is alleged **retaliation leverage** via police/CPS adjacency.
 
-It is also a direct parallel to the Nuno case record. That record repeatedly centers alleged escalation after complaints and alleged “advocacy” channels being weaponized. Start here: [Nuno case system overview and full article index](../../overview/nuno-case-system-overview-and-full-article-index.md).
+It is also a direct parallel to the Nuno case record. That record repeatedly centers alleged escalation after complaints and alleged “advocacy” channels being weaponized. Start here: [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md).
 
 For the closest YWCA-specific parallels in this documentation, see:
 
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
 
 **Concrete citation list (YWCA parallels)**
 
 Use these when you want “show me the artifact,” not just narrative.
 
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
   * [Harassment screenshot compilation (Tyleen Root)](https://cr-2025-002-evidence-18_misjusticealliance.arweave.net/)
   * [YWCA email complaint + witness statement](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
   * [E-Mail correspondence w/ Bryan Tipp (Jan 2021)](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
-  * [CR-2025-002 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
-* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](../../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
+  * [CR-2025-002 — Case files index](missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
   * [2017 Complaint to YWCA President (packet)](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
   * [Google review 01 (screenshot)](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/)
   * [Google review 02 (screenshot)](https://cr-2025-002-evidence-7_misjusticealliance.arweave.net/)
   * [Arthur Brown Google review (screenshot)](https://cr-2025-001-evidence-10_misjusticealliance.arweave.net/)
   * [Reddit complaints (screenshot)](https://cr-2025-001-evidence-9_misjusticealliance.arweave.net/)
   * [Alleged confidentiality breach (screenshot)](https://cr-2025-001-evidence-21_misjusticealliance.arweave.net/)
-  * [CR-2025-001 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+  * [CR-2025-001 — Case files index](missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 
 If you need the closest “mechanism match” narrative to the Reddit quote (complaint → no action → ratification / escalation), use:
 
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 
 In other words, even on a thread where hostility and skepticism are overrepresented, **there is non-trivial corroboration**: five people publicly came forward, and two more reached out privately.
 

@@ -13,10 +13,10 @@ This document heavily references official correspondence between Bryan Tipp and 
 
 ### Quick links
 
-* Malpractice overview: [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../../../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* Malpractice overview: [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * Evidence hub: [Legal malpractice evidence (Bryan Tipp)](./)
-* Related (retaliation evidence): [First Amendment retaliation evidence (protected speech → escalation)](../first-amendment-retaliation-evidence-protected-speech-escalation.md)
-* Primary filings: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../../../../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* Related (retaliation evidence): [First Amendment retaliation evidence (protected speech → escalation)](../evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md)
+* Primary filings: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../../../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 
 ## Introduction
 
