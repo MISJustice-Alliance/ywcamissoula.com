@@ -34,6 +34,405 @@ Use it to sanity-check what Google can discover.
 * Use “Discovered URLs” vs “Indexed URLs” to spot gaps.
 * If the sitemap looks stale or missing pages, suspect caching. Re-check with a cache-buster (e.g. `?v=2026-01-31`) or purge CDN caches if you control them.
 
+#### Recommended sitemap.xml shape (practical defaults)
+
+This format is easier to diff and less noisy for crawlers:
+
+* Prefer **only** `<loc>` + `<lastmod>`.
+* Omit `<priority>` and `<changefreq>`.
+  * Google largely ignores them.
+  * Most generators set them incorrectly (everything becomes `0.84`).
+* Normalize `lastmod` to **date-only** (`YYYY-MM-DD`).
+  * Avoids “fake changes” caused by rebuild timestamps.
+* Spot-check any `<loc>` values that end mid-word.
+  * That often means a slug/path got truncated by a generator.
+
+<details>
+
+<summary>Optimized sitemap.xml (copy/paste)</summary>
+
+```xml
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.ywcaofmissoula.com</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/community-response-to-police-misconduct-outreach-in-missoula</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation</loc>
+    <lastmod>2026-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp</loc>
+    <lastmod>2026-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case</loc>
+    <lastmod>2026-01-22</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/intentional-infliction-of-extreme-psychological-trauma-2015-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/legal-analysis/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-c-constitutional-violations-identified-but-not-addressed</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-september-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/montana-legal-cases</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-cases/threats-malicious-harassment-from-ywca-associates-2020-2022</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/montana-state-complaints/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims</loc>
+    <lastmod>2026-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets</loc>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets/dataset-catalog</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets/official-complaints-dataset</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets/primary-records-dataset</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets/seo-meta-snapshot</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets/structured-data-bundle-single-file</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/datasets/timeline-and-claims-map-dataset</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index</loc>
+    <lastmod>2026-01-22</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/sources-and-record-index</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index</loc>
+    <lastmod>2026-01-18</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index</loc>
+    <lastmod>2026-01-30</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2016-dr-marta-j.l.-miranda-medical-malpractice-executive-summary-for-legal-advoc</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2016-dr.-marta-j.l.-miranda-psy.d.-professional-misconduct-hipaa-violations-d</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/2020-wa-cases-witness-tampering-coerced-pleas-and-the-impossible-catch-22-sit</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-cases/washington-legal-cases-index</loc>
+    <lastmod>2026-01-31</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici</loc>
+    <lastmod>2026-01-17</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+  <url>
+    <loc>https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016</loc>
+    <lastmod>2026-01-19</lastmod>
+  </url>
+
+  <url>
+    <loc>https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020</loc>
+    <lastmod>2026-01-21</lastmod>
+  </url>
+</urlset>
+```
+
+</details>
+
 ### Site-level focus (search intent)
 
 This documentation covers alleged misconduct and civil-rights issues involving:

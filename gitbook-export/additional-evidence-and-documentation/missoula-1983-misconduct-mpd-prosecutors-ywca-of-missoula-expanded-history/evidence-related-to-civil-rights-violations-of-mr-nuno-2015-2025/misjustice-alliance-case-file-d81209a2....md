@@ -27,4 +27,4 @@ Add items here as we extract them:
 
 ***
 
-**Previous:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md) · **Next:** [MisJustice Alliance case file: daf82b62](misjustice-alliance-case-file-daf82b62.md)
+**Previous:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md) · **Next:** [MisJustice Alliance case file: daf82b62](misjustice-alliance-case-file-daf82b62....md)
