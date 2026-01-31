@@ -20,6 +20,10 @@ It prioritizes record navigation over narrative.
 * Event-by-event spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary record index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 
+### Dataset landing page
+
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+
 ### High-signal MPD topics
 
 * Retaliation and escalation after complaints: [MPD retaliation and escalation after complaints (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index.md)

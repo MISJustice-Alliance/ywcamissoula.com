@@ -19,6 +19,10 @@ The record compiled here alleges conflicts of interest, confidentiality risk, an
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary record navigation: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 
+### Dataset landing page
+
+* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](../datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+
 ### High-signal YWCA Missoula pages
 
 * Conflicts + allegations summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)

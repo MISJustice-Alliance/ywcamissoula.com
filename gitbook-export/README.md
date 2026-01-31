@@ -18,6 +18,14 @@ This site documents alleged misconduct tied to three core institutions in Missou
 * [Bryan Tipp](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
 * [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 
+### Datasets (for Google discovery)
+
+* Start here: [Dataset catalog (Google indexing)](datasets/dataset-catalog-indexes.md)
+* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+
 **The Nuno case (2015–2025) is the detailed case study and evidentiary spine. It is used as a springboard into wider endemic issues in this local law enforcement, prosecutorial, and "victim advocacy" ecosystem.**
 
 It documents alleged abuse of power against vulnerable people. It also documents alleged weaponization of “victim advocacy” workflows.

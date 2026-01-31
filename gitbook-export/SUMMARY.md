@@ -114,3 +114,14 @@
     * ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
     * [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
 * [Community Response to Police Misconduct Outreach in Missoula](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/community-response-to-police-misconduct-outreach-in-missoula.md)
+
+## Datasets
+
+* [Dataset Catalog Indexes](datasets/dataset-catalog-indexes.md)
+* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
+* [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
+* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+* [Structured data registry (Dataset values)](datasets/structured-data-registry-dataset-values.md)

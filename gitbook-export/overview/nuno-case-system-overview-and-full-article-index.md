@@ -36,6 +36,15 @@ Use these first if you’re validating the pattern or building an investigative 
 * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/)
 * [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 
+### Datasets (for Google discovery)
+
+Use these when you want a single crawlable landing page per “record set”:
+
+* [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
+* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](../datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](../datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+
 ### FAQ (quick navigation)
 
 #### What is the Nuno case?
@@ -102,6 +111,7 @@ Use this documentation to:
 <summary><strong>Overview</strong></summary>
 
 * [Introduction](../)
+* [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Civil Rights Violations and Related Claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
 * [Washington/Montana Legal Cases Index](../washington-montana-legal-cases-index.md)

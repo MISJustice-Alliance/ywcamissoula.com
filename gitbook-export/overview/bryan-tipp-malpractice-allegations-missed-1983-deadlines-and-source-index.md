@@ -19,6 +19,10 @@ The core claim presented across these pages is that failures of competence, dili
 * Key correspondence analysis: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
 * Evidence hub: [Legal malpractice evidence (Bryan Tipp)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
 
+### Dataset landing page
+
+* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+
 ### Bar-complaint filing index (Montana)
 
 * Index page: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)

@@ -14,6 +14,12 @@ Use this page as the canonical source list for the project. It includes (1) **pr
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
 {% endhint %}
 
+### Dataset landing pages (SEO)
+
+These are crawlable “one URL per record set” hubs:
+
+* [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
+
 #### CR-2025-001 (case file: d81209a2)
 
 **Victims of Institutional Misconduct v. YWCA of Missoula et al.**
