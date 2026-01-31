@@ -27,19 +27,23 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Synopsis: Investigative report alleging a decade-long pattern of institutional misconduct, abuse of process, and civil-rights violations involving YWCA Missoula and affiliates.
   * Tags: `report` `agency-complaint` `misconduct` `civil-rights` `harassment` `fraud` `final`
 * **source\_documentation\_citations.pdf**
-  * Link: [Open](https://cr-2024-001-other_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-001-other-2_misjusticealliance.arweave.net/)
+  * Alt link: [https://cr-2024-001-other\_misjusticealliance.arweave.net/](https://cr-2024-001-other_misjusticealliance.arweave.net/)
   * Synopsis: Source bibliography (Jan 1, 2026) supporting an expanded RICO submission. Includes citations and authentication protocols.
   * Tags: `evidence` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 * **nuno\_case\_summary\_criminal\_referral.pdf**
-  * Link: [Open](https://cr-2024-001-brief_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-001-brief-2_misjusticealliance.arweave.net/)
+  * Alt link: [https://cr-2024-001-brief\_misjusticealliance.arweave.net/](https://cr-2024-001-brief_misjusticealliance.arweave.net/)
   * Synopsis: Criminal investigation referral describing alleged civil-rights violations, public corruption, and interstate conspiracy targeting Elvis Ryland Nuno.
   * Tags: `correspondence` `agency-complaint` `civil-rights` `misconduct` `abuse` `final`
 * **YWCA-Institutional-RICO-Dossier.pdf**
-  * Link: [Open](https://cr-2024-001-evidence-2_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-001-other-4_misjusticealliance.arweave.net/)
+  * Alt link: [https://cr-2024-001-evidence-2\_misjusticealliance.arweave.net/](https://cr-2024-001-evidence-2_misjusticealliance.arweave.net/)
   * Synopsis: Criminal referral dossier alleging a pattern of racketeering activity tied to YWCA Missoula (2012–2025), including federal funding misuse and civil-rights predicate acts.
   * Tags: `dossier` `agency-complaint` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 * **YWCA-Expanded-Evidence-Compilation.pdf**
-  * Link: [Open](https://cr-2024-001-evidence_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-001-other-3_misjusticealliance.arweave.net/)
+  * Alt link: [https://cr-2024-001-evidence\_misjusticealliance.arweave.net/](https://cr-2024-001-evidence_misjusticealliance.arweave.net/)
   * Synopsis: Evidence compilation supporting an expanded criminal referral alleging institutional corruption (2012–2025), including fraud, HIPAA issues, discrimination, and witness intimidation.
   * Tags: `evidence` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 
@@ -177,6 +181,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Tags: `complaint` `agency-complaint` `misconduct` `harassment` `discrimination` `confidentiality-breach` `final`
 * **11.2\_Elvis\_Nuno\_Sworn\_Declaration-FINAL-Notarized-Final-QR\_code.pdf**
   * Link: [Open](https://cr-2025-001-evidence-20_misjusticealliance.arweave.net/)
+  * Alt link: [https://arweave.net/LefrB37QpFRcqmloSwRH66vHrJg5g-WbbdHHXPqfubA](https://arweave.net/LefrB37QpFRcqmloSwRH66vHrJg5g-WbbdHHXPqfubA)
   * Synopsis: Sworn declaration submitted in support of a criminal referral.
   * Tags: `declaration` `court-filing` `civil-rights` `misconduct` `final` `exhibit`
 * **Facebook-HIPPA-Violation-Thread-1.jpeg**
@@ -193,6 +198,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Tags: `report` `court-filing` `misconduct` `fraud` `harassment` `final`
 * **Arthur-Brown-Google-Review.jpeg**
   * Link: [Open](https://cr-2025-001-evidence-10_misjusticealliance.arweave.net/)
+  * Alt link: [https://arweave.net/PFbeLa9BeIFzYtDcEVSw4R9lIU-unOc7faqemqn\_b\_E](https://arweave.net/PFbeLa9BeIFzYtDcEVSw4R9lIU-unOc7faqemqn_b_E)
   * Synopsis: Screenshot of a Google review alleging the YWCA enabled abuse of process and family separation.
   * Tags: `correspondence` `agency-complaint` `misconduct` `fraud` `abuse` `final`
 

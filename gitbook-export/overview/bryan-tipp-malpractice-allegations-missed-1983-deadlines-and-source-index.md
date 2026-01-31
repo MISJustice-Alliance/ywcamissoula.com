@@ -26,6 +26,18 @@ The core claim presented across these pages is that failures of competence, dili
 * Tipp response: [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/)
 * ODC ruling: [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
 
+### CR-2025-003 published dossier (canonical packet links)
+
+* Internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+* External portal: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
+
+Core filings (external):
+
+* [ODC 25-147 original complaint (PDF)](https://arweave.net/LtpoZ8c2hBC4r3ihxMTjdwHCEKk5fdKy31QDhuX92Sk)
+* [ODC denial — request for review](https://cr-2025-003-ruling-2_misjusticealliance.arweave.net/)
+* [Tipp response](https://cr-2025-003-other-21_misjusticealliance.arweave.net/)
+* [Complainant response to Tipp](https://cr-2025-003-brief-4_misjusticealliance.arweave.net/)
+
 ### Where this connects to Missoula Police / §1983
 
 * Civil-rights framing: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)

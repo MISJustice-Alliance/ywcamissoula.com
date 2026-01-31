@@ -16,8 +16,6 @@ description: >-
 
 ## Police Reports, Court Docs, and Correspondence
 
-Dataset landing page: [Primary records dataset](overview/datasets/primary-records-dataset.md).
-
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Seattle PD written statement re: incident #2016-348587 (2016)](https://cr-2025-002-evidence-12_misjusticealliance.arweave.net/)
 * [Edmonds court: declaration of ineffective assistance (2016)](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
@@ -31,7 +29,8 @@ Dataset landing page: [Primary records dataset](overview/datasets/primary-record
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
 * [MT DoJ POST correspondence (email chain) (Aug 2025)](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
 * MT ACLU Correspondence (August 2025)
-* MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* [MisJustice Alliance case file: 2df48ac7](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md) (CR-2025-003 / ODC 25-147 dossier)
 
 ## Federal Department Complaints
 
@@ -53,4 +52,4 @@ Dataset landing page: [Primary records dataset](overview/datasets/primary-record
 * MT Bar Complaint ODC No. 25-147: Supplemental Submissions #1-3 (August-September 2025)
 * MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 2025)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
-* MT Bar Complaint ODC-15-147 - Right To Request Review (November 2025)
+* MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)

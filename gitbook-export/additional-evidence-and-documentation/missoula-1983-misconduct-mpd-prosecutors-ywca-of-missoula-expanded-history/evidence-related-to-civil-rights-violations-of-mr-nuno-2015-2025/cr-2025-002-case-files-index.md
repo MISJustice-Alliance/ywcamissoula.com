@@ -23,7 +23,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
 #### Referral summaries and master evidence packets
 
 * **case\_summary\_criminal\_referral.pdf**
-  * Link: [Open](https://cr-2025-002-other-2_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-002-brief-2_misjusticealliance.arweave.net/)
   * Synopsis: Criminal investigation referral describing a decade-long alleged pattern of civil rights violations, public corruption, and interstate conspiracy against Elvis Ryland Nuno (WA + MT). Includes allegations of false reporting, prosecutorial misconduct, fabricated evidence, witness intimidation, coerced pleas, and institutional collusion.
   * Tags: `correspondence` `agency-complaint` `civil-rights` `misconduct` `harassment` `fraud` `final`
 * **11.3\_Comprehensive\_Evidentiary\_Documentation-Final-QR\_code.pdf**
@@ -41,10 +41,10 @@ If you want one GitBook page per file later, say so and I’ll split them out.
 
 #### Narrative / perpetrator reports
 
-* **10\_Danielle\_Chard\_Criminal\_Report-Final-QR\_code.pdf**
-  * Link: [Open](https://cr-2024-002-evidence-4_misjusticealliance.arweave.net/)
-  * Synopsis: Criminal report alleging a decade-long pattern of false reporting and interstate coordination by Danielle Christine Chard, including fabricated police reports, SWAT false alarms, perjury, and conspiracy.
-  * Tags: `report` `police-report` `misconduct` `fraud` `final`
+* **10\_ELise\_Chard\_Criminal\_Report-Final-QR\_code.pdf**
+  * Link: [Open](https://cr-2025-002-other-2_misjusticealliance.arweave.net/)
+  * Synopsis: Final comprehensive criminal report alleging perjury, conspiracy, evidence suppression, false police reports, and coordinated harassment by E’Lise Chard (YWCA Missoula) (2018–2025).
+  * Tags: `report` `police-report` `misconduct` `fraud` `abuse` `final` `exhibit`
 * **09\_Danielle\_Chard\_Criminal\_Report-Final-QR\_code.pdf**
   * Link: [Open](https://doc9_danielle_chard_criminal_report_misjusticealliance.arweave.net/)
   * Synopsis: Criminal report alleging false reporting, false SWAT calls, and coordination with co‑actors to drive unwarranted legal actions against Elvis Nuno (2015–2025).
@@ -73,17 +73,19 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Synopsis: Cover letter to Montana AG transmitting a criminal referral alleging perjury, defamation, conspiracy, and institutional corruption involving the Chard sisters, YWCA officials, and MPD.
   * Tags: `correspondence` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 * **03\_FBI\_Civil\_Rights\_MT\_Cover\_Letter-Final-QR\_code.pdf**
-  * Link: [Open](https://doc3_fbi_civil_rights_mt_cover_letter_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-002-complaint-18_misjusticealliance.arweave.net/)
+  * Alt link: [https://doc3\_fbi\_civil\_rights\_mt\_cover\_letter\_misjusticealliance.arweave.net/](https://doc3_fbi_civil_rights_mt_cover_letter_misjusticealliance.arweave.net/)
   * Synopsis: Cover letter to FBI Billings Field Office referring alleged institutional corruption, RICO violations, and civil rights abuses centered in Missoula, Montana.
-  * Tags: `correspondence` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
+  * Tags: `correspondence` `agency-complaint` `civil-rights` `fraud` `misconduct` `final` `exhibit`
 * **02\_FBI\_Civil\_Rights\_WA\_Cover\_Letter-Final-QR\_code.pdf**
   * Link: [Open](https://doc2_fbi_civil_rights_wa_cover_letter_misjusticealliance.arweave.net/)
   * Synopsis: Cover letter to FBI (Seattle) requesting investigation into alleged institutional corruption, RICO violations, and civil rights abuses spanning WA + MT.
   * Tags: `correspondence` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 * **01\_Case\_Summary-Final-QR\_code.pdf**
-  * Link: [Open](https://doc1_case_summary_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-002-brief-2_misjusticealliance.arweave.net/)
+  * Alt link: [https://doc1\_case\_summary\_misjusticealliance.arweave.net/](https://doc1_case_summary_misjusticealliance.arweave.net/)
   * Synopsis: Final case summary referral alleging racketeering, civil rights violations, and institutional corruption involving YWCA Missoula, MPD, and related officials (2015–2025).
-  * Tags: `report` `correspondence` `court-filing` `civil-rights` `misconduct` `corruption` `final`
+  * Tags: `report` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 
 ### Evidentiary files (records, complaints, exhibits)
 
@@ -173,9 +175,9 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Synopsis: Seattle OPA response acknowledging complaint but closing for jurisdiction reasons.
   * Tags: `correspondence` `agency-complaint` `misconduct` `negligence` `final`
 * **Missoula-Mayors-Office-7-29-2020.pdf**
-  * Link: [Open](https://cr-2025-002-complaint-15_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-002-evidence-24_misjusticealliance.arweave.net/)
   * Synopsis: Complaint to Missoula Mayor alleging harassment, defamation, and abuse of power.
-  * Tags: `complaint` `correspondence` `court-filing` `misconduct` `harassment` `fraud` `final`
+  * Tags: `complaint` `court-filing` `misconduct` `harassment` `fraud` `civil-rights` `final` `formal-complaints`
 
 </details>
 
@@ -187,10 +189,18 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Link: [Open](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
   * Synopsis: Witness statement emailed to YWCA describing Nuno’s character and alleging harassment by E’Lise Chard.
   * Tags: `witness-statement` `correspondence` `harassment` `misconduct` `civil-rights` `final`
+* **E-Mail-Bryan-Tipp-Dec-2020.pdf**
+  * Link: [Open](https://cr-2024-002-evidence-15_misjusticealliance.arweave.net/)
+  * Synopsis: Email to attorney Bryan Tipp requesting assistance re: alleged defamation/harassment and referral to CID due to perceived MPD conflict.
+  * Tags: `correspondence` `court-filing` `misconduct` `defamation` `civil-rights` `final`
 * **E-Mail-Bryan-Tipp-Jan-2021.pdf**
   * Link: [Open](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
   * Synopsis: Email chain discussing motion/dismissal status and ongoing harassment/defamation allegations.
   * Tags: `correspondence` `court-filing` `misconduct` `harassment` `defamation` `final` `exhibit`
+* **Nuno-YWCA-Complaint.jpg**
+  * Link: [Open](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
+  * Synopsis: Complaint to YWCA of Missoula alleging harassment and misconduct by E’Lise Chard and Rebecca Pettit.
+  * Tags: `complaint` `agency-complaint` `harassment` `misconduct` `final`
 * **ywca-missoula-consolidated-financial-statements-years-2023-2024.pdf**
   * Link: [Open](https://cr-2025-002-evidence-10_misjusticealliance.arweave.net/)
   * Synopsis: Audited consolidated financial statements for YWCA Missoula and title holding entity (FY 2023–2024).
@@ -201,6 +211,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Tags: `evidence` `harassment` `screenshot-compilation` `social-media` `defamation` `witness-statement` `pattern-of-conduct`
 * **nuno-ywca-google-review01.jpeg**
   * Link: [Open](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/)
+  * Alt link: [https://arweave.net/gnAB-YiJrdoFP2X3lyyf17Lj-0KpsA1DQsljwSs07xE](https://arweave.net/gnAB-YiJrdoFP2X3lyyf17Lj-0KpsA1DQsljwSs07xE)
   * Synopsis: Google review by Elvis Nuno alleging harassment and protection of perpetrators.
   * Tags: `correspondence` `agency-complaint` `harassment` `misconduct` `abuse` `final`
 * **nuno-ywca-google-review02.jpeg**

@@ -15,7 +15,25 @@ description: >-
 ### Case file indexes (published document sets)
 
 * [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+  * External case file portal: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c](https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c)
 * [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+  * External case file portal: [https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab](https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab)
+* CR-2025-003 — ODC 25-147 (legal malpractice)
+  * External case file portal: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
+  * Internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+
+### External case portals (canonical public entry points)
+
+* MisJustice Alliance cases portal: [https://misjusticealliance.org/cases](https://misjusticealliance.org/cases)
+* MisJustice Alliance case file: d81209a2
+  * External: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c](https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c)
+  * Internal index: [MisJustice Alliance case file: d81209a2](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
+* MisJustice Alliance case file: daf82b62
+  * External: [https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab](https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab)
+  * Internal index: [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+* MisJustice Alliance case file: 2df48ac7 (ODC 25-147 dossier)
+  * External: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
+  * Internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
 
 ### Federal department complaints
 

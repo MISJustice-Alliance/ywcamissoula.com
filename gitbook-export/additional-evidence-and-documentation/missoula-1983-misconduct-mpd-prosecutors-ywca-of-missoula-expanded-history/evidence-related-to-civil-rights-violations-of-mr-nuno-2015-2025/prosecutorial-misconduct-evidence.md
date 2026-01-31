@@ -35,10 +35,13 @@ These letters package prosecutorial-misconduct allegations into a review-ready f
 High-signal packets that consolidate prosecutorial misconduct + civil-rights framing:
 
 * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-* [Case summary criminal referral (external)](https://cr-2025-002-other-2_misjusticealliance.arweave.net/)
+* [Case summary — criminal referral (external)](https://cr-2025-002-brief-2_misjusticealliance.arweave.net/)
+* [Comprehensive evidentiary documentation (external)](https://doc11_evidentiary_documentation_misjusticealliance.arweave.net/)
 * [DOJ Public Integrity cover letter (external)](https://doc8_doj_public_integrity_cover_letter_misjusticealliance.arweave.net/)
 * [USAO Western Washington cover letter (external)](https://doc7_usao_west_wa_cover_letter_misjusticealliance.arweave.net/)
 * [USAO Montana cover letter (external)](https://doc6_usao_mt_cover_letter_misjusticealliance.arweave.net/)
+* [Montana AG cover letter (external)](https://doc4_mt_ag_cover_letter_misjusticealliance.arweave.net/)
+* [Washington AG cover letter (external)](https://doc5_wa_ag_cover_letter_misjusticealliance.arweave.net/)
 
 ***
 

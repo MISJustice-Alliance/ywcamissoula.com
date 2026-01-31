@@ -26,6 +26,17 @@ The record compiled here alleges conflicts of interest, confidentiality risk, an
 * Institutional capture overview: [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](../ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * First Amendment angle: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 
+### Primary published packets (CR-2025-001)
+
+Use these when you need a stable, citable “packet” link.
+
+* Index: [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* External case file portal: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c](https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c)
+* Key filings:
+  * [YWCA institutional RICO dossier (2012–2025)](https://cr-2025-001-other-4_misjusticealliance.arweave.net/)
+  * [YWCA expanded evidence compilation (2012–2025)](https://cr-2025-001-other-3_misjusticealliance.arweave.net/)
+  * [Source documentation citations (bibliography)](https://cr-2025-001-other-2_misjusticealliance.arweave.net/)
+
 ### How “YWCA Missoula” connects to Missoula Police
 
 A recurring allegation is that YWCA governance and staff interactions influenced police and prosecutorial decision-making.

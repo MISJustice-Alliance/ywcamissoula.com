@@ -5,6 +5,13 @@ This page groups post-2019 harassment records and an evidence-first RICO/pattern
 * Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 * Related packets: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md) · [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
 
+### CR-2025-001 core packets (public links)
+
+* External case file portal: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c](https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c)
+* [YWCA institutional RICO dossier (2012–2025)](https://cr-2025-001-other-4_misjusticealliance.arweave.net/)
+* [YWCA expanded evidence compilation (2012–2025)](https://cr-2025-001-other-3_misjusticealliance.arweave.net/)
+* [Nuno case summary — criminal referral](https://cr-2025-001-brief-2_misjusticealliance.arweave.net/)
+
 ### Ongoing harassment evidence (2019–2025+)
 
 #### Operational impacts
