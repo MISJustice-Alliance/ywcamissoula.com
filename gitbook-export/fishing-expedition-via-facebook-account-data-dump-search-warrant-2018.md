@@ -51,3 +51,7 @@ Despite recognizing and arguing the constitutional violations, Tipp simultaneous
 ## Expired Claims Due to Tipp's Negligence
 
 Total loss from Tipp's negligence regarding the Facebook warrant alone exceeds **$1.4 million**.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

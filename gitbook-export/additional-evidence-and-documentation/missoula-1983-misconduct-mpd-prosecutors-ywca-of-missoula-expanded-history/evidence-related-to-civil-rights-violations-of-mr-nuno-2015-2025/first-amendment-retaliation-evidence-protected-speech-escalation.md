@@ -39,3 +39,7 @@ Use it to route into the underlying complaint artifacts, timeline waypoints, and
 ***
 
 **Previous:** [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md) · **Next:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

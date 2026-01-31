@@ -53,3 +53,7 @@ The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents a pr
 ## Conclusion
 
 POST's dismissal demonstrates either failure to review documentation or institutional unwillingness to address systemic corruption.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

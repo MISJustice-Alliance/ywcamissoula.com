@@ -31,3 +31,7 @@ These are the intake/receipt artifacts for report number **658793-SKB**.
 ### US DoJ response
 
 * [US DoJ receipt letter (658793-SKB)](https://arweave.net/p8GuVC8SNzjtgFoKw1KDvVJMPgwoDvYbfelQJ1pzGR4)
+
+### Related
+
+{% include "../../.gitbook/includes/related-links-global (1).md" %}

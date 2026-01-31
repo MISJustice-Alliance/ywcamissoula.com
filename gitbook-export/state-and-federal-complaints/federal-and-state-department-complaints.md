@@ -69,3 +69,7 @@ This page is an index of complaint filings and published complaint packets acros
 {% hint style="info" %}
 When linking externally, prefer stable packet URLs (Arweave gateways) and include the matching internal index link.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

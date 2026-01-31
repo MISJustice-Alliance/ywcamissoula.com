@@ -58,3 +58,7 @@ High-signal packets that consolidate prosecutorial misconduct + civil-rights fra
 ***
 
 **Previous:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/) · **Next:** [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

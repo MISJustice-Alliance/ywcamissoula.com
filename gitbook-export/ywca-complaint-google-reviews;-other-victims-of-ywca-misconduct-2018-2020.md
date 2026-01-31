@@ -59,3 +59,7 @@ The documented complaints and reviews establish:
 * [Reddit complaints (screenshot)](https://cr-2025-001-evidence-9_misjusticealliance.arweave.net/)
 * Facebook thread screenshots: [1](https://cr-2025-001-evidence-8_misjusticealliance.arweave.net/) · [2](https://cr-2025-001-evidence-3_misjusticealliance.arweave.net/)
 * [Alleged confidentiality breach (screenshot)](https://cr-2025-001-evidence-21_misjusticealliance.arweave.net/)
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

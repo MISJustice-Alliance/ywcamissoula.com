@@ -15,7 +15,7 @@ description: >-
   of Missoula.
 ---
 
-# FBI referral request: Missoula §1983 misconduct + retaliation pattern
+# FBI referral request (Nov 2025)
 
 **Case Reference:** DoJ Report Number 658793-SKB **Submitted by:** Mr Nuno **Date:** November 15, 2025
 
@@ -82,3 +82,7 @@ Related record sets:
 * 18 U.S.C. Section 2261A - Interstate Stalking
 * 18 U.S.C. Section 1343 - Wire Fraud
 * 18 U.S.C. Sections 1961-1968 - RICO
+
+### Related
+
+{% include "../../.gitbook/includes/related-links-global (1).md" %}

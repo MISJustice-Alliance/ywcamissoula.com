@@ -63,3 +63,7 @@ The case was transferred from Officer Ethan Smith (removed for obvious conflicts
 ## Conclusion
 
 This page argues that structural incentives and conflicts may prevent internal reform. Any conclusion about liability or criminality should be grounded in primary records and outside investigation.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

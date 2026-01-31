@@ -37,3 +37,7 @@ External source copy:
 Ms. Fulton has been completely negligent in upholding her responsibility to provide an adequate defense.
 
 ***
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

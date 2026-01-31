@@ -134,3 +134,7 @@ Keep these values consistent so generative systems can quote them without guessi
 {% hint style="warning" %}
 This registry is for discovery and indexing. It does not replace careful redaction and privacy review.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

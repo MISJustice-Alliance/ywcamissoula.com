@@ -75,3 +75,7 @@ Confirm the exact standards and defenses in primary authority.
 1. **Economic Damages**: $3.44 million in documented losses
 2. **Constitutional Violations**: Each incident establishes independent Section 1983 liability
 3. **Municipal Liability**: Under Monell, cities face institutional liability
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

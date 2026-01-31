@@ -73,3 +73,7 @@ Start with [Missoula §1983 misconduct: civil rights violations and related clai
 Use the record indexes first, then follow event-by-event links.
 
 Start with [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md).
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

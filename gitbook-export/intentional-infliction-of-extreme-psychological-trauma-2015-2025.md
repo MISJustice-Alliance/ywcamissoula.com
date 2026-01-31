@@ -65,3 +65,7 @@ Mr. Nuno's documented conditions directly manifest this chilling effect:
 | Punitive           | $2-5M             |
 | Family Damages     | $500,000+         |
 | **Total Exposure** | **$10-15M range** |
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

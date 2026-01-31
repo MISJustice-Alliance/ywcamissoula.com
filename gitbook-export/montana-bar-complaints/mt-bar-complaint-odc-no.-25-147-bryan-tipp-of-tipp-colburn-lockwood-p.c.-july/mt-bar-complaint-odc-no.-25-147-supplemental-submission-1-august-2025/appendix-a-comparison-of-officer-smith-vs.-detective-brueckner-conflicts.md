@@ -265,3 +265,7 @@ Bryan Tipp's complete failure to ask this obvious question—despite the clear r
 ***
 
 _This appendix demonstrates that competent counsel would have immediately recognized that the transfer from Smith to Brueckner represented an escalation, not resolution, of conflicts requiring immediate challenge through Brady motions, disqualification motions, and due process challenges._
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

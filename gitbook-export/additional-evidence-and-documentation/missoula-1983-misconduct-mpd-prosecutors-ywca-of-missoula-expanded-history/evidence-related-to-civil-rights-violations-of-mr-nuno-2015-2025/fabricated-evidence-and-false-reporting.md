@@ -44,3 +44,7 @@ If you use psychological dynamics, keep it tight.
 ***
 
 **Previous:** [Fourth Amendment evidence (entry, seizure, and digital search)](fourth-amendment-evidence-entry-seizure-and-digital-search.md) · **Next:** [First Amendment retaliation evidence (protected speech → escalation)](first-amendment-retaliation-evidence-protected-speech-escalation.md)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

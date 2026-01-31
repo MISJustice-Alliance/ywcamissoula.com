@@ -14,7 +14,7 @@ description: >-
   and related civil-rights theories.
 ---
 
-# YWCA Missoula: allegations and Brueckner conflict of interest
+# YWCA Brueckner conflict: allegations summary
 
 Quick hub: [YWCA Missoula](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md).
 
@@ -75,3 +75,7 @@ Multiple sources confirm systematic discrimination against disabled clients, cre
 ## Conclusion
 
 The YWCA of Missoula operates as a captured institution that systematically violates the civil rights of vulnerable populations while serving as an enforcement mechanism for governmental retaliation against critics.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

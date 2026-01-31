@@ -488,3 +488,7 @@ The Office of Disciplinary Counsel should recognize that this case represents no
 ***
 
 _This appendix demonstrates that Bryan Tipp's failure to address constitutional violations was not a matter of strategic choice or oversight, but rather a fundamental breach of professional duty that enabled systematic constitutional violations to proceed unchallenged for 30 months when immediate dismissal was achievable through proper constitutional advocacy._
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

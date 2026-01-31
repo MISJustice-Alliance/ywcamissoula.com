@@ -93,3 +93,7 @@ Total estimated damages: **$11,400,000** including:
 ## Conclusion
 
 This page argues that Brueckner’s dual role is a conflict-of-interest indicator that warrants careful fact review. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

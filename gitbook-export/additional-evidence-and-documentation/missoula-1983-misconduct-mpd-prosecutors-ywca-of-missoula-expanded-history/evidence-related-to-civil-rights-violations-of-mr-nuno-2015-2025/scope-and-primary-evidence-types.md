@@ -52,3 +52,7 @@ These records help because they don’t rely on memory.
 ***
 
 **Previous:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./) · **Next:** [Fourth Amendment evidence (entry, seizure, and digital search)](fourth-amendment-evidence-entry-seizure-and-digital-search.md)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

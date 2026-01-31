@@ -194,3 +194,7 @@ The violation is particularly egregious given the 18-month representation period
 This supplemental analysis demonstrates that Respondent's misconduct extends beyond the civil claims failures detailed in the original complaint to include **direct facilitation of constitutional violations** - conduct that strikes at the heart of the attorney's duty to zealously protect client rights within the bounds of law.
 
 The Office of Disciplinary Counsel should expand its investigation to include this constitutional violation and impose appropriate sanctions to prevent future harm to clients and the legal profession.
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

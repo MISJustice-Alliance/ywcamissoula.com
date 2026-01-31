@@ -13,7 +13,7 @@ description: >-
   interest, Brady issues, and constitutional implications.
 ---
 
-# Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)
+# Stalking charging documents (Sep 2018)
 
 ## Legal Summary
 
@@ -55,3 +55,7 @@ On August 14, 2018, the YWCA received a detailed character reference regarding M
 ## Conclusion: A Constitutional Crisis
 
 The treatment of the YWCA complaint letters reveals a constitutional crisis where judicial determinations of protected speech are ignored, defense counsel fail to understand basic constitutional protections, and prosecutors criminalize clearly protected activity.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

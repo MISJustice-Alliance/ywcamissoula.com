@@ -14,7 +14,7 @@ description: >-
   violations, false imprisonment, and prosecutorial misconduct of misdemeanor...
 ---
 
-# 2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct
+# 2017–2019 stalking charges (MT): civil-rights violations
 
 ## Introduction
 
@@ -69,3 +69,7 @@ Mr. Nuno's 2017 formal complaint to the YWCA President constituted core petition
 | Family Medical Expenses         | $76,000    |
 | Monitoring/Bail Costs           | $50,000    |
 | Business Development Losses     | $30,000    |
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

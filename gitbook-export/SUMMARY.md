@@ -127,3 +127,7 @@
 * [Structured data registry (Dataset values)](datasets/structured-data-registry-dataset-values.md)
 * [Dataset CSV export](datasets/dataset-csv-export.md)
 * [SEO + GEO audit (sitewide)](datasets/seo-+-geo-audit-sitewide.md)
+
+## Reference
+
+* [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)

@@ -47,3 +47,7 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 {% hint style="info" %}
 If you’re verifying specifics, start with the timeline and then jump into the underlying documents.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

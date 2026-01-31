@@ -591,3 +591,7 @@ Elvis Ryland Nuno, _Pro Se_
 Dated: November 18, 2025
 
 [https://cr-2025-003-ruling-2\_misjusticealliance.arweave.net](https://cr-2025-003-ruling-2_misjusticealliance.arweave.net)
+
+### Related
+
+{% include "../../.gitbook/includes/related-links-global (1).md" %}

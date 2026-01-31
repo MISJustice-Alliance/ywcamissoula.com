@@ -122,3 +122,7 @@ When adding or renaming a dataset page:
 {% hint style="info" %}
 These pages are documentation and indexing. They summarize **allegations** and link to underlying records.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

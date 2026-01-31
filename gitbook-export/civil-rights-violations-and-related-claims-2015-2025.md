@@ -160,3 +160,7 @@ Detective Connie Brueckner serves simultaneously on the YWCA Missoula Board of D
 ## X. Conclusion
 
 This page argues the record supports serious civil-rights concerns and potential causes of action. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

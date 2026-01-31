@@ -20,6 +20,10 @@ This page is a stable internal index to the **CR-2025-002** document set publish
 * Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
 * Complaint index: [Federal and State Department Complaints](../../../state-and-federal-complaints/federal-and-state-department-complaints.md)
 
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}
+
 {% hint style="info" %}
 These are external files. Links point to Arweave-hosted artifacts.
 

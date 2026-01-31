@@ -78,3 +78,7 @@ This project publishes allegations and supporting records. Avoid posting persona
 {% endhint %}
 
 **See also:** [Dataset catalog (Google indexing)](dataset-catalog-indexes.md)
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

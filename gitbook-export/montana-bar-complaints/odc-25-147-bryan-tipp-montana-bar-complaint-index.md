@@ -126,3 +126,7 @@ Related starting points:
 * [MisJustice Alliance case file: 2df48ac7](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
   * **Summary:** Stable internal pointer to the published external case page. Intended to become a per-document index over time.
   * **What changed at this stage:** Connects the internal complaint tree to the public dossier distribution.
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

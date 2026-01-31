@@ -58,3 +58,7 @@ I respectfully submit this complaint regarding a pattern of civil rights violati
 2. **Records Audit and Preservation**: Immediate audit of MPD and jail records
 3. **Findings and Accountability**: Formal findings on constitutional violations
 4. **Corrective Policy Measures**: Clear separation protocols for interactions between MPD and advocacy organizations
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

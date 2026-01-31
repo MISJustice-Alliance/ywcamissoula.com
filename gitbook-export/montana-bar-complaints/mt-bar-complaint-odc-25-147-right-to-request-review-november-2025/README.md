@@ -49,3 +49,7 @@ Mr. Tipp's misconduct caused $6.4-8.4 million in time-barred civil rights claims
 2. Mandatory continuing legal education (CLE)
 3. Supervised probation period
 4. Restitution for damages caused by malpractice
+
+### Related
+
+{% include "../../.gitbook/includes/related-links-global (1).md" %}

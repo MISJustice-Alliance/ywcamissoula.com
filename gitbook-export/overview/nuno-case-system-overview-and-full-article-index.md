@@ -134,6 +134,10 @@ Use this documentation to:
 
 </details>
 
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}
+
 <details>
 
 <summary><strong>Legal Analysis</strong></summary>

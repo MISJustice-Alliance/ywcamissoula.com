@@ -459,8 +459,16 @@ These are the “evidence routers”. They should be the most internally linked 
   * recurring entities
 * Ensure every leaf page has a “Related” block.
 
+Progress:
+
+* ✅ [Glossary (doctrines, agencies, entities)](../reference/glossary-doctrines-agencies-entities.md)
+
 {% hint style="warning" %}
 Nothing here is legal advice.
 
 Avoid publishing sensitive personal data, even if it appears in records.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

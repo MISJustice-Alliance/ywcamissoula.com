@@ -57,3 +57,7 @@ Core filings (external):
 {% hint style="info" %}
 For credibility, treat each claim as “analysis” and click through to the underlying filings and primary records.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

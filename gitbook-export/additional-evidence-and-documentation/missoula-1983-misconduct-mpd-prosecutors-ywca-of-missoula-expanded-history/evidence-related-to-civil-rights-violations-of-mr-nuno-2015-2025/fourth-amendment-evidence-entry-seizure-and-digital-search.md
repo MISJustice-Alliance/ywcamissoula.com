@@ -43,3 +43,7 @@ Key supporting items:
 ***
 
 **Previous:** [Scope and primary evidence types](scope-and-primary-evidence-types.md) · **Next:** [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

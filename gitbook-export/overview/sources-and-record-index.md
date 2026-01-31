@@ -197,3 +197,7 @@ Key external bibliography packet:
 * If it’s a **PDF / filing / letter / report**: add it in the relevant index page.
 * If it’s **public reporting**: add it under **Bibliography** above.
 * If it supports one page heavily: also add it in that page’s footer as **Sources**.
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

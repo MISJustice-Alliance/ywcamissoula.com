@@ -72,3 +72,7 @@ If you later publish an actual CSV/JSON export, link it via `sameAs` and treat t
 {% endhint %}
 
 **See also:** [Dataset catalog (Google indexing)](dataset-catalog-indexes.md)
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

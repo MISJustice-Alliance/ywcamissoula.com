@@ -15,7 +15,7 @@ description: >-
   Context for DOJ scrutiny and later retaliation patterns.
 ---
 
-# Remembering When: Missoula Rape Capital Era and Institutional Failures
+# Remembering When: Missoula rape-capital era
 
 ## The Roots of Missoula's Present Day Institutional Corruption
 
@@ -59,3 +59,7 @@ The empirical backdrop compounds these concerns. Multiple studies find that poli
 ## Conclusion
 
 Reform is not only possible - it is essential. Removing police from governance, hardening confidentiality, professionalizing advocacy boundaries, and subjecting operations to independent oversight are the minimum steps required to restore trust.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

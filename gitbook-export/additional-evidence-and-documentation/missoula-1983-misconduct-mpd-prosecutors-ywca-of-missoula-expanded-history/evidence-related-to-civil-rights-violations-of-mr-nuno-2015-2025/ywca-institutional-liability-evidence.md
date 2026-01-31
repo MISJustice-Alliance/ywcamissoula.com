@@ -68,3 +68,7 @@ Evidence tends to cluster around:
 ***
 
 **Previous:** [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md) · **Next:** [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

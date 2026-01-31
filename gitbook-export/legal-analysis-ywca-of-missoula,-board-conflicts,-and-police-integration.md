@@ -67,3 +67,7 @@ Documentary records reflect a pattern in which YWCA-affiliated staff allegedly l
 ## Conclusion
 
 Board-level integration with law enforcement is treated here as a structural conflict risk that is hard to mitigate through ad hoc recusal alone, especially where the organization routinely interfaces with MPD and prosecutors.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

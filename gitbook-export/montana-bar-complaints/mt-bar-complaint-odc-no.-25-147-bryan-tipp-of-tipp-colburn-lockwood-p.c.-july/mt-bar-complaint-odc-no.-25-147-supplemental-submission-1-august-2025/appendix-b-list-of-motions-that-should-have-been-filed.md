@@ -460,3 +460,7 @@ Bryan Tipp's conduct represents not mere negligence, but a **willful abandonment
 ***
 
 _This appendix demonstrates that any one of these motions likely would have resulted in case dismissal, making Tipp's complete inaction inexcusable and his negotiation of deferred prosecution unnecessary and prejudicial to his client's interests._
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

@@ -498,3 +498,7 @@ The litigation pathway is clear. The evidence is compelling. Settlement probabil
 ***
 
 _**MISJustice Alliance Research Note:** This analysis presumes verified facts from documentation. All legal propositions subject to verification against primary authority (Montana statutes, MRPC, federal case law). Qualified Montana legal counsel must direct all procedural decisions and file preparation._
+
+### Related
+
+{% include "../../../../.gitbook/includes/related-links-global (1).md" %}

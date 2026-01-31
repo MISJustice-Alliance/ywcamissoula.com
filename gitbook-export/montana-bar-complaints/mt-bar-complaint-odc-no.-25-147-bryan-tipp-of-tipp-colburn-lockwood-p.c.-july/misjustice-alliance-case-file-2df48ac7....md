@@ -109,3 +109,7 @@ This page is a stable internal index for the published external case file **2df4
 * **11-Unlawful-Arrest-08-2018-Legal-Malpractice-Implications.pdf**
   * Synopsis: Analysis of the Aug 2018 incident and alleged failure to advise timely § 1983 / tort claims despite clear liability and damages.
   * Link: [https://cr-2025-003-evidence-18\_misjusticealliance.arweave.net/](https://cr-2025-003-evidence-18_misjusticealliance.arweave.net/)
+
+### Related
+
+{% include "../../.gitbook/includes/related-links-global (1).md" %}

@@ -222,3 +222,7 @@ These pages should generally link back here when they cite CR-2025-001 documents
 * YWCA notice/ratification: [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)
 * Needs & Gaps capture analysis: [Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture](../../../legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * DOJ intake: [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](../../../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
+
+### Related
+
+{% include "../../../.gitbook/includes/related-links-global (1).md" %}

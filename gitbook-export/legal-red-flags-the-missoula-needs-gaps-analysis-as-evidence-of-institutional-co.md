@@ -113,3 +113,7 @@ Minimum document set to request (targeted):
 ## Conclusion
 
 This page argues that internal governance may be structurally unable to resolve the alleged conflicts and incentives described above. Any conclusion about fraud, criminal conduct, or civil liability should be grounded in primary records and competent outside review.
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

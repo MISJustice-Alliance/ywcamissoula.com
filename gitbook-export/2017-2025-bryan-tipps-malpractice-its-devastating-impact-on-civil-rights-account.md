@@ -94,3 +94,7 @@ They need primary authority review.
 * **Timeliness**: Filing before 2028 satisfies Montana's discovery rule
 * **Measure of Damages**: Value of lost underlying claims plus consequential loss
 * **Proof Strategy**: Expert testimony establishing standard-of-care breaches
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

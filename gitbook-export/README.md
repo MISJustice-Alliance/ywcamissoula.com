@@ -138,3 +138,7 @@ It is included as an analysis aid and **assumes liability is proven**.
 _Documentation compiled for legal advocacy, civil-rights accountability, and investigative review._
 
 _All published reports and publicly available evidence can be found at:_ [_https://misjusticealliance.org/cases_](https://misjusticealliance.org/cases)
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

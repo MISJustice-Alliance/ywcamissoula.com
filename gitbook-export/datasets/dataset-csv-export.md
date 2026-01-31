@@ -56,3 +56,7 @@ Use this when you want **one row per direct-download / packet URL**.
 {% hint style="info" %}
 If you later publish **actual CSV/JSON datasets** (row-level event data), add them as `sameAs` links in the structured-data registry.
 {% endhint %}
+
+### Related
+
+{% include "../.gitbook/includes/related-links-global (1).md" %}

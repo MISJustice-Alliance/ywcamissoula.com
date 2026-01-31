@@ -170,3 +170,7 @@ See also:
 * [Legal analysis: YWCA of Missoula, board conflicts, and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [Seattle OPA complaint post-mortem / legal analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
 * [Full analysis of Fourteenth Amendment equal protection and due process violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

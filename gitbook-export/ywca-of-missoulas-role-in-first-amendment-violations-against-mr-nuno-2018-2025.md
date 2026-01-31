@@ -60,3 +60,7 @@ Mr. Nuno's formal 2017 complaint to the YWCA President constituted core petition
 | Legal Fees         | $387,000       | Defense against YWCA-coordinated false charges     |
 | Medical Costs      | $148,000       | Complex PTSD treatment from ongoing harassment     |
 | **Total Economic** | **$3,315,000** | Direct result of YWCA's failure to act             |
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}

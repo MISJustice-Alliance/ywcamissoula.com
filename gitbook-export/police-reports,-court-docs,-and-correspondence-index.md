@@ -70,3 +70,7 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 {% hint style="info" %}
 If you add a “link pending” item, try to attach a stable Arweave URL or an internal index page within 24 hours.
 {% endhint %}
+
+### Related
+
+{% include ".gitbook/includes/related-links-global (1).md" %}
