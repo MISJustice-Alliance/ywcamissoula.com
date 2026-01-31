@@ -2,7 +2,7 @@
 description: Index page for the external case file and its linked evidence documents.
 ---
 
-# MisJustice Alliance case file (daf82b62…)
+# MisJustice Alliance case file: daf82b62
 
 Use this page as a stable internal index for the external case file.
 
@@ -27,4 +27,4 @@ Add items here as we extract them:
 
 ***
 
-**Previous:** [MisJustice Alliance case file (d81209a2…)](misjustice-alliance-case-file-d81209a2....md) · **Next:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+**Previous:** [MisJustice Alliance case file: d81209a2](misjustice-alliance-case-file-d81209a2.md) · **Next:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)

@@ -25,42 +25,42 @@
 
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Missoula homelessness funding + institutional capture (YWCA of Missoula / MPD)](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
-* [Bryan Tipp malpractice (2017–2025): missed §1983 deadlines and civil-rights damages](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
+* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
-* [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
+* [YWCA of Missoula: captured system overview](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
 
 ## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
-* [YWCA Missoula: allegations and Brueckner conflict of interest](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
-* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
-* [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
+* [YWCA Brueckner conflict: allegations summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+* [Stalking charging documents (Sep 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Aug 2018: warrantless arrest and false imprisonment](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
-* [Remembering When: Missoula Rape Capital Era and Institutional Failures](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
 ## Washington Cases
 
 * [Washington Legal Cases Index](washington-legal-cases-index.md)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
-* [2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington State](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
-* [2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct, HIPAA Violations, DOH Complaint Denial, and Strategic Legal Implications](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
-* [2016 Dr Marta J.L. Miranda Medical Malpractice: Executive Summary for Legal Advocates](2016-dr-marta-j.l.-miranda-medical-malpractice-executive-summary-for-legal-advoc.md)
+* [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
+* [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
+* [2016 Dr. Marta Miranda malpractice: executive summary](2016-dr-marta-j.l.-miranda-medical-malpractice-executive-summary-for-legal-advoc.md)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
-* [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
+* [2020 WA cases: witness tampering and coerced pleas](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 
 ## State & Federal Complaints
 
 * [Federal and State Department Complaints](state-and-federal-complaints/federal-and-state-department-complaints.md)
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/README.md)
-  * [FBI referral request: Missoula §1983 misconduct + retaliation pattern](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
+  * [FBI referral request (Nov 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 
 ## Montana Bar Complaints
 
@@ -75,7 +75,7 @@
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/README.md)
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-september-2025.md)
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
-  * [MisJustice Alliance case file (2df48ac7…)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+  * [MisJustice Alliance case file: 2df48ac7](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7.md)
 * [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/README.md)
   * [MT Bar Complaint ODC No. 25-147:  Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025.md)
   * [MT Bar Complaint ODC No. 25-147:  ODC Ruling (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
@@ -93,7 +93,7 @@
 * [WA State Bar Complaint: Patricia Fulton (2016)](wa-state-bar-complaint-patricia-fulton-2016.md)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](seattle-opa-complaint-2016opa-1167-2016.md)
-* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
+* [Motion to seal/redact Miranda evaluation (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 
 ## YWCA Complaints
 
@@ -113,8 +113,8 @@
     * [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
     * [Ongoing harassment and RICO predicate framing](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing.md)
     * [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-    * [MisJustice Alliance case file (d81209a2…)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
-    * [MisJustice Alliance case file (daf82b62…)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+    * [MisJustice Alliance case file: d81209a2](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2.md)
+    * [MisJustice Alliance case file: daf82b62](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62.md)
     * [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
     * [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
     * [Prosecutorial misconduct and Brady issues (evidence index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)

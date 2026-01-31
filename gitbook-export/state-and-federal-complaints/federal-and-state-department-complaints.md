@@ -20,14 +20,14 @@ description: >-
 ### Federal department complaints
 
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
-* [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations, Institutional Corruption, and Coordinated Harassment (November 2025)](federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
+* [FBI referral request (Nov 2025)](federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 
 ### Washington state complaints
 
 * [WA State Bar Complaint: Patricia Fulton (2016)](../wa-state-bar-complaint-patricia-fulton-2016.md)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](../wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](../seattle-opa-complaint-2016opa-1167-2016.md)
-* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
+* [Motion to seal/redact Miranda evaluation (Nov 2025)](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 
 ### Montana state complaints
 

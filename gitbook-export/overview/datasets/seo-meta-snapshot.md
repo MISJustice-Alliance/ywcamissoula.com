@@ -12,6 +12,28 @@ Use this as an exportable reference for search metadata.
 
 Last updated: **2026-01-30**
 
+### Sitemap (crawl entry point)
+
+Primary sitemap URL:
+
+* `https://www.ywcaofmissoula.com/sitemap.xml`
+
+Use it to sanity-check what Google can discover.
+
+**Quick checks**
+
+* The sitemap loads as valid XML (`<urlset>` or `<sitemapindex>`).
+* URLs are all on the canonical host (`https://www.ywcaofmissoula.com/...`).
+* Key hubs are present (Introduction, system index, timeline, MPD hub, YWCA hub).
+* No sensitive or non-public material appears in the sitemap.
+* No obvious duplicates exist (same page under multiple URL variants).
+
+**Operational use**
+
+* Submit the sitemap in Google Search Console.
+* Use “Discovered URLs” vs “Indexed URLs” to spot gaps.
+* If the sitemap looks stale or missing pages, suspect caching. Re-check with a cache-buster (e.g. `?v=2026-01-31`) or purge CDN caches if you control them.
+
 ### Site-level focus (search intent)
 
 This documentation covers alleged misconduct and civil-rights issues involving:

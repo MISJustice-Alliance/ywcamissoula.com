@@ -2,7 +2,7 @@
 description: Index page for the external case file and its linked evidence documents.
 ---
 
-# MisJustice Alliance case file (d81209a2…)
+# MisJustice Alliance case file: d81209a2
 
 Use this page as a stable internal index for the external case file.
 
@@ -27,4 +27,4 @@ Add items here as we extract them:
 
 ***
 
-**Previous:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md) · **Next:** [MisJustice Alliance case file (daf82b62…)](misjustice-alliance-case-file-daf82b62....md)
+**Previous:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md) · **Next:** [MisJustice Alliance case file: daf82b62](misjustice-alliance-case-file-daf82b62.md)
