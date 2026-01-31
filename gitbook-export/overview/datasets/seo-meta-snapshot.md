@@ -10,19 +10,39 @@ description: >-
 
 Use this as an exportable reference for search metadata.
 
-Last updated: **2026-01-30**
+Last updated: **2026-01-31**
 
 ### Sitemap (crawl entry point)
 
-Primary sitemap URL:
+Sitemap entry point (submit this to Google Search Console):
 
 * `https://www.ywcaofmissoula.com/sitemap.xml`
 
-Use it to sanity-check what Google can discover.
+`sitemap.xml` is a **sitemap index**. The actual page URL list currently lives here:
+
+* `https://www.ywcaofmissoula.com/sitemap-pages.xml`
+
+<details>
+
+<summary>sitemap.xml (current shape)</summary>
+
+```xml
+<?xml version="1.0" encoding="utf-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <sitemap>
+    <loc>https://www.ywcaofmissoula.com/sitemap-pages.xml</loc>
+  </sitemap>
+</sitemapindex>
+```
+
+</details>
+
+Use the index + referenced sitemap(s) to sanity-check what Google can discover.
 
 **Quick checks**
 
-* The sitemap loads as valid XML (`<urlset>` or `<sitemapindex>`).
+* The entry point loads as valid XML (`<sitemapindex>`).
+* Each referenced sitemap loads as valid XML (`<urlset>`).
 * URLs are all on the canonical host (`https://www.ywcaofmissoula.com/...`).
 * Key hubs are present (Introduction, system index, timeline, MPD hub, YWCA hub).
 * No sensitive or non-public material appears in the sitemap.
