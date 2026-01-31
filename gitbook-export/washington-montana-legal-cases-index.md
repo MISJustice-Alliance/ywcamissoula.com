@@ -12,14 +12,19 @@ description: >-
 
 # Washington/Montana Legal Cases Index
 
-This is a cross-jurisdiction index of the Washington and Montana case pages.
+### Executive snapshot
+
+This page is a cross-jurisdiction index of Washington and Montana case pages referenced in this record. Use it to pivot from an event, filing, or proceeding into the relevant jurisdiction’s deeper analysis and primary-document links.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 
 Use it to pivot from an event or proceeding into the deeper record.
-
-### Fastest verification path
-
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary citations: [Sources & record index](overview/sources-and-record-index.md)
 
 ### Washington legal cases
 

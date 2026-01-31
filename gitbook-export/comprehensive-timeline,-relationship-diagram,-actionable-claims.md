@@ -14,23 +14,18 @@ description: >-
 
 # Comprehensive Timeline, Relationship Diagram, & Actionable Claims
 
-## Master timeline (2014-2025)
+### Executive snapshot
 
-Use this page as a high-signal index of the Nuno case and currently actionable cases for which statute of limitations has yet to expire, or which strong tolling arguments exist.
+This page is the master **timeline index** for the Nuno record (2014–2025). Each bullet is intended as a waypoint into linked primary artifacts, filings, and focused analysis pages. It also includes relationship diagrams and a high-level “claims map” used for navigation.
 
-Each bullet is a waypoint to the underlying record, filing, or analysis.
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
-### Related dataset landing page
+### Verify first (primary artifacts)
 
-If you want a stable “one URL per record set” entry point, use:
-
-* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
-
-### Primary record citations
-
-For a canonical list of packets and citations:
-
-* [Sources & record index](overview/sources-and-record-index.md)
+* Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
+* Dataset landing page (stable “one URL per record set”): [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+* Claims overview (analysis): [Civil Rights Violations and Related Claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
 
 {% hint style="info" %}
 This timeline is an index and claim map. It is not individualized legal advice.

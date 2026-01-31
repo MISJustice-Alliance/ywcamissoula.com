@@ -7,19 +7,18 @@ description: >-
 
 # Nuno case system overview and full article index
 
-## System overview
+### Executive snapshot
 
-This documentation records alleged civil-rights misconduct and institutional capture in Missoula (2012–present).
+This page is the canonical **site map** for the Nuno case record (2015–2025) and its related articles. Use it to navigate by claim type, jurisdiction, and record set, with the Nuno case as the primary evidence spine. It links into the timeline, primary-record indexes, and dataset landing pages used for search and citations.
 
-The **Nuno case (2015–2025)** is the core case study and evidence spine.
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
-### Fastest verification path
+### Verify first (primary artifacts)
 
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary record citations: [Sources & record index](sources-and-record-index.md)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 * Dataset landing pages (Google discovery): [Dataset Catalog Indexes](../datasets/dataset-catalog-indexes.md)
-
-It is treated as a **springboard** for investigating broader patterns of alleged misconduct and **(re)victimization of vulnerable populations**.
 
 The pattern focus is the intersection of:
 
@@ -29,7 +28,7 @@ The pattern focus is the intersection of:
 * adjacent **victim-advocacy / victim-services workflows** and partner institutions
 
 {% hint style="info" %}
-This index is organized so investigators can start with the Nuno record, then pivot to systemic themes: retaliation for protected complaints, conflict-infected “advocacy” channels, overbroad digital searches, coercive case leverage, and institutional accountability gaps.
+This index is organized so investigators can start with the Nuno record, then pivot to recurring themes raised in the cited material: retaliation after complaints, conflicts in “advocacy” channels, overbroad digital searches, coercive leverage, and institutional accountability gaps.
 {% endhint %}
 
 ### Nuno case: fastest entry points (recommended)
@@ -76,9 +75,9 @@ Analysis includes the legal-claim mapping and institutional pattern framing unde
 
 #### What does “(re)victimization of vulnerable populations” mean in this record?
 
-It refers to alleged harm caused or amplified by institutional workflows that should reduce harm.
+It refers to alleged harm caused or amplified by institutional workflows that are expected to reduce harm.
 
-That includes alleged retaliation after complaints, conflict-infected “advocacy” channels, and coercive leverage that escalates vulnerability.
+That includes allegations of retaliation after complaints, conflict-infected “advocacy” channels, and coercive leverage that escalates vulnerability.
 
 #### How do I jump from a theme to supporting evidence fast?
 
@@ -111,7 +110,7 @@ Use this documentation to:
 * reconstruct events and decision points (timeline → filings → evidence);
 * test for patterns consistent with retaliation and institutional capture;
 * identify cross-agency conflicts and compromised investigative channels;
-* evaluate how “victim advocacy” systems can be weaponized to harm the vulnerable.
+* evaluate how “victim advocacy” systems can be misused in ways that increase harm risk.
 
 ## Full article index (site map)
 

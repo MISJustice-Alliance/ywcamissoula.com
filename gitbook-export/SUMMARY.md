@@ -15,14 +15,14 @@
 
 ## Legal Analysis
 
-* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
-* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [YWCA of Missoula: captured system overview](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
+* [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
+* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
+* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
 ## Montana Cases
 
@@ -126,3 +126,4 @@
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
 * [Structured data registry (Dataset values)](datasets/structured-data-registry-dataset-values.md)
 * [Dataset CSV export](datasets/dataset-csv-export.md)
+* [SEO + GEO audit (sitewide)](datasets/seo-+-geo-audit-sitewide.md)

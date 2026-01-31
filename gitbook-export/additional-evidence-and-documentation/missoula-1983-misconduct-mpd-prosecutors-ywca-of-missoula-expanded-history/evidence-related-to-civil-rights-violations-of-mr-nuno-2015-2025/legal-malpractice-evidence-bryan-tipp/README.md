@@ -1,8 +1,19 @@
 # Legal malpractice evidence (Bryan Tipp)
 
-This page focuses on records showing knowledge, advice, and resulting statute exposure.
+### Executive snapshot
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../)
+This page is a sub-index for evidence themes relevant to alleged legal malpractice involving Bryan Tipp: what was known, what advice was given, and how that maps to statute-of-limitations exposure and downstream damages theories. Use it to jump into primary filings (ODC packets) and key correspondence.
+
+{% include "../../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* ODC filing index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../../../../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* CR-2025-003 internal index: [MisJustice Alliance case file: 2df48ac7](../../../../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+* Malpractice overview (analysis): [Bryan Tipp malpractice (2017–2025)](../../../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* Key correspondence deep dive: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
+* Canonical source list: [Sources & record index](../../../../overview/sources-and-record-index.md)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../)
 
 ### Key pages
 
@@ -23,6 +34,10 @@ This page focuses on records showing knowledge, advice, and resulting statute ex
 * Notes indicating civil action was declined despite documented causation.
 
 ### High-level malpractice damages snapshot (illustrative)
+
+These numbers are a **claimed orientation model**.
+
+Treat them as **assumes liability is proven** and requires admissible proof.
 
 | Expired claim        | Typical accrual window | Lost recovery (order-of-magnitude) |
 | -------------------- | ---------------------- | ---------------------------------- |

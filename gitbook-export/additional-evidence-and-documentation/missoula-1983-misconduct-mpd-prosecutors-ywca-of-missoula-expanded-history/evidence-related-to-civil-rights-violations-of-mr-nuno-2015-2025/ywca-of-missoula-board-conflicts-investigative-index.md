@@ -7,11 +7,22 @@ description: >-
 
 # YWCA of Missoula board conflicts (investigative index)
 
-## YWCA of Missoula board conflicts (investigative index)
+### Executive snapshot
 
-This is a jump page for investigating **YWCA of Missoula** governance conflicts.
+This page is a jump index for investigating board-level conflict-of-interest and governance-risk questions involving **YWCA of Missoula**. It is designed to route readers into the highest-signal internal pages and the primary record indexes that support verification.
 
-It is designed to support conflict-of-interest review, institutional capture review, and survivor-safety review.
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 
 ### Key documents (high-signal)
 
@@ -23,11 +34,6 @@ It is designed to support conflict-of-interest review, institutional capture rev
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-
-### Primary record indexes
-
-* [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* [Sources & record index](../../../overview/sources-and-record-index.md)
 
 ### FAQ
 

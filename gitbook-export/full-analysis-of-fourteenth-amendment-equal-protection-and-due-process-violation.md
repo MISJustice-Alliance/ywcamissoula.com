@@ -13,11 +13,11 @@ description: >-
 
 # Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)
 
-## Washington & Montana Legal Matters - Elvis Nuno
-
 ### Executive snapshot
 
 This page maps potential Fourteenth Amendment theories (equal protection + due process) across Washington and Montana events in the Nuno record. It is an analysis layer, not an adjudication. Use the “Verify first” links to validate specific dates, actors, and rulings.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
 
@@ -27,7 +27,23 @@ This page maps potential Fourteenth Amendment theories (equal protection + due p
 * Seattle dismissal order (2016): https://cr-2024-002-ruling-6\_misjusticealliance.arweave.net/
 * Missoula stalking dismissal with prejudice (2020): https://cr-2024-002-ruling-5\_misjusticealliance.arweave.net/
 
-The record presented here alleges extensive Fourteenth Amendment violations across both Equal Protection and Due Process guarantees.
+### Scope
+
+* **Timeframe:** 2015–2025
+* **Jurisdictions:** Washington and Montana
+* **Doctrines:** procedural due process, substantive due process, equal protection (including “class-of-one”)
+
+The record cited on this site is used to argue a set of Fourteenth Amendment issues across Equal Protection and Due Process theories.
+
+### Limits and defenses to consider
+
+These issues are commonly litigated.
+
+Confirm the exact standards and defenses in primary authority.
+
+* **Qualified immunity** (for individual defendants)
+* **Absolute immunity** (often for prosecutors, in certain functions)
+* **Favorable termination / Heck-related constraints** (when claims imply invalidity of convictions)
 
 ## Timeline of Violations
 

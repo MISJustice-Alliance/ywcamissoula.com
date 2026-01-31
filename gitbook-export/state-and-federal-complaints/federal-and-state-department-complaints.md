@@ -12,12 +12,17 @@ description: >-
 
 # Federal and State Department Complaints
 
-This page is an index of complaint filings and published complaint packets.
+### Executive snapshot
 
-### Fastest verification path
+This page is an index of complaint filings and published complaint packets across federal and state agencies. Use it to find the canonical internal page for each filing, plus the corresponding external packet links when available.
 
-* Primary citations: [Sources & record index](../overview/sources-and-record-index.md)
-* Primary document index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 
 ### Case file indexes (published document sets)
 

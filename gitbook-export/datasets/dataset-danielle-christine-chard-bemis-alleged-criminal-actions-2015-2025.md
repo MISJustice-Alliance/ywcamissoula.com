@@ -6,7 +6,19 @@ description: >-
 
 # Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)
 
-This dataset collects **allegations** involving **Danielle Christine Chard / Danielle Christine Bemis**, with links to supporting primary records.
+### Executive snapshot
+
+This dataset is the canonical landing page for record-linked **allegations** involving **Danielle Christine Chard / Danielle Christine Bemis** (2015–2025). It is intended to be a stable crawl target for search and citations and to route readers into the relevant published report packet and supporting primary-document indexes.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* CR-2025-002 packet index: [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* Case file hub: [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
 
 ### Scope
 

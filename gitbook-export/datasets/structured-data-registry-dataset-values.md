@@ -14,6 +14,7 @@ Use it when adding site-level Dataset JSON-LD via theme/header injection.
 
 * [Dataset Catalog Indexes](dataset-catalog-indexes.md)
 * [Dataset CSV export](dataset-csv-export.md)
+* [SEO + GEO audit (sitewide)](seo-+-geo-audit-sitewide.md)
 
 ### Canonical URL rule (SEO-critical)
 

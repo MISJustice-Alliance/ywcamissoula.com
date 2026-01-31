@@ -1,10 +1,23 @@
 # First Amendment retaliation evidence (protected speech → escalation)
 
-This page groups records supporting a protected-activity → escalation pattern.
+### Executive snapshot
 
-For a Missoula-specific, MPD-focused jump page, use: [MPD retaliation and escalation after complaints — evidence index](mpd-retaliation-and-escalation-after-complaints-evidence-index.md).
+This page is a sub-index for First Amendment retaliation evidence themes: protected speech or petitioning activity followed by alleged enforcement escalation.
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+Use it to route into the underlying complaint artifacts, timeline waypoints, and packet indexes that anchor the chronology.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* MPD retaliation jump page: [MPD retaliation and escalation after complaints (evidence index)](mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
+* CR packet indexes:
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* §1983 claims overview (context): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)
 
 ### Protected activity records
 

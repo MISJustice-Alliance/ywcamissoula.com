@@ -22,6 +22,8 @@ description: >-
 
 This page analyzes a First Amendment retaliation / petition-for-redress theory involving YWCA of Missoula’s alleged conduct after complaints. It is a legal theory mapping page, not a court finding. Use the “Verify first” links to review the complaint artifacts and timeline events that the theory depends on.
 
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
 ### Verify first (primary artifacts)
 
 * YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
@@ -30,7 +32,7 @@ This page analyzes a First Amendment retaliation / petition-for-redress theory i
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
 
-This legal analysis evaluates potential YWCA of Missoula institutional liability for alleged First Amendment violations tied to complaints and subsequent escalation.
+This legal analysis evaluates potential institutional liability theories tied to alleged First Amendment retaliation after complaints.
 
 Damages numbers referenced here should be treated as asserted and should be validated against the underlying records and any admissible damages documentation.
 

@@ -1,8 +1,20 @@
 # Scope and primary evidence types
 
-This page defines the boundaries of the evidence set and the “high-signal” record categories.
+### Executive snapshot
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+This page defines the scope of the evidence set and the “high-signal” record categories used throughout the evidence map. It is intended as a stable taxonomy for investigators, journalists, and LLM-based research tools when assessing reliability and provenance.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
 
 ### What this evidence set covers
 

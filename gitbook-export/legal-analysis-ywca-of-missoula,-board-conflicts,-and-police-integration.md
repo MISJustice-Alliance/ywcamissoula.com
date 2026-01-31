@@ -24,6 +24,8 @@ For a document-first entry point, use: [YWCA of Missoula board conflicts (invest
 
 This page maps a conflict-of-interest theory: YWCA of Missoula governance and operational ties may create structural risks when the organization interacts with MPD and Missoula County prosecutors. It is a governance-risk analysis, not a finding of wrongdoing. Use the “Verify first” links to review the underlying board/conflict documents and case packets.
 
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
 ### Verify first (primary artifacts)
 
 * Board conflicts router: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
@@ -32,13 +34,13 @@ This page maps a conflict-of-interest theory: YWCA of Missoula governance and op
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
 
-The totality of evidence cited across the site (staff/client accounts, DOJ materials, court-facing practices, and governance structure) is used here to argue a persistent structural risk at YWCA of Missoula: institutional capture through overlapping relationships with law enforcement and prosecutorial actors.
+### What this page tries to answer
 
-This risk is magnified by:
+* What governance ties and operational integration signals create a **conflict-of-interest risk**.
+* What minimum controls would reduce confidentiality and retaliation concerns.
+* Which primary documents are most relevant for verification.
 
-1. The empirical reality that law enforcement officers perpetrate intimate partner violence at significantly higher rates than the general population
-2. The presence of a Missoula Police Department detective on the YWCA Board of Directors
-3. Specific case histories where YWCA staff conduct allegedly contributed to escalation, harassment, or overreach against targeted individuals
+This page uses the cited record to frame a structural risk: overlapping relationships can complicate neutrality, confidentiality, and accountability when advocacy organizations interact closely with law enforcement and prosecutors.
 
 ## Institutional Conflicts of Interest and Board Composition
 

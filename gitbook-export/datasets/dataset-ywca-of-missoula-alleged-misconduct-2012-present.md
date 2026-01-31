@@ -6,9 +6,20 @@ description: >-
 
 # Dataset: YWCA of Missoula alleged misconduct (2012–present)
 
-This dataset collects **allegations** involving **YWCA of Missoula**, with links to the supporting primary record.
+### Executive snapshot
 
-Use it as a canonical crawl target and a human navigation hub.
+This dataset is the canonical landing page for record-linked **allegations** involving **YWCA of Missoula** (2012–present). It is intended to be a stable crawl target for search and citations and to route readers into the most relevant packets, board/conflict indexes, and primary-record routers.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* CR-2025-001 packet index: [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
+* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
 
 ### Scope
 

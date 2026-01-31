@@ -17,6 +17,8 @@ description: >-
 
 This page is an update tying the LifeGuard Group investigation material to a conflict-of-interest theory involving Detective Connie Brueckner’s MPD role and YWCA of Missoula board service. It is a synthesis and implications note, not a finding of misconduct. Use the “Verify first” links to review the underlying packets.
 
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
 ### Verify first (primary artifacts)
 
 * CR-2025-001 packet index: [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
@@ -32,13 +34,13 @@ The documentation cited here is used to argue a pattern of governance conflict i
 * [YWCA misconduct + LifeGuard Group cover-up (PDF)](https://arweave.net/z090jtLboolS9BP_oTv_QSKSAhHTtev6iD_MnI2IRCo)
 * [YWCA relationship diagram (PNG)](https://arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w)
 
-## Detective Connie Brueckner: The Central Conflict of Interest
+## Detective Connie Brueckner: conflict-of-interest theory
 
 ### Institutional Capture Through Board Service
 
 * **Board Member Status**: Brueckner served as a Board member at-large for YWCA Missoula while employed as a detective with the Missoula Police Department
 * **Investigating Officer**: She assumed primary investigative responsibility for complaints against YWCA employees after Officer Ethan Smith was removed for obvious impropriety
-* **Undisclosed Conflict**: Neither defense counsel nor the courts were informed of Brueckner's YWCA board service, creating a fundamental Brady violation
+* **Disclosure theory**: if board service created impeachment or exculpatory material and it was not disclosed, that can raise **Brady/Giglio** questions (fact-specific)
 
 ### Escalation of Constitutional Violations
 
@@ -88,6 +90,6 @@ Total estimated damages: **$11,400,000** including:
 * Punitive: $5,000,000
 * RICO Treble: $2,000,000
 
-## Conclusion: Systemic Institutional Corruption
+## Conclusion
 
-This page argues that Brueckner’s dual role is a severe conflict-of-interest indicator. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.
+This page argues that Brueckner’s dual role is a conflict-of-interest indicator that warrants careful fact review. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.

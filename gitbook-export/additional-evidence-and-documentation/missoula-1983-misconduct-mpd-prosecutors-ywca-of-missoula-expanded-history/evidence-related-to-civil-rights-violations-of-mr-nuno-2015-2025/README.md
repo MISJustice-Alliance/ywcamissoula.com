@@ -6,13 +6,30 @@ description: >-
 
 # Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al
 
-## Overview
+### Executive snapshot
 
-This page is an evidence map. It groups the strongest records supporting a multi-year pattern of civil rights violations, institutional misconduct, and ongoing harassment against **Mr. Nuno** across Washington and Montana.
+This page is an evidence map.
 
-The core point is simple: the record contains repeatable, timestamped, third‑party documentation. It supports **$3,441,000** in quantified damages, plus substantial non-economic harm.
+It groups high-signal records and packet links used across this site to support civil-rights and misconduct theories tied to the Nuno record (Washington + Montana). Use it to jump from a claim type (e.g., Fourth Amendment search/seizure) into the most relevant primary artifacts and sub-index pages.
 
-If you want the full narrative and legal theory, start here:
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+
+### Notes on damages numbers
+
+Any dollar figures referenced in this evidence map are **claimed** and used for orientation.
+
+They should be treated as a model that **assumes liability is proven** and requires admissible proof.
+
+### Narrative + theory entry points (optional)
 
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../)
 * [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](../../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)

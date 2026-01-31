@@ -7,11 +7,25 @@ description: >-
 
 # ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index
 
-## ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index
+### Executive snapshot
 
-This is a navigable case file for **Montana Office of Disciplinary Counsel (ODC) File No. 25-147**.
+This page is a navigable case file index for **Montana Office of Disciplinary Counsel (ODC) File No. 25-147**, concerning attorney **Bryan Tipp**. It organizes the complaint, supplemental submissions, responses, ODC disposition, and request-for-review materials so readers can verify the record quickly.
 
-It indexes filings concerning **attorney Bryan Tipp** and alleged **Montana Rules of Professional Conduct (MRPC)** violations.
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* External dossier portal (canonical public entry): https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06
+* Dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Internal case file mirror: [MisJustice Alliance case file: 2df48ac7](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+
+#### Key filings to quote
+
+* Original complaint packet: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
+* ODC disposition: [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
+* Review request: [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
 
 ### Target audience
 

@@ -11,14 +11,18 @@ description: >-
 
 # Montana Legal Cases
 
-## Child Pages
+### Executive snapshot
 
-This is the Montana index for case analysis and linked primary records.
+This page is the Montana index for case analysis and linked primary records, with emphasis on Missoula events tied into the Nuno record. Use it to pivot from an incident or filing into the relevant Montana-focused page, then into the underlying record packets and court documents.
 
-### Fastest verification path
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary citations: [Sources & record index](overview/sources-and-record-index.md)
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
+* CR-2025-002 packet index (many MT artifacts): [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
 ### Montana case pages
 

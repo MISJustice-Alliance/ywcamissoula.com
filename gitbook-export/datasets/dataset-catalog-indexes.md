@@ -6,9 +6,21 @@ description: >-
 
 # Dataset Catalog Indexes
 
-This section creates crawlable, stable entry points for the highest-signal record sets.
+### Executive snapshot
 
-If you’re coming from Google, start here.
+This page is the dataset entry point for search engines and LLMs. It lists the canonical dataset landing pages (“one URL per record set”) and the supporting structured-data registry used for Schema.org Dataset / Google Dataset Search.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Dataset structured-data values (single source of truth): [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* Source/citation hub: [Sources & record index](../overview/sources-and-record-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+
+Related:
+
+* [SEO + GEO audit (sitewide)](seo-+-geo-audit-sitewide.md)
 
 ### Canonical URL rule
 

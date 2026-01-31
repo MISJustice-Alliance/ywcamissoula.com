@@ -1,10 +1,24 @@
 # Damages evidence (quantified and non-economic)
 
-This page organizes the damages record. It includes quantified loss plus reputation and employability harm.
+### Executive snapshot
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+This page is a sub-index for damages evidence: quantified economic loss plus non-economic harms (reputation, employability, emotional distress). Dollar figures referenced here are **claimed** and used as a model for organizing supporting documents.
 
-### Quantified economic loss: **$3,441,000**
+Treat any totals as **assumes liability is proven** and requires admissible proof.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* Damages theory context (analysis): [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../../../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+
+### Quantified economic loss (claimed model): **$3,441,000**
 
 | Category        |     Amount | Typical supporting records            |
 | --------------- | ---------: | ------------------------------------- |

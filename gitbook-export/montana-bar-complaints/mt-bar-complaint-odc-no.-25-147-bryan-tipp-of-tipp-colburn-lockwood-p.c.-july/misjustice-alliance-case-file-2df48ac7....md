@@ -4,10 +4,19 @@ description: Index for the published ODC 25-147 case page and its linked documen
 
 # MisJustice Alliance case file: 2df48ac7
 
-Use this page as a stable internal index for the published external case file.
+### Executive snapshot
 
-* External case page: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
-* Related internal hub: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+This page is a stable internal index for the published external case file **2df48ac7** (CR-2025-003 / ODC 25-147 dossier). It mirrors key packet links so analysis pages can reference a single internal URL while still pointing to stable external artifacts.
+
+{% include "../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* External case portal (canonical public entry): https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06
+* Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* Related dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* Canonical source list: [Sources & record index](../../overview/sources-and-record-index.md)
+* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
 ### Case
 

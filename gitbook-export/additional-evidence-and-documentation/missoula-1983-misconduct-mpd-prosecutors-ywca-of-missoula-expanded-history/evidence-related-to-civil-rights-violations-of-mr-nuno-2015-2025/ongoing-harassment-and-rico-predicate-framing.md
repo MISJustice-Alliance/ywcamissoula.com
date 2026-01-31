@@ -1,9 +1,27 @@
 # Ongoing harassment and RICO predicate framing
 
-This page groups post-2019 harassment records and an evidence-first RICO/pattern framing.
+### Executive snapshot
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Related packets: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md) · [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+This page is a sub-index for evidence themes involving alleged ongoing harassment (2019–2025+) and “pattern” framing.
+
+It links to packets, screenshots, and documentation that should be verified directly before drawing conclusions, especially for any racketeering (RICO) theory.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+
+{% hint style="warning" %}
+Avoid publishing private identifiers (addresses, phone numbers, employer HR contacts).
+
+Even if present in a record, redact unless clearly public and necessary.
+{% endhint %}
 
 ### CR-2025-001 core packets (public links)
 
@@ -51,13 +69,19 @@ Keep this evidence-driven. Avoid conclusions that require a court finding.
 
 ### Appendix A: Photo evidence of continued harassment (August 2022)
 
-These individuals are presumed associates of E’Lise Chard / YWCA (YWCA references appear in multiple messages). Mr. Nuno states they were strangers with no prior contact.
+These individuals are described in the record as potential associates of E’Lise Chard / YWCA.
+
+The included screenshots/messages contain references that are argued to connect them. Mr. Nuno states they were strangers with no prior contact.
 
 When these incidents were reported, no action was taken.
 
 {% embed url="https://cr-2025-002-evidence-18_misjusticealliance.arweave.net" %}
 
 ### Appendix B: Google review content (quoted)
+
+The text below is quoted from a public review.\n\nIt contains allegations and rhetorical language and should be treated as such unless corroborated by primary records. The text below is quoted from a public review.
+
+It contains allegations and rhetorical language and should be treated as such unless corroborated by primary records.
 
 _2 years ago_
 

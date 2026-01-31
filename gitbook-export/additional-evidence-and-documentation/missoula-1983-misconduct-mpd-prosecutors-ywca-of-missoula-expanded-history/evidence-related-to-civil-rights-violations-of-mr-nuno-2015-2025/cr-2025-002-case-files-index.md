@@ -6,11 +6,19 @@ description: >-
 
 # CR-2025-002 — Case files index
 
-## CR-2025-002 — Victim of Prosecutorial Misconduct v. Various State Actors (Montana & Washington)
+### Executive snapshot
 
-This page is a stable internal index to the **CR-2025-002** document set published by MISJustice Alliance.
+This page is a stable internal index to the **CR-2025-002** document set published by MisJustice Alliance. It is designed to be a canonical link target from analysis pages, timelines, and evidence maps. Most links are external packet URLs (Arweave gateways) intended to be stable for citation.
 
-Use it as the canonical link target from analysis pages, timelines, and evidence maps.
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* External case portal (canonical public entry): https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* Complaint index: [Federal and State Department Complaints](../../../state-and-federal-complaints/federal-and-state-department-complaints.md)
 
 {% hint style="info" %}
 These are external files. Links point to Arweave-hosted artifacts.

@@ -14,11 +14,19 @@ description: >-
 
 # Police Reports, Court Docs, and Correspondence Index
 
-## Police Reports, Court Docs, and Correspondence
+### Executive snapshot
 
-Use this page when you want direct links to primary artifacts.
+This page is a direct-links index for **primary artifacts**: police reports, court documents, correspondence, and formal complaints. Use it when you want to validate a claim by jumping straight to the underlying document, preferably via stable packet URLs.
 
-### Fastest verification path
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
+* Federal and state complaint library: [Federal and State Department Complaints](state-and-federal-complaints/federal-and-state-department-complaints.md)
+
+### Direct links (high-signal)
 
 * Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Canonical source list: [Sources & record index](overview/sources-and-record-index.md)

@@ -7,16 +7,19 @@ description: >-
 
 # Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index
 
-## Missoula Police
+### Executive snapshot
 
-This hub collects the site’s **Missoula Police** / **Missoula Police Department (MPD)** material.
+This page is the main router for **Missoula Police Department (MPD)** material. It prioritizes record navigation over narrative and links into event timelines, primary-document indexes, and theme-based evidence routers. Use the **Verify first** links to anchor any claim to an underlying document.
 
-It prioritizes record navigation over narrative.
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
-### Fastest verification path
+### Verify first (primary artifacts)
 
-* Start with the timeline: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Jump to underlying records: [Sources & record index](sources-and-record-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* Dataset landing page: [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* §1983 claims overview (analysis): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
 
 ### Start here
 

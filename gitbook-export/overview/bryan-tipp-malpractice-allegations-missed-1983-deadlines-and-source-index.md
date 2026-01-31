@@ -7,20 +7,22 @@ description: >-
 
 # Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index
 
-## Bryan Tipp
+### Executive snapshot
 
-This hub collects the **Bryan Tipp** malpractice record and the linked primary documents.
+This hub collects Bryan Tipp malpractice **allegations** and the linked primary documents. It is a navigation page for filings, packets, and supporting correspondence. Start with the **Verify first** links, then use “Start here” for the analysis pages.
 
-The core claim presented across these pages is that failures of competence, diligence, and communication led to missed civil-rights and tort deadlines.
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
-### Fastest verification path
+### Verify first (primary artifacts)
 
-* Start with the dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
-* Jump to primary citations: [Sources & record index](sources-and-record-index.md)
+* Dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* Montana ODC filing index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* Primary citations hub: [Sources & record index](sources-and-record-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 
 ### Start here
 
-* Malpractice overview: [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* Malpractice overview (analysis): [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * Key correspondence analysis: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
 * Evidence hub: [Legal malpractice evidence (Bryan Tipp)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
 

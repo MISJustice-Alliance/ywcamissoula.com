@@ -1,8 +1,21 @@
 # Fabricated evidence and false reporting
 
-This page lists recurring contradiction patterns that show up across reports and narratives.
+### Executive snapshot
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+This page is a sub-index for evidence themes involving alleged fabricated evidence and false reporting.
+
+It lists recurring contradiction patterns and points to the packets and record indexes where those contradictions can be verified.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* CR packet indexes:
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
 
 ### E’Lise Chard reports and narrative inflation
 

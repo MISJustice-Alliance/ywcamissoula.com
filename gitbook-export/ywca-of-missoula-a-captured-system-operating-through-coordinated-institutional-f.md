@@ -17,7 +17,9 @@ description: >-
 
 ### Executive snapshot
 
-This page is a high-level institutional-capture framing focused on YWCA of Missoula and its alleged interactions with MPD and Missoula County prosecutors. It is a synthesis page, not a primary record. Use the “Verify first” links to work from packets and rulings back into the narrative.
+This page is a high-level governance and conflict-of-interest framing focused on YWCA of Missoula and its alleged interactions with MPD and Missoula County prosecutors. It is a synthesis page, not a primary record. Use the “Verify first” links to work from packets and rulings back into the narrative.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
 
@@ -31,11 +33,11 @@ The 2024 Missoula Needs and Gaps Analysis is cited here alongside allegations an
 
 Detective Connie Brueckner's simultaneous service on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees is presented here as a core conflict-of-interest theory.
 
-## The Documented Pattern: From Individual Persecution to Systemic Exploitation
+## Pattern framing used in this analysis
 
-### The Nuno Case: A Template for Institutional Retaliation
+### Example sequence referenced in the record (Nuno case)
 
-The case against Mr Nuno demonstrates how captured institutions operate in coordination to suppress dissent. When Mr. Nuno filed a formal complaint with YWCA leadership regarding staff misconduct, accompanied by a $400 donation showing good faith support, the response was immediate institutional retaliation.
+The record cited here is used to argue coordination and escalation after complaints. When Mr. Nuno filed a complaint with YWCA leadership regarding staff conduct, this analysis treats later events as potentially relevant to retaliation and conflict-of-interest theories.
 
 The case was transferred from Officer Ethan Smith (removed for obvious conflicts) directly to Detective Brueckner, whose undisclosed YWCA board membership enabled escalating constitutional violations including:
 
@@ -44,7 +46,7 @@ The case was transferred from Officer Ethan Smith (removed for obvious conflicts
 * 18-month malicious prosecution with charges ultimately dismissed
 * Coordinated harassment across multiple jurisdictions
 
-## Legal Red Flags: Criminal Activity Masquerading as Social Services
+## Legal theories discussed in this analysis
 
 ### RICO Violations: Enterprise Corruption
 

@@ -4,10 +4,18 @@ description: Index page for the external case file and its linked evidence docum
 
 # MisJustice Alliance case file: d81209a2
 
-Use this page as a stable internal index for the published external case file.
+### Executive snapshot
 
-* External case page: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c](https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c)
+This page is a stable internal index for the published external case file **d81209a2** (CR-2025-001). It mirrors key packet links so analysis pages can reference a single internal URL while still pointing to stable external artifacts.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* External case portal (canonical public entry): https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c
 * Internal packet index: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Back to evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 ### Case

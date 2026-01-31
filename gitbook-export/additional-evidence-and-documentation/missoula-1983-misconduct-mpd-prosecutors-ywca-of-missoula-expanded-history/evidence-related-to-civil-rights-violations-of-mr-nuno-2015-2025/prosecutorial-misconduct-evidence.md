@@ -1,10 +1,22 @@
 # Prosecutorial misconduct evidence
 
-This page maps Brady/suppression themes and a malicious prosecution checklist to record types.
+### Executive snapshot
 
-For a packet-style jump page, use: [Prosecutorial misconduct and Brady issues (evidence index)](prosecutorial-misconduct-and-brady-issues-evidence-index.md).
+This page maps evidence themes relevant to alleged prosecutorial misconduct: disclosure obligations (Brady/Giglio) and malicious-prosecution elements.
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+It is a mapping layer, not a finding. Use the jump index first, then validate against the primary artifacts.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Jump index: [Prosecutorial misconduct and Brady issues (evidence index)](prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
 
 ### Brady / suppression themes
 

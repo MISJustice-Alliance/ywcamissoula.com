@@ -7,11 +7,19 @@ description: >-
 
 # MPD retaliation and escalation after complaints (evidence index)
 
-## MPD retaliation and escalation after complaints (evidence index)
+### Executive snapshot
 
-This page indexes records supporting a **protected complaint → MPD escalation** pattern in the Nuno case.
+This page is a sub-index for evidence themes involving alleged **retaliation and escalation after complaints** by Missoula Police Department (MPD), as framed in the Nuno record. Use it to jump directly into the primary artifacts and the incident pages that collect the underlying documents.
 
-Use it to jump directly into primary documents and high-signal analyses.
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* MPD hub/router: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](../../../overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
+* §1983 claims overview (context): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)
 
 ### What this covers
 

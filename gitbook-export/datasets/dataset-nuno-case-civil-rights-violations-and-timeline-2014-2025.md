@@ -6,9 +6,20 @@ description: >-
 
 # Dataset: Nuno case civil-rights violations and timeline (2014–2025)
 
-This dataset is the **timeline + record index** for the Nuno case.
+### Executive snapshot
 
-It is the main evidence spine for the broader Missoula system analysis.
+This dataset is the canonical landing page for the Nuno case **timeline + record index** (2014–2025). It is intended to be a stable crawl target for search and citations and to route readers into the event-by-event timeline and primary record indexes.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Timeline spine (row-level navigation): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* CR-2025-002 packet index: [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* CR-2025-001 packet index (related): [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
 
 ### Scope
 

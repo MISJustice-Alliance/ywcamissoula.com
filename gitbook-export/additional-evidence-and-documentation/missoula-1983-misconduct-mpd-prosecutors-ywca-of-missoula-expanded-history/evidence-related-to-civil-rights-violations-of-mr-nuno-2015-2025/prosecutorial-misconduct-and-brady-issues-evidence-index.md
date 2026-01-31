@@ -6,11 +6,30 @@ description: >-
 
 # Prosecutorial misconduct and Brady issues (evidence index)
 
-## Prosecutorial misconduct and Brady issues (evidence index)
+### Executive snapshot
 
-This page is a jump index for alleged **prosecutorial misconduct** and **Brady / suppression** issues in the Nuno case.
+This page is a jump index for evidence themes involving alleged **prosecutorial misconduct** and **Brady / Giglio disclosure** issues in the Nuno record.
 
-Use it to move quickly from theme → documents → packet-ready citations.
+Use it to move from theme → documents → packet-ready citations, then validate each point against the linked primary artifacts.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+
+### Definition (for quoteability)
+
+* **Brady**: suppression of material exculpatory evidence by prosecutors.
+* **Giglio**: suppression of material impeachment evidence (e.g., credibility issues).
+
+Whether either applies is always **fact-specific** and depends on materiality and disclosure history.
 
 ### Key documents (high-signal)
 
@@ -22,11 +41,6 @@ Use it to move quickly from theme → documents → packet-ready citations.
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../../../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
 * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-
-### Primary record indexes
-
-* [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* [Sources & record index](../../../overview/sources-and-record-index.md)
 
 ### FAQ
 

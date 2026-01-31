@@ -11,11 +11,11 @@ description: >-
 
 # Intentional Infliction of Extreme Psychological Trauma (2015-2025)
 
-## Introduction
-
 ### Executive snapshot
 
 This page summarizes a damages theory for severe emotional distress (including PTSD/cPTSD) in a civil-rights framing. It is a damages analysis, not a clinical diagnosis and not a court finding. Verify the underlying medical letters, filings, and timeline events before relying on any number.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
 
@@ -25,7 +25,9 @@ This page summarizes a damages theory for severe emotional distress (including P
 * Damages evidence router: [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
 * Case packet index (44 files): https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
 
-The record presented here alleges a decade-long campaign of civil rights violations that caused severe psychological trauma with legal significance. This trauma is described as including complex PTSD, agoraphobia, and withdrawal from civic participation. Under established precedent, severe emotional distress damages in civil rights cases can reach $500,000+ for cPTSD, with higher awards asserted where facts support it.
+The record cited across this site is used to support a damages theory for severe emotional distress. The claimed impacts include complex PTSD, agoraphobia, and withdrawal from civic participation. Any reference to typical award ranges is **context**, not a prediction.
+
+Validate against jurisdiction, comparator cases, and admissible proof.
 
 ## I. Legal Framework for Psychological Trauma
 

@@ -6,11 +6,19 @@ description: >-
 
 # CR-2025-001 — Case files index
 
-## CR-2025-001 — Victims of Institutional Misconduct v. YWCA of Missoula et al.
+### Executive snapshot
 
-This page is a stable internal index to the CR-2025-001 document set published by MISJustice Alliance.
+This page is a stable internal index to the **CR-2025-001** document set published by MisJustice Alliance. It is designed to be a canonical link target from analysis pages, timelines, and evidence maps. Most links are external packet URLs (Arweave gateways) intended to be stable for citation.
 
-Use it as the canonical link target from analysis pages, timelines, and evidence maps.
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* External case portal (canonical public entry): https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c
+* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* Related hub (YWCA router): [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
 
 {% hint style="info" %}
 These are external files. Links point to Arweave-hosted artifacts.

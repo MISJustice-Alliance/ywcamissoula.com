@@ -8,13 +8,22 @@ description: >-
 
 # Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)
 
-## Introduction
+### Executive snapshot
 
-This site documents alleged misconduct tied to three core institutions in Missoula (2012–present).
+This site organizes record-linked **allegations** involving Missoula’s law-enforcement and victim-advocacy ecosystem (2012–present). The Nuno case (2015–2025) is used as the main evidence spine to connect events, filings, and institutional actors. Core legal frameworks referenced include the First, Fourth, and Fourteenth Amendments and **42 U.S.C. § 1983**.
 
-The primary frameworks referenced are First/Fourteenth Amendment issues, Fourth Amendment search/seizure issues, and 42 U.S.C. § 1983.
+Verification is record-first.
 
-Verification is record-first. Start with packets, filings, and correspondence.
+Start with the **Verify first** links, then use the hubs and datasets below.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary record citations: [Sources & record index](overview/sources-and-record-index.md)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
+* Article/router index: [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
 
 ### Common searches (fast entry points)
 
@@ -30,17 +39,11 @@ Verification is record-first. Start with packets, filings, and correspondence.
 * [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
 * [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
 
-### Fastest verification path (recommended)
-
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary record citations: [Sources & record index](overview/sources-and-record-index.md)
-* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
-
 ### Core case spine
 
 The Nuno case (2015–2025) is the detailed case study and evidentiary spine.
 
-It documents alleged abuse of power against vulnerable people. It also documents alleged weaponization of “victim advocacy” workflows.
+It is used to document alleged abuse of process and potential conflict-of-interest concerns. It also discusses alleged misuse of “victim advocacy” workflows.
 
 The record includes materials reaching back to 2012 and earlier. It continues through current events and ongoing outcomes.
 
@@ -115,9 +118,11 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)
 
-## Nuno case: estimated damages
+## Nuno case: damages model (claimed; assumes liability)
 
-This estimate is specific to Mr. Nuno’s claimed damages.
+This is a damages model specific to Mr. Nuno’s **claimed** damages.
+
+It is included as an analysis aid and **assumes liability is proven**.
 
 | Category                | Amount          |
 | ----------------------- | --------------- |

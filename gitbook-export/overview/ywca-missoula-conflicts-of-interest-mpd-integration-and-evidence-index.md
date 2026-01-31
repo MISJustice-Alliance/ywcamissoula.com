@@ -7,16 +7,19 @@ description: >-
 
 # YWCA Missoula: conflicts of interest, MPD integration, and evidence index
 
-## YWCA Missoula
+### Executive snapshot
 
-This site uses **"YWCA Missoula"** as shorthand for **YWCA of Missoula**.
+This page is the main router for material involving **YWCA of Missoula** (“YWCA Missoula” on this site). It consolidates record-linked **allegations** about governance conflicts, confidentiality risk, and operational integration signals with law enforcement and prosecutors. Use the **Verify first** links to jump to packets and indexes, then use the curated page list below for analysis and context.
 
-The record compiled here alleges conflicts of interest, confidentiality risk, and integration with law enforcement workflows.
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
-### Fastest verification path
+### Verify first (primary artifacts)
 
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary record citations: [Sources & record index](sources-and-record-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](sources-and-record-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* Dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](../datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* CR-2025-001 packet index: [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 
 ### Start here
 
@@ -60,5 +63,7 @@ Use this as the law-enforcement-facing hub:
 * “§1983” = federal civil-rights claim for deprivation of rights under color of state law.
 
 {% hint style="info" %}
-This documentation is organized as record-backed analysis and indexing. It is not individualized legal advice.
+This page is a hub.
+
+It links to primary artifacts and analysis pages so readers can verify specific claims.
 {% endhint %}

@@ -6,7 +6,20 @@ description: >-
 
 # Dataset: Bryan Tipp alleged legal malpractice (2017–2025)
 
-This dataset collects **allegations** of legal malpractice and related misconduct by **Bryan Tipp**, with links to the underlying filings and primary records.
+### Executive snapshot
+
+This dataset is the canonical landing page for record-linked **allegations** of legal malpractice and related misconduct involving **Bryan Tipp** (2017–2025). It is intended to be a stable crawl target for search and citations and to route readers into the bar-complaint docket, primary packets, and related correspondence.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Hub/router: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](../overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
+* Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* CR-2025-003 internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
 
 ### Scope
 

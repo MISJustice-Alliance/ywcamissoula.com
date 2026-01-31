@@ -10,11 +10,13 @@ description: >-
 
 # Missoula Needs & Gaps analysis: homelessness funding and institutional capture
 
-## A Captured System Operating Through Coordinated Institutional Failures
+## Missoula “Needs & Gaps” (2024): governance and compliance signals
 
 ### Executive snapshot
 
 This page analyzes the 2024 Missoula “Needs & Gaps” report as a governance and compliance signal, and then cross-links it to allegations involving YWCA of Missoula, Missoula Police Department (MPD), and Missoula County prosecutors. It is a policy/compliance analysis, not a finding of fraud or criminal liability. Use the “Verify first” links to review the underlying report and packet evidence.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
 
@@ -24,7 +26,7 @@ This page analyzes the 2024 Missoula “Needs & Gaps” report as a governance a
 * CR-2025-001 packet index: [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
 
-The 2024 Missoula Needs and Gaps Analysis, when read alongside allegations and record citations involving YWCA of Missoula, Missoula Police Department (MPD), and prosecutorial agencies, is used here as a signal of potential institutional capture and accountability gaps.
+The 2024 Missoula Needs and Gaps Analysis, when read alongside allegations and record citations involving YWCA of Missoula, Missoula Police Department (MPD), and prosecutorial agencies, is used here as a signal of governance and accountability gaps.
 
 Additional current and former client accounts are presented as alleging confidentiality breaches and ethics failures affecting vulnerable populations.
 

@@ -6,9 +6,21 @@ description: >-
 
 # Sources & record index
 
-## Sources & record index
+### Executive snapshot
 
-Use this page as the canonical source list for the project. It includes (1) **primary records** and (2) a **bibliography**.
+This page is the canonical source list for the project. It separates **primary records** (filings, packets, correspondence, reports) from a **bibliography** of secondary/public sources. Use it to verify any claim by linking the exact underlying artifact.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* Dataset landing pages (crawlable hubs): [Dataset Catalog Indexes](../datasets/dataset-catalog-indexes.md)
+* Key packet indexes:
+  * [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+  * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 
 {% hint style="info" %}
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.

@@ -1,9 +1,22 @@
 # YWCA institutional liability evidence
 
-This page groups notice, ratification, and state-action indicators tied to YWCA-related conduct.
+### Executive snapshot
 
-* Back to [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Jump index: [YWCA of Missoula board conflicts (investigative index)](ywca-of-missoula-board-conflicts-investigative-index.md)
+This page is a sub-index for evidence themes relevant to potential institutional liability theories involving YWCA of Missoula: notice, ratification, and “state action / joint action” indicators.
+
+Use it to route into the cited notice letters, governance artifacts, and third-party reporting that can be verified.
+
+{% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary artifacts)
+
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* Board conflicts jump index: [YWCA of Missoula board conflicts (investigative index)](ywca-of-missoula-board-conflicts-investigative-index.md)
+* CR packet indexes:
+  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
 
 ### Knowledge and ratification
 
