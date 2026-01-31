@@ -26,6 +26,10 @@ You usually want one of two exports:
 * **Dataset landing pages only** (internal GitBook URLs).
 * **Landing pages + direct downloads** (external packet URLs for `sameAs`).
 
+Or just copy from a prebuilt export:
+
+* [Dataset CSV export](dataset-csv-export.md)
+
 #### Export landing-page URLs (quick)
 
 Copy the **Priority datasets** list above.

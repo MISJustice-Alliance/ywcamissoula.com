@@ -125,3 +125,4 @@
 * [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
 * [Structured data registry (Dataset values)](datasets/structured-data-registry-dataset-values.md)
+* [Dataset CSV export](datasets/dataset-csv-export.md)
