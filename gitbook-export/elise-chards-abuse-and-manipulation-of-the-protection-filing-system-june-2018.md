@@ -9,21 +9,44 @@ tags:
   - June 2018
   - Abuse of Process
 description: >-
-  June 2018 protection order abuse analysis. Alleged perjury, abuse of process,
-  and related civil remedies.
+  June 12, 2018 Missoula County, MT order of protection filing. Alleged
+  retaliatory petition, perjury/credibility issues, and abuse-of-process
+  analysis with primary records.
 ---
 
-# E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)
+# June 2018: E'Lise Chard protection order petition (Missoula County, MT) - alleged abuse of process
 
-## Overview
+### Executive snapshot
 
-Analysis of E'Lise Chard's alleged manipulation of the protection order filing system in June 2018.
+This page analyzes a **June 12, 2018** petition for an **order of protection** (often searched as a "restraining order") filed in **Missoula County, Montana**, involving **E'Lise Chard** and **Elvis Ryland Nuno**.
 
-A core issue is whether the June 12, 2018 petition was filed in retaliation for a June 3, 2018 complaint to YWCA leadership. That complaint is framed as protected petitioning activity under the First Amendment.
+Key issues asserted in the record include **alleged abuse of process**, **alleged perjury/credibility conflicts**, and a **First Amendment retaliation** theory tied to a **June 3, 2018 complaint to YWCA of Missoula leadership**.
 
-Another core issue is the internal inconsistency between (a) the June 12, 2018 written narrative and (b) E’Lise Chard’s sworn answers at the protection order hearing about whether any contact occurred beyond the cessation-request emails.
+The specific credibility dispute highlighted here is the asserted inconsistency between:
 
-## Documented Issues
+* the **June 12, 2018 written narrative**, and
+* E’Lise Chard’s **sworn hearing answers** about whether any contact occurred beyond the cessation-request emails.
+
+Jurisdiction: **Montana (Missoula County)**.
+
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Verify first (primary records)
+
+* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [E’Lise Chard petition for order of protection (06-2018)](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
+* [YWCA complaint letter to YWCA Missoula leadership (06-2018)](https://4lsdab3ewlxq2wmdvchfyal5xbalnl6kxbo2i5o2mhtorvkrcfva.arweave.net/4uQwB2Sy7w1Zg6iOXAF9uEC2r8q4XaR12mHm6NVREWo)
+* [Exculpatory character witness statement sent to YWCA (alleged suppression)](https://ujc7y6rmhoezlugqun4rdagh5qlfdyymnc5aqmvfgtaouvxgw5xq.arweave.net/okX8eiw7iZXQ0KN5EYDH7BZR4wxouggypTTA6lbmt28)
+* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
+
+### Scope and terminology
+
+Search terms used intentionally on this page:
+
+* **order of protection** / **restraining order**
+* **abuse of process**
+* **perjury** (often cited to **MCA 45-7-202**)
+* **First Amendment retaliation** / **protected petitioning activity**
 
 ### June 2018 YWCA complaint (protected petitioning activity) and alleged retaliation
 
@@ -63,7 +86,7 @@ Retaliation theory asserted:
 
 ### Summary of June 12, 2018 protection order filing (E’Lise Chard)
 
-E’Lise Chard’s narrative in her June 12, 2018 petition is framed as making her a central target. It also frames her as a causal driver in the demise of the relationship between Mr. Nuno and Danielle Chard.
+E’Lise Chard’s narrative in her **June 12, 2018 Missoula County order of protection petition** is framed as making her a central target. It also frames her as a causal driver in the demise of the relationship between Mr. Nuno and Danielle Chard.
 
 This theory is asserted to fail under basic scrutiny of documented history. It is also asserted to fail under evidentiary standards for foundation, relevance, and prejudice.
 
@@ -113,7 +136,7 @@ The petition is described as containing statements like “Elvis blames me for �
 
 ### Perjury and credibility issues (written narrative vs sworn testimony)
 
-#### Hearing transcript contradiction (Judge Warren questioning)
+#### Hearing transcript contradiction at the order of protection hearing (Judge Warren questioning)
 
 Court transcripts at the protection order hearing are asserted to show the following:
 
@@ -190,7 +213,7 @@ The protection order process is also framed as being amplified by institutional 
 * Officer Ethan Smith is asserted to have been removed from involvement due to appearance-of-impropriety concerns.
 * Systematic suppression of reporting attempts by Mr. Nuno is asserted.
 
-### Abuse of Process
+### Abuse of process indicators (asserted)
 
 * Using protection order system as offensive weapon
 * Coordination with YWCA staff
@@ -205,7 +228,7 @@ Primary artifact:
 
 * [Exculpatory character witness statement sent to YWCA (alleged suppression)](https://ujc7y6rmhoezlugqun4rdagh5qlfdyymnc5aqmvfgtaouvxgw5xq.arweave.net/okX8eiw7iZXQ0KN5EYDH7BZR4wxouggypTTA6lbmt28)
 
-## Evidence
+### Evidence
 
 * [E’Lise Chard petition for order of protection (06-2018)](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
 * [YWCA complaint letter to YWCA Missoula leadership (06-2018)](https://4lsdab3ewlxq2wmdvchfyal5xbalnl6kxbo2i5o2mhtorvkrcfva.arweave.net/4uQwB2Sy7w1Zg6iOXAF9uEC2r8q4XaR12mHm6NVREWo)
@@ -219,8 +242,17 @@ Primary artifact:
 * Communication records
 * Witness statements
 
-## Legal Remedies
+### Potential legal theories referenced (non-exhaustive)
 
-* Perjury charges
-* Abuse of process civil claim
-* Malicious prosecution
+These are issue labels used for research and cross-referencing, not legal advice:
+
+* **Perjury** (MCA 45-7-202) (asserted relevance: sworn-hearing contradiction)
+* **Abuse of process** (asserted relevance: strategic use of protection-order process)
+* **Malicious prosecution / retaliatory prosecution** (asserted relevance: downstream enforcement actions, if any)
+
+### Related pages
+
+* [Montana Legal Cases](montana-legal-cases.md)
+* [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+* [Aug 2018: warrantless arrest and false imprisonment](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
+* [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
