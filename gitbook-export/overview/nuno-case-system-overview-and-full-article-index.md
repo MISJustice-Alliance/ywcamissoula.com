@@ -44,6 +44,9 @@ Use these when you want a single crawlable landing page per “record set”:
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](../datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
 * [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
 * [Dataset: YWCA of Missoula alleged misconduct (2012–present)](../datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](../datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
+* [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](../datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
 
 ### FAQ (quick navigation)
 
@@ -112,6 +115,12 @@ Use this documentation to:
 
 * [Introduction](../)
 * [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
+* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](../datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](../datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](../datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
+* [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](../datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Civil Rights Violations and Related Claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
 * [Washington/Montana Legal Cases Index](../washington-montana-legal-cases-index.md)
