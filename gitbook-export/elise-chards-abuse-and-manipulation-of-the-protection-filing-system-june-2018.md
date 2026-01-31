@@ -21,6 +21,8 @@ Analysis of E'Lise Chard's alleged manipulation of the protection order filing s
 
 A core issue is whether the June 12, 2018 petition was filed in retaliation for a June 3, 2018 complaint to YWCA leadership. That complaint is framed as protected petitioning activity under the First Amendment.
 
+Another core issue is the internal inconsistency between (a) the June 12, 2018 written narrative and (b) E’Lise Chard’s sworn answers at the protection order hearing about whether any contact occurred beyond the cessation-request emails.
+
 ## Documented Issues
 
 ### June 2018 YWCA complaint (protected petitioning activity) and alleged retaliation
@@ -59,12 +61,134 @@ Retaliation theory asserted:
 * The protection order court later found the YWCA complaint was protected speech.
 * The record attributes that finding to Judge Sam Warren at the protection order hearing.
 
-### Perjury in Protection Order Application
+### Summary of June 12, 2018 protection order filing (E’Lise Chard)
 
-* False statements under oath
-* Fabricated allegations
-* Omission of material facts
-* Contradictions with prior statements
+E’Lise Chard’s narrative in her June 12, 2018 petition is framed as making her a central target. It also frames her as a causal driver in the demise of the relationship between Mr. Nuno and Danielle Chard.
+
+This theory is asserted to fail under basic scrutiny of documented history. It is also asserted to fail under evidentiary standards for foundation, relevance, and prejudice.
+
+### Evidentiary and relevance problems in the narrative
+
+#### Absence of firsthand knowledge (foundation)
+
+**Legal principle (asserted):** Testimony should be grounded in personal knowledge. Montana Rule of Evidence 602 is cited for the requirement of firsthand knowledge.
+
+**Factual basis (asserted):**
+
+* The contact history is described as minimal.
+* E’Lise Chard and Mr. Nuno are framed as essentially strangers.
+* Claimed contact includes a hostile high-school introduction (2001).
+* Claimed contact includes emergency outreach in 2015 to request housing help for Danielle.
+* Claimed contact includes limited communications about Danielle’s wellbeing and mental health.
+* Later contact is described as limited to cessation-of-harassment emails.
+
+**Consequence (asserted):** Assertions about the relationship’s inner workings are framed as speculation. They are also framed as inadmissible or unreliable absent foundation.
+
+#### No causal role in relationship termination (contradiction to documents)
+
+**Factual basis (asserted):**
+
+* The relationship ended because of Danielle’s abusive conduct in 2015.
+* Mr. Nuno is framed as seeking E’Lise’s intervention only to avoid homelessness risk for Danielle.
+* No communication is cited where Mr. Nuno blames E’Lise for the breakup.
+* Danielle’s own filings are framed as not relying on E’Lise’s “relationship-causation” theory.
+
+**Consequence (asserted):** Motive attribution to Mr. Nuno is framed as unsupported. It is also framed as contradicted by contemporaneous records and conduct.
+
+#### Estrangement and lack of relevant insight
+
+**Factual basis (asserted):**
+
+* E’Lise and Danielle are described as estranged since 2001.
+* E’Lise is described as having “disowned” Danielle at age 18.
+* E’Lise is described as lacking familiarity with Danielle’s education and life details.
+
+**Legal principle (asserted):** Montana evidence law is cited as excluding outsider characterizations about motive or intent. _State v. Clark_, 2002 MT 377 is cited as an example of speculation limits.
+
+#### Speculation about another person’s beliefs and intent
+
+The petition is described as containing statements like “Elvis blames me for …” or “he believes …,” without a foundation for how those beliefs were known.
+
+**Consequence (asserted):** These statements are framed as classic speculation. They are also framed as prejudicial, under a relevance-versus-prejudice lens (often analyzed under Rule 403).
+
+### Perjury and credibility issues (written narrative vs sworn testimony)
+
+#### Hearing transcript contradiction (Judge Warren questioning)
+
+Court transcripts at the protection order hearing are asserted to show the following:
+
+* Judge Sam Warren asked E’Lise Chard **twice** whether Mr. Nuno made any attempt to contact her other than the **two emails requesting cessation of harassment**.
+* E’Lise Chard answered **“no”** both times.
+* Those answers are asserted to contradict her June 12, 2018 written narrative alleging broader “contact” and threat-related conduct.
+
+**Why this matters:** This contradiction is asserted to support impeachment and a perjury analysis. It is also asserted to undermine probable-cause style reliance on the written narrative when no corroborating evidence exists.
+
+#### Categories of demonstrably false statements alleged
+
+The petition is asserted to contain multiple falsehood categories. The list below reflects the allegations and the claimed “documented reality.”
+
+**Fabricated relationship history**
+
+**Claim (asserted):** The petition is framed as portraying extensive familiarity and knowledge.
+
+**Documented reality (asserted):** Contact is framed as limited to a small number of discrete events over many years. No sustained relationship is alleged.
+
+**False claims about criminal history**
+
+**Claim (asserted):** Allegations of multiple domestic violence charges and “extensive drug history.”
+
+**Documented reality (asserted):**
+
+* One DV 3rd degree assault charge in Washington State is asserted.
+* No drug history is asserted.
+* Other referenced cases are asserted as dismissed with prejudice due to lack of evidence.
+
+**Legal significance (asserted):** These statements are framed as defamatory and potentially criminal defamation under **MCA 45-8-212**.
+
+**False claims about contact and threats**
+
+**Claim (asserted):** Ongoing harassment and threats, including threats to children.
+
+**Documented reality (asserted):**
+
+* No evidence of threats has been produced in any proceeding.
+* Sworn testimony is asserted to concede no contact beyond the cessation-request emails.
+
+**Legal significance (asserted):** The sworn contradiction is framed as perjury under **MCA 45-7-202**.
+
+**“Stalking” narrative without produced artifacts**
+
+**Claim (asserted):** “Stalking” and “rambling texts.”
+
+**Documented reality (asserted):**
+
+* No “rambling texts” are asserted to have been produced.
+* Bi-directional contact with Danielle into late 2015 is asserted, undermining a “one-way stalking” framing.
+* Judge Warren is asserted to have found protected First Amendment speech, with no threats or in-person contact found.
+
+**Mischaracterization of legal proceedings**
+
+**Claim (asserted):** “Left Seattle without completing sentencing.”
+
+**Documented reality (asserted):** Relocation is framed as motivated by safety fears, not evasion. Officer Ethan Smith is also framed as removed for “obvious appearance of impropriety.”
+
+### Timeline and constitutional framing (asserted)
+
+The June 2018 filing is asserted to align with a retaliation timeline:
+
+* **June 3, 2018:** Complaint to YWCA leadership.
+* **June 12, 2018:** Protection order petition filed.
+* **Hearing:** Judge Warren is asserted to have characterized the YWCA complaint as protected speech.
+
+This is asserted as consistent with a First Amendment retaliation theory. Federal standards like _Hartman v. Moore_ and _Nieves v. Bartlett_ are often cited in retaliation analysis.
+
+### Institutional coordination and conflict-of-interest allegations (asserted)
+
+The protection order process is also framed as being amplified by institutional relationships:
+
+* Detective Connie Brueckner is asserted to have served on a YWCA board while investigating related allegations.
+* Officer Ethan Smith is asserted to have been removed from involvement due to appearance-of-impropriety concerns.
+* Systematic suppression of reporting attempts by Mr. Nuno is asserted.
 
 ### Abuse of Process
 
