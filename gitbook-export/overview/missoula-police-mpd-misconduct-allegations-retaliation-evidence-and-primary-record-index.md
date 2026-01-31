@@ -13,6 +13,11 @@ This hub collects the site’s **Missoula Police** / **Missoula Police Departmen
 
 It prioritizes record navigation over narrative.
 
+### Fastest verification path
+
+* Start with the timeline: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Jump to underlying records: [Sources & record index](sources-and-record-index.md)
+
 ### Start here
 
 * High-level overview: [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../)

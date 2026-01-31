@@ -12,21 +12,30 @@ description: >-
 
 # Washington/Montana Legal Cases Index
 
-## Washington Legal Cases
+This is a cross-jurisdiction index of the Washington and Montana case pages.
+
+Use it to pivot from an event or proceeding into the deeper record.
+
+### Fastest verification path
+
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary citations: [Sources & record index](overview/sources-and-record-index.md)
+
+### Washington legal cases
 
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
-* 2015-2016 Seattle Case & Related Civil Rights Violations
-* 2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton
-* 2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington State
-* 2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct, HIPPA Violations, DOH Complaint Denial
-* 2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis
-* 2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation
+* [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
+* [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
+* [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
+* [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
+* [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
+* [2020 WA cases: witness tampering and coerced pleas](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
 
-## Montana Legal Cases
+### Montana legal cases
 
-* Allegations Against YWCA of Missoula & Board Member Detective Connie Brueckner
-* E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)
-* Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)
-* 2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations
-* 2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability
-* Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)
+* [YWCA Brueckner conflict: allegations summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
+* [Stalking charging documents (Sep 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)

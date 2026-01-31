@@ -10,6 +10,12 @@ This section creates crawlable, stable entry points for the highest-signal recor
 
 If you’re coming from Google, start here.
 
+### Canonical URL rule
+
+For Schema.org Dataset `url`, use the **public canonical URL** you want indexed.
+
+Keep internal GitBook paths for internal navigation only.
+
 ### Priority datasets
 
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
@@ -86,8 +92,20 @@ Recommended Dataset fields (minimum):
 * `@type`: `Dataset`
 * `name`
 * `description`
-* `url` (this GitBook page URL)
-* `sameAs` (direct download URL(s), if available)
+* `url` (the **public canonical URL** you want indexed)
+* `sameAs` (equivalent copies / mirrors of the dataset landing page, if any)
+
+Recommended for downloads:
+
+* `distribution` (direct download URL(s))
+
+### Maintenance checklist
+
+When adding or renaming a dataset page:
+
+* Update: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* Update: [Dataset CSV export](dataset-csv-export.md)
+* Ensure the dataset page links back here (so crawlers find the hub)
 
 {% hint style="info" %}
 These pages are documentation and indexing. They summarize **allegations** and link to underlying records.

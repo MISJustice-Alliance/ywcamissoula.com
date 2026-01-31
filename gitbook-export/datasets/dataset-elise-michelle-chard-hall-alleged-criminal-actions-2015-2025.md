@@ -14,6 +14,18 @@ This dataset collects **allegations** involving **E’Lise Michelle Chard / E’
 * **Geography:** Montana and Washington (as alleged)
 * **Record types:** published reports, court filings, police reports, correspondence
 
+### What this dataset is (and isn’t)
+
+This dataset is:
+
+* a curated index of allegations anchored to primary records
+* a stable landing page for search and citations
+
+This dataset is not:
+
+* a court finding
+* a substitute for reading the underlying filings and reports
+
 ### Canonical entry points
 
 * Case file hub: [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
@@ -22,10 +34,13 @@ This dataset collects **allegations** involving **E’Lise Michelle Chard / E’
 
 ### Primary published packet (downloadable)
 
-The strongest “single download” for this dataset currently lives inside the published case file:
+Direct report packet:
+
+* https://cr-2025-002-other-2\_misjusticealliance.arweave.net/
+
+See also:
 
 * [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
-  * Contains a report titled **“10\_ELise\_Chard\_Criminal\_Report…”** (external link on that page)
 
 ### Suggested data model
 
@@ -39,16 +54,7 @@ Recommended fields:
 * `source_url`
 * `summary`
 
-### Structured data (Schema.org Dataset)
-
-Emit Schema.org **Dataset** JSON-LD on this page’s URL via site-level header injection.
-
-Minimum fields:
-
-* `name`
-* `description`
-* `url`
-* `sameAs` (direct report/download URLs)
+{% include "../.gitbook/includes/dataset-structured-data-schema.org-guidance.md" %}
 
 {% hint style="warning" %}
 Avoid publishing non-public personal identifiers (addresses, phone numbers, employer HR details) unless already public and clearly relevant.

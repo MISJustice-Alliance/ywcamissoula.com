@@ -18,9 +18,21 @@ description: >-
 
 ## Introduction
 
-This legal analysis examines the YWCA of Missoula's institutional liability for violating Mr Nuno's First Amendment rights through their failure to investigate his formal 2017 complaint and their ratification of E'Lise Chard's coordinated harassment campaign.
+### Executive snapshot
 
-The organization's conduct demonstrates clear institutional negligence, ratification of employee misconduct, and facilitation of civil rights violations that resulted in **$3.44 million in documented damages** and the systematic destruction of Mr. Nuno's constitutional rights, career, and personal well-being.
+This page analyzes a First Amendment retaliation / petition-for-redress theory involving YWCA of Missoula’s alleged conduct after complaints. It is a legal theory mapping page, not a court finding. Use the “Verify first” links to review the complaint artifacts and timeline events that the theory depends on.
+
+### Verify first (primary artifacts)
+
+* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* Complaint + character reference packet (Aug 2018): https://cr-2025-002-evidence-17\_misjusticealliance.arweave.net/
+* MPD complaint packet re: Officer Smith: https://cr-2025-002-complaint-13\_misjusticealliance.arweave.net/
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+
+This legal analysis evaluates potential YWCA of Missoula institutional liability for alleged First Amendment violations tied to complaints and subsequent escalation.
+
+Damages numbers referenced here should be treated as asserted and should be validated against the underlying records and any admissible damages documentation.
 
 ## I. Institutional Framework and Legal Foundation
 

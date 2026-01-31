@@ -15,7 +15,19 @@ description: >-
 
 ## Washington & Montana Legal Matters - Elvis Nuno
 
-The systematic targeting of Elvis Nuno involved extensive Fourteenth Amendment violations across both Equal Protection and Due Process guarantees.
+### Executive snapshot
+
+This page maps potential Fourteenth Amendment theories (equal protection + due process) across Washington and Montana events in the Nuno record. It is an analysis layer, not an adjudication. Use the “Verify first” links to validate specific dates, actors, and rulings.
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Case summary packet: https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
+* Primary packet index (44 files): https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
+* Seattle dismissal order (2016): https://cr-2024-002-ruling-6\_misjusticealliance.arweave.net/
+* Missoula stalking dismissal with prejudice (2020): https://cr-2024-002-ruling-5\_misjusticealliance.arweave.net/
+
+The record presented here alleges extensive Fourteenth Amendment violations across both Equal Protection and Due Process guarantees.
 
 ## Timeline of Violations
 

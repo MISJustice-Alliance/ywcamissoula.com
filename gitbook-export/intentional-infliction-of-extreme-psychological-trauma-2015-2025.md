@@ -13,7 +13,19 @@ description: >-
 
 ## Introduction
 
-The decade-long campaign of systematic civil rights violations against Elvis Nuno has inflicted severe psychological trauma with profound legal significance. This trauma manifests as complex PTSD, agoraphobia, and complete erosion of civic participation. Under established precedent, severe emotional distress damages in civil rights cases can reach $500,000+ for cPTSD, with higher awards justified by the unique pattern of state-sponsored persecution.
+### Executive snapshot
+
+This page summarizes a damages theory for severe emotional distress (including PTSD/cPTSD) in a civil-rights framing. It is a damages analysis, not a clinical diagnosis and not a court finding. Verify the underlying medical letters, filings, and timeline events before relying on any number.
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Psychiatric letter (Apr 10, 2019): [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
+* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+* Damages evidence router: [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
+* Case packet index (44 files): https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
+
+The record presented here alleges a decade-long campaign of civil rights violations that caused severe psychological trauma with legal significance. This trauma is described as including complex PTSD, agoraphobia, and withdrawal from civic participation. Under established precedent, severe emotional distress damages in civil rights cases can reach $500,000+ for cPTSD, with higher awards asserted where facts support it.
 
 ## I. Legal Framework for Psychological Trauma
 

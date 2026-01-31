@@ -20,7 +20,19 @@ This page focuses on a **YWCA of Missoula conflict of interest** risk: governanc
 
 For a document-first entry point, use: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md).
 
-The totality of available evidence - including staff and client accounts, DOJ audits, court-facing advocacy practices, and the organization's governance structure - identifies a persistent, structural risk at YWCA Missoula: institutional capture through overlapping relationships with law enforcement and prosecutorial actors.
+### Executive snapshot
+
+This page maps a conflict-of-interest theory: YWCA of Missoula governance and operational ties may create structural risks when the organization interacts with MPD and Missoula County prosecutors. It is a governance-risk analysis, not a finding of wrongdoing. Use the “Verify first” links to review the underlying board/conflict documents and case packets.
+
+### Verify first (primary artifacts)
+
+* Board conflicts router: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
+* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* CR-2025-001 key packet (dossier): https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+
+The totality of evidence cited across the site (staff/client accounts, DOJ materials, court-facing practices, and governance structure) is used here to argue a persistent structural risk at YWCA of Missoula: institutional capture through overlapping relationships with law enforcement and prosecutorial actors.
 
 This risk is magnified by:
 
@@ -52,4 +64,4 @@ Documentary records reflect a pattern in which YWCA-affiliated staff allegedly l
 
 ## Conclusion
 
-Board-level integration with law enforcement in a jurisdiction documented for gender-biased responses to sexual assault creates a structural conflict that no amount of ad hoc recusal or goodwill can cure.
+Board-level integration with law enforcement is treated here as a structural conflict risk that is hard to mitigate through ad hoc recusal alone, especially where the organization routinely interfaces with MPD and prosecutors.

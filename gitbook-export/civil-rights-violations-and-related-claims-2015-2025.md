@@ -18,11 +18,23 @@ description: >-
 
 Quick hub: [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md).
 
-This comprehensive legal analysis examines a decade-long pattern of systematic civil rights violations, malicious prosecution, and abuse of power perpetrated against Mr Nuno by multiple governmental and quasi-governmental entities in Missoula, Montana.
+### Executive snapshot
+
+This page maps potential §1983 and related civil-rights theories tied to the Nuno record in Missoula, Montana (with relevant Washington context). It is an analysis layer, not a court finding. Use the “Verify first” links to validate claims against primary packets and rulings.
+
+### Verify first (primary artifacts)
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+* Case summary packet (2015–2025): https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
+* Primary packet index (44 files): https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
+* Missoula stalking dismissal with prejudice (2020): https://cr-2024-002-ruling-5\_misjusticealliance.arweave.net/
+
+This legal analysis argues a multi-year pattern of alleged civil-rights violations, malicious prosecution themes, and abuse of process affecting Mr Nuno, involving Missoula Police Department (MPD), Missoula County prosecutors, and related actors.
 
 **Key Findings:**
 
-* **Institutional Conspiracy**: Detective Connie Brueckner's simultaneous service on the YWCA Board of Directors while investigating complaints against YWCA employees represents egregious conflict of interest
+* **Alleged coordination / conflict-of-interest**: Detective Connie Brueckner's simultaneous service on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees is presented as a severe conflict-of-interest indicator
 * **Constitutional Violations**: Systematic violations of First, Fourth, and Fourteenth Amendments
 * **Economic Damages**: Loss of $150,000/year IT consulting contract and career destruction totaling over $2.1 million
 * **Legal Malpractice**: Attorney Bryan Tipp's failures in representation
@@ -131,4 +143,4 @@ Detective Connie Brueckner serves simultaneously on the YWCA Missoula Board of D
 
 ## X. Conclusion
 
-The case of Mr Nuno represents one of the most egregious examples of institutional corruption and civil rights violations in recent Montana legal history.
+This page argues the record supports serious civil-rights concerns and potential causes of action. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.

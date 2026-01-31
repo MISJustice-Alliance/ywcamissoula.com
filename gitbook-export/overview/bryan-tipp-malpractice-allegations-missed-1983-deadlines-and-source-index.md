@@ -13,6 +13,11 @@ This hub collects the **Bryan Tipp** malpractice record and the linked primary d
 
 The core claim presented across these pages is that failures of competence, diligence, and communication led to missed civil-rights and tort deadlines.
 
+### Fastest verification path
+
+* Start with the dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](../datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* Jump to primary citations: [Sources & record index](sources-and-record-index.md)
+
 ### Start here
 
 * Malpractice overview: [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)

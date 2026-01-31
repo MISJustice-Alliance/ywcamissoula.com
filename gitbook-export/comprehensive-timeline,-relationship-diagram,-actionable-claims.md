@@ -20,6 +20,22 @@ Use this page as a high-signal index of the Nuno case and currently actionable c
 
 Each bullet is a waypoint to the underlying record, filing, or analysis.
 
+### Related dataset landing page
+
+If you want a stable “one URL per record set” entry point, use:
+
+* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+
+### Primary record citations
+
+For a canonical list of packets and citations:
+
+* [Sources & record index](overview/sources-and-record-index.md)
+
+{% hint style="info" %}
+This timeline is an index and claim map. It is not individualized legal advice.
+{% endhint %}
+
 ### FAQ (how to use this timeline)
 
 #### What time period does this timeline cover?

@@ -16,19 +16,25 @@ description: >-
 
 ## Police Reports, Court Docs, and Correspondence
 
+Use this page when you want direct links to primary artifacts.
+
+### Fastest verification path
+
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Seattle PD written statement re: incident #2016-348587 (2016)](https://cr-2025-002-evidence-12_misjusticealliance.arweave.net/)
 * [Edmonds court: declaration of ineffective assistance (2016)](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
 * [Seattle Municipal Court #613225: dismissal order (2016)](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net/)
 * [Complaint re: MPD Officer Ethan Smith (March 2018)](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
-* E'Lise Chard / YWCA of Missoula: Chard harassment complaint & Nuno character reference (August 2018)
+* [E'Lise Chard / YWCA of Missoula: Chard harassment complaint & Nuno character reference (August 2018)](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
 * [E-Mail correspondence w/ Bryan Tipp (Dec 2020 / Jan 2021)](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
 * [Missoula stalking case: dismissal with prejudice (2020)](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
 * [Missoula stalking case: dismissal delay letter (Dec 2020)](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
 * [MT DoJ POST correspondence (email chain) (Aug 2025)](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
-* MT ACLU Correspondence (August 2025)
+* [MT ACLU Correspondence (August 2025)](https://cr-2025-002-evidence-25_misjusticealliance.arweave.net/)
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [MisJustice Alliance case file: 2df48ac7](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md) (CR-2025-003 / ODC 25-147 dossier)
 
@@ -48,8 +54,11 @@ description: >-
 
 ## Montana State Department Complaints
 
-* MT Bar Complaint ODC No. 25-147 - Bryan Tipp (July 2025)
-* MT Bar Complaint ODC No. 25-147: Supplemental Submissions #1-3 (August-September 2025)
-* MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 2025)
+* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
-* MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)
+* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
+
+{% hint style="info" %}
+If you add a “link pending” item, try to attach a stable Arweave URL or an internal index page within 24 hours.
+{% endhint %}

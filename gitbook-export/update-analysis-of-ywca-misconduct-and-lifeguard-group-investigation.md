@@ -13,7 +13,18 @@ description: >-
 
 # Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation
 
-The provided documentation reveals a troubling pattern of institutional corruption involving **Detective Connie Brueckner**, who simultaneously served on the YWCA Missoula Board of Directors while investigating complaints against YWCA employees.
+### Executive snapshot
+
+This page is an update tying the LifeGuard Group investigation material to a conflict-of-interest theory involving Detective Connie Brueckner’s MPD role and YWCA of Missoula board service. It is a synthesis and implications note, not a finding of misconduct. Use the “Verify first” links to review the underlying packets.
+
+### Verify first (primary artifacts)
+
+* CR-2025-001 packet index: [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* YWCA misconduct + LifeGuard Group cover-up (PDF): https://arweave.net/z090jtLboolS9BP\_oTv\_QSKSAhHTtev6iD\_MnI2IRCo
+* Relationship diagram (PNG): https://arweave.net/mAQT\_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+
+The documentation cited here is used to argue a pattern of governance conflict involving **Detective Connie Brueckner**, who simultaneously served on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees.
 
 ### Supporting documents (CR-2025-001)
 
@@ -79,4 +90,4 @@ Total estimated damages: **$11,400,000** including:
 
 ## Conclusion: Systemic Institutional Corruption
 
-The evidence reveals that Detective Connie Brueckner's unprecedented dual role as YWCA board member and investigating officer represents the most egregious example of institutional capture in recent Montana legal history.
+This page argues that Brueckner’s dual role is a severe conflict-of-interest indicator. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.

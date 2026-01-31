@@ -11,6 +11,12 @@ description: >-
 
 # Washington Legal Cases Index
 
+This is the Washington index for case analysis and linked primary records.
+
+### Fastest verification path
+
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary citations: [Sources & record index](overview/sources-and-record-index.md)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)

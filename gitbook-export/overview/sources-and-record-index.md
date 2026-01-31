@@ -19,6 +19,7 @@ If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket
 These are crawlable “one URL per record set” hubs:
 
 * [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
+* Registry (structured-data values): [Structured data registry (Dataset values)](../datasets/structured-data-registry-dataset-values.md)
 
 #### CR-2025-001 (case file: d81209a2)
 

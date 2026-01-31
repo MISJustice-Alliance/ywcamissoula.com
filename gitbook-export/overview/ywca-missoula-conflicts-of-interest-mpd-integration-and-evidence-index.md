@@ -13,6 +13,11 @@ This site uses **"YWCA Missoula"** as shorthand for **YWCA of Missoula**.
 
 The record compiled here alleges conflicts of interest, confidentiality risk, and integration with law enforcement workflows.
 
+### Fastest verification path
+
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary record citations: [Sources & record index](sources-and-record-index.md)
+
 ### Start here
 
 * Fast site map: [Nuno case system overview and full article index](nuno-case-system-overview-and-full-article-index.md)

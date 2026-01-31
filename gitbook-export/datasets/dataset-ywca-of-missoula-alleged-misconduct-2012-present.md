@@ -17,6 +17,18 @@ Use it as a canonical crawl target and a human navigation hub.
 * **Entities:** YWCA of Missoula; related staff, governance, and partner workflows
 * **Record types:** complaints, correspondence, court filings, reports, public documents, and published evidence packets
 
+### What this dataset is (and isn’t)
+
+This dataset is:
+
+* a curated index of record-backed allegations and governance signals
+* a stable landing page for search and citations
+
+This dataset is not:
+
+* a substitute for the underlying documents
+* a claim of adjudicated fact
+
 ### Canonical entry points
 
 * YWCA hub: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
@@ -27,6 +39,10 @@ Use it as a canonical crawl target and a human navigation hub.
 
 These external packets are the densest “dataset-like” artifacts right now:
 
+* https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
+* https://cr-2025-001-other-3\_misjusticealliance.arweave.net/
+* https://cr-2025-001-other-2\_misjusticealliance.arweave.net/
+* https://cr-2025-001-brief-2\_misjusticealliance.arweave.net/
 * [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * [MisJustice Alliance case file: d81209a2](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
 
@@ -44,16 +60,7 @@ Recommended fields:
 * `summary`
 * `notes`
 
-### Structured data (Schema.org Dataset)
-
-To get Google Dataset Search coverage, emit Schema.org **Dataset** JSON-LD on this page’s URL via site-level header injection.
-
-Minimum fields:
-
-* `name`: Dataset name
-* `description`: Brief description
-* `url`: This page
-* `sameAs`: Direct download URL(s) if available
+{% include "../.gitbook/includes/dataset-structured-data-schema.org-guidance.md" %}
 
 {% hint style="warning" %}
 This project publishes allegations and supporting records. Avoid posting personal addresses, phone numbers, or other sensitive identifiers.

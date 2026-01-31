@@ -13,13 +13,25 @@ description: >-
   limitation, lost §1983 claims, and quantified civil-rights damages.
 ---
 
-# Bryan Tipp malpractice (2017–2025): missed §1983 deadlines and civil-rights damages
+# Bryan Tipp malpractice (2017–2025)
 
 ## Introduction
 
 Quick hub: [Bryan Tipp](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md).
 
-Bryan Tipp's advice to "give the matter time," coupled with his refusal to pursue or even explain available civil remedies, breached core duties of competence, diligence, and communication. The breach let the three-year Montana statute of limitations expire on every viable Section 1983, defamation, IIED, and false-imprisonment claim arising from 2015-2018 incidents.
+### Executive snapshot
+
+This page analyzes potential legal-malpractice theories tied to alleged missed limitation periods and unpursued civil-rights/tort claims. It is a claims-and-damages model, not a disciplinary finding. Use the “Verify first” links to confirm dates, filings, and what was communicated to counsel.
+
+### Verify first (primary artifacts)
+
+* ODC 25-147 original complaint (PDF): https://arweave.net/LtpoZ8c2hBC4r3ihxMTjdwHCEKk5fdKy31QDhuX92Sk
+* ODC denial / request for review packet: https://cr-2025-003-ruling-2\_misjusticealliance.arweave.net/
+* Evidence hub: [Legal malpractice evidence (Bryan Tipp)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
+* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+
+Bryan Tipp's advice to "give the matter time," coupled with alleged refusal to pursue or explain available civil remedies, is presented here as a breach of competence, diligence, and communication duties. The analysis asserts that the three-year Montana statute of limitations expired on viable Section 1983, defamation, IIED, and false-imprisonment claims arising from 2015–2018 incidents.
 
 ### Key supporting analysis
 

@@ -13,11 +13,23 @@ description: >-
   police/prosecutors, retaliation claims, and RICO/1985 red flags.
 ---
 
-# YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures
+# YWCA of Missoula: captured system overview
 
-The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented patterns of civil rights violations and institutional corruption involving the YWCA Missoula, Missoula Police Department, and prosecutorial agencies, reveals not merely service deficiencies but active institutional capture designed to suppress accountability while generating millions in funding through manufactured crises.
+### Executive snapshot
 
-Detective Connie Brueckner's simultaneous service on the YWCA Board of Directors while investigating complaints against YWCA employees represents unprecedented institutional capture.
+This page is a high-level institutional-capture framing focused on YWCA of Missoula and its alleged interactions with MPD and Missoula County prosecutors. It is a synthesis page, not a primary record. Use the “Verify first” links to work from packets and rulings back into the narrative.
+
+### Verify first (primary artifacts)
+
+* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* CR-2025-001 key packet (dossier): https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
+* Case summary packet (2015–2025): https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
+* MPD complaint packet re: Officer Smith: https://cr-2025-002-complaint-13\_misjusticealliance.arweave.net/
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+
+The 2024 Missoula Needs and Gaps Analysis is cited here alongside allegations and record citations involving YWCA of Missoula, Missoula Police Department (MPD), and prosecutorial agencies, to argue potential institutional capture and accountability gaps.
+
+Detective Connie Brueckner's simultaneous service on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees is presented here as a core conflict-of-interest theory.
 
 ## The Documented Pattern: From Individual Persecution to Systemic Exploitation
 
@@ -48,4 +60,4 @@ The case was transferred from Officer Ethan Smith (removed for obvious conflicts
 
 ## Conclusion
 
-The evidence demonstrates that current leadership cannot reform these systems because they are the systems. Only external intervention can break the cycle of institutional capture.
+This page argues that structural incentives and conflicts may prevent internal reform. Any conclusion about liability or criminality should be grounded in primary records and outside investigation.

@@ -8,15 +8,27 @@ description: >-
   Department (MPD), and prosecutors.
 ---
 
-# Missoula homelessness funding + institutional capture (YWCA of Missoula / MPD)
+# Missoula Needs & Gaps analysis: homelessness funding and institutional capture
 
 ## A Captured System Operating Through Coordinated Institutional Failures
 
-The 2024 Missoula Needs and Gaps Analysis, when examined alongside documented patterns of civil rights violations and institutional corruption involving the YWCA Missoula, Missoula Police Department, and prosecutorial agencies, reveals not merely service deficiencies but active institutional capture designed to suppress accountability while generating millions in funding through manufactured crises.
+### Executive snapshot
 
-**New evidence from current and former YWCA clients confirms systematic violation of professional ethics, confidentiality breaches, and deliberate harm to vulnerable populations seeking services.**
+This page analyzes the 2024 Missoula “Needs & Gaps” report as a governance and compliance signal, and then cross-links it to allegations involving YWCA of Missoula, Missoula Police Department (MPD), and Missoula County prosecutors. It is a policy/compliance analysis, not a finding of fraud or criminal liability. Use the “Verify first” links to review the underlying report and packet evidence.
 
-Detective Connie Brueckner's simultaneous service on the YWCA Board of Directors while investigating complaints against YWCA employees represents unprecedented institutional capture that has enabled systematic constitutional violations, client exploitation, and the weaponization of victim services against critics of the system.
+### Verify first (primary artifacts)
+
+* Missoula Needs & Gaps Analysis (2024): https://cr-2025-001-evidence-13\_misjusticealliance.arweave.net/
+* MPD sustained compliance report (DOJ MOU): https://cr-2025-001-evidence-12\_misjusticealliance.arweave.net/
+* Federal funding chart (exhibit): https://cr-2025-001-evidence-7\_misjusticealliance.arweave.net/
+* CR-2025-001 packet index: [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
+
+The 2024 Missoula Needs and Gaps Analysis, when read alongside allegations and record citations involving YWCA of Missoula, Missoula Police Department (MPD), and prosecutorial agencies, is used here as a signal of potential institutional capture and accountability gaps.
+
+Additional current and former client accounts are presented as alleging confidentiality breaches and ethics failures affecting vulnerable populations.
+
+One conflict-of-interest theory referenced across the site is Detective Connie Brueckner’s simultaneous MPD role and YWCA of Missoula board service while investigating complaints touching YWCA staff.
 
 ### Primary documents referenced (CR-2025-001)
 
@@ -98,4 +110,4 @@ Minimum document set to request (targeted):
 
 ## Conclusion
 
-The evidence demonstrates that current leadership cannot reform these systems because they are the systems. Only external intervention can break the cycle of institutional capture that has transformed victim services into enforcement mechanisms while generating millions in profit from manufactured crisis and systematic client harm.
+This page argues that internal governance may be structurally unable to resolve the alleged conflicts and incentives described above. Any conclusion about fraud, criminal conduct, or civil liability should be grounded in primary records and competent outside review.

@@ -10,7 +10,11 @@ description: >-
 
 ## Introduction
 
-This site documents alleged misconduct tied to three core institutions in Missoula. Those institutions are Missoula Police Department (MPD), Missoula County prosecutors, and YWCA of Missoula.
+This site documents alleged misconduct tied to three core institutions in Missoula (2012–present).
+
+The primary frameworks referenced are First/Fourteenth Amendment issues, Fourth Amendment search/seizure issues, and 42 U.S.C. § 1983.
+
+Verification is record-first. Start with packets, filings, and correspondence.
 
 ### Common searches (fast entry points)
 
@@ -26,13 +30,23 @@ This site documents alleged misconduct tied to three core institutions in Missou
 * [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
 * [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
 
-**The Nuno case (2015–2025) is the detailed case study and evidentiary spine. It is used as a springboard into wider endemic issues in this local law enforcement, prosecutorial, and "victim advocacy" ecosystem.**
+### Fastest verification path (recommended)
+
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary record citations: [Sources & record index](overview/sources-and-record-index.md)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
+
+### Core case spine
+
+The Nuno case (2015–2025) is the detailed case study and evidentiary spine.
 
 It documents alleged abuse of power against vulnerable people. It also documents alleged weaponization of “victim advocacy” workflows.
 
 The record includes materials reaching back to 2012 and earlier. It continues through current events and ongoing outcomes.
 
-**The pattern described here raises** **urgent civil-rights and public-integrity concerns**. **It warrants immediate independent state and federal investigation and intervention.**
+{% hint style="info" %}
+The pages make allegations and map potential legal theories. They are designed to be checked against primary records.
+{% endhint %}
 
 This documentation centers on First, Fourth, and Fourteenth Amendment issues. It also centers on 42 U.S.C. § 1983 and related civil-rights theories. It includes complaint packages filed with state and federal agencies.
 

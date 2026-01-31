@@ -14,6 +14,18 @@ This dataset collects **allegations** of legal malpractice and related misconduc
 * **Geography:** Montana (Missoula) with cross-links into Washington proceedings
 * **Record types:** bar-complaint filings, correspondence, case documents, supporting exhibits
 
+### What this dataset is (and isn’t)
+
+This dataset is:
+
+* a curated index of filings, correspondence, and exhibits
+* a stable landing page for search and citations
+
+This dataset is not:
+
+* a disciplinary finding by itself
+* a substitute for reading the underlying filings and orders
+
 ### Canonical entry points
 
 * Hub: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](../overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
@@ -22,6 +34,12 @@ This dataset collects **allegations** of legal malpractice and related misconduc
 
 ### Primary published packets (downloadable)
 
+Core packets:
+
+* https://arweave.net/LtpoZ8c2hBC4r3ihxMTjdwHCEKk5fdKy31QDhuX92Sk
+* https://cr-2025-003-ruling-2\_misjusticealliance.arweave.net/
+* https://cr-2025-003-other-23\_misjusticealliance.arweave.net/
+* https://cr-2025-003-evidence-21\_misjusticealliance.arweave.net/
 * Internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
 * Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 
@@ -36,16 +54,7 @@ Recommended fields:
 * `source_url`
 * `summary`
 
-### Structured data (Schema.org Dataset)
-
-Emit Schema.org **Dataset** JSON-LD on this page’s URL via site-level header injection.
-
-Minimum fields:
-
-* `name`
-* `description`
-* `url`
-* `sameAs` (direct packet or download URLs)
+{% include "../.gitbook/includes/dataset-structured-data-schema.org-guidance.md" %}
 
 {% hint style="info" %}
 For credibility, keep each row anchored to a specific filing or email artifact.

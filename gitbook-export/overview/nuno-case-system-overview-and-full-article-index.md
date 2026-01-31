@@ -13,6 +13,12 @@ This documentation records alleged civil-rights misconduct and institutional cap
 
 The **Nuno case (2015–2025)** is the core case study and evidence spine.
 
+### Fastest verification path
+
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Primary record citations: [Sources & record index](sources-and-record-index.md)
+* Dataset landing pages (Google discovery): [Dataset Catalog Indexes](../datasets/dataset-catalog-indexes.md)
+
 It is treated as a **springboard** for investigating broader patterns of alleged misconduct and **(re)victimization of vulnerable populations**.
 
 The pattern focus is the intersection of:

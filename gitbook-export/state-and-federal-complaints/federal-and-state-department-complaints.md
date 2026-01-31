@@ -12,6 +12,13 @@ description: >-
 
 # Federal and State Department Complaints
 
+This page is an index of complaint filings and published complaint packets.
+
+### Fastest verification path
+
+* Primary citations: [Sources & record index](../overview/sources-and-record-index.md)
+* Primary document index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+
 ### Case file indexes (published document sets)
 
 * [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
@@ -53,3 +60,7 @@ description: >-
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
+
+{% hint style="info" %}
+When linking externally, prefer stable packet URLs (Arweave gateways) and include the matching internal index link.
+{% endhint %}
