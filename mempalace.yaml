@@ -1,0 +1,20 @@
+wing: ywcamissoula.com
+rooms:
+- name: gitbook_export
+  description: Files from gitbook-export/
+  keywords:
+  - gitbook_export
+  - gitbook-export
+- name: archive
+  description: Files from ARCHIVE/
+  keywords:
+  - archive
+  - archive
+- name: design
+  description: Files from assets/
+  keywords:
+  - design
+  - assets
+- name: general
+  description: Files that don't fit other rooms
+  keywords: []
