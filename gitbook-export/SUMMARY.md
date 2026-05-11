@@ -75,6 +75,11 @@
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
   * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
 
+### ODC Lowney Grievance (2026)
+
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](montana-bar-complaints/odc-lowney-grievance-index.md)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+
 ## Montana State Complaints
 
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)

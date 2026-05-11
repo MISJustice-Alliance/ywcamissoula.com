@@ -235,6 +235,23 @@ See also:
 
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](../update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
 
+#### Brian Lowney
+
+Missoula County Deputy Attorney / Prosecutor referenced in the Nuno case record and subject of a Montana ODC grievance.
+
+See also:
+
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [ODC Lowney Grievance Index](../montana-bar-complaints/odc-lowney-grievance-index.md)
+
+#### Tyleen Root
+
+An individual referenced in connection with YWCA-associated harassment allegations (2020–2022).
+
+See also:
+
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+
 ### Related
 
 * [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
