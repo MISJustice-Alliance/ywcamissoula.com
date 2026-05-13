@@ -65,8 +65,8 @@ This page is an index of complaint filings and published complaint packets acros
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
-* [Grievance to Montana ODC \u2014 Brian Lowney (April 28, 2026)](../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* [ODC Lowney Grievance (April 2026) \u2014 Montana Bar Complaint Index](../montana-bar-complaints/odc-lowney-grievance-index.md)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](../montana-bar-complaints/odc-lowney-grievance-index.md)
 
 {% hint style="info" %}
 When linking externally, prefer stable packet URLs (Arweave gateways) and include the matching internal index link.

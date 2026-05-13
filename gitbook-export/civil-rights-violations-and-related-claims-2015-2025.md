@@ -84,7 +84,7 @@ It focuses on alleged retaliation after complaints and conflict-infected advocac
 
 Use the Legal Analysis section, especially Fourteenth Amendment and institutional capture material.
 
-Start with [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md), [\u00a7 1983 Claims \u2014 YWCA Missoula & MPD (2012\u20132025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md), [MPD Civilian Complaint Scorecard & Accountability Analysis (2016\u20132022)](mpd-civilian-complaint-scorecard-analysis.md), and [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md).
+Start with [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md), [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md), [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md), and [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md).
 
 ## I. Background and Timeline of Events
 

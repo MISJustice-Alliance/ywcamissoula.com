@@ -151,7 +151,7 @@ Use this documentation to:
 * [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](../ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](../update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
-* [\u00a7 1983 Claims \u2014 YWCA Missoula & MPD (2012\u20132025)](../legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
+* [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](../legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
 
 </details>
 
