@@ -1,0 +1,8 @@
+year,complaints_filed,sustained_count,data_confirmed,source,sustain_rate_pct
+2016,46,,False,Derived: 349 total minus confirmed 2017-2022 years,
+2017,24,4.0,True,NBC Montana 2020 investigative report,16.7
+2018,32,8.0,True,NBC Montana 2020 investigative report,25.0
+2019,26,5.0,True,NBC Montana 2020 investigative report,19.2
+2020,53,,False,Derived: 349 total minus other confirmed years,
+2021,78,,False,"MPD 2021 Annual Report (allegations, not complaint count; disposition not published)",
+2022,90,,False,"MPD 2022 Annual Report (allegations, not complaint count; disposition not published)",

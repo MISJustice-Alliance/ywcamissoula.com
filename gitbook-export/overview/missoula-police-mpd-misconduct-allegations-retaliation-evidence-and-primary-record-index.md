@@ -15,11 +15,12 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Timeline spine (event \u2192 record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Canonical source list: [Sources & record index](sources-and-record-index.md)
 * Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
-* Dataset landing page: [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
-* §1983 claims overview (analysis): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
+* Dataset landing page: [Dataset: Missoula Police + prosecutors alleged misconduct (2012\u2013present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* \u00a71983 claims overview (analysis): [Missoula \u00a71983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
+* MPD complaint scorecard analysis: [MPD Civilian Complaint Scorecard & Accountability Analysis (2016\u20132022)](../mpd-civilian-complaint-scorecard-analysis.md)
 
 ### Start here
 

@@ -23,7 +23,8 @@
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
+* [\u00a7 1983 Claims \u2014 YWCA Missoula & MPD (2012\u20132025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016\u20132022)](mpd-civilian-complaint-scorecard-analysis.md)
 
 ## Montana Cases
 
