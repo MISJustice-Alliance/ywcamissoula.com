@@ -281,54 +281,6 @@ Pursuant to Montana Code Annotated § 2-6-1003 and Article II, Section 9 of the 
 
 ---
 
-## Part VIII: Recommended Next Steps for Investigation
-
-### Tier 1 — Immediate (Weeks 1–4)
-
-1. **Submit all five FOIA requests simultaneously** with delivery confirmation. Begin the response clock. Montana law does not specify a response deadline; document submission date and follow up at 30-day intervals.
-
-2. **Verify the 16% vs. 16-count ambiguity** with the Police Scorecard directly. Contact Samuel Sinyangwe's project team (contact info on policescorecard.org/about) and request the underlying MPD data file used for Missoula's accountability score.
-
-3. **Access Police Commission meeting minutes** via the City's Boards and Commissions portal (bm-public-missoula.escribemeetings.com) — archived from August 2019 to present without a records request.
-
-4. **Download and archive all available MPD annual reports** from ci.missoula.mt.us before potential removal. The 2025 Annual Report (documenting 57,039 incidents) is now available.
-
-### Tier 2 — Medium-Term (Months 1–3)
-
-5. **Commission a comparative analysis** against Washington State MPD equivalents (King County, Edmonds PD) using the same Police Scorecard methodology to document inter-jurisdictional patterns relevant to the broader Elvis Nuno case context.
-
-6. **Engage ACLU of Montana** regarding the city's blanket records suppression position. ACLU-MT has standing to challenge overbroad personnel records exemptions under the Montana Constitution's right-to-know provisions.
-
-7. **Contact the Montana Board of Crime Control (MBCC)** to request the submitted crime statistics data MPD submits monthly — this is a separate public record that may contain complaint-proximate data.
-
-8. **Interview former complainants** to document complaint lag times, discouraged filing, and Police Commission hearing access — critical for the "structural barriers" narrative.
-
-### Tier 3 — Escalation (Months 3–6)
-
-9. **Submit findings to the Montana Civil Rights Violations (CRV) Committee** with specific requests for subpoena of MPD complaint disposition records. The CRV Committee has state authority to obtain records agencies refuse to produce voluntarily.
-
-10. **Brief The Pulp (Missoula's nonprofit accountability journalism outlet)** with the documented data gaps and the UoF incident-to-complaint ratio as a standalone investigative hook, independent of the broader Elvis Nuno case.
-
-11. **File a complaint with DOJ Civil Rights Division** documenting the pattern of zero sustained UoF and discrimination findings, the 9.7x racial disparity in low-level arrests, and the refusal to produce complaint records — as potential grounds for a pattern-or-practice inquiry under 34 U.S.C. § 12601.
-
----
-
-## Briefing Note for Reporters and Prosecutors
-
-**TO:** [Reporter/Prosecutor Name]  
-**FROM:** MISJustice Alliance Research Collective  
-**RE:** MPD Civilian Complaint Data — Request for Independent Review
-
-Between 2016 and 2022, the Missoula Police Department received **349 civilian complaints of police misconduct**. Sixteen percent were ruled in favor of the civilian — equivalent to approximately 56 findings, or potentially as few as 16 (a FOIA request is pending to confirm). More importantly: **of 4 use-of-force complaints filed over seven years, zero were sustained. Of 6 discrimination complaints filed over seven years, zero were sustained.** This is despite MPD's own annual reports documenting 211 and 294 use-of-force incidents in 2021 and 2022 alone — approximately 126 incidents per complaint filed.
-
-MPD's Police Accountability Score is 27 out of 100, placing it in the bottom quarter of comparable U.S. departments. The city refused to produce even redacted complaint investigation files when requested by NBC Montana, citing personnel records exemptions. The three-member Police Commission — the only civilian oversight body — makes non-binding recommendations only and meets quarterly.
-
-These findings are drawn from publicly available Police Scorecard data (obtained via public records requests), confirmed NBC Montana investigative reporting, and MPD's own published annual reports. A full data appendix, reproducible analysis notebook, and five targeted FOIA request templates are available upon request.
-
-**Key question for independent review:** Why, across seven years, were zero use-of-force and zero discrimination complaints against MPD officers sustained — and what structural mechanisms prevent those complaints from being filed in the first place?
-
----
-
 ## Related pages
 
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
@@ -340,4 +292,4 @@ These findings are drawn from publicly available Police Scorecard data (obtained
 
 ---
 
-*This report is produced by MISJustice Alliance for research, advocacy, and public accountability purposes. It does not constitute legal advice and does not create an attorney-client relationship. All factual claims are cited to publicly accessible primary sources. Verification of derived estimates through FOIA is strongly recommended before public release.*
+*This report is produced by MISJustice Alliance for research, advocacy, and public accountability purposes. It does not constitute legal advice and does not create an attorney-client relationship. All factual claims are cited to publicly accessible primary sources.*
