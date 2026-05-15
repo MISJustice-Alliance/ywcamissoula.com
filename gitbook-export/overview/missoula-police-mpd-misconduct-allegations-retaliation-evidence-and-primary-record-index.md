@@ -43,7 +43,8 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 ### YWCA integration / conflict-of-interest thread
 
 * YWCA conflict summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
-* Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
+* Board-level conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
+* Systemic accountability failure analysis: [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 
 {% hint style="info" %}
 If you’re verifying specifics, start with the timeline and then jump into the underlying documents.

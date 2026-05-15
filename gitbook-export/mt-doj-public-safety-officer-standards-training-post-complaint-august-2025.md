@@ -59,6 +59,11 @@ I respectfully submit this complaint regarding a pattern of civil rights violati
 3. **Findings and Accountability**: Formal findings on constitutional violations
 4. **Corrective Policy Measures**: Clear separation protocols for interactions between MPD and advocacy organizations
 
+### See also
+
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}

@@ -127,6 +127,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Montana Bar complaint re: Bryan Tipp (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
 * [MT DOJ POST complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-mortem of POST complaint dismissal](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [Structural Failure of Police Accountability: MPD to POST](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * [Forced relocation from Montana due to safety concerns](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 * [Ongoing civil rights advocacy and documentation](./)
 

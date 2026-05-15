@@ -228,6 +228,7 @@ Use this documentation to:
 
 <summary><strong>Montana State Complaints</strong></summary>
 
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](../mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 
