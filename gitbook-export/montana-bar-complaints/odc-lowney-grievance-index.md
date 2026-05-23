@@ -57,6 +57,9 @@ Related starting points:
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
   * **Summary:** Formal ODC grievance alleging prosecutorial misconduct, Brady violations, abuse of process, and unconstitutional speech waiver in the prosecution of Cause No. DC-18-587.
   * **What changed at this stage:** This filing opens the prosecutorial-accountability track and documents exhaustion of non-judicial remedies prior to civil action.
+* [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](./odc-complaint-lowney-missoula-prosecutors-pdf.md)
+  * **Summary:** PDF archive of the formal ODC grievance permanently stored on Arweave. Contains the full court filing against Deputy County Attorney Brian Lowney and the Missoula County Attorney's Office.
+  * **What changed at this stage:** Provides an immutable, verifiable primary source document for the grievance record.
 
 #### Supporting institutional context
 
