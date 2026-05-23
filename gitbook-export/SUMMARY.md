@@ -123,6 +123,12 @@
     * ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
     * [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
 * [Community Response to Police Misconduct Outreach in Missoula](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/community-response-to-police-misconduct-outreach-in-missoula.md)
+* [P.S. Email Addendum (August 14, 2018)](additional-evidence-and-documentation/ps-email-addendum-august-2018/README.md)
+  * [Core Exhibit Analysis: P.S. Email and Forwarding Chain](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-email-addendum-public.md)
+  * [YWCA Retaliation Concerns](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-addendum-public.md)
+  * [Malicious Prosecution Concerns](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-malicious-prosecution-addendum-public.md)
+  * [Bryan Tipp Malpractice](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-tipp-malpractice-addendum-public.md)
+  * [Brian Lowney Prosecution Record](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-brian-lowney-addendum-public.md)
 
 ## Datasets
 
