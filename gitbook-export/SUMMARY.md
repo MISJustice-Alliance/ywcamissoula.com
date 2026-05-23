@@ -30,6 +30,8 @@
 ## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
+* [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith (Badge #345)](officer-ethan-smith-complaint-march-2018.md)
+* [MPD Officer Misconduct: Ethan Smith Timeline](mpd-officer-misconduct-ethan-smith-timeline.md)
 * [YWCA Brueckner conflict: allegations summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Stalking charging documents (Sep 2018)](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
