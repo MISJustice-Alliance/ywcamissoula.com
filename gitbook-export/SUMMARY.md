@@ -79,6 +79,8 @@
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
   * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
+* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4 (May 2026)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
+* [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 
 ### ODC Lowney Grievance (2026)
 

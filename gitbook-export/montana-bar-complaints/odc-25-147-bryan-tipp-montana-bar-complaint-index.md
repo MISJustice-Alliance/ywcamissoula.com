@@ -110,7 +110,7 @@ Related starting points:
 
 * [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
   * **Summary:** High-level narrative of the dismissal outcome and why it is disputed. Points forward to the review mechanism.
-  * **What changed at this stage:** The dispute moves from “complaint package” into “agency disposition.”
+  * **What changed at this stage:** The dispute moves from "complaint package" into "agency disposition."
 * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
   * **Summary:** The full ODC letter text. Includes factual background, party summaries, and the formal reasoning used.
   * **What changed at this stage:** This becomes the authoritative document to quote and appeal.
@@ -118,8 +118,20 @@ Related starting points:
   * **Summary:** Initiates review after dismissal. Frames the stakes and requested relief at a high level.
   * **What changed at this stage:** The case moves from ODC closure to Commission review posture.
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
-    * **Summary:** Full-length review request with authorities and structured argument. It expands “why dismissal was wrong” in detail.
+    * **Summary:** Full-length review request with authorities and structured argument. It expands "why dismissal was wrong" in detail.
     * **What changed at this stage:** The record shifts into appellate-style briefing and precedent framing.
+
+#### Supplemental Submission #4 (May 2026)
+
+* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4 (May 2026)](mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
+  * **Summary:** Documents failure to investigate and use two materially favorable exhibits: the P.S. character witness email (August 14, 2018) and the Dr. William Stratford psychiatric letter (April 10, 2019). Frames MRPC Rules 1.1, 1.3, and 1.4 violations.
+  * **What changed at this stage:** The record expands into specific documentary evidence of investigative failure and witness neglect.
+
+#### Supporting Witness Grievance (May 2026)
+
+* [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
+  * **Summary:** Firsthand corroboration from Elvis Nuno's father. Documents Tipp's use of family pressure tactics, complete disregard of the Tyrone Nuno Ethan Smith complaint, and failure to interview available witnesses.
+  * **What changed at this stage:** Adds independent witness testimony directly rebutting Tipp's characterization of the grievance as "lies and extortion."
 
 #### External dossier pointer
 
