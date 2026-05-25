@@ -15,6 +15,7 @@
 
 ## Legal Analysis
 
+* [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](SYNTHESIS-1983-Claims-YWCA-MPD-2012-2025.md)
 * [YWCA of Missoula: captured system overview](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)

@@ -80,11 +80,11 @@ All complaint data presented here is derived from three independently verifiable
 
 **Critical observation:** The 4 use-of-force complaints represent a 0.8% complaint rate against the total complaint pool, despite use-of-force incidents representing a documented operational reality (211 UoF incidents in 2021, 294 in 2022). This extreme disproportion strongly suggests **structural barriers to complaint filing** — consistent with the documented pattern of MPD's complaint intake being routed entirely through the department itself.
 
-![MPD Annual Complaints 2016–2022](./assets/chart-mpd-annual-complaints-2016-2022.png)
+![MPD Annual Complaints 2016–2022](./.gitbook/assets/chart-mpd-annual-complaints-2016-2022.png)
 
-![MPD Complaints by Categories](./assets/chart-mpd-complaints-by-categories.png)
+![MPD Complaints by Categories](./.gitbook/assets/chart-mpd-complaints-by-categories.png)
 
-![MPD Sustained Rate vs National Benchmark](./assets/chart-mpd-sustained-rate-vs-national-benchmark.png)
+![MPD Sustained Rate vs National Benchmark](./.gitbook/assets/chart-mpd-sustained-rate-vs-national-benchmark.png)
 
 ---
 
@@ -105,7 +105,7 @@ For context, the Department of Justice's Bureau of Justice Statistics found that
 
 MPD uses a multi-tier use-of-force continuum. The 2022 Annual Report identifies 790 total **officer force actions** across 294 incidents, with 90 different officers involved, across 14 different types of officer actions. MPD's internal policy, guided by LEXIPOL (a national private policy vendor), was under revision as of 2021. Neither the 2021 nor 2022 annual report publishes a breakdown of force type by demographic of subject — a standard accountability metric in peer departments.
 
-![MPD Use-of-Force Disparity](./assets/chart-mpd-use-of-force-disparity.png)
+![MPD Use-of-Force Disparity](./.gitbook/assets/chart-mpd-use-of-force-disparity.png)
 
 ---
 

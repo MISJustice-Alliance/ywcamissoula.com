@@ -56,8 +56,8 @@ POST's dismissal demonstrates either failure to review documentation or institut
 
 ### See also
 
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MT DoJ POST Complaint (August 2025)](../mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [MT DoJ POST Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 
 ### Related
 

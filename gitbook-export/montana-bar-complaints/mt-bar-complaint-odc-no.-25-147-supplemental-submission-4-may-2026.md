@@ -201,7 +201,7 @@ I affirm under penalty of perjury that the facts stated in this submission are t
 
 **Attachments:**
 
-- **Exhibit A:** Discovery document 2018-37193 — P.S. email to YWCA of Missoula and E'Lise Chard forwarding chain to Detective Arianna Adams and Kim Harvey (August 14–23, 2018) [`discovery-ymca-em-from-P.S.-81418.pdf`](.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf)
+- **Exhibit A:** Discovery document 2018-37193 — P.S. email to YWCA of Missoula and E'Lise Chard forwarding chain to Detective Arianna Adams and Kim Harvey (August 14–23, 2018) [`discovery-ymca-em-from-P.S.-81418.pdf`](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf)
 - **Exhibit B:** Dr. William Stratford, M.D., F.A.P.A., Letter to Bryan Tipp (April 10, 2019) [from record set — see Police Reports, Court Docs, and Correspondence Index]
 - **Exhibit C:** Elvis Nuno ODC Grievance, File No. 25-147 (July 2025) and all prior supplemental submissions
 - **Exhibit D:** Bryan Tipp's Response, September 23, 2025
