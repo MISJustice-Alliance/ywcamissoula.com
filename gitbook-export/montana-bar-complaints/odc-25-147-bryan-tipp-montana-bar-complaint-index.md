@@ -133,6 +133,12 @@ Related starting points:
   * **Summary:** Firsthand corroboration from Elvis Nuno's father. Documents Tipp's use of family pressure tactics, complete disregard of the Tyrone Nuno Ethan Smith complaint, and failure to interview available witnesses.
   * **What changed at this stage:** Adds independent witness testimony directly rebutting Tipp's characterization of the grievance as "lies and extortion."
 
+#### Independent Grievance — Eleanor ("Ellie") Nuno (May 2026)
+
+* [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
+  * **Summary:** Independent complaint and supporting witness statement from Elvis Nuno's mother. Documents a prior 1990s attorney-client relationship revealing a pattern of unwillingness to challenge law enforcement, failure to interview the client-mother as a witness to fabricated police statements, pressure tactics directed at family members, and direct corroboration of all allegations in ODC File No. 25-147.
+  * **What changed at this stage:** Adds independent complainant status, pattern-and-practice evidence spanning thirty years, and firsthand witness testimony rebutting fabricated mental-health statements in charging documents.
+
 #### External dossier pointer
 
 * [MisJustice Alliance case file: 2df48ac7](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
