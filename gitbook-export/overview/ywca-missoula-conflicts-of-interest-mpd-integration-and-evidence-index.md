@@ -38,6 +38,7 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 * Institutional capture overview: [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](../ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
 * Systemic accountability failure: [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * First Amendment angle: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
 ### Primary published packets (CR-2025-001)
 

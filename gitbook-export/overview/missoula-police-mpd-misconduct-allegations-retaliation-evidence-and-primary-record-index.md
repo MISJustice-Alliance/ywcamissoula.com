@@ -21,6 +21,7 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 * Dataset landing page: [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
 * §1983 claims overview (analysis): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
 * MPD complaint scorecard analysis: [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
+* Structural accountability failure analysis: [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 
 ### Start here
 
@@ -45,6 +46,7 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 * YWCA conflict summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * Board-level conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
 * Systemic accountability failure analysis: [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
 {% hint style="info" %}
 If you’re verifying specifics, start with the timeline and then jump into the underlying documents.

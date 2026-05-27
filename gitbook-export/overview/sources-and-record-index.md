@@ -22,6 +22,8 @@ This page is the canonical source list for the project. It separates **primary r
   * [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
   * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
   * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
+  * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
+  * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 
 {% hint style="info" %}
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
@@ -125,6 +127,8 @@ Start with these hubs. They are designed to point to the underlying source docum
 #### 2) Official complaints (agency filings)
 
 * [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 
 #### 3) Missoula systemic history and context
 

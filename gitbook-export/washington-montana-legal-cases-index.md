@@ -44,6 +44,8 @@ Use it to pivot from an event or proceeding into the deeper record.
 * [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 
 ### Related

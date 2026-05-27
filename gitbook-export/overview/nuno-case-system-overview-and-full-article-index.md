@@ -152,6 +152,8 @@ Use this documentation to:
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](../update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
 * [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](../legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 
 </details>
 
@@ -168,6 +170,8 @@ Use this documentation to:
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
 * [Remembering When: Missoula Rape Capital Era and Institutional Failures](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 
 </details>
 

@@ -128,6 +128,8 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [MT DOJ POST complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-mortem of POST complaint dismissal](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [Structural Failure of Police Accountability: MPD to POST](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
+* [Remembering When: Missoula Rape Capital Era and Institutional Failures](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 * [Forced relocation from Montana due to safety concerns](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 * [Ongoing civil rights advocacy and documentation](./)
 
@@ -171,6 +173,9 @@ See also:
 * [Legal analysis: YWCA of Missoula, board conflicts, and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [Seattle OPA complaint post-mortem / legal analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
 * [Full analysis of Fourteenth Amendment equal protection and due process violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [Remembering When: Missoula Rape Capital Era and Institutional Failures](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
 ### Related
 
