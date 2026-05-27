@@ -148,3 +148,25 @@ Related starting points:
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}
+<!-- AUTO_UPDATE: 20260527-1601 -->
+## Recent Developments
+
+### Montana Bar Discipline (May 27, 2026)
+
+**Montana Bar Discipline — No New Public Orders Found (May 1–27, 2026)**  
+No new Montana Supreme Court attorney discipline orders found in publicly available sources covering May 1–27, 2026.
+
+Pending matters (all prior to May 2026):
+- **ODC No. 25-147 (Bryan Tipp)**: Jurisdiction brief submitted July 2025; ODC submitted response October 2025; Reply brief submitted November 2025. Last documented status: pending Montana Supreme Court review. [unverified] Current status unknown.
+- **ODC grievance (Brian Lowney)**: Grievance filed April 28, 2026 by Eleanor "Ellie" Nuno. [unverified] Status pending.
+- **ODC grievance (Eleanor "Ellie" Nuno)**: Supporting witness grievance filed May 2026. [unverified] Status pending.
+
+**Jurisdictional Issue — Montana Supreme Court Candidate Dan Wilson (May 4, 2026)**  
+See Montana cases update. A judge-facing jurisdictional challenge may create judicial accountability precedent relevant to all Montana court proceedings, including attorney discipline matters before the Supreme Court.
+
+**Open Research Items**
+- Current status of ODC No. 25-147: [unverified] counsel should verify with Montana ODC
+- Current status of ODC Lowney grievance: [unverified] check ODC docket
+- Any new filings since May 1, 2026: [unverified]
+
+<!-- /AUTO_UPDATE -->
