@@ -148,10 +148,10 @@ Related starting points:
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}
-<!-- AUTO_UPDATE: 20260527-1601 -->
 
 ---
 
+<!-- AUTO_UPDATE: 20260527-1601 -->
 ## Recent Developments
 
 ### Montana Bar Discipline (May 27, 2026)
