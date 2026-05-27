@@ -1,3 +1,32 @@
+<!-- AUTO_UPDATE: 20260527-1700 -->
+
+---
+
+## Recent Developments
+
+### Montana Bar Discipline (May 27, 2026)
+
+**ODC No. 25-147 (Bryan Tipp)**  
+[unverified] No new public orders found for the period May 1–27, 2026. Last known status (from prior update cycle): reply brief submitted November 2025, pending Montana Supreme Court review.
+
+**ODC Grievance — Brian Lowney**  
+[unverified] Filed April 28, 2026. [unverified] Status as of May 27, 2026 unknown. Counsel should check ODC docket.
+
+**ODC Grievance — Eleanor "Ellie" Nuno / Supporting Witness**  
+[unverified] Filed May 2026. [unverified] Status unknown as of May 27, 2026.
+
+**Don Lemon Grand Jury / Attorney Accountability (May 27, 2026)**  
+The Minnesota grand jury transparency arguments (see legal analysis and state/federal complaints sections) have implications for attorney conduct in criminal proceedings — specifically Brady obligations. Bryan Tipp's representation of Mr. Nuno in criminal proceedings is directly within scope: if Brady material was suppressed in those proceedings, that is both a bar complaint issue and a potential ineffective assistance of counsel claim.
+
+**[unverified] Tipp-Brady connection** — Counsel should assess whether the Brady obligations discussed in the Don Lemon Minnesota matter apply to the Bryan Tipp representation documented here.
+
+**Open Research Items**
+- Current ODC No. 25-147 docket status: [unverified] check Montana ODC records
+- Current ODC Lowney grievance status: [unverified]
+- Any new filings in ODC matters since May 1, 2026: [unverified]
+
+<!-- /AUTO_UPDATE -->
+
 ---
 description: >-
   Index of filings for Montana Office of Disciplinary Counsel (ODC) File 25-147

@@ -1,3 +1,26 @@
+<!-- AUTO_UPDATE: 20260527-1700 -->
+
+---
+
+## Recent Developments
+
+### Montana Courts & Accountability (May 27, 2026)
+
+**Don Lemon / Grand Jury Transparency Challenge (May 27, 2026)**  
+Attorneys for Don Lemon cite growing distrust in the Justice Department's grand jury process (May 27, 2026, Daily Press). This is relevant to Missoula cases because the same grand jury transparency principles apply to any grand jury proceedings connected to the stalking charges, home invasion, and false imprisonment matters documented here.
+
+**[unverified] Relevance to Missoula grand jury proceedings** — Counsel should determine whether any grand jury proceedings occurred in the Missoula criminal matters and whether Brady obligations were satisfied.
+
+**Montana Judicial Accountability — Dan Wilson Jurisdictional Challenge (May 4, 2026)**  
+See prior update (20260527-1601). [unverified] No further developments as of May 27, 2026.
+
+**Open Research Items**
+- ODC No. 25-147 status: [unverified]
+- ODC Lowney grievance status: [unverified]
+- Any new Montana civil rights filings: [unverified]
+
+<!-- /AUTO_UPDATE -->
+
 ---
 title: Montana Legal Cases
 tags:
