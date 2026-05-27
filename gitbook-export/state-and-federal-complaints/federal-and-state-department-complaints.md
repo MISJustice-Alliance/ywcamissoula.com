@@ -75,6 +75,9 @@ When linking externally, prefer stable packet URLs (Arweave gateways) and includ
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}
+
+---
+
 <!-- AUTO_UPDATE: 20260527-1601 -->
 ## Recent Developments
 
