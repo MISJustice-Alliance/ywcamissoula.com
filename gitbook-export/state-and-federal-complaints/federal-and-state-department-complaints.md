@@ -1,3 +1,25 @@
+<!-- AUTO_UPDATE: 20260527-1700 -->
+
+---
+
+## Recent Developments
+
+### Federal Accountability (May 27, 2026)
+
+**Don Lemon — Grand Jury Process Challenges (May 27, 2026)**  
+Don Lemon's attorneys are seeking grand jury transcripts in a Minnesota civil rights case, citing "unprecedented and growing distrust in the Justice Department's use of the grand jury process" (Daily Press, May 27, 2026). The attorneys specifically reference institutional misconduct in grand jury proceedings as a structural civil rights concern. This is relevant to any federal filing strategy in the YWCA Missoula matter because the same grand jury process concerns apply to criminal proceedings where Brady obligations may have been violated.
+
+**[unverified] Direct application to Missoula case** — No confirmed connection to the Missoula matters. Counsel should assess whether grand jury proceedings in the underlying criminal case trigger any federal supervisory or oversight mechanisms.
+
+**Montana — No New Developments**  
+No new federal agency actions in Montana documented for the period May 1–27, 2026.
+
+**Open Research Items**
+- DoJ Civil Rights Division filing 658793 status: [unverified] counsel should verify
+- Any new FBI cross-jurisdictional referrals: [unverified]
+
+<!-- /AUTO_UPDATE -->
+
 ---
 title: Federal and State Department Complaints
 tags:

@@ -1,3 +1,26 @@
+<!-- AUTO_UPDATE: 20260527-1700 -->
+
+---
+
+## Recent Developments
+
+### Washington State — Accountability Developments (May 27, 2026)
+
+**Don Lemon / Grand Jury Transparency (May 27, 2026)**  
+Minnesota grand jury transparency arguments echo the suppression-of-evidence concerns in the Edmonds case (2015–2017) and 2016 OPA-1167 complaint — both of which involved document concealment and Brady/Giglio issues. This reinforces the evidentiary pattern in the Washington cases documented here.
+
+**Seattle Police Department — Internal Accountability (May 2026)**  
+Prior update (20260527-1601) documented SPD Black officers' discrimination claims (May 2026). [unverified] No new developments as of May 27, 2026.
+
+**Patricia Fulton WA State Bar Complaint**  
+[unverified] Last documented activity November 2016. No new public orders found as of May 27, 2026. Counsel should verify current status through WA State Bar records.
+
+**Open Research Items**
+- Patricia Fulton bar complaint status: [unverified] dormant
+- Any new WA civil rights filings related to victim advocacy: [unverified]
+
+<!-- /AUTO_UPDATE -->
+
 ---
 title: Washington Legal Cases Index
 tags:

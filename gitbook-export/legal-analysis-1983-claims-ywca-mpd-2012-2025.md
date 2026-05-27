@@ -1,3 +1,26 @@
+<!-- AUTO_UPDATE: 20260527-1700 -->
+
+---
+
+## Recent Developments
+
+### § 1983 Litigation — National Developments (May 27, 2026)
+
+**Don Lemon — Grand Jury Transparency / Brady Violation parallels (May 27, 2026)**  
+Don Lemon's attorneys filed a motion seeking grand jury transcripts in a Minnesota civil rights case (Daily Press, Daily Local, May 27, 2026), arguing the past 15 months have seen "an unprecedented and growing distrust in the Justice Department's use of the grand jury process." This is directly relevant to YWCA Missoula § 1983 claims because the case involves institutional suppression of evidence and transparency failures in civil rights proceedings — the same structural pattern alleged in the home invasion, warrantless arrest, and false imprisonment claims documented in this repository.
+
+**[unverified] Direct connection to YWCA Missoula case** — The Minnesota case involves different parties. Counsel should assess whether Brady/Giglio obligations were triggered in the Missoula criminal proceedings and whether grand jury proceedings (if any) are subject to similar transparency challenges.
+
+**YWCA National Context — Domestic Violence Surge (May 2026)**  
+Multiple YWCA affiliates report sustained elevated domestic violence call volumes (May 2026). This systemic strain is contextually relevant to institutional capacity arguments in § 1983 claims against victim advocacy organizations.
+
+**Open Research Items**
+- Status of ODC No. 25-147 (Bryan Tipp): [unverified] pending review — last known: November 2025 reply brief
+- Status of ODC grievance (Brian Lowney): [unverified] filed April 28, 2026 — status unknown
+- Montana POST complaint (August 2025): dismissed, post-mortem archived
+
+<!-- /AUTO_UPDATE -->
+
 ---
 title: Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & MPD (2012–2025)
 tags:

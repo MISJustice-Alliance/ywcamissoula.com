@@ -1,3 +1,27 @@
+<!-- AUTO_UPDATE: 20260527-1700 -->
+
+---
+
+## Recent Developments
+
+### YWCA — National & Local Developments (May 27, 2026)
+
+**YWCA National — Sustained Domestic Violence Surge (May 2026)**  
+Multiple YWCA affiliates report continued elevated domestic violence call volumes (May 2026). The Yakima YWCA remains in an expansion phase for shelter capacity. This systemic demand pattern is the national context in which institutional failures at individual affiliates — including YWCA Missoula — occurred.
+
+**YWCA Missoula — Post-2020 Status**  
+[unverified] No YWCA Missoula-specific public developments found in the period May 1–27, 2026. The Google review complaints and Reddit complaints (2018–2020) documented in this file remain unaddressed. No resolution has been published by YWCA Missoula.
+
+**Don Lemon Grand Jury Matter — Institutional Victim Advocacy Parallels (May 27, 2026)**  
+The Don Lemon Minnesota case involves suppression of evidence and institutional transparency failures in civil rights proceedings. This pattern — institutional actors concealing information that should be disclosed — is structurally identical to the alleged confidentiality breach by YWCA associates documented in this file (Arthur Brown review, alleged confidentiality breach screenshot).
+
+**Open Research Items**
+- Current YWCA Missoula operational status: [unverified]
+- Any new victim complaints filed with Montana AG or regulatory bodies: [unverified]
+- YWCA USA national governance response to affiliate misconduct: [unverified]
+
+<!-- /AUTO_UPDATE -->
+
 ---
 title: YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)
 tags:
