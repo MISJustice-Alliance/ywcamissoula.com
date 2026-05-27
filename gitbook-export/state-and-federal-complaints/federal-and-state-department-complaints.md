@@ -76,6 +76,9 @@ When linking externally, prefer stable packet URLs (Arweave gateways) and includ
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}
 <!-- AUTO_UPDATE: 20260527-1601 -->
+
+---
+
 ## Recent Developments
 
 ### Federal & State Accountability (May 27, 2026)

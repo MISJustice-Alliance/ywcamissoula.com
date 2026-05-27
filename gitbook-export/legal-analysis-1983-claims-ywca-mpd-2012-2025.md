@@ -603,6 +603,9 @@ Drawing on the synthesis and cross-validation with the broader Space record, the
 *Refined with MISJustice Alliance Research Collective cross-validation — May 11, 2026*
 
 <!-- AUTO_UPDATE: 20260527-1601 -->
+
+---
+
 ## Recent Developments
 
 ### Institutional Accountability — National Context (May 27, 2026)

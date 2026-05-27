@@ -38,6 +38,9 @@ This page is the Washington index for case analysis and linked primary records, 
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
 <!-- AUTO_UPDATE: 20260527-1601 -->
+
+---
+
 ## Recent Developments
 
 ### Washington State — Police Accountability (May 27, 2026)
