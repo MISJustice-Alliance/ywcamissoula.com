@@ -50,6 +50,32 @@ The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents a pr
 | 2024      | St. Regis contracts terminated                                                |
 | 2025      | Daily threats ongoing; POST complaint dismissed in less than one business day |
 
+## Addendum: POST Response to Clarification Request (May 2026)
+
+On May 26, 2026, MISJustice Alliance reached out to Katrina Bolger, Lead Operations Specialist/Paralegal at the Montana Public Safety Officer Standards and Training Council, requesting clarification on POST's procedures and the handling of the complaint submitted in August 2025. The request specifically sought:
+
+- How POST evaluates complaints and determines whether allegations fall within its purview
+- How those standards were applied to this matter
+- Whether POST reviewed the full submission and accompanying materials before closing the matter in less than one business day
+- Comment on the refusal to address the correction regarding the framing of the complaint as an ongoing pattern rather than isolated historical incidents
+
+On May 27, 2026, the following response was received from Katrina Bolger:
+
+> Complaints are reviewed pursuant to POST's ARMs and allegation policy/procedure, all of which are publicly available information.
+>
+> The complainant was given the reasons for POST not proceeding in this matter.
+>
+> Katrina Bolger
+
+This response confirms what the post-mortem analysis identified: POST's process is entirely self-referential — complaints are evaluated against POST's own administrative rules and internal policy, with no external accountability mechanism. The response notably:
+
+- Provides no substantive engagement with the specific questions raised
+- Offers no explanation for the refusal to address the ongoing-pattern framing
+- Declines to confirm whether the full submission was reviewed
+- Cites only internal procedural documents as the governing authority
+
+The full correspondence is available in the case file: [RE: Request for clarification regarding POST procedures and complaint closure](.gitbook/assets/RE-Request-for-clarification-regarding-POST-procedures-and-complaint-closure.pdf)
+
 ## Conclusion
 
 POST's dismissal demonstrates either failure to review documentation or institutional unwillingness to address systemic corruption.
