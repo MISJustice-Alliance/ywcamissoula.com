@@ -1,3 +1,17 @@
+<!-- AUTO_UPDATE: 20260527-2121 -->
+
+---
+
+## Recent Developments
+
+### Research Status — May 27 Evening Update
+
+**No new public sources found** (Brave search rate limited, May 27 evening). Prior update (20260527-1700) SPD Black officers discrimination claims and Patricia Fulton status remain most recent findings.
+
+Next scheduled crawl: 2026-05-28 07:00 MDT.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-1700 -->
 
 ---
