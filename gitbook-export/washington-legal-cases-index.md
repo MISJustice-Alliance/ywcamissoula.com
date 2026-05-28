@@ -32,6 +32,29 @@ description: >-
   plea withdrawal, bar/health complaints, and Seattle OPA materials.
 ---
 
+<!-- AUTO_UPDATE: 20260527-1601 -->
+## Recent Developments
+
+### Washington State — Police Accountability (May 27, 2026)
+
+**Seattle Police Department — Black Officers File Discrimination Claims (May 2026)**  
+Two veteran Black Seattle police officers filed separate claims in King County Superior Court (Seattle Medium, Aaron Allen, May 2026) against the City of Seattle through the James Bible Law Group. The claims allege discrimination, retaliation, hostile workplace conditions, and emotional distress tied to racial harassment within SPD. The claims seek compensatory and punitive damages, injunctive relief, and systemic workplace reforms. Both complainants assert the conduct described represents patterns rather than isolated events.
+
+Relevant to YWCA Missoula WA cases because: the 2016 OPA-1167 complaint and Edmonds case both involved SPD officer conduct. The systematic nature of the discrimination and retaliation allegations parallels patterns alleged in the 2016 OPA complaint ([2016 Seattle OPA Complaint post-mortem](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)).
+
+**[unverified] Patricia Fulton bar complaint** — Last documented activity November 2016 in case file. No new public orders found. Counsel should verify current status through WA State Bar records.
+
+**Seattle OPA Newsletters — Active Accountability Function (May 2026)**  
+Seattle's Office of Police Accountability publishes monthly newsletters addressing officer misconduct findings (seattle.gov, updated 6 days ago as of May 27, 2026). Active OPA function is directly relevant to the 2016OPA-1167 complaint analysis since Edmonds was conducted under the same OPA framework.
+
+**[unverified] OPA newsletter content** — Newsletter volume/pattern has not been analyzed for impact on 2016OPA-1167 patterns. Counsel should request full OPA newsletter archive.
+
+**Open Research Items**
+- Status of Patricia Fulton WA State Bar complaint: [unverified] dormant/no new public orders found as of May 27, 2026
+- SPD 2015–2017 case patterns: see existing analysis at [Edmonds Case](washington-cases/edmonds-case-2015-2017.md)
+
+<!-- /AUTO_UPDATE -->
+
 # Washington Legal Cases Index
 
 ### Executive snapshot
@@ -62,26 +85,3 @@ This page is the Washington index for case analysis and linked primary records, 
 {% include ".gitbook/includes/related-links-global (1).md" %}
 
 ---
-
-<!-- AUTO_UPDATE: 20260527-1601 -->
-## Recent Developments
-
-### Washington State — Police Accountability (May 27, 2026)
-
-**Seattle Police Department — Black Officers File Discrimination Claims (May 2026)**  
-Two veteran Black Seattle police officers filed separate claims in King County Superior Court (Seattle Medium, Aaron Allen, May 2026) against the City of Seattle through the James Bible Law Group. The claims allege discrimination, retaliation, hostile workplace conditions, and emotional distress tied to racial harassment within SPD. The claims seek compensatory and punitive damages, injunctive relief, and systemic workplace reforms. Both complainants assert the conduct described represents patterns rather than isolated events.
-
-Relevant to YWCA Missoula WA cases because: the 2016 OPA-1167 complaint and Edmonds case both involved SPD officer conduct. The systematic nature of the discrimination and retaliation allegations parallels patterns alleged in the 2016 OPA complaint ([2016 Seattle OPA Complaint post-mortem](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)).
-
-**[unverified] Patricia Fulton bar complaint** — Last documented activity November 2016 in case file. No new public orders found. Counsel should verify current status through WA State Bar records.
-
-**Seattle OPA Newsletters — Active Accountability Function (May 2026)**  
-Seattle's Office of Police Accountability publishes monthly newsletters addressing officer misconduct findings (seattle.gov, updated 6 days ago as of May 27, 2026). Active OPA function is directly relevant to the 2016OPA-1167 complaint analysis since Edmonds was conducted under the same OPA framework.
-
-**[unverified] OPA newsletter content** — Newsletter volume/pattern has not been analyzed for impact on 2016OPA-1167 patterns. Counsel should request full OPA newsletter archive.
-
-**Open Research Items**
-- Status of Patricia Fulton WA State Bar complaint: [unverified] dormant/no new public orders found as of May 27, 2026
-- SPD 2015–2017 case patterns: see existing analysis at [Edmonds Case](washington-cases/edmonds-case-2015-2017.md)
-
-<!-- /AUTO_UPDATE -->

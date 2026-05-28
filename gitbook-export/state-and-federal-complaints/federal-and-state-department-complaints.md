@@ -32,6 +32,29 @@ description: >-
   Washington Bar/DOH, Seattle OPA, Montana Bar, and POST complaints.
 ---
 
+<!-- AUTO_UPDATE: 20260527-1601 -->
+## Recent Developments
+
+### Federal & State Accountability (May 27, 2026)
+
+**ACLU — Civil Rights Groups Urge Federal Accountability Legislation (May 2026)**  
+A coalition of civil rights groups and survivors of federal law enforcement abuse urged Congress to pass accountability legislation during Community Safety Week (ACLU press release, approximately May 2026). ACLU polling shows Americans support police accountability measures by a 4-to-1 margin across political lines. This legislative context is relevant to any federal filing strategy — including ODC complaints, Montana POST complaint (August 2025), and potential DoJ Civil Rights Division inquiries — because it signals sustained political will for accountability measures.
+
+**U.S. Supreme Court — Qualified Immunity: Case Advances (May 2026)**  
+The U.S. Supreme Court declined to grant qualified immunity to Michigan officer Phillip Reinink (NBC News, May 26, 2026), letting a 6th Circuit excessive force claim proceed to trial. Two conservative justices (Thomas, Alito) indicated they'd have ruled for the officer. This is a narrow precedent but signals continued Court resistance to broad qualified immunity expansion.
+
+Significance for YWCA Missoula § 1983 claims: MPD officer defendants in civil rights suits would face similar qualified immunity arguments. The Reinink signal suggests courts may be less receptive to wholesale QI dismissal in protest-related cases.
+
+**Montana — Cromwell/ICE Records (May 2026)**  
+See legal analysis and Montana cases updates.
+
+**Open Research Items**
+- Montana POST complaint (August 2025): dismissed; post-mortem archived
+- FBI cross-jurisdictional filing: archived; patterns documented
+- DoJ Civil Rights Division filing 658793: status [unverified]; counsel should verify current status
+
+<!-- /AUTO_UPDATE -->
+
 # Federal and State Department Complaints
 
 ### Executive snapshot
@@ -99,26 +122,3 @@ When linking externally, prefer stable packet URLs (Arweave gateways) and includ
 {% include "../.gitbook/includes/related-links-global (1).md" %}
 
 ---
-
-<!-- AUTO_UPDATE: 20260527-1601 -->
-## Recent Developments
-
-### Federal & State Accountability (May 27, 2026)
-
-**ACLU — Civil Rights Groups Urge Federal Accountability Legislation (May 2026)**  
-A coalition of civil rights groups and survivors of federal law enforcement abuse urged Congress to pass accountability legislation during Community Safety Week (ACLU press release, approximately May 2026). ACLU polling shows Americans support police accountability measures by a 4-to-1 margin across political lines. This legislative context is relevant to any federal filing strategy — including ODC complaints, Montana POST complaint (August 2025), and potential DoJ Civil Rights Division inquiries — because it signals sustained political will for accountability measures.
-
-**U.S. Supreme Court — Qualified Immunity: Case Advances (May 2026)**  
-The U.S. Supreme Court declined to grant qualified immunity to Michigan officer Phillip Reinink (NBC News, May 26, 2026), letting a 6th Circuit excessive force claim proceed to trial. Two conservative justices (Thomas, Alito) indicated they'd have ruled for the officer. This is a narrow precedent but signals continued Court resistance to broad qualified immunity expansion.
-
-Significance for YWCA Missoula § 1983 claims: MPD officer defendants in civil rights suits would face similar qualified immunity arguments. The Reinink signal suggests courts may be less receptive to wholesale QI dismissal in protest-related cases.
-
-**Montana — Cromwell/ICE Records (May 2026)**  
-See legal analysis and Montana cases updates.
-
-**Open Research Items**
-- Montana POST complaint (August 2025): dismissed; post-mortem archived
-- FBI cross-jurisdictional filing: archived; patterns documented
-- DoJ Civil Rights Division filing 658793: status [unverified]; counsel should verify current status
-
-<!-- /AUTO_UPDATE -->
