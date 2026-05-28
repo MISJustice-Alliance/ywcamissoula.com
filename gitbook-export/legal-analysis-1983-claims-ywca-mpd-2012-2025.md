@@ -1,3 +1,22 @@
+<!-- AUTO_UPDATE: 20260527-2121 -->
+
+---
+
+## Recent Developments
+
+### Research Status — May 27 Evening Update
+
+**No new public sources found** due to search API rate limiting (May 27 evening). Prior update (20260527-1700)Don Lemon grand jury transparency development remains the most recent finding. Standing research items from that block remain open:
+
+- Status of ODC No. 25-147 (Bryan Tipp): [unverified] pending review
+- Status of ODC grievance (Brian Lowney): [unverified] filed April 28, 2026
+- Status of Montana POST complaint: dismissed, archived
+- Arweave URL verification: [unverified] pendingphysical verification
+
+Next scheduled crawl: 2026-05-28 07:00 MDT.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-1700 -->
 
 ---
