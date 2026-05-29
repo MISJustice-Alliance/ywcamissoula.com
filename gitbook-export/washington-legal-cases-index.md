@@ -1,3 +1,29 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### Washington State — Accountability Infrastructure — May 29, 2026 Update
+
+**Seattle Police Department — Termination of federal Consent Decree (May 2026)**  
+The U.S. District Court for the Western District of Washington has formally terminated the 13-year consent decree in *United States v. City of Seattle* (justice.gov, May 2026). Assistant Attorney General Harmeet Dhillon stated the court is returning "full control of local law enforcement to the city." This marks the end of federal oversight of SPD's use of force, crisis intervention, and accountability systems.
+
+**[unverified] Impact on OPA-1167 analysis** — With the end of federal monitorship, accountability for SPD conduct now rests entirely with the local Office of Police Accountability (OPA) and City leadership. Counsel should assess if this closure limits retrospective review of the 2016 OPA-1167 patterns.
+
+**Seattle OPA — Low Community Trust (June 2024)**  
+An OPA community survey report (seattle.gov) revealed that while awareness of the office is high (67%), 66% of respondents believe "police oversight is biased" and an overwhelming majority expect OPA to side with officers over the community. This lack of perceived neutrality is a critical contextual factor for evaluating the 2016 OPA-1167 investigation results.
+
+### Washington State — Accountability Infrastructure — May 29, 2026 Update
+
+**Seattle Police Department — End of Federal Oversight (May 2026)**  
+See Section 3 update. The termination of the 13-year consent decree returns "complete control" of SPD to the City (justice.gov, May 2026). 
+
+**Seattle OPA Trust Assessment (June 2024)**  
+OPA reports (seattle.gov) that 98% of Seattle respondents say police accountability is important, but a majority believe the existing OPA process is biased toward officers. This perception directly informs the weight given to the 2016 OPA-1167 findings.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
 ---

@@ -1,3 +1,18 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### Evidence & Documentation — May 29, 2026 Update
+
+**Arweave Evidence Archive — Verification Check (May 2026)**  
+Blockchain archival research underscores the importance of cryptographic hashing and decentralized storage for legal evidence (escholarship.org, 2026). The Arweave yellow paper continues to position the protocol as a tool against the "memory hole" of institutional censorship.
+
+**[unverified] misjusticealliance.arweave.net Status** — Gateway status check pending. All secondary links in this section rely on the persistence of the MisJustice Alliance Arweave gateway. 
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
 ---

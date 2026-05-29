@@ -1,3 +1,31 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### Montana Courts & Accountability — May 29, 2026 Update
+
+**Montana Supreme Court — Judicial Authority over Elected Officials (January 2, 2026)**  
+Chief Justice Cory Swanson, writing for the majority, established that the Attorney General is "subject to regulation under the Commission (on Practice)" (Daily Montanan). The court issued a public admonition to AG Knudsen for violating rules of professional conduct related to disobeying court orders. This confirms that the Montana judicial branch maintains disciplinary authority over executive branch attorneys for conduct "beyond what we have seen any competent attorney... do."
+
+**[unverified] Relevance to Missoula Prosecution Claims** — The ruling reinforces the accountability framework for attorneys in Missoula who may have disobeyed lawful court orders or suppressed evidence (Brady violations) in the 2012–2025 case record.
+
+**Missoula YWCA Shelter — Sustained Capacity Crisis (Dec 2025)**  
+YWCA Missoula's Pathways shelter remains "strapped for space," with nearly every room taken for four years straight (Montana Free Press, Dec 16, 2025). The average stay has doubled since 2020. This systemic strain persists alongside documented complaints of institutional failure.
+
+### Montana Courts & Accountability — May 29, 2026 Update
+
+**Montana Supreme Court — AG Jurisdiction Precedent (January 2, 2026)**  
+See Section 2 update. The Court's ruling that the AG is subject to ODC discipline for professional misconduct establishes a core accountability standard for Montana attorneys.
+
+**Missoula YWCA — Pathways Shelter Overwhelmed (December 16, 2025)**  
+Montana Free Press reports that YWCA Missoula's Pathways shelter wing has seen child service numbers jump from 34 in 2022 to 95 in 2025. Director Monique Schulte reports that the average stay has doubled to 60 days as survivors struggle with Missoula's housing crunch. 
+
+**[unverified] Capacity impact on misconduct** — Counsel should investigate if the documented pattern of misconduct (2018–2020) accelerated as institutional stress and housing instability increased.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
 ---

@@ -1,3 +1,21 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### Montana Bar Discipline — May 29, 2026 Update
+
+**Montana Supreme Court — Attorney Discipline Precedent (January 2, 2026)**  
+A landmark 149-page ruling in the Knudsen case confirms that elected legal officials are subject to the regulation of the Commission on Practice and the Supreme Court (Daily Montanan). This prevents executive branch attorneys from claiming immunity from bar discipline based on their elected status.
+
+**ODC No. 25-147 (Bryan Tipp)**  
+[unverified] No new public orders found on the Montana ODC docket for May 2026. The MisJustice Alliance archive (ywcaofmissoula.com) remains the primary tracker for this matter. The primary ODC ruling (November 2025) and subsequent request for review (arweave.net) are the most recent verified primary artifacts.
+
+**[unverified] Tipp-Malpractice Dataset** — The dataset documenting alleged malpractice (2017–2025) remains active at ywcaofmissoula.com under the 20260529 crawl. 
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
 ---

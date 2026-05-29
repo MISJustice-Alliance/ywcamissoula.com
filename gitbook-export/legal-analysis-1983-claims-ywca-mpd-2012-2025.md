@@ -1,3 +1,21 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### § 1983 & Institutional Accountability — May 29, 2026 Update
+
+**DOJ Civil Rights Division — Mass Exodus and Policy Reversal (June 2025)**  
+Civil rights organizations report a "mass exodus" of attorneys from the DOJ Civil Rights Division following the confirmation of Harmeet Dhillon (June 2025, civilrights.org). The division has begun dismissing lawsuits and withdrawing from pending cases regardless of legal merit—specifically targeting pattern-or-practice investigations into major police departments (Louisville, Minneapolis, Phoenix, Memphis, etc.) accusing the previous administration of "wrongly equating statistical disparities with intentional discrimination" (justice.gov, May 2026). This shift signals a significantly higher barrier for federal intervention in § 1983 claims involving institutional misconduct.
+
+**[unverified] Impact on Missoula § 1983 claims** — While these federal reversals target specific major cities, the policy shift toward "local control" may limit federal oversight of MPD/YWCA civil rights claims. Counsel should monitor whether this affects the viability of DoJ Civil Rights Division filing 658793.
+
+**Montana Supreme Court — AG Jurisdiction Precedent (January 2026)**  
+The Montana Supreme Court ruled in a 149-page opinion (Daily Montanan, Jan 2, 2026) that the state Attorney General is subject to the authority of the Commission on Practice and the Court’s regulation of the practice of law, even as an elected official. This establishes a critical precedent for holding high-ranking legal officials accountable for professional misconduct—directly relevant to prosecutorial misconduct theories in the Nuno case record.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
 ---

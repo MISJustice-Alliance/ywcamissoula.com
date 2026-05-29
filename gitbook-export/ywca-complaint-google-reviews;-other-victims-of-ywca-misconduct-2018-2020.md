@@ -1,3 +1,18 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### YWCA — Local Institutional Stress — May 29, 2026 Update
+
+**YWCA Missoula — Sustained 100% Occupancy (December 2025)**  
+Monique Schulte, YWCA shelter director, reports only two instances in four years where the shelter wasn't full (Montana Free Press, Dec 16, 2025). The Pathways shelter (13 rooms) and Family Housing Center (115 beds) are operating under extreme pressure from Missoula's lack of affordable housing.
+
+**[unverified] Continued victim complaints** — No new public Google Review entries or Reddit accounts of misconduct were verified in the May 2026 search cycle. The 2018–2020 accounts documented in this file remain the primary evidentiary record of affiliate-level failure.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
 ---
