@@ -1,3 +1,35 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### Federal & State Accountability — May 29, 2026 Update
+
+**DOJ Civil Rights Division — Withdrawal from Pattern-or-Practice cases (May 2026)**  
+Assistant Attorney General Harmeet Dhillon has retracted findings of constitutional violations and closed investigations into multiple local police departments, including Phoenix, AZ and Memphis, TN (justice.gov, May 2026). The current DOJ leadership characterizes prior consent decrees as "expensive micromanagement" and has ended the "experiment" of federal oversight in these jurisdictions.
+
+**[unverified] DoJ Filing 658793 status** — Counsel should assume a significant policy barrier exists for any new federal civil rights intervention in the YWCA Missoula or MPD matters under the current Harmeet Dhillon administration.
+
+**Montana AG Discipline — Precedent Confirmed (January 2026)**  
+The Montana Supreme Court's ruling (Daily Montanan) confirms that state bar complaints against elected executive officials (like the AG) are within the Court's disciplinary jurisdiction. This validates the procedural pathway used for ODC complaints against Missoula-based attorneys.
+
+<!-- /AUTO_UPDATE -->
+
+<!-- AUTO_UPDATE: 20260527-2121 -->
+
+---
+
+## Recent Developments
+
+### Research Status — May 27 Evening Update
+
+**No new public sources found** (Brave search rate limited, May 27 evening). Prior update (20260527-1700) Don Lemon grand jury/federal accountability development remains most recent finding. Standing items: DoJ filing 658793 status [unverified].
+
+Next scheduled crawl: 2026-05-28 07:00 MDT.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-1700 -->
 
 ---
@@ -31,6 +63,29 @@ description: >-
   Index of federal and state complaint filings: DOJ Civil Rights, FBI report,
   Washington Bar/DOH, Seattle OPA, Montana Bar, and POST complaints.
 ---
+
+<!-- AUTO_UPDATE: 20260527-1601 -->
+## Recent Developments
+
+### Federal & State Accountability (May 27, 2026)
+
+**ACLU — Civil Rights Groups Urge Federal Accountability Legislation (May 2026)**  
+A coalition of civil rights groups and survivors of federal law enforcement abuse urged Congress to pass accountability legislation during Community Safety Week (ACLU press release, approximately May 2026). ACLU polling shows Americans support police accountability measures by a 4-to-1 margin across political lines. This legislative context is relevant to any federal filing strategy — including ODC complaints, Montana POST complaint (August 2025), and potential DoJ Civil Rights Division inquiries — because it signals sustained political will for accountability measures.
+
+**U.S. Supreme Court — Qualified Immunity: Case Advances (May 2026)**  
+The U.S. Supreme Court declined to grant qualified immunity to Michigan officer Phillip Reinink (NBC News, May 26, 2026), letting a 6th Circuit excessive force claim proceed to trial. Two conservative justices (Thomas, Alito) indicated they'd have ruled for the officer. This is a narrow precedent but signals continued Court resistance to broad qualified immunity expansion.
+
+Significance for YWCA Missoula § 1983 claims: MPD officer defendants in civil rights suits would face similar qualified immunity arguments. The Reinink signal suggests courts may be less receptive to wholesale QI dismissal in protest-related cases.
+
+**Montana — Cromwell/ICE Records (May 2026)**  
+See legal analysis and Montana cases updates.
+
+**Open Research Items**
+- Montana POST complaint (August 2025): dismissed; post-mortem archived
+- FBI cross-jurisdictional filing: archived; patterns documented
+- DoJ Civil Rights Division filing 658793: status [unverified]; counsel should verify current status
+
+<!-- /AUTO_UPDATE -->
 
 # Federal and State Department Complaints
 
@@ -99,26 +154,3 @@ When linking externally, prefer stable packet URLs (Arweave gateways) and includ
 {% include "../.gitbook/includes/related-links-global (1).md" %}
 
 ---
-
-<!-- AUTO_UPDATE: 20260527-1601 -->
-## Recent Developments
-
-### Federal & State Accountability (May 27, 2026)
-
-**ACLU — Civil Rights Groups Urge Federal Accountability Legislation (May 2026)**  
-A coalition of civil rights groups and survivors of federal law enforcement abuse urged Congress to pass accountability legislation during Community Safety Week (ACLU press release, approximately May 2026). ACLU polling shows Americans support police accountability measures by a 4-to-1 margin across political lines. This legislative context is relevant to any federal filing strategy — including ODC complaints, Montana POST complaint (August 2025), and potential DoJ Civil Rights Division inquiries — because it signals sustained political will for accountability measures.
-
-**U.S. Supreme Court — Qualified Immunity: Case Advances (May 2026)**  
-The U.S. Supreme Court declined to grant qualified immunity to Michigan officer Phillip Reinink (NBC News, May 26, 2026), letting a 6th Circuit excessive force claim proceed to trial. Two conservative justices (Thomas, Alito) indicated they'd have ruled for the officer. This is a narrow precedent but signals continued Court resistance to broad qualified immunity expansion.
-
-Significance for YWCA Missoula § 1983 claims: MPD officer defendants in civil rights suits would face similar qualified immunity arguments. The Reinink signal suggests courts may be less receptive to wholesale QI dismissal in protest-related cases.
-
-**Montana — Cromwell/ICE Records (May 2026)**  
-See legal analysis and Montana cases updates.
-
-**Open Research Items**
-- Montana POST complaint (August 2025): dismissed; post-mortem archived
-- FBI cross-jurisdictional filing: archived; patterns documented
-- DoJ Civil Rights Division filing 658793: status [unverified]; counsel should verify current status
-
-<!-- /AUTO_UPDATE -->

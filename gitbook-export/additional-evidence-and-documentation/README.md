@@ -1,3 +1,32 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### Evidence & Documentation — May 29, 2026 Update
+
+**Arweave Evidence Archive — Verification Check (May 2026)**  
+Blockchain archival research underscores the importance of cryptographic hashing and decentralized storage for legal evidence (escholarship.org, 2026). The Arweave yellow paper continues to position the protocol as a tool against the "memory hole" of institutional censorship.
+
+**[unverified] misjusticealliance.arweave.net Status** — Gateway status check pending. All secondary links in this section rely on the persistence of the MisJustice Alliance Arweave gateway. 
+
+<!-- /AUTO_UPDATE -->
+
+<!-- AUTO_UPDATE: 20260527-2121 -->
+
+---
+
+## Recent Developments
+
+### Research Status — May 27 Evening Update
+
+**No new public sources found** (Brave search rate limited, May 27 evening). Prior update (20260527-1700) Arweave URL verification task and CR-2025-001 status remain standing items.
+
+Next scheduled crawl: 2026-05-28 07:00 MDT.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-1700 -->
 
 ---
@@ -19,29 +48,5 @@ Document remains active in archive. [unverified] No changes.
 - Verify all Arweave gateway URLs resolve: pending
 - Any new evidence from discovery in pending matters: [unverified]
 - Status of any 1983 litigation appeals: [unverified]
-
-<!-- /AUTO_UPDATE -->
-
-
----
-
-<!-- AUTO_UPDATE: 20260527-1601 -->
-## Recent Developments
-
-### Evidence & Documentation (May 27, 2026)
-
-**Arweave Evidence Archive — Stable URLs Maintained**  
-All evidence referenced in this repository (Arweave gateways at misjusticealliance.arweave.net) continues to function as permanent stores. Counsel should confirm that all gateway URLs in this section continue to resolve. Any broken links should be flagged for re-upload to Arweave or alternative permanent storage.
-
-**PS Email Addendum (August 2018)**  
-Document remains active in archive.
-
-**Case Files (CR-2025-001)**  
-Evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025 cases remain active and unupdated since last cycle. Status of any appellate proceedings: [unverified] as of May 27, 2026.
-
-**Open Research Items**
-- Verify all Arweave gateway URLs still resolve: pending
-- Any new evidence produced through discovery: [unverified]
-- Status of any pending appeals in 1983 litigation: [unverified]
 
 <!-- /AUTO_UPDATE -->

@@ -1,3 +1,40 @@
+<!-- AUTO_UPDATE: 20260529-0235 -->
+
+---
+
+## Recent Developments
+
+### § 1983 & Institutional Accountability — May 29, 2026 Update
+
+**DOJ Civil Rights Division — Mass Exodus and Policy Reversal (June 2025)**  
+Civil rights organizations report a "mass exodus" of attorneys from the DOJ Civil Rights Division following the confirmation of Harmeet Dhillon (June 2025, civilrights.org). The division has begun dismissing lawsuits and withdrawing from pending cases regardless of legal merit—specifically targeting pattern-or-practice investigations into major police departments (Louisville, Minneapolis, Phoenix, Memphis, etc.) accusing the previous administration of "wrongly equating statistical disparities with intentional discrimination" (justice.gov, May 2026). This shift signals a significantly higher barrier for federal intervention in § 1983 claims involving institutional misconduct.
+
+**[unverified] Impact on Missoula § 1983 claims** — While these federal reversals target specific major cities, the policy shift toward "local control" may limit federal oversight of MPD/YWCA civil rights claims. Counsel should monitor whether this affects the viability of DoJ Civil Rights Division filing 658793.
+
+**Montana Supreme Court — AG Jurisdiction Precedent (January 2026)**  
+The Montana Supreme Court ruled in a 149-page opinion (Daily Montanan, Jan 2, 2026) that the state Attorney General is subject to the authority of the Commission on Practice and the Court’s regulation of the practice of law, even as an elected official. This establishes a critical precedent for holding high-ranking legal officials accountable for professional misconduct—directly relevant to prosecutorial misconduct theories in the Nuno case record.
+
+<!-- /AUTO_UPDATE -->
+
+<!-- AUTO_UPDATE: 20260527-2121 -->
+
+---
+
+## Recent Developments
+
+### Research Status — May 27 Evening Update
+
+**No new public sources found** due to search API rate limiting (May 27 evening). Prior update (20260527-1700)Don Lemon grand jury transparency development remains the most recent finding. Standing research items from that block remain open:
+
+- Status of ODC No. 25-147 (Bryan Tipp): [unverified] pending review
+- Status of ODC grievance (Brian Lowney): [unverified] filed April 28, 2026
+- Status of Montana POST complaint: dismissed, archived
+- Arweave URL verification: [unverified] pendingphysical verification
+
+Next scheduled crawl: 2026-05-28 07:00 MDT.
+
+<!-- /AUTO_UPDATE -->
+
 <!-- AUTO_UPDATE: 20260527-1700 -->
 
 ---
@@ -36,6 +73,32 @@ description: >-
   clusters, five research gaps, three falsifiable hypotheses, perspective
   arguments, and prioritized next steps for counsel.
 ---
+
+<!-- AUTO_UPDATE: 20260527-1601 -->
+## Recent Developments
+
+### Institutional Accountability — National Context (May 27, 2026)
+
+**§ 1983 Police Training Framework Expansion (May 2026)**  
+A new analytical framework called *Police Praxis™* was announced (May 2026, Law Firm Newswire) by former law enforcement systems analyst Tom Loglisci, Jr., designed for institutional police training analysis in Section 1983 civil rights litigation. This is relevant to YWCA Missoula § 1983 claims because MPD officer training-integration failures documented in 2012–2025 records represent a direct measurable harm assessable under 42 U.S.C. § 1983.
+
+**[unverified] Police Praxis applicability to MPD** — No public record confirms MPD used or failed to use this framework. Future research should confirm.
+
+**YWCA National Trends Affecting Context (May 2026)**  
+Multiple YWCA affiliates report elevated domestic violence call volumes as of May 4, 2026 (12onyourside.com). Yakima YWCA tripling emergency housing capacity (2026). This national backdrop does not directly affect YWCA Missoula claims but provides contextual evidence that victim advocacy systems are under systemic strain — relevant to institutional capacity arguments in § 1983 claims.
+
+**Montana Supreme Court — Cromwell/ICE Records Dispute (May 2026)**  
+The Montana Supreme Court ordered AG Knudsen to respond to a Cromwell petition by May 14, 2026 (Daily Montana, May 6, 2026). The dispute concerns separation-of-powers and county attorney authority under state law. Parties unrelated to YWCA Missoula dispute but structurally relevant to chain-of-command accountability arguments in Missoula prosecution misconduct claims.
+
+**[unverified] Relevance to Missoula prosecution misconduct claims** — Cromwell petition does not involve same parties. Inferrential relevance only; counsel must assess collateral estoppel or res judicata risk.
+
+**Montana Bar Discipline — No New Public Orders (May 1–27, 2026)**  
+No new Montana Supreme Court attorney discipline orders found in publicly available sources covering May 1–27, 2026. Pending matters remain:
+- ODC No. 25-147 (Bryan Tipp): pending review, last known filing November 2025
+- ODC grievance (Brian Lowney): filed April 28, 2026 — status pending
+- Montana POST complaint (August 2025): dismissed, post-mortem documented in archive
+
+<!-- /AUTO_UPDATE -->
 
 # Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)
 
@@ -625,32 +688,4 @@ Drawing on the synthesis and cross-validation with the broader Space record, the
 *Generated by AutoResearchClaw pipeline on 2026-05-11 from research artifacts at `~/clawd/AutoResearchClaw/artifacts/rc-20260511-171915-ca2089/`*  
 *Refined with MISJustice Alliance Research Collective cross-validation — May 11, 2026*
 
-
 ---
-
-<!-- AUTO_UPDATE: 20260527-1601 -->
-## Recent Developments
-
-### Institutional Accountability — National Context (May 27, 2026)
-
-**§ 1983 Police Training Framework Expansion (May 2026)**  
-A new analytical framework called *Police Praxis™* was announced (May 2026, Law Firm Newswire) by former law enforcement systems analyst Tom Loglisci, Jr., designed for institutional police training analysis in Section 1983 civil rights litigation. This is relevant to YWCA Missoula § 1983 claims because MPD officer training-integration failures documented in 2012–2025 records represent a direct measurable harm assessable under 42 U.S.C. § 1983.
-
-**[unverified] Police Praxis applicability to MPD** — No public record confirms MPD used or failed to use this framework. Future research should confirm.
-
-**YWCA National Trends Affecting Context (May 2026)**  
-Multiple YWCA affiliates report elevated domestic violence call volumes as of May 4, 2026 (12onyourside.com). Yakima YWCA tripling emergency housing capacity (2026). This national backdrop does not directly affect YWCA Missoula claims but provides contextual evidence that victim advocacy systems are under systemic strain — relevant to institutional capacity arguments in § 1983 claims.
-
-**Montana Supreme Court — Cromwell/ICE Records Dispute (May 2026)**  
-The Montana Supreme Court ordered AG Knudsen to respond to a Cromwell petition by May 14, 2026 (Daily Montana, May 6, 2026). The dispute concerns separation-of-powers and county attorney authority under state law. Parties unrelated to YWCA Missoula dispute but structurally relevant to chain-of-command accountability arguments in Missoula prosecution misconduct claims.
-
-**[unverified] Relevance to Missoula prosecution misconduct claims** — Cromwell petition does not involve same parties. Inferrential relevance only; counsel must assess collateral estoppel or res judicata risk.
-
-**Montana Bar Discipline — No New Public Orders (May 1–27, 2026)**  
-No new Montana Supreme Court attorney discipline orders found in publicly available sources covering May 1–27, 2026. Pending matters remain:
-- ODC No. 25-147 (Bryan Tipp): pending review, last known filing November 2025
-- ODC grievance (Brian Lowney): filed April 28, 2026 — status pending
-- Montana POST complaint (August 2025): dismissed, post-mortem documented in archive
-
-<!-- /AUTO_UPDATE -->
-
