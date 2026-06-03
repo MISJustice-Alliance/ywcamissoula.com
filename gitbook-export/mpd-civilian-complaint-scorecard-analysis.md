@@ -281,6 +281,66 @@ Pursuant to Montana Code Annotated § 2-6-1003 and Article II, Section 9 of the 
 
 ---
 
+## Part VIII: Legislative Action — Email Template for Montana Residents
+
+{% hint style="info" %}
+**Who to contact:**
+- **Senator Shane Morigeau** (D-Missoula) — shane.morigeau@legmt.gov — Member, Law and Justice Interim Committee
+- **Representative Zooey Zephyr** (D-Missoula) — zooey.zephyr@legmt.gov — Member, Law and Justice Interim Committee
+
+Both legislators represent Missoula and serve on the committee with jurisdiction over law enforcement accountability, criminal justice policy, and corrections oversight.
+{% endhint %}
+
+### Email Template: Demand Accountability and Transparency from MPD
+
+```
+Subject: Urgent: Missoula Police Department Accountability Crisis — Request for Law and Justice Interim Committee Action
+
+Dear Senator Morigeau and Representative Zephyr,
+
+My name is [YOUR NAME], and I am a resident of [YOUR CITY/TOWN], Montana. I am writing to urge you, as members of the Law and Justice Interim Committee, to take immediate action regarding the severe lack of accountability and transparency within the Missoula Police Department (MPD).
+
+I am deeply concerned by documented findings showing that:
+
+- Between 2016 and 2022, MPD received 349 civilian complaints of misconduct, yet only 16% were ruled in favor of civilians — and critically, ZERO use-of-force complaints and ZERO discrimination complaints were sustained.
+- MPD's Police Accountability Section Score is 27 out of 100, placing it in the bottom 27% of comparable U.S. departments.
+- The Missoula Police Commission, the city's oversight body, explicitly "does not tell the police department what to do" and can only make non-binding recommendations to the mayor.
+- MPD refuses to release even redacted complaint investigation records, citing a personnel records exemption — despite Montana's constitutional right-to-know provision and Public Records Act.
+- In 2021 and 2022 alone, MPD documented 211 and 294 use-of-force incidents respectively, yet only 4 use-of-force complaints were filed across the entire 7-year period — a ratio of approximately 126 incidents per complaint, suggesting severe structural barriers to reporting.
+
+This is not a matter of isolated incidents. This is a pattern of structural accountability failure: an internal review process that investigates itself, a citizen oversight body with no enforcement authority, suppressed access to complaint records, and a zero percent sustain rate for the complaint categories most relevant to alleged constitutional violations.
+
+I respectfully demand that the Law and Justice Interim Committee:
+
+1. Initiate a formal legislative audit or inquiry into MPD's Office of Professional Standards, complaint investigation procedures, and disposition outcomes.
+2. Demand full transparency of MPD disciplinary records — including aggregate statistical summaries of complaints by type, disposition, and disciplinary action taken — without requiring individual officer identification.
+3. Propose legislation to grant the Missoula Police Commission (and comparable municipal oversight bodies statewide) actual enforcement authority, including subpoena power, independent investigative capacity, and binding disciplinary recommendations.
+4. Require independent review boards to have final authority over officer disciplinary decisions in cases involving use of force, discrimination, or other serious misconduct — rather than leaving such decisions solely to internal departmental processes.
+5. Mandate public reporting of complaint data by all Montana law enforcement agencies, modeled on the Police Scorecard project's transparency standards.
+
+Montana citizens have a constitutional right to know how their police departments operate and whether officers who violate that trust are held accountable. The current system in Missoula fails that standard. I urge you to use your committee authority to change it.
+
+I am available to discuss this further and can be reached at [YOUR EMAIL] or [YOUR PHONE NUMBER].
+
+Thank you for your service and your attention to this critical issue.
+
+Sincerely,
+
+[YOUR NAME]
+[YOUR ADDRESS]
+[YOUR CITY, MT ZIP]
+```
+
+### Tips for Effective Advocacy
+
+- **Personalize the template:** Add a brief paragraph about your own experience or why this issue matters to you personally.
+- **Send separately:** Email each legislator individually rather than CC'ing both — personalized messages carry more weight.
+- **Follow up:** If you do not receive a response within two weeks, send a polite follow-up email or call their legislative offices.
+- **CC relevant parties:** Consider copying the Missoula Mayor's Office (mayor@ci.missoula.mt.us) and the Missoula Police Commission on your correspondence.
+- **Share widely:** Encourage other Montana residents — especially Missoula constituents — to send their own versions of this message.
+
+---
+
 ## Related pages
 
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
