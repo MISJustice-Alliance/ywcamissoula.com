@@ -126,6 +126,50 @@ The addendum text was prepared on June 2, 2026, to document this newly disclosed
 
 ---
 
+## Addendum 3: June 4, 2026 — Subsequent Correspondence with Montana POST Regarding Complaint Closure and Oversight Gaps
+
+This addendum supplements the August 2025 post-mortem concerning the dismissal of the Montana Department of Justice Public Safety Officer Standards and Training (POST) complaint. The further email chain attached to this article documents that, after the original closure, follow-up inquiries in May and June 2026 did not produce any substantive explanation of how POST applied its rules to the complaint, what portions of the submission were actually reviewed, or what office—if any—provides independent oversight of POST's complaint-handling practices.
+
+The later correspondence is significant because it shifts the issue from the merits of a single complaint to a broader transparency and accountability problem. POST staff ultimately confirmed only two procedural points: that POST's ARMs and policies govern complaint handling, and that the Case Status Committee may review the director's determination upon request by a non-anonymous complainant. Beyond those limited statements, the correspondence reflects repeated refusal to answer direct questions about intake, review, closure, and oversight.
+
+### What the attached email chain shows
+
+The attached chain reflects that MISJustice Alliance asked POST, in plain language, to explain how the August 2025 complaint was actually evaluated. Those questions included whether the full submission and attached materials were reviewed, the date on which the complaint was deemed complete for review, the specific basis for closure, and whether the complaint was closed because of jurisdiction, age, scope, evidentiary limitations, or some other screening rationale.
+
+Rather than answer those questions directly, POST staff repeatedly responded that POST's ARMs and policies are publicly available and outline how complaints are handled. That response did not identify what provisions were actually applied to the complaint at issue, nor did it explain how a detailed, pattern-based submission was screened and closed in a highly condensed timeframe.
+
+The chain also shows that only after repeated follow-up did POST disclose that the Case Status Committee can review the director's determination upon request, provided the complainant is not anonymous. The attached correspondence raises the further concern that this review avenue was not disclosed to the complainant during earlier attempts to obtain clarification about the complaint's status and handling.
+
+### Transparency concerns raised by the correspondence
+
+The correspondence suggests at least three structural concerns.
+
+First, the exchange indicates that the existence of written rules may be invoked as a substitute for answering fact-specific public questions about how those rules were applied in a particular case. A statement that policies exist is not the same as a statement identifying the actual basis for closure, the materials reviewed, or the reasoning used to determine that no investigation would proceed.
+
+Second, the exchange raises concern that members of the public may have no clearly identified oversight channel when POST declines to answer procedural questions about its own complaint process. In the May–June 2026 chain, MISJustice Alliance repeatedly requested referral to a department, bureau, or oversight office within the Montana Department of Justice or elsewhere that could address concerns about POST's intake, review, and closure practices, but no such referral was provided.
+
+Third, the correspondence strengthens the broader concern that Montana's police-accountability system may function primarily through internal law-enforcement referral mechanisms rather than as a transparent forum for civilian-origin complaints. The Montana POST complaint procedure states that anonymous complaints are not accepted and that a POST complaint form must be obtained from staff, while public-facing materials do not clearly describe an independent review path for unresolved procedural concerns.
+
+### Why this matters beyond one complaint
+
+This additional exchange matters because it tends to show that the central problem is not simply disagreement with POST's result. The more serious issue is whether civilians can obtain a meaningful explanation of how POST screens and closes complaints, especially where the complaint alleges a multiyear pattern, cross-agency coordination, or institutional bias rather than a single discrete incident.
+
+If a complaint can be closed quickly, without clear explanation of what materials were reviewed, and if subsequent requests for clarification are met only with citations to general policy, then public confidence in the accountability process is predictably undermined. That concern is amplified where POST's own meeting materials reflect a formal internal process involving staff screening, committee review, and contested-case structures, yet the public-facing response provides no comparable transparency about how civilian complaints are filtered at the front end.
+
+### Legislative and public-accountability implications
+
+The attached chain supports the need for legislative and public oversight of POST's civilian complaint process. At minimum, the correspondence appears to justify public questions about whether POST should be required to provide, upon closure of a complaint, a plain-language explanation identifying the governing rule, the general scope of materials reviewed, the reason for non-proceeding, and all available review options.
+
+The exchange also supports examination of whether Montana should designate an office, committee, inspector function, or other external review channel to address procedural concerns when POST staff will not provide substantive answers about complaint handling. Without such a channel, the process risks becoming functionally circular: POST handles the complaint, explains the complaint by referring back to its own rules, and offers no independent public point of review regarding how those rules were applied.
+
+### Attached record
+
+The attached email chain should be read as part of the evidentiary record surrounding the August 2025 POST complaint dismissal and the broader question whether Montana's police-certification oversight system provides meaningful transparency and accountability for civilian complainants. It does not resolve the underlying misconduct allegations, but it does materially clarify the administrative problem: repeated requests for basic process information and oversight referral were met with reiterations that POST's ARMs and policies exist, rather than with a substantive explanation or a path to independent review.
+
+📎 [Full email correspondence — June 4, 2026 (PDF)](.gitbook/assets/POST-Final-Correspondance.pdf)
+
+---
+
 ## Conclusion
 
 POST's dismissal demonstrates either failure to review documentation or institutional unwillingness to address systemic corruption. The June 2026 disclosure of the Case Status Committee mechanism — months after the original dismissal and only after repeated inquiry — confirms that POST's complaint process is structurally designed to **appear accountable while remaining inaccessible**. A review body that is not disclosed to complainants, that is not independent of the decision-maker, and that imposes identity requirements on challengers is not an accountability mechanism. It is an **architectural feature of the same system it purports to oversee**.
