@@ -1,5 +1,5 @@
 ---
-title: Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief
+title: "Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief"
 description: >-
   Public-facing legal analysis and advocacy brief on Montana's police
   accountability structure, focusing on complaint suppression, opaque review
