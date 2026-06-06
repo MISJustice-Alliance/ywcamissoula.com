@@ -27,6 +27,7 @@
 * [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
 * [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 
 ## Montana Cases
 

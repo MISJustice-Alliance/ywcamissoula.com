@@ -24,6 +24,7 @@ This page is the canonical source list for the project. It separates **primary r
   * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
   * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
   * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+  * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 
 {% hint style="info" %}
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
@@ -129,6 +130,7 @@ Start with these hubs. They are designed to point to the underlying source docum
 * [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 
 #### 3) Missoula systemic history and context
 

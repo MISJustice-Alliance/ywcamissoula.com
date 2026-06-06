@@ -20,6 +20,8 @@ tags:
 
 **Prepared:** May 2026 | *For Investigative and Advocacy Use — Not Legal Advice*
 
+Companion page: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](./montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+
 ---
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
