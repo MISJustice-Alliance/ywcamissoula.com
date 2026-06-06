@@ -52,6 +52,12 @@ Related starting points:
 
 ### Article index
 
+#### Shared civil-intake analysis
+
+* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
+  * **Summary:** Distinguishes the pending Lowney prosecutorial-misconduct grievance from the rejected Tipp ODC 25-147 defense-counsel complaint and frames both tracks for potential civil counsel and civil-rights advocacy organizations.
+  * **What changed at this stage:** Adds a cross-track authorities map for Brady/Giglio, First Amendment retaliation, speech-waiver, and malpractice-intake issues.
+
 #### Primary grievance
 
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)

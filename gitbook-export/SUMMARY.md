@@ -63,6 +63,7 @@
 
 ## Montana Bar Complaints
 
+* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis.md)
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
   * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
