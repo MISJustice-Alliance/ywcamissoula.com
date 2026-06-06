@@ -187,6 +187,7 @@ Use this documentation to:
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](../2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](../2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
 * [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](../2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
+* [Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas](../washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 * [Edmonds Case (2015-2017)](../washington-cases/edmonds-case-2015-2017.md)
 
 </details>

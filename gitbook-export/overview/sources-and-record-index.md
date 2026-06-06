@@ -72,6 +72,10 @@ Core internal indexes:
 
 High-signal packets (direct links):
 
+* [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
+  * Tags: `declaration` `court-filing` `witness-tampering` `coerced-plea` `washington` `notarized`
+* [Washington plea withdrawal advisory: witness tampering and coerced pleas](../washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
+  * Tags: `legal-analysis` `postconviction` `plea-withdrawal` `witness-tampering` `washington`
 * [Case summary — criminal referral (2015–2025)](https://cr-2025-002-brief-2_misjusticealliance.arweave.net/)
   * Tags: `report` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
 * [Comprehensive evidentiary documentation (index of 44 files)](https://doc11_evidentiary_documentation_misjusticealliance.arweave.net/)

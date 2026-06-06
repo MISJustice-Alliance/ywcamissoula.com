@@ -18,6 +18,8 @@ Use this page as the jump-off point for Edmonds-related records. This includes t
 
 ### Key documents and analysis
 
+* [Washington plea withdrawal advisory: witness tampering and coerced pleas](plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
+* [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
 * [2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington State](../2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
 * [WA State Bar Complaint: Patricia Fulton (2016)](../wa-state-bar-complaint-patricia-fulton-2016.md)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](../2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)

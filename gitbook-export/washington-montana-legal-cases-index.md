@@ -35,6 +35,7 @@ Use it to pivot from an event or proceeding into the deeper record.
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
 * [2020 WA cases: witness tampering and coerced pleas](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
+* [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 
 ### Montana legal cases
 

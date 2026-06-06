@@ -31,6 +31,8 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 * Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Canonical source list: [Sources & record index](overview/sources-and-record-index.md)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
+* [Sworn Declaration of Elvis Nuno (notarized PDF)](.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
+* [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 * [Seattle PD written statement re: incident #2016-348587 (2016)](https://cr-2025-002-evidence-12_misjusticealliance.arweave.net/)
 * [Edmonds court: declaration of ineffective assistance (2016)](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
 * [Seattle Municipal Court #613225: dismissal order (2016)](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net/)
