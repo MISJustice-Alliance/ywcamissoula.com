@@ -35,8 +35,11 @@ For potential civil counsel and civil-rights advocates, the significance is twof
 
 * MPD complaint statistics: [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
 * Long-form architecture analysis: [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* Historical context article: [Remembering When: Missoula rape-capital era](./remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* Expanded-history source file: [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](./additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
 * Original state complaint: [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * POST closure analysis: [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* Prosecutorial grievance record: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * MPD source hub: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](./overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 * Canonical source list: [Sources & record index](./overview/sources-and-record-index.md)
 
@@ -63,6 +66,8 @@ The Missoula record supports at least four structural explanations for underrepo
 
 That combination predictably produces low visibility, low trust, and low participation. A near-absence of complaints in categories where a department itself reports frequent force events is therefore not exculpatory. It can instead be evidence that the path from incident to complaint is blocked by fear, opacity, futility, or all three.
 
+The expanded "Remembering When" article strengthens one further point that belongs in this brief: the accountability problem is not confined to police and prosecutors reviewing themselves. It also extends to whether nominally independent victim-advocacy institutions are structurally capable of remaining independent when they are tightly integrated with police and prosecutorial actors. In Missoula, the board-level presence of an MPD detective inside YWCA governance, combined with repeated concerns about confidentiality, information-sharing, and court-facing advocacy, supports a broader institutional-capture theory. That matters because a complaint system becomes even less trustworthy when the outside body a victim or civilian might turn to is itself perceived as aligned with the same state actors whose conduct is at issue.
+
 ## Montana Law Makes This More Than a Policy Concern
 
 Montana's Constitution is unusually protective of public oversight. In [Great Falls Tribune Co. v. Cascade County Sheriff, 775 P.2d 1267 (Mont. 1989)](https://app.midpage.ai/document/great-falls-tribune-co-v-1257485?utm_source=mcp), the Montana Supreme Court held that the public has a strong right to know when law-enforcement officers are disciplined for misconduct in the line of duty, explaining that public health and safety are closely tied to an honest police force. The case does not open every personnel file, but it squarely rejects the idea that police misconduct may be categorically hidden behind an undifferentiated privacy claim.
@@ -78,6 +83,42 @@ The 2025 POST complaint and the 2025–2026 follow-up correspondence matter beca
 That matters as a rule-of-law problem even apart from the merits of the underlying allegations. Montana law assigns POST a serious statutory role in officer certification and decertification. In [Butte v. Butte Police, 559 P.3d 1248 (Mont. 2024)](https://app.midpage.ai/document/butte-v-butte-police-10753816?utm_source=mcp), the Montana Supreme Court described POST's statutory duty to provide for certification, recertification, suspension, and revocation of public safety officers. The case is not about civilian complaints, and it does not resolve the adequacy of POST's intake system. But it confirms that POST is not peripheral. It is one of the state's central accountability mechanisms for who may lawfully exercise peace-officer power.
 
 When a body with that role handles civilian complaints through opaque screening, unexplained closure, or review mechanisms that remain internal and poorly disclosed, the problem is not just disappointing administration. It is a structural weakness in a state-designated accountability system.
+
+## Prior Federal Intervention Was Notice, Not Cure
+
+The expanded-history record adds a point the shorter brief did not previously make clearly enough: Missoula's current accountability problem did not emerge in an institutional vacuum. The county and local law-enforcement system already underwent extraordinary federal scrutiny in 2012–2014 after the Department of Justice investigated how sexual-assault cases were being handled in Missoula.
+
+The federal record is stronger and more specific than many later summaries. In its February 14, 2014 findings letter, DOJ concluded that there was substantial evidence that the Missoula County Attorney's Office engaged in a pattern or practice of gender discrimination in how it handled sexual-assault cases, especially non-stranger and acquaintance assaults. DOJ identified several office-level failures taken together: sexual assaults of adult women were given low priority; victims were often treated with disrespect or re-victimized by the process; victims were sometimes not interviewed by a prosecutor before charges were declined or plea deals were offered; the office lacked dedicated victim-witness personnel; it generally failed to develop evidence necessary to support sexual-assault prosecutions; and, until DOJ began its investigation, it had not provided basic sexual-assault training necessary to prosecute these cases fairly and effectively. See [Findings Letter - Missoula County Attorney's Office - February 14, 2014](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf).
+
+The June 10, 2014 agreement is equally important because it shows what DOJ believed had to change for the office to function lawfully. DOJ required the office to adopt sexual-assault policies and training, improve treatment of people who report sexual assault through better interviews and communication, improve prosecution techniques through closer case development, use of investigators, an in-house victim coordinator, and expert witnesses, improve coordination with other Missoula stakeholders, and improve the tracking and public reporting of sexual-assault prosecution data. The agreement also imposed a formal oversight role on Montana's Attorney General, including monitoring implementation, reviewing declinations, retaining sex-crimes expert Anne Munch as technical advisor, and publicly releasing implementation reports. See [Department of Justice Reaches Landmark Agreement to Improve Missoula County Attorney’s Office’s Response to Reports of Sexual Assault](https://www.justice.gov/archives/opa/pr/department-justice-reaches-landmark-agreement-improve-missoula-county-attorney-s-office-s).
+
+As summarized in the expanded-history page, Van Valkenburg strongly opposed the investigation, denied mishandling, and filed a federal lawsuit against DOJ while the office refused requested documents, information, or staff access for interviews. The settlement that followed required comprehensive reforms, and later public reporting described Montana's Attorney General as certifying compliance after implementation work that included specialized victim-focused staffing and revised practices.
+
+For present purposes, the key point is not whether those reforms were valueless. It is that Missoula's institutions were already on notice, at the highest possible level, that outside review had identified structural failure in the treatment of vulnerable complainants. That history weakens any claim that later opacity, dismissal, or refusal to engage with complaints should be understood as isolated administrative lapses. The stronger inference is recurrence: federal intervention identified a culture problem, formal reforms followed, and later records still show resistance to meaningful outside accountability.
+
+This is why the prior DOJ cycle matters to current police-accountability analysis. A system that has already been investigated, restructured, and certified as compliant, yet still generates records of complaint suppression, procedural opacity, and defensive self-protection, presents a stronger case for structural failure than a system facing these criticisms for the first time.
+
+## The County Attorney's Office as a Self-Policing Dead End
+
+The Lowney grievance sharpens the prosecutorial side of this argument. That grievance does not merely accuse an individual prosecutor of misconduct. It states that the grievant previously attempted to notify the Missoula County Attorney's Office directly, and that the office responded with a categorical refusal to hear, review, or investigate any complaint, taking no internal corrective action. The grievance expressly frames the ODC filing as an effort to create an administrative record of exhaustion of non-judicial accountability avenues before civil action.
+
+That detail matters because it mirrors the larger pattern already visible in the POST material and the earlier DOJ history. The recurring problem is not only adverse outcomes. It is that the institution receiving the complaint is also the institution deciding whether the complaint deserves to exist as a reviewable event. When the County Attorney's Office is alleged to have refused even to hear a complaint about prosecutorial misconduct, the public is left in essentially the same position as with internal police review: the relevant agency is asked to police itself, and the record then shows that it chose not to.
+
+For civil-rights advocacy, this supports a broader claim about Montana's accountability architecture. Police oversight cannot be analyzed in isolation from prosecutorial oversight where prosecutors are the gatekeepers of criminal charging, Brady compliance, evidentiary disclosure, and public explanations for declinations. If the prosecutor's office also functions as a self-insulating intake barrier, then the accountability problem is not departmental. It is ecosystem-wide.
+
+## Kirsten H. Pabst and the Post-Reform Credibility Problem
+
+The public record around former Missoula County Attorney Kirsten H. Pabst is relevant here, but it needs to be handled with discipline. There are sharply worded advocacy and opinion pieces about Pabst, and this article should not adopt their rhetoric as if it were an adjudicated finding. The more defensible point is narrower.
+
+One rigor point matters: the DOJ findings letter and 2014 agreement were directed at the County Attorney's Office as an institution and do not, on their face, make individualized DOJ findings about Pabst. The article should not blur that line. Pabst remains materially relevant for a different reason: public reporting placed her in senior management during the period DOJ investigated, and later reporting framed her election as a transition from the criticized office culture into the reform era without a clean institutional break.
+
+Pabst took office during the post-DOJ reform period and publicly positioned herself as part of the office's corrective direction. Public reporting and commentary, however, reflect a continuing credibility dispute about whether the office's reform posture matched its public conduct. The Jezebel reporting on her 2014 campaign emphasized her service as chief deputy during the period later criticized by DOJ and highlighted past public statements minimizing the seriousness of some sexual-assault reporting controversies. The BuzzFeed reporting went further, describing her as having been deeply involved in the troubled office before seeking to lead it and quoting Fred Van Valkenburg as saying she was "an integral part of the management of this office" and, as chief criminal deputy, was free to establish policy within the criminal division. Later commentary and reporting continued to frame Pabst as emblematic of an office that defended its own image more aggressively than it confronted the full implications of the earlier federal findings. Separate reporting in the *Billings Gazette* tied that credibility problem to DOJ concern over Pabst's letter to Doubleday regarding Jon Krakauer's *Missoula*, reinforcing the broader point that post-settlement leadership still generated conflict over transparency, victim treatment, and institutional defensiveness.
+
+One important example is the controversy surrounding Pabst's 2015 letter to Doubleday in response to Jon Krakauer's *Missoula*. Even without reproducing every characterization made by critics, the dispute is relevant because it tracks a pattern seen elsewhere in this repository: when outside scrutiny threatens institutional legitimacy, the response often shifts quickly toward narrative management, reputational defense, and insistence that reform has already occurred. That is not proof of misconduct in any later individual case. But it is relevant context for understanding why later complainants might reasonably doubt the office's willingness to receive, investigate, and correct allegations about its own conduct. The BuzzFeed reporting also tied that credibility dispute to highly specific public positions: it reported that Pabst had warned of false rape allegations, quoted her saying that if a person agreed to sex "even if the experience was not as expected, it is probably not a crime," and quoted her further statement that "consent is measured at the time, not in the morning." Those statements are material not because they independently prove wrongdoing, but because they show how a senior Missoula prosecutor publicly framed sexual-assault controversies during the exact period that federal investigators were examining the office's treatment of victims.
+
+There is also useful contemporaneous context from June 2012. A local commentary post preserved statements attributed to Pabst attacking the *Missoulian*'s sexual-assault coverage as a campaign to make Missoula appear to be in crisis and asserting that the reporting's factual foundation was unsound. The same article reproduced language from the deleted post arguing that the foundation for the string of "sexual scandal" articles was "not based in fact" and defending non-prosecution decisions on the ground that the accused remained legally innocent unless sufficient evidence existed to file charges. More importantly, Pabst herself appeared in the comment thread and clarified that she viewed the core problem as "irresponsible journalism" and public accusations made without adequate fact-checking. That source is not a primary government record and should not be treated as such. But it is still material as evidence of public posture during the DOJ-era controversy: rather than simply acknowledging the possibility of systemic failure, the response included overt skepticism toward the reporting that helped drive public scrutiny in the first place.
+
+The article's broader claim therefore remains the same. The issue is not whether one officeholder should bear sole responsibility for a decade of Missoula failures. The issue is that the prosecutorial institution moved from a federally criticized regime, into a reform era, and still appears in later records as an office accused of refusing internal complaint review. That continuity is structurally important.
 
 ## Civil-Rights Significance Under Federal Law
 
@@ -109,7 +150,9 @@ For lawyers evaluating potential representation, this page is not meant to repla
 The strongest litigation-support value here is the combination of:
 
 * statistical disparity evidence from the MPD complaint scorecard,
+* the 2012–2016 DOJ history showing prior federal notice and contested local cooperation,
 * primary correspondence documenting POST intake and closure,
+* the Lowney grievance record describing a categorical refusal by the County Attorney's Office to hear or investigate misconduct complaints,
 * Montana constitutional authority favoring disclosure and participation,
 * and Ninth Circuit authority recognizing that failure to investigate or discipline repeated violations can support municipal-liability theories.
 
@@ -123,15 +166,29 @@ That package does not prove a case by itself. It does, however, provide a cohere
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
+* [Remembering When: Missoula rape-capital era](./remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](./additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 
 ### Legal authorities
 
+* [Findings Letter - Missoula County Attorney's Office - February 14, 2014](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf)
+* [Department of Justice Reaches Landmark Agreement to Improve Missoula County Attorney’s Office’s Response to Reports of Sexual Assault](https://www.justice.gov/archives/opa/pr/department-justice-reaches-landmark-agreement-improve-missoula-county-attorney-s-office-s)
 * [Great Falls Tribune Co. v. Cascade County Sheriff, 775 P.2d 1267 (Mont. 1989)](https://app.midpage.ai/document/great-falls-tribune-co-v-1257485?utm_source=mcp)
 * [Billings Gazette v. City of Billings, 313 P.3d 129 (Mont. 2013)](https://app.midpage.ai/document/billings-gazette-v-city-of-2641776?utm_source=mcp)
 * [Citizens for a Better Flathead v. Board of County Commissioners, 381 P.3d 555 (Mont. 2016)](https://app.midpage.ai/document/citizens-for-a-better-flathead-4088646?utm_source=mcp)
 * [Butte v. Butte Police, 559 P.3d 1248 (Mont. 2024)](https://app.midpage.ai/document/butte-v-butte-police-10753816?utm_source=mcp)
 * [Heriberto Rodriguez v. County of Los Angeles, 891 F.3d 776 (9th Cir. 2018)](https://app.midpage.ai/document/heriberto-rodriguez-v-county-of-4279559?utm_source=mcp)
 * [Borough of Duryea v. Guarnieri, 564 U.S. 379 (2011)](https://app.midpage.ai/document/borough-of-duryea-v-guarnieri-219105?utm_source=mcp)
+
+### Public reporting and commentary
+
+* [Not-So-Secret Rape Apologist Runs for Missoula County Attorney](https://www.jezebel.com/not-so-secret-rape-apologist-runs-for-missoula-county-a-1563917252)
+* [Former Prosecutor Set To Take Over Missoula Office That Mistreated Rape Victims On Her Watch](https://www.buzzfeednews.com/article/katiejmbaker/missoula-county-prosecutor-kirsten-pabst)
+* [The Deplorable Legacy of Missoula County Attorney Kirsten Pabst](https://zoomchron.com/2022/10/03/the-deplorable-legacy-of-missoula-county-attorney-kirsten-pabst/)
+* [DOJ Troubled by Missoula County Attorney's Letter to Doubleday](https://billingsgazette.com/news/state-and-regional/montana/doj-troubled-by-missoula-county-attorneys-letter-to-doubleday/article_51583e50-29c7-5957-9ba7-4b0fea9a801c.html)
+* [Fox Announces Conclusion of DOJ and Missoula Sexual Assault Agreement](https://www.montanarightnow.com/news/fox-announces-conclusion-of-doj-and-missoula-sexual-assault-agreement/article_d4bd58dc-1cda-5f81-af9a-624f9a594ec5.html)
+* [Former Chief Deputy County Attorney Kirsten Pabst Lashes Out at Missoulian/Florio on Rape Coverage](https://4and20blackbirds.wordpress.com/2012/06/19/former-chief-deputy-county-attorney-kirsten-pabst-lashes-out-at-missoulianflorio-on-rape-coverage/)
 
 ### Related
 
