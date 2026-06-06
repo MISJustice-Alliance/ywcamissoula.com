@@ -143,6 +143,12 @@ Related starting points:
 
 ### Article index
 
+#### Case analysis
+
+* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](odc-25-147-lowney-case-authorities-analysis.md)
+  * **Summary:** Civil-intake and advocacy summary distinguishing the rejected Tipp ODC 25-147 defense-counsel complaint from the pending Lowney prosecutorial-misconduct grievance.
+  * **What changed at this stage:** Adds Montana, Ninth Circuit, and U.S. Supreme Court authority framing for potential malpractice representation, civil-rights advocacy review, Brady/Giglio, First Amendment retaliation, and speech-waiver issues.
+
 #### Complaint package
 
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
