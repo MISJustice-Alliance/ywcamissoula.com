@@ -1,6 +1,14 @@
-<!-- AUTO_UPDATE: 20260529-0235 -->
-
 ---
+title: ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
+description: >-
+  Index of filings for Montana Office of Disciplinary Counsel (ODC) File 25-147
+  re attorney Bryan Tipp: complaint, supplements, ODC ruling, and review
+  request.
+---
+
+# ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
+
+<!-- AUTO_UPDATE: 20260529-0235 -->
 
 ## Recent Developments
 
@@ -18,8 +26,6 @@ A landmark 149-page ruling in the Knudsen case confirms that elected legal offic
 
 <!-- AUTO_UPDATE: 20260527-2121 -->
 
----
-
 ## Recent Developments
 
 ### Research Status — May 27 Evening Update
@@ -31,8 +37,6 @@ Next scheduled crawl: 2026-05-28 07:00 MDT.
 <!-- /AUTO_UPDATE -->
 
 <!-- AUTO_UPDATE: 20260527-1700 -->
-
----
 
 ## Recent Developments
 
@@ -59,14 +63,6 @@ The Minnesota grand jury transparency arguments (see legal analysis and state/fe
 
 <!-- /AUTO_UPDATE -->
 
----
-title: ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
-description: >-
-  Index of filings for Montana Office of Disciplinary Counsel (ODC) File 25-147
-  re attorney Bryan Tipp: complaint, supplements, ODC ruling, and review
-  request.
----
-
 <!-- AUTO_UPDATE: 20260527-1601 -->
 ## Recent Developments
 
@@ -89,8 +85,6 @@ See Montana cases update. A judge-facing jurisdictional challenge may create jud
 - Any new filings since May 1, 2026: [unverified]
 
 <!-- /AUTO_UPDATE -->
-
-# ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index
 
 ### Executive snapshot
 
