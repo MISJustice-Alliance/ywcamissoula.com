@@ -11,6 +11,8 @@ description: >-
 
 This page is a navigable case file index for the **Montana Office of Disciplinary Counsel grievance against Brian Lowney, Esq.** and the **Missoula County Attorney's Office**, filed April 28, 2026. It organizes the grievance document, legal analysis, and related cross-references so readers can verify the record quickly.
 
+The Lowney grievance is intertwined with ODC 25-147, the Bryan Tipp defense-counsel malpractice record. The Lowney grievance addresses the prosecution side of the same criminal matter; ODC 25-147 addresses whether defense counsel investigated, challenged, preserved, or advised on the same alleged misconduct. Readers should therefore review both indexes together.
+
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
@@ -18,6 +20,7 @@ This page is a navigable case file index for the **Montana Office of Disciplinar
 * Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * Dataset landing page: [Dataset: Brian Lowney prosecutorial misconduct grievance (2018–2026)](../datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 * ODC 25-147 companion index (defense counsel): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* Shared intake/case-authorities analysis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
 * Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
 
 ### Target audience
@@ -47,8 +50,9 @@ Related starting points:
 
 1. Start with the full grievance document and its embedded legal analysis.
 2. Review the ODC 25-147 (Bryan Tipp) index to understand the companion defense-counsel complaint.
-3. Read the YWCA-related case files for institutional context.
-4. Consult the federal and state complaints index for parallel administrative tracks.
+3. Read the shared Tipp/Lowney civil-intake analysis to understand how the two ODC tracks overlap.
+4. Read the YWCA-related case files for institutional context.
+5. Consult the federal and state complaints index for parallel administrative tracks.
 
 ### Article index
 
@@ -85,8 +89,8 @@ Related starting points:
 #### Companion ODC file (defense counsel)
 
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-  * **Summary:** Complete index of the malpractice complaint against defense counsel.
-  * **What changed at this stage:** Together with the Lowney grievance, forms a dual-sided accountability record for the same underlying prosecution.
+  * **Summary:** Complete index of the malpractice complaint against defense counsel, including the original July 2025 complaint, supplemental submissions, ODC disposition/review materials, May 2026 supplemental evidence, and Tyrone/Eleanor Nuno witness submissions.
+  * **What changed at this stage:** Together with the Lowney grievance, forms a dual-sided accountability record for the same underlying prosecution: Lowney is the prosecution-side ethics track, and Tipp is the defense-counsel malpractice track.
 
 #### Parallel federal and state tracks
 
