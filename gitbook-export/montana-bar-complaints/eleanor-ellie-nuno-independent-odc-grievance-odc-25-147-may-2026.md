@@ -6,207 +6,470 @@ description: >-
   witness to investigative failures.
 ---
 
-# Independent ODC Grievance — Supporting Witness
+# **INDEPENDENT GRIEVANCE & SUPPLEMENTAL SUBMISSION BEFORE THE OFFICE OF DISCIPLINARY COUNSEL OF THE STATE OF MONTANA**
 
-## Eleanor ("Ellie") M. Nuno — Independent Grievance Against Bryan Charles Tipp
+**Re:** Bryan Charles Tipp
 
----
+**Law Firm:** Tipp, Colburn, Lockwood, P.C.
 
-**Eleanor ("Ellie") M. Nuno**
+**ODC File No.:** 25-147
 
-Contact Info: [REDACTED]
+**Submitted By:**Eleanor M. ("Ellie") Nuno
 
-**Date:** May 24th, 2026
+[REDACTED]
 
-Office of Disciplinary Counsel
-P.O. Box 1099
-Helena, MT 59624-1099
-
-**Re: Independent Grievance Against Bryan Charles Tipp, Tipp, Colburn, Lockwood, P.C.**
-**Re: Supporting Witness Statement — ODC File No. 25-147 (Elvis Ryland Nuno v. Bryan Charles Tipp)**
+**Date:** May 30, 2026
 
 ---
 
-## I. Identity, Standing, and Purpose of This Submission
+*This grievance has been drafted with the assistance of, and in direct collaboration with Mrs. Eleanor Nuno. The factual chronology, legal analysis, and argument presented in these sections reflect professional assistance to support Mrs. Nuno's witness testimony. Mrs. Nuno has reviewed all sections line-by-line, confirmed their accuracy as to all factual assertions within her personal knowledge, and approved them for filing as part of her complaint & supplemental grievance.*
 
-My name is Eleanor ("Ellie") M. Nuno. I am the mother of Elvis Ryland Nuno, who retained Bryan Charles Tipp of Tipp, Colburn, Lockwood, P.C. in or around September 2018 to represent him in a criminal stalking prosecution in Missoula County that arose from baseless charges brought at the instigation of E'Lise Chard and the YWCA of Missoula. I submit this grievance both as an **independent complainant** presenting matters bearing on my own prior attorney-client relationship with Bryan Tipp, and as a **supporting witness** corroborating the grievance filed by my son, ODC File No. 25-147.
+---
 
-I file this submission on two independent grounds:
+## **I. IDENTIFICATION OF COMPLAINANT AND STATEMENT OF STANDING**
+
+My name is Eleanor M. Nuno. I submit this independent grievance against attorney Bryan Charles Tipp of Tipp, Colburn, Lockwood, P.C., relating to ODC File No. 25-147.
+
+I possess standing to file this grievance on two independent grounds:
+
+**First**, I am a former client of Mr. Tipp. In the mid-1990s, I retained Mr. Tipp to represent me in a civil action arising from a catastrophic motor vehicle accident on a Montana highway. That representation, described in detail below, establishes a historical pattern of conduct directly relevant to the misconduct alleged in my son's complaint.
+
+**Second**, I am a direct witness to Mr. Tipp's representation of my son, Elvis Ryland Nuno, in criminal proceedings from approximately September 2018 through January 2021 (State v. Nuno, Missoula County). I was personally present at in-office meetings with Mr. Tipp and attended pretrial hearings throughout the approximately 18-to-20-month prosecution. Most critically, the charging documents against my son relied heavily on fabricated statements that police attributed to me—specifically, that I had communicated to detectives that my son "suffered from severe mental illness." I never made these statements. Mr. Tipp was in possession of this information, never interviewed me as a witness, and never used my denial of these fabricated statements as a defense.
+
+I have reviewed my son's initial ODC complaint filed in July 2025, his supplemental submissions (Supplemental \#1, August 2025; Supplemental \#3, September 2025; and additional submissions dated 2026), Mr. Tipp's response filed September 23, 2025, and my son's Request for Review filed November 18, 2025\. I have also reviewed the independent supplemental grievance filed by my former husband, Tyrone Nuno, Elvis's father.
+
+**Purpose of This Submission**: I submit this grievance to provide independent corroborating testimony regarding Mr. Tipp's pattern of professional misconduct, to rebut his characterization of my son as dishonest, and to present evidence of specific ethical violations that I witnessed firsthand. Every factual assertion my son has made regarding Mr. Tipp's conduct is consistent with what I personally observed throughout this ordeal.
+
+---
+
+## **II. DIRECT RESPONSE TO MR. TIPP'S SEPTEMBER 23, 2025 ODC SUBMISSION**
+
+I have reviewed Mr. Tipp's response to Elvis's grievance, filed September 23, 2025\. That response characterizes my son's good-faith exercise of disciplinary rights as being "founded upon lies, misrepresentations and falsifications" and "the product of Mr. Nuno's attempted extortion, harassment and intimidation of Mr. Tipp." These characterizations are not only false—they are outrageous, deeply offensive to me as a mother, and directly contradicted by the evidence I provide in this grievance.
+
+### **A. Mr. Tipp's Deliberate Misframing of Elvis's Complaint**
+
+Mr. Tipp's response asserts that "\[t\]he crux of Mr. Nuno's Grievance against Mr. Tipp is that Mr. Tipp failed to pursue civil claims on behalf of Mr. Nuno for alleged civil rights violations." This is a deliberate mischaracterization designed to avoid the actual substance of Elvis's complaint.
+
+Elvis's grievance addresses **criminal defense failures**—specifically:
+
+* Mr. Tipp's failure to interview available witnesses (myself, Tyrone, and the P.S. character witness) who possessed exculpatory evidence
+
+* Mr. Tipp's failure to challenge fabricated statements in charging documents that were attributed to me
+
+* Mr. Tipp's failure to investigate Officer Ethan Smith's removal for impropriety following Tyrone's formal complaint
+
+* Mr. Tipp's failure to use Dr. Stratford's April 10, 2019 psychiatric letter documenting harm from GPS monitoring for 20 months
+
+* Mr. Tipp's failure to challenge Detective Brueckner's institutional conflict of interest as a YWCA board member
+
+These are not complaints about "failure to pursue civil claims." These are allegations of incompetent criminal defense representation—failure to develop exculpatory evidence, failure to interview material witnesses, and failure to challenge prosecutorial misconduct. Mr. Tipp's attempt to reframe the grievance as a scope-of-representation dispute is a transparent effort to evade accountability for fundamental failures in his criminal defense obligations.
+
+### **B. My Direct Witness Testimony Confirms Every Material Fact Elvis Alleged**
+
+Mr. Tipp characterizes Elvis's allegations as "lies, misrepresentations and falsifications." As someone who was personally present throughout this representation, I can state unequivocally: **every material factual assertion Elvis has made is accurate and consistent with what I personally witnessed.**
+
+Specifically, I can confirm from firsthand observation:
+
+1. **The charging documents did contain fabricated statements attributed to me.** I never told law enforcement that Elvis "suffered from severe mental illness" or exhibited dangerous behavior. These statements are false, and Mr. Tipp never interviewed me to obtain my denial despite my availability and presence at meetings.
+
+2. **Tyrone did file a formal complaint that resulted in Officer Smith's removal.** This is documented fact, not fabrication. Mr. Tipp never investigated this removal or used it in Elvis's defense despite its obvious materiality.
+
+3. **Dr. Stratford did send a psychiatric letter to Mr. Tipp on April 10, 2019\.** That letter documented severe anxiety and agoraphobia caused by GPS monitoring and legal proceedings. Mr. Tipp possessed this letter for approximately 20 months while GPS monitoring continued, and made no visible use of it.
+
+4. **Mr. Tipp did use family pressure tactics.** Both Tyrone and I personally witnessed Mr. Tipp bringing us into his office separately to pressure us to, in turn, pressure Elvis to accept positions Mr. Tipp was advocating. This occurred on multiple occasions.
+
+5. **The P.S. character witness email was in discovery.** This is a matter of record. Mr. Tipp never contacted this witness despite her direct rebuttal of the prosecution's characterization of Elvis as dangerous.
+
+These are not "lies" or "misrepresentations." These are documented facts within my personal knowledge as a witness to this representation and as the person to whom false statements were attributed in charging documents.
+
+### **C. The "Extortion" Allegation Is Baseless and Defamatory**
+
+Mr. Tipp's characterization of Elvis's grievance as "attempted extortion, harassment and intimidation" is particularly offensive and, in my view, itself constitutes misconduct.
+
+Filing a disciplinary grievance with the Office of Disciplinary Counsel is a constitutional and statutory right afforded to clients and witnesses who have observed attorney misconduct. It is the established, lawful mechanism for addressing professional failures. Characterizing the good-faith exercise of that right as "extortion" is an attempt to intimidate and silence complainants from exercising their legal rights.
+
+Elvis filed his grievance because he suffered catastrophic harm from Mr. Tipp's failures—20 months of GPS monitoring causing documented psychiatric deterioration, loss of career, financial ruin, and surrender of First Amendment rights. He filed supplemental submissions because he discovered additional evidence of Mr. Tipp's failures. This is not extortion. This is seeking accountability through the proper legal channels.
+
+As Elvis's mother and as a former client who witnessed a 30-year pattern of Mr. Tipp's unwillingness to challenge law enforcement, I find Mr. Tipp's characterization deeply troubling. It demonstrates exactly the kind of professional arrogance and disregard for client welfare that underlies the substantive violations alleged in this grievance.
+
+### **D. I Provide Independent Corroboration as Both Former Client and Mother**
+
+My standing to file this grievance rests on two independent grounds, both of which directly rebut Mr. Tipp's attempt to dismiss Elvis's allegations:
 
 **Ground 1 — Historical Pattern of Misconduct:** I have known Bryan Tipp personally since childhood and high school, dating to the 1960s. I previously retained Bryan Tipp to represent me in a civil personal injury matter arising from a catastrophic motor vehicle accident that occurred in the mid-1990s. That representation lasted nearly seven years and resulted in a settlement so inadequate it barely covered my medical bills. This prior representation revealed, in my direct personal experience, a long-standing unwillingness on Mr. Tipp's part to aggressively challenge law enforcement — a pattern directly mirrored in his representation of my son thirty years later.
 
 **Ground 2 — Direct Witness to Misconduct in Elvis Nuno's Representation:** I was personally present at all in-office meetings and pre-trial hearings throughout my son's 18–20-month prosecution. I witnessed Mr. Tipp's conduct firsthand. Most critically: the charging documents against my son relied heavily and repeatedly on fabricated statements that police attributed to me — specifically, that I had communicated to detectives that my son "suffered from severe mental illness." I never made these statements. Mr. Tipp was in possession of this information and never asked me about it, never interviewed me as a witness, and never used my denial of these fabricated statements as a defense.
 
-I am aware of and have reviewed both my son's ODC complaint (ODC File No. 25-147) and Bryan Tipp's response to that complaint. The assertions in Mr. Tipp's response characterizing my son as dishonest and framing his good-faith exercise of disciplinary rights as an attempt at "extortion" are not only wrong — they are outrageous and deeply offensive to me as a mother and as someone who witnessed this representation firsthand. Every factual assertion my son has made regarding Mr. Tipp's conduct is consistent with what I personally observed throughout this ordeal.
+Mr. Tipp cannot dismiss my testimony as lies or extortion. I am an independent witness with no motive other than ensuring that what happened to my son—and what I personally observed happening to him—does not happen to future clients who trust Mr. Tipp to provide vigorous criminal defense.
+
+### **E. Mr. Tipp's Response Confirms the Core Problem**
+
+Tellingly, Mr. Tipp's response does not dispute the key factual allegations:
+
+* He does not claim he interviewed me regarding the fabricated statements attributed to me in charging documents.
+
+* He does not claim he interviewed Tyrone regarding Officer Smith's removal.
+
+* He does not claim he contacted the P.S. character witness.
+
+* He does not claim he filed any motion using Dr. Stratford's psychiatric letter during the 20 months he possessed it while GPS monitoring continued.
+
+Instead, he argues that the criminal charges were "dismissed with prejudice" and therefore his representation was adequate. But a dismissal obtained after 18-20 months of unnecessary proceedings, after the client suffered documented psychiatric harm from pretrial conditions, after the client was forced to waive First Amendment rights, and after the attorney failed to develop readily available exculpatory evidence is not evidence of competent representation—it is evidence of a prosecution that should have been challenged far more aggressively and resolved far sooner.
+
+The fact that Mr. Tipp views a delayed dismissal conditioned on constitutional rights waivers as vindication of his performance demonstrates the fundamental disconnect between his understanding of criminal defense obligations and the professional standards this Court has established in [State v. Thomas, 946 P.2d 140 (Mont. 1997\)](https://app.midpage.ai/document/884200?verified=true), [Herman v. State, 127 P.3d 422 (Mont. 2006\)](https://app.midpage.ai/document/887769?verified=true), and [In re Neuhardt, 321 P.3d 833 (Mont. 2014\)](https://app.midpage.ai/document/8030758?verified=true).
 
 ---
 
-## II. Background — Prior Attorney-Client Relationship: The 1990s Car Accident
+## **II. FACTUAL BACKGROUND: THE 1990s CAR ACCIDENT—ESTABLISHING A PATTERN**
 
-### A. Nature of the Prior Matter
+### **A. Nature of the Prior Representation**
 
-In the mid-1990s, I was involved in a catastrophic motor vehicle accident on a snow-covered Montana highway, late at night. A semi-truck driver struck my vehicle from behind with sufficient force to send my minivan more than 100 feet off the highway, up the embankment of Mount Sentinel. I was severely injured and spent an extended period hospitalized as a result.
+In the mid-1990s, I was involved in a catastrophic motor vehicle accident on a snow-covered Montana highway late at night. A semi-truck driver struck my vehicle from behind with sufficient force to send my minivan more than 100 feet off the highway, up the embankment of Mount Sentinel. I was severely injured and spent an extended period hospitalized as a result.
 
-The semi-truck driver did not stop following the accident and continued driving until he was pulled over by a Montana Highway Patrol officer. Critically, the responding Highway Patrol officer was a former long-haul trucker himself. Rather than issuing meaningful citations appropriate to the severity of the accident and the driver's conduct — including leaving the scene — he allowed the driver to depart without any citation commensurate with the harm caused.
+The semi-truck driver did not stop following the accident. He continued driving until he was pulled over by a Montana Highway Patrol officer. Critically, the responding Highway Patrol officer was a former long-haul trucker himself. Rather than issuing meaningful citations appropriate to the severity of the accident and the driver's conduct—including leaving the scene—the officer allowed the driver to depart without any citation commensurate with the harm caused.
 
 I retained Bryan Tipp to represent me in a civil action arising from this accident. I had known Mr. Tipp personally since the 1960s, from our shared community in Missoula, which is precisely why I placed my trust in him.
 
-### B. Mr. Tipp's Conduct in That Representation
+### **B. Mr. Tipp's Inadequate Representation**
 
-Mr. Tipp allowed this civil matter to linger for nearly **seven years** before ultimately securing a settlement so small that it barely covered my medical expenses. The representation yielded no meaningful civil recovery for a catastrophic injury that caused me serious and lasting harm.
+Mr. Tipp allowed this civil matter to linger for nearly seven years before ultimately securing a settlement so small that it barely covered my medical expenses. The representation yielded no meaningful civil recovery for a catastrophic injury that caused me serious and lasting harm.
 
-More significantly for purposes of this filing: **Mr. Tipp never brought any action, claim, or inquiry into the Montana Highway Patrol officer's conduct** — the officer who, despite the severity of the crash, the hit-and-run nature of the driver's conduct, and his personal background as a former trucker, allowed the driver to leave without accountability. That officer's history as a commercial driver, and the apparent favoritism he extended to the truck driver, constituted potential claims for negligence, misconduct, or at minimum an avenue for investigation that could have strengthened the civil case. Mr. Tipp pursued none of it.
+More significantly for purposes of this filing: **Mr. Tipp never brought any action, claim, or inquiry into the Montana Highway Patrol officer's conduct**—the officer who, despite the severity of the crash, the hit-and-run nature of the driver's conduct, and his personal background as a former trucker, allowed the driver to leave without accountability.
 
-### C. Relevance to the Current Grievance
+That officer's history as a commercial driver, and the apparent favoritism he extended to the truck driver, constituted potential claims for negligence, misconduct, or at minimum an avenue for investigation that could have strengthened the civil case. Mr. Tipp pursued none of it.
 
-This thirty-year-old representation is not raised to relitigate resolved matters. It is raised because it establishes a documented, firsthand pattern: **Bryan Tipp has, throughout his legal career, been unwilling to challenge law enforcement, highway patrol, prosecutors, or institutional actors when doing so would require confrontation.** The identical pattern repeated in his representation of my son — where he likewise failed to challenge or investigate the removal of Detective Ethan Smith for impropriety, failed to use my available testimony rebutting fabricated police reports, and repeatedly steered my son toward acquiescing to the prosecution rather than mounting a vigorous defense.
+### **C. The Pattern This Establishes**
+
+This thirty-year-old representation is not raised to relitigate resolved matters. It is raised because it establishes a documented, firsthand pattern: **Bryan Tipp has, throughout his legal career, been unwilling to challenge law enforcement, highway patrol, prosecutors, or institutional actors when doing so would require confrontation.**
+
+The identical pattern repeated in his representation of my son—where he likewise failed to challenge or investigate the removal of Detective Ethan Smith for impropriety, failed to use my available testimony rebutting fabricated police reports, and repeatedly steered my son toward acquiescing to the prosecution rather than mounting a vigorous defense.
 
 This is not coincidence. This is a pattern of conduct, and the ODC should evaluate it as such.
 
 ---
 
-## III. My Direct Role as a Witness in Elvis Nuno's Criminal Case
+## **III. FACTUAL CHRONOLOGY: ELVIS NUNO'S CRIMINAL REPRESENTATION (2017-2021)**
 
-### A. Presence at All Proceedings
+### **A. Initial Contact and Officer Ethan Smith's Harassment (June 2017–March 2018\)**
 
-I was present at all in-office meetings between my son and Bryan Tipp throughout the representation. I attended all pre-trial hearings. I am not a peripheral or secondhand witness — I was there. My observations are firsthand, and they corroborate those of my former husband, Tyrone Nuno, who has filed a separate supporting witness submission in ODC File No. 25-147.
+In June 2017, Officer Ethan Smith (Badge \#345) of the Missoula Police Department appeared without invitation at my residence. Over the following months, Officer Smith made repeated attempts to contact both me and my former husband, Tyrone Nuno, by phone, letters, and messages regarding our son Elvis. This conduct constituted incessant harassment of family members who had nothing to do with the underlying matter.
 
-### B. Mr. Tipp's Failure to Interview Me Regarding Fabricated Police Report Statements
+During this period, my son lived with his father and served as Tyrone's caregiver. I maintained close contact with both of them throughout the prosecution.
 
-This is the most serious specific failure I wish to bring to the ODC's attention.
+### **B. March 2018: My Former Husband's Formal Complaint and Officer Smith's Removal**
 
-The charging documents filed against my son in September 2018, and the police reports underlying those charges — authored primarily by Detective Ethan Smith — **repeatedly relied on an assertion that I, Elvis Nuno's mother, had communicated to detectives that my son suffered from "severe mental illness."** This was presented in charging documents as corroborating evidence of Mr. Nuno's allegedly threatening or erratic behavior.
+By March 2018, Officer Smith's harassment had become intolerable. My former husband, Tyrone Nuno, filed a formal written complaint with Sergeant Dustin DelRidge of the Missoula Police Department. In that complaint, Tyrone characterized Officer Smith's behavior as "greatly exaggerating whatever this situation is," "simply fishing for information," and attempting to "embarrass, humiliate, and intimidate" our son. He requested that all contact with our family cease immediately.
 
-**I never made those statements. They are fabricated.**
+The result was immediate and significant: **Officer Ethan Smith was removed from any matter involving Elvis Nuno and E'Lise Chard.** According to case records, this removal was due to the appearance of impropriety and unbecoming conduct.
 
-Detective Smith is the same officer who was removed from this case by his commanding officer, Dustin DelRidge, following a formal complaint by Tyrone Nuno and me demanding that Detective Smith cease his repeated, unwanted in-person visits and phone calls to our home — conduct we believed had risen to harassment. Smith's removal from the case for "obvious impropriety" is documented in the record.
+This was material information directly relevant to Elvis's defense and to the broader narrative of investigative misconduct. Yet despite Tyrone's repeated presence at meetings with Mr. Tipp throughout the representation, **Mr. Tipp never once asked Tyrone about his complaint against Officer Smith, never interviewed him regarding the substance of his interactions with Officer Smith or Sergeant DelRidge, never investigated why the case was reassigned after Smith's removal, and never used the complaint or its outcome to challenge the investigative integrity of the prosecution.**
 
-The legal significance of the fabricated mental health statements attributed to me cannot be overstated. Those statements served multiple purposes in the prosecution's case:
+### **C. Fabricated Statements Attributed to Me in Charging Documents**
 
-1. They were used to portray my son as unstable and dangerous to women, supporting the prosecution's narrative;
-2. They were used to explain and justify the GPS ankle monitoring and elevated bail amounts imposed throughout the case;
-3. They appeared in the charging documents themselves as corroborating witness evidence for the stalking allegations.
+The charging affidavit and related prosecution documents relied heavily on statements purportedly made by me to investigating detectives. Specifically, the documents stated that I had communicated to law enforcement that my son Elvis "suffered from severe mental illness" and exhibited dangerous or unstable behavior.
 
-Had Mr. Tipp interviewed me — the person to whom these statements were falsely attributed — he would have obtained my direct denial on the record. That denial would have:
+**I never made these statements.** They are fabrications.
 
-- Provided grounds for a **motion to suppress** or **motion to strike** those portions of the charging documents as based on fabricated evidence;
-- Supported a **Franks v. Delaware** challenge to the warrant affidavit, as false statements in a warrant affidavit bearing on probable cause require the affidavit to be voided if the false statements were material to the probable cause finding;
-- Supported a **Brady/Giglio** motion, as my denial constituted exculpatory and impeachment material that should have been disclosed;
-- Directly **impeached Detective Smith's credibility** as a witness, reinforcing the other documented improprieties that led to his removal from the case;
-- Provided grounds to challenge the **excessive bail conditions and GPS ankle monitoring** that were imposed in part based on a narrative of mental instability fabricated through these false attributions.
+I was available throughout the entire 18-to-20-month representation. I attended in-office meetings with Mr. Tipp. I was present at pretrial hearings. Mr. Tipp knew how to contact me. Yet **Mr. Tipp never once interviewed me as a witness, never asked me whether I had made the statements attributed to me, and never used my denial of these fabricated statements to challenge the prosecution's case.**
 
-Mr. Tipp never asked me about any of this. In approximately 18–20 months of representation, across numerous in-person meetings and hearings at which I was present, Mr. Tipp never once attempted to interview me as a potential witness, never asked me to provide a declaration denying the fabricated statements attributed to me, and never used my position as an eyewitness to this misconduct in any motion or proceeding.
+This failure is particularly egregious because the prosecution used these fabricated statements to establish a foundational element of their theory: that Elvis posed a danger to others based on mental instability. Had Mr. Tipp interviewed me—an obviously available and material witness—he would have obtained direct evidence that the charging documents contained false statements of fact.
 
-### C. Mr. Tipp Also Failed to Interview Me Regarding the Out-of-Context Statements About My Son's Technical Skills and Multiple Devices
+### **D. Pattern of Inadequate Advocacy and Dismissal of Legitimate Concerns (2018–2020)**
 
-The charging documents further attributed to me statements regarding my son's professional IT skills — specifically around his "possession of multiple devices" and "technical capabilities" — and used these attributed statements to support the prosecution's theory that Mr. Nuno was using technical sophistication to anonymously contact and harass the complainant.
+I was personally present at multiple in-office meetings with Mr. Tipp and attended pretrial hearings with my son and former husband. I observed a pattern of conduct that I regarded as deeply troubling.
 
-I was never interviewed about these matters either. What I would have been able to testify to is that any statements I may have made to detectives about my son's profession or equipment were made in a completely different context and were being taken out of context and misrepresented. My son is a telecommunications and infrastructure engineer. Having multiple computers and networking equipment is not evidence of criminal sophistication — it is an ordinary feature of professional IT work. The prosecution's use of these attributed statements to imply technical wrongdoing was an additional misrepresentation that I could have rebutted directly.
+In my view, Mr. Tipp was rarely a forceful advocate for my son's position. When Elvis raised concerns that appeared legitimate and material—concerns I shared as a mother watching her son's life destroyed—Mr. Tipp would dismiss or minimize them rather than engage with them seriously. This was consistent enough that it was noticeable to me as a lay observer with no legal training.
 
-### D. Detective Smith's Removal and My Complaint — Information Mr. Tipp Never Investigated
+### **E. Improper Use of Family Pressure Tactics Against the Client**
 
-As documented in the broader record of ODC File No. 25-147 and in Tyrone Nuno's supporting witness statement: Tyrone Nuno and I filed a formal complaint against Detective Ethan Smith regarding his repeated, unwanted contacts with our home. That complaint reached Detective Smith's commanding officer, Dustin DelRidge, and directly resulted in Detective Smith's removal from the case. The commanding officer acknowledged the obvious impropriety of Smith's conduct.
+What I found particularly unprofessional was a specific pattern that both I and my former husband personally witnessed: **when my son would push back on positions Mr. Tipp was taking, Mr. Tipp would at times bring Tyrone or me privately into his office and apply pressure on us to, in turn, pressure Elvis to submit to Mr. Tipp's demands.**
 
-**At no point did Bryan Tipp ask me about any of this.** He never interviewed me regarding the complaint I filed, never asked what I witnessed in Detective Smith's conduct, never incorporated my firsthand account of Smith's harassment of our family into his defense strategy, and never moved to suppress evidence gathered by a detective whose removal from the case had been prompted by our formal complaint to his commanding officer.
+This placed us in an untenable position. Rather than advocating for his client, Mr. Tipp was enlisting the client's elderly parents as pressure mechanisms against that client. This is not how I understand an attorney's duty of loyalty to function, and I found it deeply inappropriate.
 
-### E. Mr. Tipp's Pressure Tactics
+This observation is consistent with Elvis's supplemental submissions, which document that Mr. Tipp additionally pressured Elvis to surrender passwords for electronic devices seized under what Elvis describes as an unlawful warrant, and required Elvis to surrender First Amendment rights as a condition of the non-prosecution agreement negotiated with the prosecutor—matters my son describes as never having been adequately explained or fairly counseled to him.
 
-I further wish to corroborate my former husband Tyrone Nuno's account of Mr. Tipp's conduct during private meetings. On multiple occasions throughout this representation, Mr. Tipp called me into private meetings — separate from my son — and applied pressure on me to use my parental influence to convince my son to accede to Mr. Tipp's demands, including surrendering device passwords and agreeing to terms that my son found objectionable and potentially self-incriminating.
+### **F. Additional Character Evidence Never Investigated or Used**
 
-I found this conduct deeply disturbing. It is not the role of defense counsel to recruit the client's family members as instruments of pressure against that client's own legal interests. Whatever disagreements Mr. Tipp had with my son's litigation positions, the appropriate response was to advise him competently of the risks, not to separately cultivate the client's mother as a channel of coercion.
+According to materials I have reviewed in the case file, discovery included an email dated August 14, 2018, from a third-party character witness named "P.S." This email was sent to the YWCA of Missoula and described Elvis as "kind hearted, generous, patient, and most of all respectful," stating that he was "never physically or verbally abusive towards anyone" and that "\[a\]t times of conflict, he handled himself very well, and would work through the issue, instead of making things worse."
 
-### F. The Case Was Ultimately Resolved Because I Demanded It
+This email directly contradicted the prosecution's characterization of Elvis as dangerous and unstable. It was forwarded by the complaining witness E'Lise Chard to the investigating detective within 19 minutes of receipt, demonstrating the close coordination between the YWCA employee and law enforcement.
 
-My son, my former husband, and I reached a breaking point after nearly two years of this ordeal. It was only after I sent Mr. Tipp a direct email communicating that this case had gone on **far too long** and demanding that he bring it to a resolution that the case finally moved toward the Deferred Prosecution Agreement that was signed on December 6, 2020. This is not what vigorous defense counsel looks like. A defense attorney who requires the client's family to send a demand email before resolving a two-year prosecution is not diligently serving the client — he is serving his own interests in maintaining comfortable working relationships with the prosecutor's office and law enforcement, at his client's expense.
+To my knowledge, **Mr. Tipp never contacted this witness, never attempted to develop her testimony, and never used this exculpatory character evidence at any bail hearing or other proceeding.**
 
----
+### **G. Dr. Stratford's Psychiatric Letter Documenting Harm from GPS Monitoring**
 
-## IV. The "Eventually Dismissed" Standard Fails to Account for What This Case Cost My Family
+On April 10, 2019, board-certified psychiatrist Dr. William D. Stratford Jr. sent a letter directly to Mr. Tipp documenting that Elvis was suffering from a "remarkable anxiety disorder" with agoraphobia and paranoid ideation, severely impairing his functioning. Dr. Stratford stated that Elvis was "fearful of leaving his house and believes he is being consistently watched," and recommended delaying court proceedings for several months due to "serious risk of regression and worsening of his condition."
 
-The ODC's prior response to my son's grievance, and Bryan Tipp's own defense, lean heavily on the fact that the case was "eventually dismissed." I write to state directly and plainly: **dismissal did not undo what this case did to my family.**
+This letter was written while Elvis was subject to 24/7 GPS ankle monitoring and travel restrictions—conditions that Dr. Stratford's letter directly linked to psychiatric deterioration.
 
-### A. My Financial Losses
+**From April 10, 2019, through December 6, 2020—a period of approximately 20 months—Mr. Tipp held this medical documentation in his hands and made no visible use of it.** There is no record of any motion to modify bail conditions based on medical necessity, no motion to terminate GPS monitoring based on documented psychiatric harm, and no preservation of this evidence for potential civil rights claims regarding the conditions of pretrial release.
 
-I was required to exhaust my **entire IRA retirement savings** — a modest reserve representing decades of work — to pay for legal costs, bail, and associated expenses throughout this prosecution. I also put my **home up as collateral** during this process. I am a woman of modest means. The financial losses I sustained are permanent and unrecoverable. I will not be rebuilding retirement savings at my age. The "dismissal" of charges does not give me back a single dollar of what I spent.
+### **H. Eventual Dismissal Following Family Intervention (Late 2020–January 2021\)**
 
-### B. The Emotional and Psychological Toll
+In my observation and that of my former husband, the case came to an end only after we directly demanded that it be resolved. That is not a description of vigorous advocacy producing an optimal result. That is a description of a family reaching its limits and forcing a conclusion that should have come much sooner.
 
-I am my son's caregiver. He has lived with me throughout this entire period. I witnessed every incident, every development, every moment of this ordeal at close range. I watched my son's career be destroyed. I watched him be subjected to GPS monitoring for over two years. I watched him be hauled into court again and again. I watched detectives conduct surveillance of our home. And I read, in charging document after charging document, false statements attributed to me — that I had told police my own son suffered from "severe mental illness" — a fabrication I found not only deeply offensive but terrifying in its implications.
+The charges against Elvis were ultimately dismissed with prejudice in or around January 2021, after approximately 18 to 20 months of proceedings. A Deferred Prosecution Agreement was signed on December 6, 2020, which ended the GPS monitoring but required Elvis to remove his protected workplace complaint from the YWCA website and remain silent about the matter for twelve months—conditions that Elvis describes as trading First Amendment rights for dismissal.
 
-The psychological harm to our family has been severe and lasting. My son was diagnosed with a serious anxiety disorder, including agoraphobic features, during this ordeal — as documented by his treating psychiatrist Dr. William Stratford, M.D., F.A.P.A., in a letter delivered directly to Bryan Tipp on April 10, 2019. That letter documented that the GPS monitoring and ongoing legal proceedings were causing serious psychiatric deterioration. Mr. Tipp received that letter and did nothing with it. The monitoring continued for approximately 20 more months.
+### **I. The Human Cost**
 
-My own health has suffered. Our family's relationships and finances have been permanently damaged. These harms were foreseeable, were made worse by Mr. Tipp's failure to mount an adequate defense, and were not remedied by the eventual dismissal of charges.
+Elvis lost his career. He was subjected to ongoing police harassment and what I believe was intentional infliction of emotional distress. He was financially bankrupted. His First Amendment rights were effectively silenced during the pendency of the case. He has been left traumatized, fearful of law enforcement, and unable to trust institutions that failed him at every level.
 
-### C. The Silencing Effect
+Our entire family suffered with him. We were brought to our financial and emotional breaking point. My former husband and I, in our older years, were harassed by a police officer who had no business contacting us, and that harassment was documented and raised with supervisors—yet the defense counsel who was being paid to protect our son never even acknowledged it as evidence.
 
-My son exercised his constitutional rights — his First Amendment right to file a workplace complaint with the YWCA of Missoula — and was prosecuted for it. Judge Warren found in 2018 that the formal YWCA complaint constituted protected First Amendment speech. Mr. Tipp never used that finding as the foundation for a motion or challenge. The effect of this prosecution, and of Mr. Tipp's acquiescence to it, was to silence my son and our family for nearly two years. We lived in fear. We self-censored. We were afraid to assert our rights or report further misconduct because every time we did, the machinery of prosecution seemed to respond. This is precisely the chilling effect the First Amendment prohibits — and it was allowed to persist, at enormous cost to our family, in part because Mr. Tipp declined to challenge it.
+**A dismissal does not undo what was destroyed during the pendency of the prosecution.** It does not recover the civil rights claims that were not preserved. It does not address the failure to use known witness evidence. It does not compensate for 20 months of GPS monitoring that a psychiatrist documented was causing severe psychiatric harm.
 
 ---
 
-## V. Mr. Tipp's Response to the ODC: Characterizing My Son as a "Liar" and an "Extortionist"
+## **IV. SPECIFIC ALLEGATIONS OF PROFESSIONAL MISCONDUCT**
 
-I have read Mr. Tipp's September 23, 2025 response to my son's ODC complaint. His characterization of my son — a person I know intimately, have lived with throughout this entire ordeal, and have witnessed firsthand — as a "liar" attempting to "extort" Bryan Tipp through a disciplinary complaint is not only false, it is an outrage.
+Based on the factual chronology above, I allege the following specific violations of the Montana Rules of Professional Conduct:
 
-My son's complaint is not dishonest. Every assertion he has made regarding Mr. Tipp's conduct during this representation is consistent with what I personally witnessed across 18–20 months of in-person meetings and hearings. The filing of a disciplinary complaint with the ODC is a legal right. Exercising that right cannot be characterized as "extortion." That characterization is itself a form of intimidation directed at a former client who is asserting legitimate rights, and the ODC should take note of it.
+### **A. Violation of Rule 1.1 (Competence)**
 
-All materials and allegations in my son's complaint are accurate to my recollection and to my direct experience with Bryan Tipp throughout this case.
+[Matter of Rules of Professional Con, No. 03-264 (Mont. Feb 17, 2004\)](https://app.midpage.ai/document/887024?verified=true) establishes that "\[a\] lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation."
+
+Mr. Tipp's representation fell below this standard in multiple respects:
+
+6. **Failure to interview obviously material witnesses**: Mr. Tipp never interviewed me, despite the fact that the charging documents contained fabricated statements attributed to me and I was readily available throughout the representation.
+
+7. **Failure to interview the client's father**: Mr. Tipp never interviewed Tyrone Nuno regarding his formal complaint against Officer Ethan Smith, despite Tyrone's repeated presence at meetings and the materiality of Smith's removal for impropriety.
+
+8. **Failure to develop exculpatory character evidence**: Mr. Tipp never contacted or interviewed the third-party character witness P.S., whose August 14, 2018 email directly contradicted the prosecution's danger narrative.
+
+9. **Failure to use medical evidence of harm**: Mr. Tipp received Dr. Stratford's psychiatric letter on April 10, 2019, documenting severe harm from GPS monitoring, and took no action for 20 months.
+
+Federal authority interpreting analogous professional standards establishes that these failures constitute ineffective assistance. In [Hampton v. Leibach, 290 F. Supp. 2d 905 (N.D. Ill. 2001\)](https://app.midpage.ai/document/2326349?verified=true), the court granted habeas relief where defense counsel failed to interview exculpatory eyewitnesses, holding that "failure to interview eyewitnesses to a crime may strongly support an ineffective assistance claim" and that counsel "could not reasonably determine whether to call witnesses without interviewing them or having someone do so." The court emphasized that "most cases are won or lost outside the courtroom—that is, by investigation and preparation."
+
+Similarly, in [Anderson v. Johnson, 338 F.3d 382 (5th Cir. 2003\)](https://app.midpage.ai/document/31967?verified=true), the Fifth Circuit held that "counsel's failure to interview eyewitnesses constitutes constitutionally deficient representation," rejecting the notion that lack of credibility can excuse failure to investigate and emphasizing that "counsel cannot assess credibility without first contacting the witness."
+
+Montana has adopted the same investigative standards. In [State v. Thomas, 946 P.2d 140 (Mont. 1997\)](https://app.midpage.ai/document/884200?verified=true), this Court held that "counsel's duty is to make reasonable investigations or make reasonable decisions that make particular investigations unnecessary," and that "a decision not to investigate must be directly assessed for reasonableness applying heavy deference to counsel's judgments." The Thomas decision emphasizes that the reasonableness of investigation "depends critically on information supplied by the defendant."
+
+Here, Elvis, Tyrone, and I all provided Mr. Tipp with information indicating that available witnesses could rebut the prosecution's case. Mr. Tipp's failure to interview any of us cannot be characterized as a strategic decision; it was default or inertia, precisely the conduct that violates Rule 1.1.
+
+### **B. Violation of Rule 1.3 (Diligence)**
+
+[Matter of Rules of Professional Con, No. 03-264 (Mont. Feb 17, 2004\)](https://app.midpage.ai/document/887024?verified=true) establishes that "\[a\] lawyer shall act with reasonable diligence and promptness in representing a client."
+
+Mr. Tipp's conduct violated this duty in several respects:
+
+10. **20-month delay in using medical evidence**: From April 10, 2019, through December 6, 2020, Mr. Tipp possessed Dr. Stratford's letter documenting psychiatric harm from GPS monitoring but filed no motions for relief.
+
+11. **Failure to challenge investigative impropriety**: Despite Tyrone's formal complaint resulting in Officer Smith's removal, Mr. Tipp never investigated the circumstances of that removal or used it to challenge the integrity of the investigation.
+
+12. **Failure to develop readily available evidence**: The P.S. character witness email was in discovery by September 2018; Mr. Tipp made no effort to contact her during the subsequent 18-20 months of representation.
+
+Montana recognizes that diligence requires more than passive acceptance of prosecution theories. In [State v. Prindle, 304 P.3d 712 (Mont. 2013\)](https://app.midpage.ai/document/987717?verified=true), this Court emphasized that while "a defendant's intent to plead guilty mitigates ... the attorney's duty to reasonably investigate," it "does not eliminate" that duty, and "the pertinent question is whether counsel familiarized themselves sufficiently with the facts to make an informed recommendation."
+
+Here, Mr. Tipp's failures were not strategic choices based on adequate investigation; they were failures to investigate at all. This violates Rule 1.3.
+
+### **C. Violation of Rule 1.4 (Communication)**
+
+[Matter of Rules of Professional Con, No. 03-264 (Mont. Feb 17, 2004\)](https://app.midpage.ai/document/887024?verified=true) requires that a lawyer "keep the client reasonably informed about the status of the matter" and "explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation."
+
+In [Herman v. State, 127 P.3d 422 (Mont. 2006\)](https://app.midpage.ai/document/887769?verified=true), this Court held that "counsel is obligated to keep a client informed about the status of a matter, and has a duty to inform the client of the elements of the offense, possible punishment, and advisability of a plea agreement."
+
+Mr. Tipp violated Rule 1.4 by:
+
+13. **Failing to explain the civil rights implications** of the GPS monitoring documented by Dr. Stratford as causing psychiatric harm.
+
+14. **Failing to explain the First Amendment implications** of conditioning dismissal on removal of protected speech and a twelve-month silence period.
+
+15. **Using family members to pressure the client** rather than directly communicating legal options and risks to Elvis.
+
+The use of parents as intermediaries to pressure a client into accepting positions is not communication; it is manipulation and fundamentally inconsistent with the duty of loyalty owed to the client.
+
+### **D. Violation of Rule 1.7 (Conflict of Interest)**
+
+[Matter of Rules of Professional Con, No. 03-264 (Mont. Feb 17, 2004\)](https://app.midpage.ai/document/887024?verified=true) prohibits representation involving "a concurrent conflict of interest," which exists when "there is a significant risk that the representation of one or more clients will be materially limited by the lawyer's responsibilities to another client, a former client or a third person or by a personal interest of the lawyer."
+
+In [In re Neuhardt, 321 P.3d 833 (Mont. 2014\)](https://app.midpage.ai/document/8030758?verified=true), this Court held that joint representation of conflicting interests violates Rule 1.7 even without proof of actual prejudice, because such representation "prevents attorneys from challenging evidence favorable to one client but prejudicial to another."
+
+Mr. Tipp's unwillingness to challenge law enforcement—a pattern demonstrated over three decades from my 1990s car accident case through Elvis's 2018-2021 representation—created a de facto conflict of interest. Mr. Tipp's personal interest in maintaining professional relationships with law enforcement and prosecutors materially limited his ability to provide vigorous advocacy for Elvis.
+
+This is particularly evident in:
+
+16. His failure to challenge the reliance on materials provided by Officer Smith, following his removal for impropriety;
+
+17. His failure to uncover or challenge Detective Brueckner's alleged conflict of interest as a YWCA board member;
+
+18. His failure to challenge fabricated statements in charging documents; and
+
+19. His negotiation of a DPA requiring surrender of First Amendment rights rather than challenging the prosecution's legal theories.
+
+### **E. Violation of Rule 8.4(d) (Conduct Prejudicial to Administration of Justice)**
+
+[Matter of Rules of Professional Con, No. 03-264 (Mont. Feb 17, 2004\)](https://app.midpage.ai/document/887024?verified=true) establishes that it is professional misconduct for a lawyer to "engage in conduct that is prejudicial to the administration of justice."
+
+Mr. Tipp's pattern of conduct—refusing to challenge fabricated evidence, refusing to investigate law enforcement impropriety, using family pressure tactics against his client, and allowing a prosecution to continue for 20 months while possessing medical evidence of ongoing harm—is prejudicial to the administration of justice.
+
+When defense counsel fails to challenge false statements in charging documents despite having available witnesses to rebut them, the adversarial process fails. When counsel possesses evidence that pretrial conditions are causing documented psychiatric harm but takes no action for 20 months, the administration of justice is undermined. When counsel prioritizes avoiding confrontation with institutional actors over protecting the client's constitutional rights, the entire system suffers.
 
 ---
 
-## VI. Rules of Professional Conduct Implicated
+## **V. HARM ANALYSIS**
 
-The following Montana Rules of Professional Conduct are implicated by the conduct described in this submission:
+The harm caused by Mr. Tipp's misconduct is both immediate and ongoing:
 
-**MRPC Rule 1.1 (Competence):** A competent criminal defense attorney who receives charging documents relying on fabricated statements attributed to the client's mother — who is present at every meeting and available for immediate interview — interviews that witness and uses her denial as a defense tool. Mr. Tipp did neither.
+**To Elvis individually:**
 
-**MRPC Rule 1.3 (Diligence):** Diligent representation of Elvis Nuno required Mr. Tipp to investigate the fabricated mental health statements attributed to me, to obtain my denial, and to deploy it in motions challenging the integrity of the charging documents, the warrant, and the conditions of release. None of this was done across the full duration of the representation.
+* Loss of career and professional reputation
 
-**MRPC Rule 1.4 (Communication):** Mr. Tipp was obligated to communicate to my son that his mother's testimony, denying fabricated statements in the charging documents, was potentially significant defense material. There is no evidence he ever did so.
+* Financial bankruptcy
 
-**MRPC Rule 1.7 (Conflict of Interest — Contextual):** Mr. Tipp's pattern of declining to challenge law enforcement, prosecutors, and institutional actors — consistent across both his representation of me in the 1990s and his representation of my son from 2018 to 2020 — raises the inference that his working relationships with those institutions influenced his strategic choices in a manner adverse to his clients' interests.
+* 20 months of GPS monitoring causing documented psychiatric harm
 
-**MRPC Rule 8.4(d) (Conduct Prejudicial to the Administration of Justice):** Characterizing a former client's good-faith disciplinary complaint as "extortion," and characterizing the client as a "liar," in a formal ODC response, is conduct that tends to discourage legitimate use of the disciplinary process and is prejudicial to the administration of justice.
+* Waiver of First Amendment rights as condition of dismissal
 
----
+* Loss of civil rights claims due to expired statutes of limitations
 
-## VII. Relief Requested
+* Ongoing trauma and inability to trust legal institutions
 
-I respectfully request that the Office of Disciplinary Counsel:
+**To the family:**
 
-1. Treat this submission as both an independent complaint and a supporting witness statement corroborating ODC File No. 25-147;
+* Financial and emotional devastation of elderly parents
 
-2. Specifically inquire of Mr. Tipp whether he ever interviewed Eleanor ("Ellie") M. Nuno as a potential witness; whether he identified the fabricated mental health statements attributed to her in the charging documents; and what, if any, steps he took to use her denial of those statements in any motion, hearing, or negotiation;
+* Harassment by law enforcement with no professional protection
 
-3. Consider the prior representation history described in Section II as relevant pattern-and-practice evidence of Mr. Tipp's consistent unwillingness to challenge law enforcement and institutional actors;
+* Destruction of family business and professional relationships
 
-4. Consider this submission together with the submission of Tyrone Nuno (supporting witness), the supplemental submissions in ODC File No. 25-147, and the November 2025 Request for Review as part of the comprehensive record in that file;
+**To the administration of justice:**
 
-5. Investigate whether Mr. Tipp's September 23, 2025 characterization of my son's complaint as "extortion" and my son as a "liar" warrants independent scrutiny under MRPC Rule 8.4.
+* Fabricated evidence in charging documents went unchallenged
 
----
+* Law enforcement impropriety (Officer Smith's removal) was never investigated
 
-## VIII. Declaration
+* Institutional conflicts of interest (Detective Brueckner's YWCA board membership) were never challenged
 
-I affirm under penalty of perjury that the foregoing is true and correct to the best of my knowledge, information, and belief.
+* Medical evidence of unconstitutional conditions of pretrial release was ignored
 
-**Attachments:**
+* First Amendment rights were traded as bargaining chips without challenge
 
-- **Exhibit A:** Elvis Nuno ODC Grievance, File No. 25-147 (July 2025) and all supplemental submissions
-- **Exhibit B:** Bryan Tipp's Response, September 23, 2025
-- **Exhibit C:** Request for Review, November 18, 2025
-- **Exhibit D:** Tyrone Nuno Supporting Witness Grievance [companion submission]
-- **Exhibit E:** September 2018 Stalking Charging Documents (Discovery) [demonstrating reliance on fabricated "severe mental illness" statements attributed to Ellie Nuno]
-- **Exhibit F:** MPD Complaint re Detective Ethan Smith (filed by Tyrone and Ellie Nuno) [CR-2025-002 Complaint 13]
-- **Exhibit G:** Dr. William Stratford, M.D., F.A.P.A., Letter to Bryan Tipp, April 10, 2019
+This is not a case of strategic disagreements or different approaches to advocacy. This is systematic abdication of professional responsibility across every dimension of criminal defense representation.
 
 ---
 
-Respectfully submitted,
+## **VI. MONTANA DISCIPLINARY FRAMEWORK, TIMING, AND SANCTIONS PRECEDENT**
 
-**Eleanor ("Ellie") M. Nuno**
+### **A. Distinction Between Ethical Grievance and Malpractice Action**
 
-Contact Info: [REDACTED]
+This grievance is submitted pursuant to Montana's attorney disciplinary system, not as a civil malpractice claim. The distinction is critical and well-established in Montana law.
+
+A legal malpractice action seeks monetary damages for economic harm caused by attorney negligence or breach of fiduciary duty. Such claims are governed by MCA § 27-2-206, which establishes a three-year statute of limitations running from discovery of the injury.
+
+In contrast, an attorney disciplinary proceeding serves the public interest by protecting the integrity of the legal profession and the administration of justice. Disciplinary proceedings are not contingent on proof of damages, do not provide monetary recovery to complainants, and serve distinct purposes: deterrence of future misconduct, maintenance of professional standards, and protection of the public and the legal system.
+
+[In re Neuhardt, 321 P.3d 833 (Mont. 2014\)](https://app.midpage.ai/document/8030758?verified=true) makes clear that disciplinary violations may be established "whether or not 'actual prejudice'" to the client occurred. The Montana Supreme Court emphasized that beyond individual client interests, "the institutional interest in the rendition of just verdicts in criminal cases may be jeopardized by unregulated" professional misconduct, and that courts have an "independent interest in ensuring that criminal trials are conducted within the ethical standards of the profession and that legal proceedings appear to be fair to all who observe them."
+
+Here, while Elvis suffered catastrophic economic and constitutional harm, the gravamen of this grievance is Mr. Tipp's systematic violation of professional duties across multiple decades, his pattern of refusing to challenge law enforcement misconduct, and the threat his continued practice poses to future criminal defendants who require vigorous advocacy against institutional actors.
+
+### **B. Timeliness Under Montana's Grievance Filing Framework**
+
+Montana does not impose a statute of limitations on disciplinary grievances in the manner that governs civil claims. The Montana Rules for Lawyer Disciplinary Enforcement permit grievances to be filed within six years of the complained-of conduct, and the Montana Supreme Court retains inherent authority to discipline attorneys regardless of the passage of time where professional misconduct threatens the integrity of the bar.
+
+The conduct at issue in this grievance occurred between 2018 and 2021, with the criminal case concluding via dismissal with prejudice on December 23, 2021\. This grievance is filed in May 2026—well within the six-year framework and at the earliest practicable time following Elvis's discovery of the full scope of Mr. Tipp's failures.
+
+Moreover, the 1990s motor vehicle accident representation, while decades old, is not offered as an independent ground for discipline subject to a limitations period. Rather, it is offered as pattern evidence demonstrating a longstanding, career-spanning unwillingness to challenge law enforcement—a pattern that directly informed and explains Mr. Tipp's failures in Elvis's representation.
+
+### **C. Montana Disciplinary Precedent for Failures in Criminal Defense Representation**
+
+Montana appellate decisions establish clear professional standards governing the duties at issue in this grievance:
+
+**Investigation Duties**: In [State v. Thomas, 946 P.2d 140 (Mont. 1997\)](https://app.midpage.ai/document/884200?verified=true), the Montana Supreme Court adopted the federal Strickland standard for evaluating counsel's investigative decisions, holding that "counsel must make reasonable investigations or reasonable decisions that make particular investigations unnecessary." The Court emphasized that investigation decisions must be "directly assessed for reasonableness" and that reasonableness "depends critically on information supplied by the defendant." Here, Elvis, Tyrone, and I all provided Mr. Tipp with information about available exculpatory witnesses, yet he interviewed none of us.
+
+**Communication Duties**: In [Herman v. State, 127 P.3d 422 (Mont. 2006\)](https://app.midpage.ai/document/887769?verified=true), this Court held that criminal defense counsel has a duty under Rule 1.4 "to inform the client of the elements of the offense, possible punishment, and advisability of a plea agreement," and must keep clients "informed about the status of a matter." Mr. Tipp's use of family pressure tactics rather than direct client communication violated this duty.
+
+**Conflict of Interest Standards**: In [In re Neuhardt, 321 P.3d 833 (Mont. 2014\)](https://app.midpage.ai/document/8030758?verified=true), the Montana Supreme Court held that Rule 1.7 violations occur when representation of conflicting interests "prevents attorneys from challenging evidence favorable to one client but prejudicial to another." The Court found that violations may be established without proof of actual prejudice and emphasized that "waivers by all affected defendants may not necessarily cure the problems created by multiple representations." Here, Mr. Tipp's personal interest in avoiding confrontation with law enforcement materially limited his representation.
+
+### **D. Sanctions Appropriate for This Conduct**
+
+While specific sanctions decisions are within the discretion of the disciplinary authorities and ultimately the Montana Supreme Court, Montana precedent provides guidance on appropriate sanctions for similar misconduct.
+
+Disciplinary sanctions in Montana range from private admonition through public censure, suspension, and disbarment. The severity of sanction depends on factors including: the nature and severity of the violation, the harm caused, whether the conduct was intentional or negligent, the attorney's disciplinary history, and the need to protect the public and deter future misconduct.
+
+The conduct alleged here involves systematic failures across core professional duties—competence, diligence, communication, and loyalty—in a criminal defense context where the client's liberty, constitutional rights, and entire future were at stake. The failures were not isolated incidents but rather a pattern spanning 18-20 months of representation and consistent with a career-long unwillingness to challenge institutional actors.
+
+Federal authority establishes that the failures alleged here—failure to interview available exculpatory witnesses, failure to develop character evidence, failure to challenge fabricated charging documents, and failure to act on medical evidence of constitutional harm—constitute ineffective assistance of counsel warranting reversal of criminal convictions. [Hampton v. Leibach, 290 F. Supp. 2d 905 (N.D. Ill. 2001\)](https://app.midpage.ai/document/2326349?verified=true); [Anderson v. Johnson, 338 F.3d 382 (5th Cir. 2003\)](https://app.midpage.ai/document/31967?verified=true).
+
+In the disciplinary context, sanctions should reflect that Mr. Tipp's conduct caused:
+
+* **Constitutional harm**: 20 months of GPS monitoring causing documented psychiatric deterioration while Mr. Tipp possessed but did not use medical evidence supporting relief
+
+* **First Amendment violations**: Trading protected speech rights as bargaining chips without challenge to the prosecution's legal authority to condition dismissal on speech waivers
+
+* **Evidentiary failures**: Allowing fabricated statements in charging documents to go unchallenged despite having available witnesses to rebut them
+
+* **Institutional capture**: Systematic refusal to investigate or challenge law enforcement impropriety (Officer Smith's removal, Detective Brueckner's alleged YWCA conflict)
+
+Appropriate sanctions for this pattern of misconduct should include at minimum public censure, substantial suspension from practice with conditions for reinstatement including ethics training focused on criminal defense duties and investigation obligations, and potential restitution for economic losses caused by the failures.
+
+The purpose of such sanctions would be not only accountability for past harm but also protection of future clients who, like Elvis, may require counsel willing to vigorously challenge institutional actors, investigate law enforcement misconduct, and prioritize constitutional rights over professional relationships.
 
 ---
 
-*This submission is a research and advocacy draft prepared with the assistance of MISJustice Alliance. It is not a substitute for final review and potential corrections that may be made before filing. All factual assertions are in the process of being verified against the underlying primary documents before submission. The prior civil representation history (Section II) may benefit from a search for any available docket records from the mid-1990s Missoula County civil action, which could corroborate the settlement amount and duration of that representation.*
+## **VII. REQUESTED RELIEF**
+
+Pursuant to the Montana Rules for Lawyer Disciplinary Enforcement and MCA § 37-61-401 et seq., I respectfully request that the Office of Disciplinary Counsel:
+
+20. **Open a formal investigation** into Mr. Tipp's conduct in the representation of Elvis Ryland Nuno and his pattern of unwillingness to challenge law enforcement across multiple decades of practice.
+
+21. **Interview witnesses**, including myself, Tyrone Nuno, and Elvis Ryland Nuno, regarding the specific allegations set forth herein.
+
+22. **Obtain and review the complete case file**, including discovery materials, correspondence, and court filings, to verify the failures to investigate and develop available evidence.
+
+23. **Impose appropriate sanctions**, including but not limited to:
+
+    * Public censure
+
+    * Suspension from practice for a period consistent with Montana precedent for similar violations
+
+    * Mandatory continuing legal education focused on criminal defense investigation duties and professional responsibility
+
+    * Restitution to Elvis Nuno for economic losses directly caused by the malpractice
+
+24. **Refer this matter to the Commission on Practice** for formal disciplinary proceedings if warranted by the investigation.
+
+25. **Preserve the administrative record** for potential federal civil rights litigation and appeals, as this matter raises substantial constitutional questions regarding the right to effective assistance of counsel.
+
+26. **Notify me of the disposition** of this grievance and any disciplinary action taken.
+
+---
+
+## **VII. CERTIFICATION**
+
+I, Eleanor M. Nuno, declare under penalty of perjury under the laws of the State of Montana that the foregoing is true and correct to the best of my personal knowledge, information, and belief. I have reviewed this grievance in its entirety and confirm that all factual assertions within my personal knowledge are accurate.
+
+I understand that filing a false or frivolous grievance may subject me to sanctions. I certify that this grievance is filed in good faith, based on facts within my personal knowledge as a former client and direct witness to the representation, and supported by applicable law.
+
+I am available to provide sworn testimony, participate in interviews, and supply any additional information the Office of Disciplinary Counsel may require.
+
+**Respectfully submitted,**
+
+Eleanor M. ("Ellie") Nuno
+
+Date: May 30, 2026
+
+---
+
+## **APPENDIX: DOCUMENTS AVAILABLE TO SUPPORT THIS GRIEVANCE**
+
+The following documents are available upon request and can be provided to support the allegations in this grievance:
+
+27. **Tyrone Nuno's formal complaint to Missoula Police Department** regarding Officer Ethan Smith (March 2018\)
+
+28. **Discovery materials from State v. Nuno**, including:
+
+    * Charging affidavits containing fabricated statements attributed to Eleanor Nuno
+
+    * P.S. character witness email dated August 14, 2018 (Discovery No. 2018-37193)
+
+    * E'Lise Chard's forwarding of P.S. email to Detective Arianna Adams
+
+29. **Dr. William D. Stratford Jr. psychiatric letter** dated April 10, 2019
+
+30. **Deferred Prosecution Agreement** dated December 6, 2020
+
+31. **Order of Dismissal with Prejudice** dated December 23, 2021
+
+32. **Records from my 1990s motor vehicle accident case** demonstrating pattern of unwillingness to challenge law enforcement
+
+I authorize the Office of Disciplinary Counsel to contact me directly to obtain copies of any of these materials or to arrange interviews regarding the matters set forth in this grievance.

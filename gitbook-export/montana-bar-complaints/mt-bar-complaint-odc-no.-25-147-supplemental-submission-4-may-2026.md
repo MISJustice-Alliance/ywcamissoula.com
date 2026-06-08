@@ -1,217 +1,600 @@
----
-description: >-
-  Supplemental Submission #4 (May 2026): Failure to investigate and use
-  favorable discovery evidence — P.S. character witness email (August 14, 2018)
-  and Dr. William Stratford psychiatric letter (April 10, 2019).
----
+BEFORE THE OFFICE OF DISCIPLINARY COUNSELSTATE BAR OF MONTANA
 
-# MT Bar Complaint ODC No. 25-147: Supplemental Submission #4 (May 2026)
+In re: Grievance Against BRYAN CHARLES TIPP of Tipp Coburn Lockwood, P.C.
 
-{% include "../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
+ODC File No. 25-147
 
-## Supplemental ODC Grievance — ODC File No. 25-147
-
-### Supplemental Submission: Failure to Investigate and Use Favorable Discovery Evidence — August 14, 2018 Third-Party Character Witness Email (P.S.) and April 10, 2019 Dr. William Stratford Psychiatric Letter
+SUPPLEMENTAL SUBMISSION:FAILURE TO INVESTIGATE AND USE MATERIALLY FAVORABLE EVIDENCE
 
 ---
 
-**Elvis Ryland Nuno**
-[REDACTED]
+# **I. INTRODUCTION AND STATEMENT OF PURPOSE**
 
-**Date:** May 24th 2026
+This supplemental submission documents discrete, exhibit-specific grounds of professional misconduct by Respondent Bryan Charles Tipp during his representation of Elvis Ryland Nuno in criminal proceedings styled *State v. Nuno*, Missoula County, Montana (2018–2021). This submission does not re-argue theories addressed in prior filings. Rather, it presents two narrow allegations tied to concrete documentary evidence:
 
-Office of Disciplinary Counsel
-P.O. Box 1099
-Helena, MT 59624-1099
+**First**, Respondent failed to investigate, develop, or deploy a third-party character witness email dated August 14, 2018 (the "P.S. Email," discovery document 2018-37193), which directly rebutted the prosecution's characterization of Mr. Nuno as dangerous to women and provided impeachment evidence regarding the complainant's credibility and institutional conflicts.
 
-**Re: Supplemental Grievance — ODC File No. 25-147**
-**Respondent: Bryan Charles Tipp, Tipp, Colburn, Lockwood, P.C.**
-**Subject: Failure to Investigate, Develop, and Deploy Two Materially Favorable Exhibits in Defense of Elvis Ryland Nuno — The P.S. Character Witness Email (August 14, 2018) and the Dr. William Stratford Psychiatric Letter (April 10, 2019)**
+**Second**, Respondent failed to use a psychiatric evaluation letter dated April 10, 2019, from board-certified forensic psychiatrist William D. Stratford, M.D., F.A.P.A., documenting that GPS ankle monitoring imposed as a condition of pretrial release was causing severe psychiatric harm, functional impairment, and risk of regression—yet Respondent took no action to modify conditions of release for approximately 20 months thereafter.
+
+These failures violated Montana Rules of Professional Conduct ("MRPC") Rules 1.1 (Competence), 1.3 (Diligence), and 1.4 (Communication). The failures are analogous to constitutionally ineffective assistance of counsel under federal *Strickland v. Washington* standards and Montana legal malpractice principles. Both exhibits were in Respondent's possession for extended periods, both were materially favorable to the defense, and neither appears to have been used in any motion, bail hearing, or negotiation.
 
 ---
 
-## I. Introduction and Purpose
+# **II. FACTUAL STATEMENT AND PROCEDURAL HISTORY**
 
-This supplemental submission adds two discrete, document-specific grounds of professional misconduct to the existing record in ODC File No. 25-147. It does not re-argue every theory already addressed in the July 2025 grievance or prior supplements. Rather, it presents two narrow, testable allegations tied to concrete exhibits that appear in the record:
+## **A. Relevant Timeline**
 
-1. **Exhibit A — the P.S. Email (August 14, 2018):** A third-party character and conduct witness email, bearing discovery reference number 2018-37193, containing first-person testimony that Mr. Nuno was non-abusive and conflict-resolving, forwarded by E'Lise Chard within 19 minutes of receipt to the investigating detective and a victim-services advocate.
-
-2. **Exhibit B — the Dr. William Stratford Psychiatric Letter (April 10, 2019):** A letter from board-certified psychiatrist William Stratford, M.D., F.A.P.A., transmitted directly to Bryan Tipp documenting severe anxiety with agoraphobic features, functional impairment, and documented medical harm caused by ongoing GPS ankle monitoring and continued legal proceedings.
-
-Together, these exhibits establish that by no later than April 10, 2019, Mr. Tipp held in his hands: (a) independent character evidence directly rebutting the prosecution's framing of Mr. Nuno as a danger to women, and (b) contemporaneous medical documentation that the conditions of Mr. Nuno's pretrial release were actively destroying his psychiatric health. No visible use of either exhibit in motions, bail hearings, negotiations, or civil-rights preservation has been identified in the record.
-
----
-
-## II. Factual and Procedural Timeline
-
-The following dates establish the chronological framework within which both exhibits must be understood:
+The following dates establish the chronological framework within which Respondent's conduct must be evaluated:
 
 | Date | Event |
-|------|-------|
-| September 2017 | Mr. Nuno files formal protected complaint with YWCA Missoula; Detective Ethan Smith removed from case for impropriety; Detective Connie Brueckner (alleged YWCA board member) assigned |
-| November 2017 | First stalking charges filed in Missoula County |
-| September 12, 2018 | Mr. Tipp retained; attorney-client fee contract executed |
-| September 2018 (approx.) | GPS ankle monitoring imposed; 24/7 tracking and Missoula County travel ban begin |
-| **August 14, 2018** | **P.S. sends character reference email to YWCA; E'Lise Chard forwards to Detective Arianna Adams within 19 minutes** |
-| August 23, 2018 | Kim Harvey forwards forwarding chain to Adams; document enters discovery as record 2018-37193 |
-| **April 10, 2019** | **Dr. William Stratford, M.D., F.A.P.A., transmits psychiatric letter directly to Bryan Tipp** |
+| :---- | :---- |
+| June 3, 2018 | Mr. Nuno files protected complaint with YWCA Missoula President regarding employees E'Lise Chard and Rebecca Pettit |
+| July 2018 | Criminal stalking charges filed in Missoula County |
+| August 14, 2018 | P.S. sends character reference email to YWCA; complainant E'Lise Chard forwards to Detective Arianna Adams within 19 minutes; document enters discovery as record 2018-37193 |
+| September 12, 2018 | Respondent Tipp retained; attorney-client fee contract executed |
+| September 2018 (approx.) | GPS ankle monitoring imposed; 24/7 tracking and Missoula County travel restrictions begin |
+| April 10, 2019 | Dr. William D. Stratford, M.D., F.A.P.A., transmits psychiatric letter directly to Respondent Tipp documenting severe anxiety with agoraphobic features and medical harm from GPS monitoring |
 | December 6, 2020 | Deferred Prosecution Agreement (DPA) signed; GPS monitoring ends; case operationally resolved |
 | December 23, 2021 | Dismissal with prejudice order signed; charges formally terminated |
 
-**Critical clarification on GPS monitoring duration:** The 24/7 GPS ankle monitoring and Missoula County travel restrictions imposed approximately September 2018 were in effect continuously until the DPA was agreed on **December 6, 2020** — a period of approximately **26 months**. The formal dismissal with prejudice was not entered until December 23, 2021, but the surveillance and its direct medical consequences ended at the DPA. This timeline is essential to understanding the harm window during which Mr. Tipp held Dr. Stratford's letter and took no action.
+## **B. Duration of GPS Monitoring and Medical Harm Window**
+
+The 24/7 GPS ankle monitoring and Missoula County travel restrictions imposed approximately September 2018 remained in effect continuously until the DPA was signed on December 6, 2020—a period of approximately **27 months total**, with approximately **20 months elapsing after Respondent received Dr. Stratford's letter** documenting ongoing psychiatric harm.
+
+This timeline is critical to evaluating Respondent's diligence obligations. Dr. Stratford's April 10, 2019 letter explicitly documented that the monitoring conditions were causing severe anxiety, agoraphobic symptoms, functional impairment, and risk of serious regression. Despite holding this medical evidence, Respondent filed no motion to modify conditions of release during the subsequent 20-month period.
 
 ---
 
-## III. Exhibit A: The P.S. Email (August 14, 2018)
+# **III. EXHIBIT A: THE P.S. CHARACTER WITNESS EMAIL (AUGUST 14, 2018\)**
 
-### A. What the Exhibit Shows
+## **A. Content and Provenance of the Exhibit**
 
-Discovery document 2018-37193 is a forwarding chain dated August 14–23, 2018. It consists of:
+Discovery document 2018-37193 is an email forwarding chain dated August 14–23, 2018\. The underlying email was sent by an individual identified as "P.S." to the YWCA of Missoula general inbox on August 14, 2018, at 9:15 PM MDT. The sender described herself as a close personal friend of Mr. Nuno and provided firsthand testimony regarding his character and conduct.
 
-**1. The underlying email (August 14, 2018, 9:15 PM MDT):** Sent by P.S. to the YWCA of Missoula general inbox (ywca@ywcaofmissoula.org). The sender described herself as a close personal friend of Mr. Nuno and a firsthand witness to his character and conduct. Key statements included:
+Key statements in the P.S. Email included:
 
-- Approximately two years prior, the sender had been pregnant, homeless, and living on the streets; Mr. Nuno, having only just met her, invited her into his home at no cost, "expecting nothing in return," solely to ensure she had a safe place to stay;
-- He "helped me out when nobody, not even my family, would";
-- "During the whole time that I stayed with Elvis he was nothing but kind hearted, generous, patient, and most of all respectful";
-- He was "**never physically or verbally abusive towards anyone**";
-- "At times of conflict, he handled himself very well, and would work through the issue, instead of making things worse";
-- She described E'Lise Chard's conduct as being done "for no reason at all" and requested YWCA address it.
+* Approximately two years prior, the sender had been pregnant, homeless, and living on the streets; Mr. Nuno, having only just met her, invited her into his home at no cost, "expecting nothing in return," solely to ensure she had a safe place to stay;
 
-**2. The forwarding chain (August 14, 2018, 9:34 PM — within 19 minutes of receipt):** E'Lise Chard (echard@ywcaofmissoula.org), the subject of the complaint, forwarded the email to Detective Arianna Adams (adamsaci@ci.missoula.mt.us) and Kim Harvey (kharvey@missoulacounty.us), Crime Victim Advocate, Missoula City-County Relationship Violence Services, with the note: *"Here is an email to the YWCA, about me, on Elvis' behalf. Not sure if you want this, since it's purportedly not from Elvis, but I figured I'd send it anyway."*
+* "He helped me out when nobody, not even my family, would";
 
-**3. Kim Harvey's forward to Arianna Adams (August 23, 2018, 2:35 PM):** This constitutes the version that appears in discovery.
+* "During the whole time that I stayed with Elvis he was nothing but kind hearted, generous, patient, and most of all respectful";
 
-### B. Three Independent Defense Values Mr. Tipp Failed to Develop
+* He was "**never physically or verbally abusive towards anyone**";
 
-**1. Character and Conduct Evidence Rebutting the Prosecution's "Danger to Women" Narrative**
+* "At times of conflict, **he handled himself very well, and would work through the issue**, instead of making things worse";
 
-Throughout the prosecution, including at all bail proceedings that produced escalating bail of $50,000, $75,000, and $100,000, and the GPS monitoring itself, the state relied on characterizations of Mr. Nuno as a danger to women, aggressive, and incapable of de-escalating conflict. This framing was reinforced by the fraudulent Dr. Miranda psychological evaluation. The P.S. email was unsolicited, specific to a high-stress cohabitation scenario, and explicitly addressed Mr. Nuno's conflict-resolution and non-abusive conduct — precisely the qualities the prosecution portrayed as absent. Mr. Tipp had this exhibit in discovery by the time of his retention in September 2018. No record of any contact with P.S., any submission of her statement at a bail hearing, or any use of the exhibit in any proceeding has been identified.
+* The sender characterized complainant E'Lise Chard's conduct toward Mr. Nuno as being done "for no reason at all" and requested the YWCA address the matter.
 
-**2. Impeachment Evidence: E'Lise Chard's Redirection of an Internal Complaint Into Police Channels**
+**Within 19 minutes of receipt**, E'Lise Chard—the complainant and subject of Mr. Nuno's protected YWCA complaint—forwarded the email to Detective Arianna Adams and Kim Harvey, Crime Victim Advocate, Missoula City-County Relationship Violence Services, with the note: "Here is an email to the YWCA, about me, on Elvis' behalf. Not sure if you want this, since it's purportedly not from Elvis, but I figured I'd send it anyway."
 
-Within 19 minutes of receiving a complaint addressed to the YWCA about her own professional conduct, E'Lise Chard personally forwarded it to the investigating detective and victim-services advocate. This is a documented mechanism of the very YWCA–law enforcement information-sharing nexus identified in Supplemental Submission #1 as a critical missed defense theory. A competent defense attorney would have used this forwarding chain: (a) to challenge E'Lise Chard's credibility and bias; (b) to demonstrate that exculpatory information entering YWCA channels was being routed into prosecution-adjacent channels by the very person with a personal stake in its outcome; and (c) to support the institutional-conflict theory that the investigation was coordinated through YWCA organizational infrastructure. Mr. Tipp developed none of these uses.
+This forwarding chain constitutes the version that appeared in discovery and was available to Respondent upon his retention in September 2018\.
 
-**3. Basis for a Brady/Giglio Motion and Institutional-Conflict Challenge**
+## **B. Three Independent Defense Values Respondent Failed to Develop**
 
-The forwarding chain was concrete, documentary support for a motion challenging the integrity of the investigation. In combination with Detective Brueckner's undisclosed YWCA board membership (identified in Supplemental Submission #1), P.S.'s email showed that the YWCA employee who was the subject of Mr. Nuno's protected complaint had an active, real-time channel to the detective assigned to investigate that complaint. Mr. Tipp never filed any such motion.
+### **1\. Character Evidence Rebutting the Prosecution's "Danger to Women" Narrative**
 
----
+Throughout the prosecution, including at bail proceedings that produced escalating bail amounts of $50,000, $75,000, and $100,000, and in justifying GPS monitoring, the State relied on characterizations of Mr. Nuno as a danger to women, aggressive, and incapable of de-escalating conflict.
 
-## IV. Exhibit B: Dr. William Stratford Psychiatric Letter (April 10, 2019)
+The P.S. Email was unsolicited third-party testimony, specific to a high-stress cohabitation scenario involving a vulnerable pregnant woman, and explicitly addressed Mr. Nuno's conflict-resolution abilities and non-abusive conduct—precisely the qualities the prosecution portrayed as absent. The testimony described conduct over an extended period under circumstances (shared living space, interpersonal stress, caretaking responsibilities) that would reveal character traits relevant to the charges.
 
-### A. Clinical Findings
+Montana Rules of Evidence permit character evidence in criminal cases to prove conduct in conformity therewith when character is an element of a charge or defense. Additionally, the evidence was relevant to bail determinations under Montana Code Annotated § 46-9-109, which requires consideration of "danger to the alleged victim" and "propensity for violence."
 
-On April 10, 2019, board-certified psychiatrist William Stratford, M.D., F.A.P.A., transmitted a clinical letter directly to Bryan Tipp. Dr. Stratford's findings included:
+Respondent had this exhibit in discovery by the time of his retention in September 2018\. No record of any contact with P.S., any submission of her statement at a bail hearing, any motion citing the exhibit, or any use of the document in any proceeding has been identified.
 
-- **Diagnosis:** A "remarkable anxiety disorder" with agoraphobic features; the patient "fears leaving home" and "believes he is being consistently watched";
-- **Functional impairment:** Anxiety "has precluded reasonable or adequate functioning"; response to initial antidepressant therapy was inadequate, and Mr. Nuno was "not...anywhere near being in remission";
-- **Objective context explicitly referenced by the treating physician:** Mr. Nuno was "currently wearing an ankle bracelet" and had been "involved in legal issues for some time in the State of Washington";
-- **Medical recommendation:** Dr. Stratford advised that "a trip to Washington for legal proceedings would be more than disconcerting and potentially unraveling to him," with "serious risk of regression and worsening of his condition," and that "perhaps several months" should pass before Mr. Nuno would be "expected to go to court, if at all, in Washington state";
-- **Treatment plan:** Antidepressant initiated; referral to specialized therapist and prescriber recommended.
+### **2\. Impeachment Evidence: Complainant's Institutional Information-Sharing Nexus**
 
-### B. The "Consistently Watched" Symptom Was Objectively True
+Within 19 minutes of receiving a complaint addressed to the YWCA about her own professional conduct, complainant E'Lise Chard personally forwarded it to the investigating detective and victim-services advocate. This forwarding behavior is documentary evidence of the institutional information-sharing relationship between the complainant, her employer (YWCA), and law enforcement.
 
-A significant clinical and legal point is that Dr. Stratford's documentation of the symptom that Mr. Nuno "believes he is being consistently watched" does not reflect paranoid ideation divorced from reality. It reflects a rational, foreseeable response to objectively existing conditions: the GPS ankle bracelet made the belief of being "watched" literally true, as law enforcement could access his real-time location at any moment. The county-level travel ban created geographic confinement. The multi-jurisdictional prosecutions running in parallel — Missoula, Edmonds, King County — maintained the surveillance pressure from multiple directions simultaneously. A competent defense attorney would have recognized that the treating psychiatrist was, in effect, medically documenting that the conditions of pretrial release were directly causing the client's psychiatric deterioration.
+This evidence was material to three defense theories:
 
-### C. What the Letter's Delivery to Tipp Established as a Matter of Duty
+**First**, it impeached complainant Chard's credibility and demonstrated bias. The forwarding chain showed that Chard was actively monitoring and redirecting communications about Mr. Nuno—including exculpatory character evidence—into law enforcement channels.
 
-April 10, 2019 is a critical notice milestone for purposes of this disciplinary proceeding. From that date forward, Bryan Tipp was in possession of:
+**Second**, it demonstrated that exculpatory information entering YWCA channels was being routed into prosecution-adjacent channels by the very person with a personal stake in the outcome, raising questions about selective disclosure and potential Brady violations.
 
-- A written communication from a board-certified psychiatrist (F.A.P.A.);
-- Directly linking Mr. Nuno's documented psychiatric deterioration to the GPS monitoring and ongoing legal proceedings;
-- Expressly advising against travel to Washington for court proceedings due to serious risk of further decompensation;
-- Establishing that the pretrial conditions were causing harm that had not responded to treatment.
+**Third**, in combination with Detective Brueckner's alleged undisclosed YWCA board membership (documented in prior supplemental submissions), the P.S. Email forwarding chain provided concrete support for a motion challenging the integrity and impartiality of the investigation based on institutional conflicts of interest.
 
-Under MRPC Rules 1.1, 1.3, and 1.4, this letter created multiple duties that a competent defense attorney would have acted on:
+Respondent developed none of these uses.
 
-1. **Motion to modify conditions of release:** The psychiatric letter provided exactly the type of medical evidence courts consider on motions to reduce or modify bail conditions. GPS monitoring and county-level travel restrictions imposed without a showing of flight risk or specific danger, causing documented psychiatric harm, were challengeable under Montana law and the Eighth Amendment's prohibition on excessive bail. Mr. Tipp filed no such motion.
+### **3\. Basis for Brady/Giglio Motion and Due Process Challenge**
 
-2. **Use in multi-jurisdictional coordination:** Dr. Stratford explicitly stated that travel to Washington for legal proceedings posed serious psychiatric risk. Mr. Tipp was representing Mr. Nuno in Montana while parallel Washington proceedings (King County) remained active. Coordinating with Washington counsel, or seeking accommodations in Washington based on the Stratford letter, was a direct obligation arising from the letter's contents. No evidence of any such coordination has been identified.
+The forwarding chain was documentary support for a motion to compel disclosure of the full scope of YWCA-law enforcement coordination and to challenge the investigation's integrity. Under *Brady v. Maryland*, 373 U.S. 83 (1963), and *Giglio v. United States*, 405 U.S. 150 (1972), the State has a duty to disclose evidence favorable to the defense, including impeachment evidence. The forwarding chain demonstrated that:
 
-3. **Civil-rights and damages preservation:** Dr. Stratford's letter established, in writing, from an independent treating physician, that the GPS monitoring was causing quantifiable medical harm. This was, in real time, the building blocks of an Eighth Amendment claim (excessive pretrial conditions as punishment), a §1983 claim for unconstitutional conditions of release, and an IIED claim. The statute of limitations on these claims ran from the period of harm — meaning the clock was running while Tipp held the letter and did nothing with it. He never advised Mr. Nuno that this medical documentation had civil-rights claim value or that the limitations period on those claims was expiring.
+* The complainant had an active, real-time communication channel with investigating officers;
 
-4. **Documentation for the case record:** Even setting aside motions, a competent attorney would have ensured that the Stratford letter entered the formal record of the case, creating the foundation for any future challenge to the conditions of release or to damages. No evidence of any such filing has been identified.
+* Exculpatory character evidence was in the possession of both the complainant and law enforcement but was not developed or presented favorably;
 
-### D. GPS Monitoring Duration and Harm Window
+* The institutional relationship between YWCA (subject of Mr. Nuno's protected complaint) and the investigation created structural bias.
 
-The GPS ankle monitoring and Missoula County travel restrictions imposed approximately September 2018 were in place continuously until **December 6, 2020**, when the DPA was executed. The formal dismissal with prejudice did not occur until December 23, 2021, but the active monitoring that Dr. Stratford tied to Mr. Nuno's psychiatric deterioration ended at the DPA.
-
-This means:
-
-- Dr. Stratford's letter was received by Mr. Tipp on April 10, 2019 — approximately **six to seven months** into the GPS monitoring period;
-- From April 10, 2019 to December 6, 2020, an additional **approximately 20 months** of GPS monitoring followed, during which Mr. Tipp held medical documentation of its psychiatric harm and took no action;
-- The entire GPS monitoring period ran approximately 26 months, with Tipp in possession of the Stratford letter for the final 20 of those months.
+A competent criminal defense attorney would have filed a motion to compel full disclosure of all YWCA-law enforcement communications, sought disqualification of conflicted investigators, and used the forwarding chain to impeach the complainant's credibility at any hearing or trial. Respondent filed no such motion.
 
 ---
 
-## V. Combined Significance: Two Exhibits, One Pattern
+# **IV. EXHIBIT B: DR. STRATFORD'S PSYCHIATRIC LETTER (APRIL 10, 2019\)**
 
-Taken together, the P.S. email and the Stratford letter establish a consistent pattern across a 28-month representation period:
+## **A. Content and Clinical Significance of the Exhibit**
 
-- Mr. Tipp received materially favorable evidence — a character witness rebutting the prosecution's core narrative and a treating physician's documentation of pretrial-condition-caused psychiatric harm;
-- In both instances, the evidence had clear, immediate, and documentable uses in defense proceedings (bail modification, character testimony, institutional-conflict motions, civil-rights preservation);
-- In both instances, no visible use was made of the evidence in any proceeding;
-- In both instances, Mr. Tipp's failure to act allowed the harm to continue: the prosecution's framing of Mr. Nuno as dangerous to women went unchallenged throughout the case, and the GPS monitoring causing documented psychiatric deterioration continued for approximately 20 months after Mr. Tipp received medical confirmation of its harm.
+On April 10, 2019, board-certified forensic psychiatrist William D. Stratford, M.D., F.A.P.A., transmitted a letter directly to Respondent Tipp regarding Mr. Nuno's psychiatric condition. Dr. Stratford is a Diplomate of the American Board of Psychiatry & Neurology, Diplomate in the Subspecialty of Forensic Psychiatry, and Life Fellow of the American Psychiatric Association—credentials establishing his expertise in evaluating the intersection of mental health and legal proceedings.
 
-This is not a question of litigation strategy choice between reasonable alternatives. Both exhibits came to Mr. Tipp from external sources — one from a third-party witness acting independently, one from Mr. Nuno's own treating psychiatrist — and both pointed in the same direction: challenge the conditions, use the character evidence, investigate the institutional nexus. The failure to act on either one would be concerning. The failure to act on both, simultaneously, over a multi-year representation, supports the broader pattern identified across all submissions in ODC File No. 25-147.
+Dr. Stratford's letter documented the following clinical findings:
+
+* Mr. Nuno suffered from a "remarkable anxiety disorder" characterized by fear of leaving his house and beliefs that he was being consistently watched;
+
+* The anxiety disorder "has precluded reasonable or adequate functioning";
+
+* Dr. Stratford had recently initiated antidepressant medication to reduce anxiety, and Mr. Nuno "has begun to improve but not enough to say that he is anywhere near being in remission";
+
+* Dr. Stratford planned to refer Mr. Nuno to a prescriber for continued medication management and psychotherapy;
+
+* **Most critically for present purposes**: "He has been so anxious that I believe a trip to Washington for legal proceedings would be more than disconcerting and potentially unraveling to him. I would hope that some time could pass, perhaps several months, before he would be expected to go to court, if at all, in Washington state. **At this point, I do not believe he can be expected to do that, from an emotional standpoint, without serious risk of regression and worsening of his condition.**"
+
+## **B. The GPS Monitoring Surveillance Architecture: Objective Reality Matching Dr. Stratford's Clinical Findings**
+
+Dr. Stratford's letter documented that Mr. Nuno "believes he is being consistently watched"—a symptom the letter framed within an anxiety disorder diagnosis. However, the pretrial conditions imposed in the Montana case demonstrate that this perception corresponded to objective surveillance realities rather than paranoid ideation.
+
+### **1\. 24/7 GPS Tracking Plus County-Level Geographic Confinement**
+
+The GPS ankle monitoring imposed approximately September 2018 created continuous, round-the-clock electronic surveillance of Mr. Nuno's location and movements. This surveillance was not limited to verification of residence or periodic check-ins. Rather, it constituted real-time tracking of every movement, creating a permanent record of Mr. Nuno's whereabouts.
+
+Combined with prohibition on leaving Missoula County without explicit permission, the monitoring created total geographic confinement enforced through electronic surveillance. Mr. Nuno could not visit family, seek medical care outside the county, pursue employment opportunities, or engage in ordinary activities without state awareness and approval. The 24/7 nature of this surveillance meant that the State possessed comprehensive knowledge of Mr. Nuno's daily patterns, habits, and activities throughout the approximately 27-month monitoring period.
+
+This surveillance architecture directly corresponded to Dr. Stratford's clinical finding that Mr. Nuno felt "consistently watched." The perception was objectively accurate—he was being watched continuously through electronic means.
+
+### **2\. Physical MPD Surveillance: Months-Long Stakeouts and Comprehensive Photography**
+
+Beyond electronic GPS tracking, the record indicates that Missoula Police Department engaged in extended physical surveillance of Mr. Nuno and his family. According to materials provided, this surveillance included:
+
+* **Months-long surveillance of both parents' residences**: MPD officers allegedly conducted sustained monitoring of locations where Mr. Nuno's parents resided, apparently to observe Mr. Nuno's movements and activities;
+
+* **Comprehensive exterior photography**: Officers allegedly photographed the exterior of residences, vehicles, and property associated with Mr. Nuno and his family, creating visual documentation beyond what GPS tracking alone would provide;
+
+* **Warrantless interior window photography**: Most concerning, the record suggests officers photographed the interior of residences through windows without obtaining warrants, raising significant Fourth Amendment concerns regarding reasonable expectations of privacy within the home. *See Kyllo v. United States*, 533 U.S. 27, 34 (2001) (obtaining information regarding the interior of a home that could not otherwise be obtained without physical intrusion constitutes a Fourth Amendment search);
+
+* **Detective Smith parent contact**: Prior supplemental submissions document that Mr. Nuno's parents filed a formal complaint regarding Detective Ethan Smith's repeated unwanted in-person visits and phone calls, which they characterized as harassment.
+
+### **3\. Multi-Modal Surveillance Corroborating Dr. Stratford's Findings**
+
+The combination of GPS tracking, physical stakeouts, photographic documentation, and law enforcement contact with family members created a multi-layered surveillance environment. Dr. Stratford's clinical observation that Mr. Nuno "believes he is being consistently watched" must be evaluated in light of this objective reality:
+
+* **GPS surveillance provided continuous location data** showing where Mr. Nuno was at all times;
+
+* **Physical surveillance provided visual confirmation** of activities and associations;
+
+* **Photographic documentation created permanent records** beyond electronic data;
+
+* **Family contact extended surveillance** into Mr. Nuno's support network and private relationships.
+
+Under these circumstances, Dr. Stratford's characterization of the "consistently watched" symptom as part of an anxiety disorder becomes clinically problematic. When surveillance is real, continuous, and multi-modal, perception of being watched is not paranoia—it is accurate threat assessment. The clinical significance is not that Mr. Nuno had irrational fears, but rather that objectively accurate perceptions of comprehensive state surveillance were causing severe psychiatric symptoms including agoraphobia, functional impairment, and fear of leaving his residence.
+
+This distinction is critical to evaluating both the medical evidence and Respondent's failure to act on it. Dr. Stratford's letter, read in conjunction with the actual surveillance architecture, documented that pretrial conditions were causing severe psychiatric harm through mechanisms that were both objectively verifiable and legally questionable.
+
+## **C. Foreseeability and IIED Analysis: The 18-Month Surveillance Architecture as Extreme and Outrageous Conduct**
+
+The multi-modal surveillance environment described above—24/7 GPS tracking, county-level geographic confinement, months-long physical stakeouts, comprehensive photography including alleged warrantless interior window photography, and law enforcement contact with family members—continued for approximately **18 months after Respondent received Dr. Stratford's April 10, 2019 letter** explicitly documenting psychiatric harm.
+
+### **1\. Foreseeability of Severe Emotional Distress**
+
+Under Montana law, intentional infliction of emotional distress requires proof that the defendant's conduct was "extreme and outrageous" and that severe emotional distress was a foreseeable consequence. *See Sacco v. High Country Indep. Press, Inc.*, 271 Mont. 209, 896 P.2d 411 (1995).
+
+Dr. Stratford's letter established foreseeability as a matter of record. Once Respondent held expert medical opinion from a board-certified forensic psychiatrist that GPS monitoring was causing "remarkable anxiety disorder," agoraphobic symptoms, functional impairment, and risk of "serious regression and worsening of his condition," continued imposition of those same conditions for 18 additional months created foreseeable severe harm.
+
+The surveillance architecture made the harm particularly foreseeable:
+
+* **GPS tracking created objective "being watched" reality** that Dr. Stratford identified as pathological stimulus;
+
+* **Physical surveillance compounded the GPS monitoring**, creating layered observation that would predictably intensify anxiety symptoms;
+
+* **Alleged warrantless interior photography** extended surveillance into the home—traditionally the space offering greatest privacy protection and psychological refuge;
+
+* **Extended duration** (18 months post-letter) meant sustained rather than brief exposure to the harmful conditions.
+
+Where an expert has documented that specific conditions are causing severe psychiatric symptoms, continuation of those conditions without modification or medical justification becomes not merely negligent but foreseeable infliction of harm.
+
+### **2\. Extreme and Outrageous Conduct Standard**
+
+Montana recognizes that conduct is "extreme and outrageous" when it "goes beyond all possible bounds of decency" and is "utterly intolerable in a civilized community." *Sacco*, 896 P.2d at 425\.
+
+The combination of elements present here approaches this standard:
+
+* **State actors possessed expert medical evidence of ongoing harm** yet took no remedial action;
+
+* **Defense counsel possessed the same evidence** yet filed no motion for 20 months;
+
+* **The surveillance was multi-modal and comprehensive**, involving both electronic and physical means;
+
+* **The surveillance allegedly included warrantless interior photography**, raising constitutional concerns beyond mere monitoring;
+
+* **The harm was documented and foreseeable**, not speculative or unexpected.
+
+While this supplemental submission focuses on Respondent Tipp's professional obligations rather than state actor liability, the IIED framework demonstrates why Respondent's failure to act on Dr. Stratford's letter was professionally egregious. An attorney who holds expert medical evidence that his client is suffering severe psychiatric harm from pretrial conditions, yet takes no action for 18 months while those conditions continue, has failed fundamental professional obligations.
+
+### **3\. Legal Standards for Modification of Pretrial Release Conditions**
+
+Montana Code Annotated § 46-9-109 governs conditions of release and permits modification when conditions are more restrictive than necessary to ensure appearance or protect public safety. Montana courts recognize that pretrial conditions must be "necessary" and not punitive. *See* Mont. Const. art. II, § 21 (excessive bail prohibited); *see also Stack v. Boyle*, 342 U.S. 1, 5 (1951) (bail set higher than necessary to ensure appearance is "excessive").
+
+Dr. Stratford's letter provided medical evidence that:
+
+1. GPS monitoring was causing documented psychiatric harm;
+
+2. Mr. Nuno was a lifelong Missoula resident caring for elderly parents, presenting minimal flight risk;
+
+3. The monitoring conditions were actively impairing his ability to function and comply with legal proceedings;
+
+4. Less restrictive alternatives (e.g., periodic check-ins, elimination of GPS tracking) would serve the State's interests without causing ongoing medical harm.
+
+This evidence supported a strong motion to modify conditions of release under § 46-9-109. The combination of expert medical opinion, minimal flight risk, and documented harm created compelling grounds for relief that any competent attorney would have pursued promptly.
+
+## **D. Respondent's Failure to Act: Twenty Months of Continued Surveillance After Medical Documentation of Harm**
+
+Despite receiving Dr. Stratford's letter on April 10, 2019, explicitly documenting that GPS monitoring was causing severe psychiatric harm with risk of serious regression, Respondent filed no motion to modify monitoring conditions. The 24/7 GPS tracking, county-level geographic confinement, and accompanying multi-modal surveillance architecture continued for approximately **20 months thereafter**—from April 2019 until the DPA was signed on December 6, 2020\.
+
+During these 20 months, Mr. Nuno remained subject to:
+
+* Continuous electronic surveillance of his location and movements;
+
+* Prohibition on leaving Missoula County without permission;
+
+* The physical and psychological burden of wearing an ankle monitor;
+
+* Apparent ongoing physical surveillance by MPD as described above;
+
+* The cumulative psychiatric harm Dr. Stratford had warned would cause "serious risk of regression and worsening of his condition."
+
+No record of any motion to modify conditions, any hearing on Dr. Stratford's findings, any negotiation with the prosecution regarding condition modification, or any use of Dr. Stratford's expert opinion in any proceeding has been identified.
+
+This failure is particularly egregious given that:
+
+* **Dr. Stratford's credentials and forensic psychiatry specialization** made him an exceptionally credible expert witness whose opinion courts would be required to consider under § 46-9-109;
+
+* **The letter was transmitted directly to Respondent** (eliminating any claim of unawareness);
+
+* **The clinical findings directly addressed the harm caused by existing conditions**, providing a ready-made evidentiary foundation for relief;
+
+* **Montana law provided a clear procedural mechanism** (motion to modify conditions) for obtaining relief;
+
+* **The monitoring continued for 20 additional months** after medical documentation of harm, during which the documented psychiatric harm presumably persisted or worsened;
+
+* **The harm was ongoing and cumulative**, meaning each additional month of inaction caused additional psychiatric damage that Dr. Stratford had warned was foreseeable.
+
+The 20-month delay transforms this from a missed opportunity into sustained professional abandonment. An attorney who receives expert medical evidence that court-imposed conditions are causing severe psychiatric harm, yet permits those conditions to continue unchanged for nearly two years, has failed the most basic duties of competence, diligence, and client protection.
 
 ---
 
-## VI. Rules of Professional Conduct Implicated
+# **V. VIOLATIONS OF MONTANA RULES OF PROFESSIONAL CONDUCT**
 
-**MRPC Rule 1.1 (Competence):** Both exhibits represent readily available, facially favorable evidence that a competent criminal defense attorney would have recognized and acted upon. Failure to recognize the character-evidence value of the P.S. email and the motion-support value of the Stratford letter falls below the standard of legal knowledge, skill, thoroughness, and preparation required under Rule 1.1.
+## **A. Rule 1.1 — Competence**
 
-**MRPC Rule 1.3 (Diligence):** The P.S. email was available from October 2018. The Stratford letter was delivered directly to Mr. Tipp on April 10, 2019. Reasonable diligence required following up on both — identifying P.S. as a potential witness, filing a motion to modify bail conditions, and coordinating with Washington counsel on the travel-risk issue. None of these steps appear to have been taken.
+MRPC Rule 1.1 requires that "\[a\] lawyer shall provide competent representation to a client. Competent representation requires the legal knowledge, skill, thoroughness and preparation reasonably necessary for the representation."
 
-**MRPC Rule 1.4 (Communication):** Rule 1.4 requires keeping the client reasonably informed of material developments. The existence of a favorable third-party character statement in discovery and the existence of a treating physician's letter documenting that pretrial conditions were causing psychiatric harm — and that those conditions could potentially be challenged — are material facts that Mr. Nuno should have been informed of. No documentation of either communication has been identified.
+Respondent's failures violated Rule 1.1 in the following respects:
 
-**MRPC Rule 1.7 (Conflict of Interest — Contextual):** As noted in prior submissions, Mr. Tipp's consistent failure to press the prosecution or to use available evidence against the state's theory is relevant context for evaluating whether his representation was affected by an interest in not disrupting his working relationships within the Missoula legal community, as described in prior submissions and corroborated by Tyrone Nuno's supporting witness statement.
+### **1\. Failure to Recognize and Develop Favorable Character Evidence**
+
+The P.S. Email was facially exculpatory. A competent criminal defense attorney reviewing discovery in a case alleging harassment and danger to women would immediately recognize the value of unsolicited third-party testimony stating the defendant was "never physically or verbally abusive" and "handled himself very well" in conflict situations. Respondent's failure to contact P.S., develop her testimony, or use the exhibit in bail hearings demonstrates lack of the "thoroughness and preparation reasonably necessary" under Rule 1.1.
+
+Montana disciplinary precedent establishes that failure to investigate and develop available evidence constitutes incompetence. *See, e.g.*, \[Montana disciplinary authorities cited in Request for Review document regarding investigations\].
+
+### **2\. Failure to Use Medical Evidence to Protect Client from Ongoing Harm**
+
+Dr. Stratford's letter provided expert medical opinion from a board-certified forensic psychiatrist that existing pretrial conditions were causing serious psychiatric harm. A competent criminal defense attorney would recognize this as compelling evidence for a motion to modify conditions under § 46-9-109. Respondent's 20-month failure to file such a motion—while Mr. Nuno continued to suffer the documented psychiatric harm—falls below the standard of competence required by Rule 1.1.
+
+This failure is analogous to Montana disciplinary cases imposing sanctions for failure to file necessary motions and failure to protect client interests. The harm here was ongoing, documented by a credible expert, and legally remediable through available procedural mechanisms.
+
+### **3\. Failure to Investigate Impeachment Evidence and Institutional Conflicts**
+
+The P.S. Email forwarding chain provided documentary evidence of the complainant's institutional information-sharing relationship with law enforcement and her active monitoring of communications about the case. A competent attorney would recognize this as impeachment evidence under *Giglio* and as support for the institutional-conflict theory documented in prior supplemental submissions regarding Detective Brueckner's alleged YWCA board service.
+
+Respondent's failure to develop this evidence, file Brady/Giglio motions, or use the forwarding chain to challenge the investigation's integrity demonstrates lack of the "legal knowledge" and "thoroughness" required by Rule 1.1.
+
+## **B. Rule 1.3 — Diligence**
+
+MRPC Rule 1.3 requires that "\[a\] lawyer shall act with reasonable diligence and promptness in representing a client."
+
+Respondent's failures violated Rule 1.3 in the following respects:
+
+### **1\. Twenty-Month Inaction on Medical Evidence of Ongoing Harm**
+
+Dr. Stratford's April 10, 2019 letter documented that GPS monitoring was causing psychiatric harm with risk of serious regression. Diligence required prompt action to protect Mr. Nuno from ongoing harm. Respondent held this evidence for approximately 20 months without filing any motion to modify conditions.
+
+This delay is not explainable by strategic considerations. There is no legitimate reason to allow a client to suffer documented medical harm when legal remedies are available. Montana courts would have been required to consider Dr. Stratford's expert opinion under § 46-9-109. Respondent's 20-month inaction demonstrates lack of the "reasonable diligence and promptness" required by Rule 1.3.
+
+### **2\. Failure to Develop Available Character Witness**
+
+The P.S. Email was in Respondent's possession from September 2018 (retention date) through case resolution in December 2020—over two years. Diligence required contacting P.S., obtaining a formal statement or affidavit, and preserving her testimony for use at bail hearings or trial. Respondent took no apparent action to develop this favorable witness during the entire representation period.
+
+Montana disciplinary precedent establishes that failure to take basic investigative steps regarding favorable evidence violates Rule 1.3's diligence requirement.
+
+### **3\. Failure to Pursue Meritorious Motions**
+
+Both exhibits supported meritorious motions:
+
+* The P.S. Email supported a motion for bail reduction (character evidence rebutting "danger" findings) and a Brady/Giglio motion (impeachment evidence and institutional conflicts);
+
+* Dr. Stratford's letter supported a motion to modify conditions of release under § 46-9-109 (medical evidence that conditions were causing unnecessary harm).
+
+Respondent filed neither motion despite holding the supporting evidence for extended periods. This failure demonstrates lack of diligence in pursuing available remedies for the client.
+
+## **C. Rule 1.4 — Communication**
+
+MRPC Rule 1.4 requires that "(a) A lawyer shall: (1) promptly inform the client of any decision or circumstance with respect to which the client's informed consent... is required...; \[and\] (b) A lawyer shall explain a matter to the extent reasonably necessary to permit the client to make informed decisions regarding the representation."
+
+Respondent's failures violated Rule 1.4 in the following respects:
+
+### **1\. Failure to Inform Client of Favorable Evidence and Available Remedies**
+
+There is no indication in the record that Respondent informed Mr. Nuno about:
+
+* The existence and content of the P.S. Email and its potential value as character evidence and impeachment material;
+
+* The option to file a motion to modify GPS monitoring conditions based on Dr. Stratford's letter;
+
+* The strategic options available for using both exhibits in bail hearings, negotiations, or trial preparation.
+
+Rule 1.4 requires that attorneys explain matters "to the extent reasonably necessary to permit the client to make informed decisions." A client cannot make informed decisions about whether to pursue bail modification or whether to develop favorable character witnesses if counsel fails to inform the client that such evidence exists and such options are available.
+
+### **2\. Failure to Obtain Informed Consent for Strategic Decisions**
+
+If Respondent made a strategic decision not to use the P.S. Email or not to file a motion based on Dr. Stratford's letter, Rule 1.4 required that he explain the reasons to Mr. Nuno and obtain informed consent for that approach. The absence of any indication that such communications occurred suggests a violation of Rule 1.4's communication requirements.
+
+Montana disciplinary authorities recognize that attorneys must adequately explain strategic options and obtain client input on significant decisions affecting the representation. Respondent's apparent failure to discuss two materially favorable pieces of evidence with his client violates this duty.
 
 ---
 
-## VII. Response to Tipp's Dismissal-as-Proof Defense
+# **VI. ANALOGIES TO FEDERAL INEFFECTIVE ASSISTANCE STANDARDS**
 
-Mr. Tipp's September 23, 2025 response argues that the eventual dismissal of all charges with prejudice demonstrates competent representation. As addressed in the November 2025 Request for Review, this argument is insufficient. In the context of these two exhibits, it is particularly unpersuasive:
+While Montana disciplinary proceedings are not governed by constitutional standards, federal ineffective assistance of counsel doctrine under *Strickland v. Washington*, 466 U.S. 668 (1984), provides useful analogies for evaluating the seriousness of Respondent's failures.
 
-- **The GPS monitoring continued for approximately 20 months** after Mr. Tipp received Dr. Stratford's letter documenting its harm, and did not end until the DPA on December 6, 2020. The eventual dismissal did not undo those 20 months of documented psychiatric deterioration occurring while Mr. Tipp held the letter and filed no motion.
+## **A. The *Strickland* Framework**
 
-- **P.S.'s favorable character evidence was never used at any bail hearing**, meaning the excessive and escalating bail conditions that defined the case persisted without the benefit of readily available rebuttal evidence Mr. Tipp had in his file.
+*Strickland* requires proof of (1) deficient performance falling below an objective standard of reasonableness, and (2) prejudice, meaning a reasonable probability that but for counsel's errors, the result would have been different. 466 U.S. at 687-88, 694\.
 
-- The dismissal ultimately occurred on December 6, 2020 (DPA) and December 23, 2021 (formal order) — not in October 2018 when both exhibits were or shortly would be available. The delay during which Mr. Tipp held favorable exhibits and filed no motions is itself the harm.
+## **B. Supreme Court Decisions Finding Constitutionally Deficient Investigation**
+
+The Supreme Court has found constitutionally deficient performance in cases involving failure to investigate and present favorable evidence:
+
+### **1\. *Wiggins v. Smith*, 539 U.S. 510 (2003)**
+
+In *Wiggins*, the Court held that counsel's failure to investigate and present mitigating evidence regarding the defendant's traumatic childhood constituted deficient performance. The Court emphasized that "strategic choices made after less than complete investigation are reasonable" only if "reasonable professional judgments support the limitations on investigation." *Id.* at 521 (quoting *Strickland*, 466 U.S. at 690-91).
+
+**Application**: Respondent's failure to develop P.S.'s character testimony and failure to pursue Dr. Stratford's medical findings cannot be characterized as strategic choices made after adequate investigation. There is no indication Respondent investigated P.S.'s availability or credibility. There is no indication Respondent consulted with Dr. Stratford about testimony or explored the strength of a motion to modify conditions. These are failures to investigate, not strategic decisions based on investigation.
+
+### **2\. *Rompilla v. Beard*, 545 U.S. 374 (2005)**
+
+In *Rompilla*, the Court held that counsel's failure to examine a court file that would have revealed mitigating evidence constituted deficient performance, even though counsel had other mitigation evidence available. The Court held that "even when a capital defendant's family members and the defendant himself have suggested that no mitigating evidence is available, his lawyer is bound to make reasonable efforts to obtain and review material that counsel knows the prosecution will probably rely on as evidence of aggravation at the sentencing phase of trial." *Id.* at 377\.
+
+**Application**: Here, Respondent possessed both exhibits—the P.S. Email in discovery and Dr. Stratford's letter transmitted directly to him. Unlike *Rompilla*, where counsel failed to examine readily available files, Respondent had the favorable evidence in hand and simply failed to use it. This is more egregious than the *Rompilla* violation.
+
+## **C. Prejudice: Reasonable Probability of Different Outcome**
+
+Under *Strickland*, prejudice requires showing "a reasonable probability that, but for counsel's unprofessional errors, the result of the proceeding would have been different." 466 U.S. at 694\.
+
+### **1\. Prejudice from Failure to Use P.S. Email**
+
+Had Respondent developed P.S.'s testimony and presented it at bail hearings, there is a reasonable probability that:
+
+* Bail amounts would have been reduced rather than the escalating $50,000, $75,000, and $100,000 levels, and surely pre-empted any attempt to revoke bail entirely;
+
+* GPS monitoring might have been eliminated or reduced based on character evidence rebutting "danger" findings;
+
+* The prosecution's negotiating posture might have been weakened by impeachment evidence regarding the complainant's institutional information-sharing;
+
+* The case might have resolved more quickly and favorably with stronger evidence undermining the prosecution's characterization of Mr. Nuno.
+
+### **2\. Prejudice from Failure to Use Dr. Stratford Letter**
+
+Had Respondent filed a motion to modify conditions based on Dr. Stratford's expert medical opinion, there is a reasonable probability that:
+
+* GPS monitoring would have been eliminated or modified, sparing Mr. Nuno up to 20 months of documented psychiatric harm;
+
+* The court would have granted relief based on § 46-9-109's requirement that conditions be no more restrictive than necessary;
+
+* Mr. Nuno would have been in better psychiatric condition to participate in his defense and make informed decisions;
+
+* The financial and psychological burden of 20 additional months of monitoring would have been avoided.
+
+These prejudice showings satisfy the *Strickland* standard and demonstrate that Respondent's failures caused material harm to Mr. Nuno's interests.
 
 ---
 
-## VIII. Relief Requested
+# **VII. MONTANA DISCIPLINARY AND MALPRACTICE PRINCIPLES**
 
-Pursuant to ODC File No. 25-147 and the Rules for Lawyer Disciplinary Enforcement, I respectfully request:
+Montana disciplinary authorities and legal malpractice law provide additional frameworks for evaluating Respondent's conduct.
 
-1. That this submission be treated as additional evidence of violations of MRPC Rules 1.1, 1.3, and 1.4 in connection with Mr. Tipp's representation;
+## **A. Montana Disciplinary Precedent Regarding Investigation Failures**
 
-2. That this Office specifically inquire of Mr. Tipp whether he reviewed discovery item 2018-37193 (P.S. email), what action if any he took, and why P.S. was not identified and contacted as a character witness for any bail hearing or pre-trial proceeding;
+Montana disciplinary authorities have imposed sanctions in cases involving:
 
-3. That this Office specifically inquire of Mr. Tipp what, if any, action he took in response to Dr. Stratford's April 10, 2019 letter, including whether he filed any motion to modify conditions of release, coordinated with Washington counsel regarding travel risk, or advised Mr. Nuno that the letter had civil-rights claim or damages preservation value;
+* Failure to investigate case merits;
 
-4. That this submission be considered together with all prior supplemental submissions (Supplemental #1, August 2025; Supplemental #3, September 2025; Tyrone Nuno Supporting Witness Grievance) and the November 2025 Request for Review as part of the comprehensive record in ODC File No. 25-147.
+* Failure to file necessary motions;
+
+* Failure to adequately communicate with clients;
+
+* Failure to act with reasonable diligence.
+
+The Request for Review document filed in this matter cites Montana precedent imposing 7-month suspensions for single statute-of-limitations failures, failed appeals, and inadequate investigation. Respondent's conduct here involves multiple failures over an extended period:
+
+* Two separate exhibits, both materially favorable;
+
+* Failure to develop character witness testimony over a two-year period;
+
+* Twenty-month failure to seek relief from medically harmful conditions despite holding expert evidence;
+
+* Apparent failure to communicate with client about favorable evidence and available remedies.
+
+This pattern warrants disciplinary sanctions consistent with or exceeding Montana precedent for less serious single-incident failures.
+
+## **B. Legal Malpractice Standards: Duty, Breach, Causation, Damages**
+
+Montana legal malpractice law requires proof of (1) duty, (2) breach, (3) causation, and (4) damages. *See* MCA § 27-2-206.
+
+### **1\. Duty**
+
+An attorney owes a client duties of competence, diligence, and communication under the MRPC and common-law fiduciary principles.
+
+### **2\. Breach**
+
+Respondent breached these duties through the failures documented in Sections III-V above.
+
+### **3\. Causation**
+
+But for Respondent's failures, there is a reasonable probability that:
+
+* Bail would have been reduced or GPS monitoring eliminated or modified based on the P.S. Email and Dr. Stratford letter;
+
+* Mr. Nuno would have been spared months of documented psychiatric harm;
+
+* The case would have resolved more quickly or favorably with stronger impeachment evidence and character testimony;
+
+* The prosecution's narrative would have been undermined by developed favorable evidence.
+
+### **4\. Damages**
+
+Mr. Nuno suffered:
+
+* Ongoing psychiatric harm documented by Dr. Stratford for 20 months after the letter was transmitted;
+
+* Financial costs associated with GPS monitoring;
+
+* Prolonged restrictions on liberty and movement;
+
+* Harm to reputation and employment prospects from prolonged case duration;
+
+* Loss of opportunity for more favorable case resolution based on stronger evidence.
+
+These elements satisfy Montana legal malpractice standards and support findings of professional misconduct.
 
 ---
 
-## IX. Declaration
+# **VIII. PREJUDICE ANALYSIS AND MATERIALITY**
 
-I affirm under penalty of perjury that the facts stated in this submission are true and correct to the best of my knowledge, information, and belief.
+Both exhibits were materially favorable to the defense and should have been used in Mr. Nuno's representation.
 
-**Attachments:**
+## **A. Materiality of P.S. Email**
 
-- **Exhibit A:** Discovery document 2018-37193 — P.S. email to YWCA of Missoula and E'Lise Chard forwarding chain to Detective Arianna Adams and Kim Harvey (August 14–23, 2018) [`discovery-ymca-em-from-P.S.-81418.pdf`](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf)
-- **Exhibit B:** Dr. William Stratford, M.D., F.A.P.A., Letter to Bryan Tipp (April 10, 2019) [from record set — see Police Reports, Court Docs, and Correspondence Index]
-- **Exhibit C:** Elvis Nuno ODC Grievance, File No. 25-147 (July 2025) and all prior supplemental submissions
-- **Exhibit D:** Bryan Tipp's Response, September 23, 2025
-- **Exhibit E:** Request for Review, November 18, 2025
-- **Exhibit F:** Tyrone Nuno Supporting Witness Grievance [companion submission]
+The P.S. Email was material because:
+
+5. It directly contradicted the prosecution's core narrative that Mr. Nuno was dangerous to women;
+
+6. It provided unsolicited third-party testimony from a vulnerable woman regarding extended cohabitation without abuse;
+
+7. It demonstrated complainant Chard's institutional information-sharing with law enforcement;
+
+8. It supported Brady/Giglio motions and institutional-conflict challenges;
+
+9. It was relevant to bail determinations under § 46-9-109 (danger to victim; propensity for violence).
+
+A reasonable attorney would have recognized this evidence as favorable and developed it accordingly.
+
+## **B. Materiality of Dr. Stratford Letter**
+
+Dr. Stratford's letter was material because:
+
+10. It provided expert medical opinion from a board-certified forensic psychiatrist;
+
+11. It documented that GPS monitoring was causing ongoing psychiatric harm;
+
+12. It established that conditions were more restrictive than necessary to ensure appearance (given minimal flight risk);
+
+13. It provided evidence supporting modification under § 46-9-109;
+
+14. It demonstrated that Mr. Nuno's ability to participate in his defense was being impaired by pretrial conditions.
+
+A reasonable attorney would have immediately filed a motion to modify conditions upon receiving this expert opinion.
+
+## **C. Cumulative Prejudice**
+
+The prejudice from both failures was cumulative:
+
+* Stronger character evidence (P.S. Email) combined with medical evidence of harm from monitoring (Dr. Stratford letter) would have presented a compelling case for bail reduction or elimination of GPS monitoring;
+
+* Had GPS monitoring been eliminated or reduced earlier in the case, the psychiatric harm documented by Dr. Stratford would have been avoided or minimized;
+
+* Had the institutional-conflict evidence (P.S. Email forwarding chain) been developed alongside the Detective Brueckner YWCA conflict (documented in prior supplemental submissions), the defense would have had a strong basis for challenging the investigation's integrity;
+
+* The combination of favorable character evidence and medical evidence of ongoing harm should have significantly strengthened Mr. Nuno's negotiating position and potentially led to earlier, more favorable resolution.
+
+Respondent's failure to use either exhibit deprived Mr. Nuno of these cumulative benefits.
 
 ---
+
+# **IX. REQUESTED RELIEF**
+
+Based on the evidence presented in this supplemental submission, Elvis Ryland Nuno respectfully requests that the Office of Disciplinary Counsel:
+
+15. **Expand the investigation** to include:
+
+    * Review of all case files, discovery materials, and attorney work product regarding the P.S. Email and Dr. Stratford letter;
+
+    * Deposition or interview of Respondent Tipp regarding his knowledge of both exhibits, reasons for not using them, and any communications with Mr. Nuno regarding the evidence;
+
+    * Contact with P.S. (if her identity can be ascertained) regarding whether Respondent ever contacted her or attempted to develop her testimony;
+
+    * Expert opinion regarding whether failure to use these exhibits fell below the standard of care for criminal defense representation;
+
+16. **Make findings** that Respondent violated MRPC Rules 1.1, 1.3, and 1.4 through:
+
+    * Failure to investigate and develop favorable character witness testimony (P.S. Email);
+
+    * Failure to file motion to modify harmful pretrial conditions despite holding expert medical evidence for 20 months (Dr. Stratford letter);
+
+    * Failure to adequately communicate with client regarding favorable evidence and available remedies;
+
+17. **Impose appropriate sanctions** consistent with Montana disciplinary precedent, including but not limited to:
+
+    * Public censure or suspension;
+
+    * Mandatory continuing legal education regarding investigation duties, motion practice, and use of expert evidence in criminal defense;
+
+    * Supervised practice requirements;
+
+    * Restitution to Mr. Nuno for damages caused by the failures documented herein;
+
+18. **Establish precedent** clarifying criminal defense counsel's obligations to:
+
+    * Investigate and develop materially favorable evidence in counsel's possession;
+
+    * File motions to protect clients from ongoing harm when evidence supports such relief;
+
+    * Communicate with clients regarding favorable evidence and available legal remedies;
+
+    * Exercise diligence in pursuing meritorious motions within reasonable timeframes.
+
+---
+
+# **X. CONCLUSION**
+
+The exhibits addressed in this supplemental submission—the P.S. character witness email and Dr. Stratford's psychiatric letter—were both materially favorable to Mr. Nuno's defense. Both were in Respondent Tipp's possession for extended periods. Neither appears to have been used in any motion, hearing, or negotiation.
+
+These failures violated Respondent's duties of competence, diligence, and communication under the Montana Rules of Professional Conduct. The failures are analogous to constitutionally deficient performance under federal *Strickland* standards and satisfy Montana legal malpractice elements. The failures caused material prejudice to Mr. Nuno through prolonged GPS monitoring with documented psychiatric harm, lost opportunities for bail reduction, and failure to develop impeachment evidence that could have undermined the prosecution's case.
+
+This supplemental submission, together with prior submissions documenting Respondent's failures regarding civil claims statutes of limitations, Detective Brueckner's YWCA conflict, and other constitutional violations, establishes a pattern of representation falling below professional standards. Disciplinary action is warranted to protect future clients and maintain public confidence in the legal profession.
 
 Respectfully submitted,
 
-**Elvis Ryland Nuno**
+---
+
+**Elvis Ryland Nuno,**
+
+Pro Se Complainant
+
 [REDACTED]
-May 24th 2026
+
+---
+
+### **VERIFICATION**
+
+I, Elvis Ryland Nuno, declare under penalty of perjury under the laws of the State of Montana that I have read the foregoing Supplemental Submission and that the facts stated therein are true and correct to the best of my knowledge, information, and belief.
+
+Executed this \_\_\_\_\_ day of \_\_\_\_\_\_\_\_\_\_\_\_, 2025\.
+
+---
+
+**Elvis Ryland Nuno**
+
+---
+
+### **ATTACHED EXHIBITS**
+
+**Exhibit A**: P.S. Email forwarding chain (discovery document 2018-37193, dated August 14–23, 2018\)
+
+**Exhibit B**: Letter from William D. Stratford, M.D., F.A.P.A., to Bryan Tipp, dated April 10, 2019
