@@ -162,7 +162,7 @@ The petition is asserted to contain multiple falsehood categories. The list belo
 
 **Documented reality (asserted):**
 
-* One DV 3rd degree assault charge in Washington State is asserted.
+* One DV 4th degree assault charge in Washington State is asserted.
 * No drug history is asserted.
 * Other referenced cases are asserted as dismissed with prejudice due to lack of evidence.
 
