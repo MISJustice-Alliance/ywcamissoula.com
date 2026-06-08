@@ -26,7 +26,7 @@ It is designed for civil malpractice counsel, civil-rights counsel, legal clinic
 1. **The Tipp malpractice track.** Alleged criminal-defense malpractice by Bryan C. Tipp arising from the same Missoula criminal proceedings, including failure to investigate favorable evidence, failure to warn about or preserve civil claims, failure to challenge GPS monitoring after medical documentation of harm, and negotiation or acceptance of a Deferred Prosecution Agreement (DPA) condition restricting protected speech.
 2. **The Lowney prosecutorial-misconduct track.** The April 28, 2026 grievance against Deputy County Attorney Brian Lowney and the Missoula County Attorney's Office, alleging Brady/Giglio violations, reliance on conflicted or tainted investigative work, prosecution of protected speech, coercive charging/bail practices, and DPA speech restrictions.
 
-The two tracks are distinct. The Tipp track is a civil-malpractice intake track and a closed/review-stage ODC disciplinary record. The Lowney track is a prosecutorial-misconduct grievance that the local GitBook record treats as pending or unresolved unless later ODC documentation proves otherwise.
+The two tracks are distinct. The Tipp track is a civil-malpractice intake track tied to ODC 25-147, which the current case file treats as denied on review and closed; however, no notice of the review denial was received, so the justification used by ODC is unknown. The May 2026 supplemental filings by Elvis Nuno, Tyrone Nuno, and Eleanor M. Nuno have now been submitted as new supplemental material, functionally reopening the Tipp matter for reconsideration while also opening a separate or expanded investigative track arising from Eleanor Nuno's independent grievance. The Lowney track remains a prosecutorial-misconduct grievance that the local GitBook record treats as pending or unresolved unless later ODC documentation proves otherwise.
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
@@ -40,10 +40,11 @@ The attached intake brief is useful, but several statements required adjustment 
 
 | Brief statement or risk | Adjustment made in this page |
 | --- | --- |
-| Tipp ODC matter described in places as a pending investigation. | The GitBook case file identifies the initial Tipp ODC 25-147 complaint as rejected by ODC, with Request for Review materials in the record. This page preserves that posture. |
+| Tipp ODC matter described in places as a pending investigation. | The GitBook case file identifies the initial Tipp ODC 25-147 complaint as rejected by ODC and the Request for Review as denied/closed. No notice of that review denial was received, so the justification used is unknown. |
+| May 2026 supplemental filings added after ODC 25-147 closure. | The Supplemental Submission #4, Tyrone Nuno supporting submission, and Eleanor Nuno independent grievance/supporting submission have now been submitted. This page treats them as new material that functionally reopens the Tipp matter for reconsideration and opens or expands the investigative record concerning Eleanor Nuno's grievance. |
 | Tipp grievance filing described in one place as October 2025. | The GitBook case file uses July 2025 for the original Tipp grievance and November 2025 for review materials. This page uses the local case-file chronology. |
 | Defamation described as a three-year Montana claim under MCA § 27-2-204. | MCA § 27-2-204(3) gives libel and slander a **two-year** period. This page corrects the defamation limitation flag. |
-| Medical-malpractice deadlines described generally as three years. | Current MCA § 27-2-205 uses a two-year injury/discovery period with a five-year repose limit; older versions may differ by date. This page treats medical-malpractice timing as a separate counsel-calculation item. |
+| Malpractice terminology could be misread as medical-provider malpractice. | This page now treats the Tipp theory as **attorney/legal malpractice**, which Montana classifies as professional negligence governed by MCA § 27-2-206. |
 | Damages stated as $8.5-10.5 million and lost civil claims as $6.4-8.4 million. | This page preserves those figures only as **intake allegations and damages targets**, not verified valuations. |
 
 ### Verify first
@@ -69,9 +70,9 @@ The attached intake brief is useful, but several statements required adjustment 
 
 | Matter | Respondent | Role in underlying case | Record date | Current posture in this GitBook record | Civil-case relevance |
 | --- | --- | --- | --- | --- | --- |
-| ODC 25-147 | Bryan C. Tipp | Defense attorney | Original grievance July 2025; review materials November 2025 | Rejected by Montana ODC, with Request for Review materials preserved | Primary malpractice-intake track. |
+| ODC 25-147 | Bryan C. Tipp | Defense attorney | Original grievance July 2025; review materials November 2025; supplemental filings May 2026 | Rejected by Montana ODC; Request for Review denied and case closed, but no denial notice was received, leaving the stated rationale unknown. May 2026 supplemental submissions have now been submitted and functionally place the matter back before ODC for reconsideration. | Primary malpractice-intake track and reconsideration record. |
 | Lowney ODC grievance | Brian Lowney / Missoula County Attorney's Office | Prosecutor | April 28, 2026 | Treated as pending or unresolved absent later ODC disposition | Supports Brady/Giglio, First Amendment, abuse-of-process, DPA-coercion, and damages context. |
-| Supporting witness filings | Tyrone Nuno and Eleanor M. Nuno | Family witnesses / former-client context | May 2026 | Supplemental factual record | Corroborates failure-to-interview, family-pressure, fabricated-statement, and investigator-removal allegations. |
+| Supporting witness and independent grievance filings | Tyrone Nuno and Eleanor M. Nuno | Family witnesses / former-client context | May 2026 | Supplemental factual record now submitted to ODC. Tyrone Nuno's filing supports reconsideration of the Tipp record; Eleanor Nuno's independent grievance also opens or expands the matter for further investigation relating to her own allegations. | Corroborates failure-to-interview, family-pressure, fabricated-statement, and investigator-removal allegations. |
 
 ### Case-history synthesis
 
@@ -88,17 +89,17 @@ The merged case chronology should be treated as an intake map, not a final litig
 | April 10, 2019 | Dr. William D. Stratford transmits psychiatric letter to Tipp documenting anxiety/agoraphobic features and risk from ongoing proceedings/monitoring. | Supports malpractice theory that counsel had medical evidence for a release-condition modification motion but filed none. |
 | December 6, 2020 | DPA executed; local records state GPS monitoring ended at the DPA. | Key date for DPA speech restriction, end of active GPS monitoring, and potential waiver/coercion analysis. |
 | December 23, 2021 | Formal dismissal with prejudice. | Use this date for formal termination unless certified court records say otherwise. Avoid collapsing it into the December 2020 DPA date. |
-| 2025-2026 | ODC 25-147 review materials, Lowney grievance, and supporting witness filings are added. | Administrative and evidentiary record for civil intake and advocacy. |
+| 2025-2026 | ODC 25-147 review materials, Lowney grievance, and May 2026 supplemental/supporting filings are added. The ODC 25-147 Request for Review is treated as denied and closed, but no notice was received; the May 2026 submissions are newly submitted materials for reconsideration and further investigation. | Administrative and evidentiary record for civil intake, advocacy, reconsideration, and the Eleanor Nuno independent grievance track. |
 
 ### Authority matrix
 
 | Issue | Civil-intake use | Authority and caution |
 | --- | --- | --- |
-| Legal-malpractice limitations | Montana legal-malpractice actions are governed by a discovery-based three-year period with a ten-year outer limit. | [MCA § 27-2-206](https://law.justia.com/codes/montana/title-27/chapter-2/part-2/section-27-2-206/) |
-| Criminal-defense malpractice timing | A criminal-defense malpractice claim is not automatically converted into postconviction relief; Montana recognizes civil malpractice and criminal/postconviction tracks as separate. | [Spencer v. Beck, 245 P.3d 21 (Mont. 2010)](https://law.justia.com/cases/montana/supreme-court/2010/0d33cf69-67c1-473c-9c31-05c51c3f7660.html) |
+| Attorney/legal-malpractice classification | Montana treats attorney malpractice as professional negligence requiring proof of duty, breach, causation, and damages. | [Redies v. Attorneys Liability Protection Society, 150 P.3d 930 (Mont. 2007)](https://app.midpage.ai/document/redies-v-attorneys-liability-protection-888148?utm_source=mcp) |
+| Legal-malpractice limitations | Montana legal-malpractice actions are governed by § 27-2-206: three years from actual or reasonably diligent discovery of the act, error, or omission, with an outside ten-year repose limit from the act, error, or omission. | [MCA § 27-2-206](https://mca.legmt.gov/bills/mca/title_0270/chapter_0020/part_0020/section_0060/0270-0020-0020-0060.html); [Snyder v. Love, 153 P.3d 571 (Mont. 2006)](https://app.midpage.ai/document/snyder-v-love-887455?utm_source=mcp) |
+| Criminal-defense malpractice timing | A criminal-defense malpractice claim is not automatically converted into postconviction relief; Montana recognizes civil malpractice and criminal/postconviction tracks as separate, and the legal-malpractice complaint must be filed within three years of discovering the act, error, or omission regardless of whether postconviction relief is sought or granted. | [Spencer v. Beck, 245 P.3d 21 (Mont. 2010)](https://app.midpage.ai/document/spencer-v-beck-889236?utm_source=mcp) |
 | Section 1983 limitations length and accrual | Montana borrows the personal-injury period for §1983; federal law controls accrual. Some claims can accrue before criminal termination. | [Wallace v. Kato, 549 U.S. 384 (2007)](https://caselaw.findlaw.com/court/us-supreme-court/549/384.html); [MCA § 27-2-204](https://law.justia.com/codes/montana/title-27/chapter-2/part-2/section-27-2-204/) |
 | Defamation limitations | The intake brief's three-year defamation statement should be corrected. Libel and slander are two-year claims under § 27-2-204(3). | [MCA § 27-2-204(3)](https://law.justia.com/codes/montana/title-27/chapter-2/part-2/section-27-2-204/) |
-| Medical-malpractice limitations | Medical-malpractice timing should be separately calculated under § 27-2-205, not assumed to follow the general tort period. | [MCA § 27-2-205](https://law.justia.com/codes/montana/title-27/chapter-2/part-2/section-27-2-205/) |
 | Brady and investigator conflicts | Prosecutor disclosure duties can reach favorable evidence known to government actors or investigating agencies, but materiality remains the central proof issue. | [State v. Ilk, 422 P.3d 1219 (Mont. 2018)](https://caselaw.findlaw.com/court/mt-supreme-court/1945482.html); [G. Temple v. State, 573 P.3d 1200 (Mont. 2025)](https://www.leagle.com/decision/inmtco20250819354) |
 | Retaliatory prosecution | Retaliatory-prosecution claims require careful probable-cause analysis; protected speech alone is not enough. | [Hartman v. Moore, 547 U.S. 250 (2006)](https://app.midpage.ai/document/hartman-v-moore-145662?utm_source=mcp) |
 | DPA speech restriction | A dismissal or deferred-prosecution benefit allegedly conditioned on speech removal should be tested under unconstitutional-conditions and criminal-condition frameworks. | [Perry v. Sindermann, 408 U.S. 593 (1972)](https://app.midpage.ai/document/perry-v-sindermann-108609?utm_source=mcp); [United States v. Wells, 29 F.4th 580 (9th Cir. 2022)](https://caselaw.findlaw.com/court/us-9th-circuit/2167360.html) |
@@ -119,8 +120,7 @@ For intake purposes, counsel should separate the alleged lost claims into bucket
 | Defamation | Use a two-year Montana libel/slander period, not three years. Publication dates, republication, and continuing-publication rules require counsel review. |
 | False imprisonment | § 27-2-204(3) also lists false imprisonment as a two-year claim. |
 | General tort / tortious interference / IIED | Often analyzed under general tort limitations, but the precise theory and injury date matter. |
-| Medical malpractice | Calculate under § 27-2-205 and any pre-suit panel requirements; do not fold into the general tort bucket. |
-| Legal malpractice against Tipp | Calculate under § 27-2-206 from actual or reasonably diligent discovery of the alleged act, error, or omission, subject to the ten-year cap. |
+| Legal malpractice against Tipp | Treat as attorney/professional negligence and calculate under § 27-2-206 from actual or reasonably diligent discovery of the alleged act, error, or omission, subject to the ten-year repose cap. |
 
 The source brief alleges damages in the $8.5-10.5 million range, including lost civil claims, career destruction, contract interference, psychiatric harm, and constitutional damages. Those figures should be treated as claimed intake values requiring expert damages proof, business records, medical records, contract records, and causation analysis.
 
@@ -185,7 +185,7 @@ Potential civil counsel will likely need:
 * Tyrone and Eleanor Nuno witness statements, March 2018 Ethan Smith complaint, and related MPD response records.
 * Documentation of Detective Brueckner's alleged YWCA board role and dates.
 * Business-loss evidence: contracts, invoices, taxes, client correspondence, St. Regis and Pacific NW Rural Broadband Alliance records.
-* Claim-by-claim limitations memo, including §1983 accrual, defamation two-year analysis, medical-malpractice § 27-2-205 analysis, and legal-malpractice § 27-2-206 analysis.
+* Claim-by-claim limitations memo, including §1983 accrual, defamation two-year analysis, and attorney/legal-malpractice § 27-2-206 analysis.
 
 ### Bottom line
 
@@ -193,7 +193,8 @@ The merged intake analysis supports three public-facing conclusions:
 
 1. **Tipp malpractice track:** The strongest theory is not merely failure to file civil claims; it is alleged deadline misinformation or silence, failure to refer, failure to investigate favorable evidence, and failure to challenge conditions and DPA terms that allegedly harmed the client.
 2. **Lowney prosecutorial track:** The strongest theory remains Brady/Giglio plus protected-speech prosecution, but it depends on proof that the challenged information was favorable, prosecution-team knowledge can be established, and materiality can be tied to probable cause, bail, DPA leverage, or dismissal posture.
-3. **Verification priority:** The page should not repeat the intake brief's inconsistent ODC posture or incorrect defamation limitation period. Civil counsel should use the corrected timeline and limitations framework above as the working intake checklist.
+3. **ODC posture:** ODC 25-147 is recorded here as review-denied and closed, with the denial rationale unknown because no notice was received. The May 2026 supplemental submissions now function as reconsideration material for the Tipp matter and as new or expanded investigative material for Eleanor Nuno's independent grievance.
+4. **Verification priority:** The page should not repeat the intake brief's inconsistent ODC posture or incorrect defamation limitation period. Civil counsel should use the corrected timeline and limitations framework above as the working intake checklist.
 
 ### Related
 
