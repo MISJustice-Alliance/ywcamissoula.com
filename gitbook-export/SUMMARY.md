@@ -10,6 +10,7 @@
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)
 * [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* [Connie Brueckner investigative research report](connie-brueckner-investigative-report.md)
 * [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 
