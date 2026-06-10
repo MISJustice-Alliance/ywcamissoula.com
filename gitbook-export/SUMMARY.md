@@ -18,6 +18,7 @@
 
 * [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](SYNTHESIS-1983-Claims-YWCA-MPD-2012-2025.md)
 * [YWCA of Missoula: captured system overview](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
+* [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation.md)
 * [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
@@ -116,6 +117,8 @@
 * [Additional Evidence & Documentation — Overview](additional-evidence-and-documentation/README.md)
 * [Referral for Criminal Investigation Index](additional-evidence-and-documentation/referrals-for-criminal-investigation/README.md)
   * [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis.md)
+  * [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-elise-chard.md)
+  * [CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-ywca-of-missoula.md)
 * [Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
   * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
     * [Scope and primary evidence types](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types.md)
