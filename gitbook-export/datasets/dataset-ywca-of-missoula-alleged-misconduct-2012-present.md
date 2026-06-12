@@ -14,7 +14,7 @@ This dataset is the canonical landing page for record-linked **allegations** inv
 
 ### Verify first (primary artifacts)
 
-* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
 * CR-2025-001 packet index: [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
 * Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
 * Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)

@@ -147,9 +147,43 @@ Detective Connie Brueckner serves simultaneously on the YWCA Missoula Board of D
 
 ## VII. Institutional Reform Requirements
 
+The reform package below is framed as remedial and injunctive relief if liability is established. It is shaped by the project’s own accountability pages: the MPD complaint-gap analysis, the state POST/oversight failure record, and the historical DOJ/YWCA institutional-capture context. See [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md), [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md), [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md), and [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md).
+
 ### A. Law Enforcement Reforms
 
+The MPD scorecard page shows a severe complaint-to-force mismatch: 349 civilian complaints over 2016–2022, but only 4 use-of-force complaints and 6 discrimination complaints, with 0 sustained findings in both categories. The related accountability brief also notes that the complaint pathway is experienced as opaque, internal, and hard to use. Any reform package should therefore do more than demand “better investigations.” It should change intake, visibility, and review.
+
+* Create an independent complaint intake option outside MPD, with a written receipt, tracking number, and mandatory disposition notice.
+* Require contemporaneous written recusal logs whenever an officer is removed from, or assigned to, a case because of an appearance-of-impropriety concern.
+* Preserve all complaint intake records, referral notes, body-worn camera metadata, digital evidence inventories, and chain-of-custody materials in a centralized audit trail.
+* Publish annual complaint statistics by allegation type, disposition, and officer-level outcome, including use-of-force and discrimination categories.
+* Adopt a supervisory review step before any warrant application, search authorization, arrest decision, or prosecutorial referral in cases involving retaliatory-speech allegations or domestic/sexual-violence reporting.
+* Provide recurring training on First Amendment retaliation, equal-protection obligations, victim-sensitive interviewing, Brady/Giglio preservation, and evidence-handling protocols.
+* Require written explanations whenever a civilian complaint is closed without sustained findings, with enough detail to support meaningful outside review.
+
 ### B. YWCA Governance Reforms
+
+The historical “Remembering When” page and the captured-system overview both tie the YWCA’s legitimacy problem to board-level police integration, coordinated-response practices, and confidentiality concerns. A reform that leaves those structural facts untouched would be cosmetic.
+
+* Adopt a board-level conflict policy that bars active law-enforcement personnel, prosecutors, or their immediate family members from participating in governance of matters involving complainants, witnesses, or staff disputes tied to pending investigations.
+* Separate advocacy intake from any direct law-enforcement coordination function so survivor-support services cannot be used as an information conduit without documented consent and policy review.
+* Require written procedures for complaint receipt, escalation, preservation, and response deadlines, including retention rules for emails, letters, and referral materials.
+* Create an independent ombuds or review function to evaluate complaint handling, retaliation concerns, and staff conduct when the organization is itself implicated.
+* Implement annual transparency reporting covering governance composition, funding sources, complaint counts, and any material policy changes affecting survivor services.
+* Ensure any letter-writing, case support, or court-facing advocacy is reviewed for factual basis, scope, and potential conflict before issuance.
+* Prohibit any board-level or management-level relationship that would cause a reasonable survivor to doubt confidentiality or adversarial independence.
+
+### C. Shared Oversight and Compliance Measures
+
+The structural-failure page shows why “internal review” is not enough: the Police Commission is advisory, OPS investigates the department itself, and records can be withheld in ways that prevent public audit. The reform package should therefore include durable external oversight.
+
+* Establish an outside monitor or neutral review panel for any period of remedial supervision.
+* Require annual cross-institution training between YWCA leadership, MPD command staff, and prosecutors on boundaries, records retention, and conflict management.
+* Tie continued public funding, grant eligibility, or MOU renewal to compliance with written separation-of-functions standards.
+* Provide a public complaint pathway that bypasses any implicated participant and routes directly to an independent reviewer.
+* Audit all historical case files for missing disclosures, unlogged recusals, and unpreserved evidence that could affect civil-rights or malpractice claims.
+* Publish a plain-language accountability map showing where complaints go, who reviews them, how to appeal, and what records are retained.
+* Require periodic public reporting on whether reform measures actually changed complaint volume, sustain rates, and appeal outcomes.
 
 ## VIII. Prosecutorial Misconduct Analysis
 

@@ -80,6 +80,16 @@ The documentation cited here is used to argue a pattern of governance conflict i
 * **Fourth Amendment**: Unreasonable searches and seizures
 * **Fourteenth Amendment**: Due process violations
 
+## Remediation implications
+
+The same structural remedy themes used elsewhere in the YWCA pages apply here: if the board/conflict theory is accurate, then the answer is separation, not informal reassurance.
+
+* Remove active law-enforcement personnel and prosecutors from governance roles tied to survivor complaints, referrals, or staff disputes.
+* Create an independent complaint-review and ombuds function for retaliation, confidentiality, and staff-conduct issues.
+* Require auditable retention of intake, referral, and correspondence records.
+* Publish governance and complaint statistics so outside readers can assess whether reforms changed practice.
+* Condition continued institutional partnerships on compliance with separation-of-functions and confidentiality rules.
+
 ### Enhanced Damages Analysis
 
 Total estimated damages: **$11,400,000** including:

@@ -50,7 +50,7 @@ This evidence map is split into smaller pages.
 * [Prosecutorial misconduct and Brady issues (evidence index)](prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 * [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md)
 * [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)
-* [YWCA of Missoula board conflicts (investigative index)](ywca-of-missoula-board-conflicts-investigative-index.md)
+* [YWCA of Missoula board conflicts and remediation index](ywca-of-missoula-board-conflicts-investigative-index.md)
 * [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
 * [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md)
 * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)

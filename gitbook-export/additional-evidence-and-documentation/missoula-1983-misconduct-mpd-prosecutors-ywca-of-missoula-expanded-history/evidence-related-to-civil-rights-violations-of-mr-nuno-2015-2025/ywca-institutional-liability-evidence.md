@@ -11,8 +11,8 @@ Use it to route into the cited notice letters, governance artifacts, and third-p
 ### Verify first (primary artifacts)
 
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* Board conflicts jump index: [YWCA of Missoula board conflicts (investigative index)](ywca-of-missoula-board-conflicts-investigative-index.md)
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* Board conflicts jump index: [YWCA of Missoula board conflicts and remediation index](ywca-of-missoula-board-conflicts-investigative-index.md)
 * CR packet indexes:
   * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
   * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)

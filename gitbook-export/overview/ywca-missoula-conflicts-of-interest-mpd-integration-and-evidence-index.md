@@ -40,6 +40,19 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 * First Amendment angle: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
+### Reform and remediation frame
+
+The reform pages across this site converge on the same structural fix: create separation where the record shows overlap, and create independent review where the record shows internal screening. In practice, that means an outside complaint intake path, board-level conflict restrictions, auditable confidentiality rules, and public reporting that lets survivors and counsel test whether reform actually changed outcomes.
+
+Core remedy themes used across the YWCA pages:
+
+* Remove active law-enforcement personnel and prosecutors from governance roles that touch survivor complaints, referrals, or staff disputes.
+* Separate advocacy intake from any direct law-enforcement coordination function unless survivor consent and written safeguards are documented.
+* Create an independent ombuds or review function for retaliation concerns, complaint handling, and institutional self-complaints.
+* Require retention of complaint, referral, and response records so outside review is possible.
+* Publish transparent, plain-language reporting on governance composition, complaint counts, disposition paths, and material policy changes.
+* Tie continued funding, MOU renewal, or partnership status to compliance with written separation-of-functions standards.
+
 ### Primary published packets (CR-2025-001)
 
 Use these when you need a stable, citable “packet” link.

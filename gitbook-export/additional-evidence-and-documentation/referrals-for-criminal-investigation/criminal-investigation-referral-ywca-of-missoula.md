@@ -246,6 +246,16 @@ The packet alleges broader YWCA client abuse through confidentiality breaches de
 
 Montana jurisdiction is strongest for YWCA governance records, the June 2018 complaint routing, Missoula protection-order and criminal-case records, the P.S. letter, the search warrant, alleged Montana false reports or evidence issues, the Tyleen Root allegations, and shelter/client-service practices in Missoula.
 
+## Remediation and control priorities
+
+Any non-criminal reform analysis should use the same vocabulary as the rest of the site: separation where there is overlap, and independent review where there is internal screening.
+
+* Remove active law-enforcement personnel and prosecutors from governance roles tied to survivor complaints, referrals, or staff disputes.
+* Separate advocacy intake from direct law-enforcement coordination unless survivor-informed consent and written safeguards are documented.
+* Require auditable retention of complaint, referral, and response records.
+* Create an independent ombuds or review function for retaliation, confidentiality, and staff-conduct issues.
+* Publish transparent reporting on governance composition, complaint paths, and material policy changes.
+
 Federal jurisdiction is strongest for civil-rights screening tied to alleged joint action between nonprofit personnel and state actors, grant and False Claims Act audit issues, HIPAA/OCR review, RICO screening, and federal oversight of any DOJ-MOU or federally funded program obligations.
 
 Washington jurisdiction is secondary and depends on the alleged false-extradition episode and coordination with Danielle Chard / Bemis or Edmonds law enforcement. It should be reviewed with the Danielle and E'Lise referral reports rather than as a standalone YWCA-Washington matter.

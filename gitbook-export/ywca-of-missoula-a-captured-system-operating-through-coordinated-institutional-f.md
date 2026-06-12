@@ -60,6 +60,17 @@ The case was transferred from Officer Ethan Smith (removed for obvious conflicts
 * Interstate coordination between Washington and Montana agencies
 * Pattern of retaliation for protected speech activities
 
+## Remediation priorities
+
+If the institutional-capture theory is taken seriously, the fix is not a vague call for “better communication.” The site’s reform pages point to concrete structural changes:
+
+* Remove active law-enforcement and prosecutorial actors from YWCA governance where survivor complaints, referrals, or staff disputes are implicated.
+* Separate advocacy intake from police/prosecutor coordination unless survivor-informed consent and written safeguards are documented.
+* Create an independent ombuds or external review function for complaint handling, retaliation concerns, and organization-internal disputes.
+* Require auditable retention of complaint, referral, and response records so outside review is possible.
+* Publish plain-language transparency reporting on governance composition, complaint paths, and policy changes.
+* Use written separation-of-functions standards as a condition of continued partnership or funding.
+
 ## Conclusion
 
 This page argues that structural incentives and conflicts may prevent internal reform. Any conclusion about liability or criminality should be grounded in primary records and outside investigation.

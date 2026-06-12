@@ -50,19 +50,29 @@ The governance structure presents a central red flag: a sitting MPD detective (C
 
 Documentary records reflect a pattern in which YWCA-affiliated staff allegedly leveraged organizational credibility and relationships with MPD to instigate or escalate police actions based on defamatory narratives - followed by charges that were dismissed, repeated arrests, high bail, a home raid, and other severe consequences.
 
-## Recommendations for Immediate Remediation
+## Remediation priorities
 
 ### Governance and Ethics
 
-* Remove active law enforcement officers from the Board
-* Establish an independent ethics and compliance committee
-* Adopt comprehensive conflict-of-interest policy
+The remedy should match the structural problem documented on this site: overlapping relationships can blur neutrality, chill reporting, and weaken confidentiality.
+
+* Remove active law-enforcement officers and prosecutors from governance roles that touch complainants, referrals, or staff disputes.
+* Establish an independent ethics and compliance committee with authority to review conflicts, recusals, and complaint-handling failures.
+* Adopt and publish a comprehensive conflict-of-interest policy covering board members, executives, staff, and outside consultants.
+* Require written recusal logs and disclosure records for any matter involving a police, prosecutorial, or partner-institution conflict.
 
 ### Client Safety, Confidentiality, and Independence
 
-* Implement auditable information governance
-* Prohibit staff from issuing court recommendations beyond verified documentation
-* Create dedicated pathway for survivors alleging officer-involved abuse
+* Implement auditable information governance with retention rules for emails, intake notes, referral letters, and complaint responses.
+* Prohibit staff from issuing court recommendations beyond verified documentation and documented survivor consent.
+* Create a dedicated pathway for survivors alleging officer-involved abuse that bypasses implicated staff or board members.
+* Separate victim-services intake from direct law-enforcement coordination unless the survivor has been informed of the relationship and consents in writing.
+
+### Accountability and Oversight
+
+* Create an independent ombuds or external review function for retaliation concerns, complaint handling, and conflicts involving the organization itself.
+* Publish annual transparency reporting on governance composition, complaint counts, and policy changes affecting independence or confidentiality.
+* Tie continued grant eligibility or MOU renewal to compliance with written separation-of-functions standards.
 
 ## Conclusion
 

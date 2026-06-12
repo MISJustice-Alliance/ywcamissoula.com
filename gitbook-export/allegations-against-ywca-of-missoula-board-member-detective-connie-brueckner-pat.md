@@ -72,6 +72,16 @@ Multiple sources confirm systematic discrimination against disabled clients, cre
 * Fraud
 * Civil Rights Violations
 
+## Remediation priorities
+
+If this record is read as a governance and confidentiality failure, the fix is structural rather than rhetorical:
+
+* Remove active law-enforcement personnel and prosecutors from YWCA governance roles that touch complaints, referrals, or staff disputes.
+* Separate advocacy intake from police/prosecutor coordination unless survivor-informed consent and written safeguards are documented.
+* Require auditable retention of complaint, referral, and response records so outside review is possible.
+* Create an independent ombuds or review function for retaliation concerns and self-complaints.
+* Publish plain-language transparency reporting on governance composition, complaint paths, and material policy changes.
+
 ## Conclusion
 
 The YWCA of Missoula operates as a captured institution that systematically violates the civil rights of vulnerable populations while serving as an enforcement mechanism for governmental retaliation against critics.

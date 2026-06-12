@@ -41,6 +41,16 @@ This page is a jump index for investigating board-level conflict-of-interest and
 
 It is the risk created when law enforcement and prosecutorial actors have governance roles inside a victim-advocacy organization.
 
+#### What is the reform vocabulary used across the site?
+
+Where the record shows overlap, the fix is separation. Where the record shows internal screening, the fix is independent review.
+
+* Remove active law-enforcement personnel and prosecutors from governance roles touching survivor complaints, referrals, or staff disputes.
+* Separate advocacy intake from direct law-enforcement coordination unless survivor-informed consent and written safeguards are documented.
+* Require auditable retention of complaint, referral, and response records.
+* Create an independent ombuds or review function for retaliation concerns and self-complaints.
+* Publish transparent reporting on governance composition, complaint paths, and material policy changes.
+
 This includes board-level integration signals and downstream case impacts.
 
 #### Why does a board conflict matter for client safety?

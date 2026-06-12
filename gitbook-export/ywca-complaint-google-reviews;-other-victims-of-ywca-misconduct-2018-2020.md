@@ -126,6 +126,16 @@ The documented complaints and reviews establish:
 3. Institutional capture preventing accountability
 4. Coordination between YWCA and law enforcement
 
+## Remediation implications
+
+To make the page’s accountability theme consistent with the rest of the site, the remedy language should point to structural separation and independent review:
+
+* Remove active law-enforcement personnel and prosecutors from governance roles tied to survivor complaints, referrals, or staff disputes.
+* Separate advocacy intake from any direct law-enforcement coordination unless survivor-informed consent and written safeguards are documented.
+* Require retention of complaint and response records so outside review is possible.
+* Create an independent complaint-review or ombuds function for retaliation concerns and internal grievances.
+* Publish transparent reporting on complaint counts, dispositions, and governance changes affecting independence.
+
 ### Related public-facing exhibits (CR-2025-001)
 
 * [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)

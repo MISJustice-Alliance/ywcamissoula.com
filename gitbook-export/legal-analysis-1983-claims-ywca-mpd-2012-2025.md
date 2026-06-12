@@ -120,6 +120,16 @@ This page synthesizes research findings on civil-rights litigation under **42 U.
 
 ---
 
+## Remediation lens
+
+This page is an analysis layer, not a reform order. Still, the site’s remedy vocabulary should remain consistent: where the record shows overlap, the fix is separation; where it shows internal screening, the fix is independent review.
+
+* Remove active law-enforcement personnel and prosecutors from governance roles touching survivor complaints or referrals.
+* Separate advocacy intake from direct law-enforcement coordination unless survivor-informed consent and written safeguards are documented.
+* Require auditable retention of complaint, referral, and response records.
+* Publish plain-language reporting on complaint paths and governance changes.
+* Tie partnerships or funding to written separation-of-functions standards.
+
 ## Part I: Research Goal & Scope
 
 ### SMART Research Goal

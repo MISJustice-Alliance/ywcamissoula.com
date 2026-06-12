@@ -116,25 +116,29 @@ The source article identifies several consequence areas that map cleanly onto th
 
 The concerns above are not abstract. They converge around one basic question: can a victim-advocacy institution remain meaningfully independent while embedding police power in governance and operating in a jurisdiction already documented for gender-biased sexual-assault responses? That is the core structural issue this page surfaces.
 
-## How Does This Get Fixed?
+## Remediation priorities
 
 ### 1. Governance and Ethics Reform
 
-* Remove active law enforcement officers from the Board of victim advocacy institutions
-* Establish an independent ethics and compliance committee
-* Adopt and enforce a comprehensive conflict-of-interest policy
+* Remove active law-enforcement officers and prosecutors from the Board of victim advocacy institutions where survivor complaints, referrals, or staff disputes are involved.
+* Establish an independent ethics and compliance committee with authority over conflicts, recusals, and complaint-handling failures.
+* Adopt and enforce a comprehensive conflict-of-interest policy covering board members, executives, staff, and outside consultants.
+* Require written recusal logs and disclosure records for any matter that creates a police, prosecutorial, or partner-institution conflict.
 
 ### 2. Client Safety, Confidentiality, and Independence
 
-* Implement auditable information governance
-* Prohibit staff from issuing court recommendations beyond verified documentation
-* Create a dedicated pathway for survivors alleging officer-involved abuse
+* Implement auditable information governance with retention rules for intake notes, referral letters, and complaint responses.
+* Prohibit staff from issuing court recommendations beyond verified documentation and documented survivor consent.
+* Create a dedicated pathway for survivors alleging officer-involved abuse that bypasses implicated staff or board members.
+* Separate advocacy intake from direct law-enforcement coordination unless the survivor has been informed of the relationship and consents in writing.
 
 ### 3. Accountability and Redress
 
-* Open an independent investigation into staff misconduct allegations
-* Create a survivor grievance process overseen by an external ombudsperson
-* Where institutional actions contributed to unlawful harm, issue corrective communications to courts or agencies and refer matters to independent counsel for potential remediation
+* Open an independent investigation into staff misconduct allegations where the institution itself is implicated.
+* Create a survivor grievance process overseen by an external ombudsperson.
+* Publish plain-language transparency reporting on governance composition, complaint counts, and material policy changes.
+* Where institutional actions contributed to unlawful harm, issue corrective communications to courts or agencies and refer matters to independent counsel for potential remediation.
+* Tie continued partnerships, grant eligibility, or MOU renewal to compliance with written separation-of-functions standards.
 
 ## Conclusion
 
