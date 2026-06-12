@@ -67,7 +67,7 @@ Evidence tends to cluster around:
 
 ***
 
-**Previous:** [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md) · **Next:** [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
+**Previous:** [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md) · **Next:** [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
 
 ### Related
 

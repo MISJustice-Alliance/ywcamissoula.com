@@ -187,9 +187,48 @@ The structural-failure page shows why “internal review” is not enough: the P
 
 ## VIII. Prosecutorial Misconduct Analysis
 
-### A. Brady Violations
+The April 28, 2026 Montana ODC grievance against Brian Lowney and the Missoula County Attorney’s Office, together with the criminal-referral materials in this project, supports a focused misconduct analysis centered on four recurring themes: prosecution of protected speech, reliance on compromised investigative sources, suppression of exculpatory material, and coercive use of the charging/bail process.
 
-### B. Malicious Prosecution
+### A. Brady and disclosure failures
+
+The strongest misconduct theory is not merely that the prosecution lost a close case. It is that the record, as alleged in the grievance and referral materials, reflects repeated failures to disclose or account for information that cut directly against probable cause and witness credibility. The most significant items include:
+
+* Judge Warren’s on-the-record ruling that the YWCA complaint was protected First Amendment speech and was not a communication to E’Lise Chard;
+* Officer Ethan Smith’s removal for an "obvious appearance of impropriety" tied to his relationship with E’Lise Chard;
+* Detective Connie Brueckner’s undisclosed YWCA board role while she was assigned as the investigating detective;
+* E’Lise Chard’s sworn statements that Mr. Nuno had not engaged in meaningful contact or threatening conduct; and
+* the favorable P.S. character-reference letter routed through YWCA channels.
+
+Taken together, those facts are the kind of impeachment and exculpatory material that should have been evaluated under Brady v. Maryland and Montana RPC 3.8(d), not minimized, omitted, or treated as irrelevant.
+
+### B. Malicious prosecution and abuse of process
+
+The prosecution theory described in the grievance is difficult to reconcile with a good-faith probable-cause assessment. The charging documents, as summarized in the referral packet, relied on a complaint letter already characterized by a judge as protected speech and then extended that theory through repeated filings, escalating bail, and a deferred prosecution agreement that reportedly required Mr. Nuno to remove protected speech from public platforms.
+
+That sequence matters because malicious prosecution and abuse-of-process analysis looks at more than the existence of a filing. It asks whether the process was used for its intended purpose or as leverage to punish protected activity, extract silence, or protect institutional actors. The record here points toward the latter:
+
+* charges were pursued despite a prior protected-speech ruling;
+* the prosecution allegedly leaned on a detective with an undisclosed conflict;
+* the case was kept alive for an extended period without new evidence of actual stalking conduct; and
+* the deferred disposition functioned, in effect, as a speech-suppression mechanism.
+
+### C. Misrepresentation and ethical-rule concerns
+
+The grievance and referral materials also raise Rule 8.4(c) and Rule 8.4(d) concerns. The alleged use of statements attributed to Mr. Nuno’s parents that they deny making, the framing of lawful privacy tools and job skills as evidence of criminal intent, and the omission of obvious conflict and protected-speech facts all support a misrepresentation analysis.
+
+At the same time, the repeated charge filings, bail pressure, and alleged use of a DPA to quiet criticism point to conduct prejudicial to the administration of justice. Even if a prosecutor believed some underlying complaint was legitimate, the ethical problem is that the prosecution reportedly kept moving after the record had begun to reveal substantial impeachment, conflict, and constitutional defects.
+
+### D. Referral posture and practical takeaway
+
+On the current record, the most defensible view is that the Lowney grievance and the criminal-referral documents do not prove criminal conduct by themselves, but they do create a coherent prosecutorial-misconduct pattern that warrants outside review. At minimum, the materials support scrutiny of:
+
+* probable-cause decision-making;
+* disclosure compliance;
+* use of conflicted investigators;
+* plea/DPA coercion;
+* and whether prosecutorial leverage was used to suppress protected speech rather than resolve a case on the merits.
+
+In short, the misconduct analysis here is not a side issue. It is one of the central mechanisms by which the broader civil-rights injury allegedly became durable.
 
 ## X. Conclusion
 

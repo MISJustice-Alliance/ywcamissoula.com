@@ -218,7 +218,7 @@ These pages should generally link back here when they cite CR-2025-001 documents
 
 * Evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 * RICO framing: [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md)
-* Prosecutors: [Prosecutorial misconduct evidence](prosecutorial-misconduct-evidence.md)
+* Prosecutors: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md)
 * YWCA notice/ratification: [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)
 * Needs & Gaps capture analysis: [Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture](../../../legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * DOJ intake: [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](../../../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)

@@ -1,8 +1,8 @@
-# Prosecutorial misconduct evidence
+# Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence
 
 ### Executive snapshot
 
-This page maps evidence themes relevant to alleged prosecutorial misconduct: disclosure obligations (Brady/Giglio) and malicious-prosecution elements.
+This page maps evidence themes relevant to alleged prosecutorial misconduct, Brady/Giglio disclosure obligations, and malicious-prosecution / abuse-of-process elements.
 
 It is a mapping layer, not a finding. Use the jump index first, then validate against the primary artifacts.
 
@@ -10,7 +10,8 @@ It is a mapping layer, not a finding. Use the jump index first, then validate ag
 
 ### Verify first (primary artifacts)
 
-* Jump index: [Prosecutorial misconduct and Brady issues (evidence index)](prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* Jump index: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* Companion grievance: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../../../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)

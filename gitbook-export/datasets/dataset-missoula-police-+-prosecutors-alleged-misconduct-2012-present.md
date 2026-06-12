@@ -16,7 +16,7 @@ This dataset is the canonical landing page for record-linked **allegations** inv
 
 * MPD hub/router: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](../overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 * §1983 claims overview (analysis): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
-* Prosecutor evidence index: [Prosecutorial misconduct and Brady issues (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* Prosecutor evidence index: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 * CR-2025-002 packet index: [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 * Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
 * Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
@@ -45,7 +45,7 @@ This dataset is not:
 
 * MPD hub: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](../overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 * §1983 framing: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
-* Prosecutor evidence index: [Prosecutorial misconduct and Brady issues (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* Prosecutor evidence index: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 * Primary record router: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 
 ### Primary published packets (downloadable)

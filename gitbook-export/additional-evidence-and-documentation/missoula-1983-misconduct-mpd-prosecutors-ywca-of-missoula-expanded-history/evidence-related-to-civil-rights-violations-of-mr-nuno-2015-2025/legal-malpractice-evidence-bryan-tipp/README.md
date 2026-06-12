@@ -49,7 +49,7 @@ Treat them as **assumes liability is proven** and requires admissible proof.
 
 ***
 
-**Previous:** [First Amendment retaliation evidence (protected speech → escalation)](../first-amendment-retaliation-evidence-protected-speech-escalation.md) · **Next:** [Prosecutorial misconduct evidence](../prosecutorial-misconduct-evidence.md)
+**Previous:** [First Amendment retaliation evidence (protected speech → escalation)](../first-amendment-retaliation-evidence-protected-speech-escalation.md) · **Next:** [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](../prosecutorial-misconduct-evidence.md)
 
 ### Related
 

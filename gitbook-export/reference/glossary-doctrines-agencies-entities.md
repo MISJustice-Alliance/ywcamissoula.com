@@ -53,7 +53,7 @@ Suppression of **material exculpatory** evidence by prosecutors.
 
 See also:
 
-* [Prosecutorial misconduct and Brady issues (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 
 #### Giglio issue
 
@@ -61,7 +61,7 @@ Suppression of **material impeachment** evidence (e.g., credibility problems, in
 
 See also:
 
-* [Prosecutorial misconduct and Brady issues (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 
 #### Malicious prosecution (civil-rights framing)
 
