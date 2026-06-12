@@ -116,11 +116,31 @@ Detective Connie Brueckner serves simultaneously on the YWCA Missoula Board of D
 
 ## III. Constitutional Violations Analysis
 
+The constitutional theories in this record are best read as a chain: protected speech and petitioning activity allegedly triggered enforcement escalation, that escalation allegedly produced unreasonable searches and seizures, and the resulting process allegedly reflected due-process and equal-protection defects. The project’s claim-specific pages use the same framing. See [First Amendment retaliation evidence (protected speech → escalation)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md), [Fourth Amendment evidence (entry, seizure, and digital search)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md), and [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md).
+
 ### A. First Amendment Violations: Retaliation for Protected Speech
+
+The site’s First Amendment record is anchored in the proposition that a complaint to YWCA leadership and related petitioning activity were protected speech, not criminal conduct. The main grievance/referral materials and the retaliation sub-index both frame the sequence as protected complaint activity followed by enforcement escalation rather than neutral response. See the timeline router and the retaliation index: [MPD retaliation and escalation after complaints (evidence index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index.md) and [First Amendment retaliation evidence (protected speech → escalation)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md).
+
+On this record, the First Amendment theory is not just that a complaint was filed; it is that the complaint was treated as a trigger for adverse action. The site repeatedly points to protected petitioning activity, close temporal proximity, and escalation despite weak or disputed factual support. See also the complaint addenda and legal analysis pages that treat retaliation after complaints as a recurring theme: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md) and ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md).
 
 ### B. Fourth Amendment Violations: Unreasonable Searches and Seizures
 
-### C. Fourteenth Amendment Due Process Violations
+The Fourth Amendment theory on this site centers on alleged unlawful entry, seizure/detention, and overbroad digital search. The evidence index points to the August 2018 warrantless home entry and detention, as well as the Facebook account "all data" search warrant that the site treats as a fishing expedition lacking particularity. See [Fourth Amendment evidence (entry, seizure, and digital search)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md), [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md), and [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md).
+
+The site’s own summary of the Fourth Amendment record emphasizes three recurring issues: warrantless entry, seizure/detention without adequate legal basis, and digital search overbreadth. In the broader MPD material, those same issues appear alongside the complaint-scorecard and accountability pages that document how alleged misconduct moved through the system without meaningful outside correction. See [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md).
+
+### C. Fourteenth Amendment Due Process and Equal Protection Violations
+
+The Fourteenth Amendment analysis on this site focuses on procedural due process, substantive due process, and equal-protection theories. The separate Fourteenth Amendment page frames the record as involving due-process violations, selective enforcement, state-created-danger style allegations, and class-of-one equal-protection issues. See [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md).
+
+That analysis is consistent with the main claim index here: the record alleges that the same actors and institutions used a repeated sequence of complaints, enforcement actions, and process decisions in ways that were arbitrary, retaliatory, and constitutionally unequal. The page’s own one-screen claim index expressly includes due process, equal protection, malicious prosecution, and Monell liability as part of the civil-rights framing.
+
+### D. Brady/Giglio and constitutional-process overlap
+
+Although Brady/Giglio issues are discussed in the prosecutorial-misconduct section below, they also matter to the constitutional analysis because the claimed suppression of exculpatory or impeachment material is part of the alleged due-process injury. The project’s evidence pages treat this as a recurring record concern: disclosure failures, impeachment material, and the omission of conflict information all affect the fairness of the proceeding itself. See [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md) and [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md).
+
+Taken together, the constitutional-violation pages show a recurring pattern: protected speech allegedly triggered retaliation; retaliation allegedly matured into unreasonable search and seizure; and the resulting proceedings allegedly reflected due-process, equal-protection, and disclosure failures rather than neutral legal process.
 
 ## IV. Economic Damages and Professional Destruction
 
@@ -135,15 +155,53 @@ Detective Connie Brueckner serves simultaneously on the YWCA Missoula Board of D
 
 ## V. Legal Malpractice: Bryan Tipp's Failures
 
-* Statute of Limitations Failures
-* Conflict of Interest Failures
-* Criminal Defense Failures
+The malpractice theory in this record is not a generic complaint that counsel was ineffective in hindsight. The site frames it as a failure to identify, preserve, and communicate civil-rights claims that were already visible while the criminal matter was still open. The strongest source pages describe a combination of known First Amendment retaliation, a widening constitutional record, a discoverable YWCA–MPD conflict, and missed statute-of-limitations deadlines that could have preserved substantial claims. See [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md), ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md), and [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md).
+
+### A. Competence, diligence, communication, and conflicts
+
+The site’s malpractice materials repeatedly point to Montana Rules of Professional Conduct 1.1, 1.3, 1.4, 1.7, and 1.16(d). The core criticism is that Tipp allegedly knew enough to recognize the constitutional and civil-rights stakes, but did not translate that knowledge into timely advice, civil referral, or protective steps for the client.
+
+* **Competence (Rule 1.1):** the record alleges failure to investigate the Brueckner/YWCA conflict, failure to challenge the constitutional significance of the surveillance and charging record, and failure to deploy available Brady/Giglio analysis.
+* **Diligence (Rule 1.3):** the record emphasizes delay, passive refusal, and no meaningful civil-rights follow-through while limitation periods continued to run.
+* **Communication (Rule 1.4):** the site’s own timeline repeatedly notes the absence of SOL warnings, the absence of an explanation for the “generally disinclined” refusal, and the absence of any clear exit memorandum after dismissal.
+* **Conflict management (Rule 1.7):** the analysis treats Tipp’s apparent institutional alignment with local actors as a material limitation on advocacy, especially where the requested work would have implicated prosecutors, MPD, and YWCA-linked conduct.
+* **Termination duties (Rule 1.16(d))**: the allegation is that no adequate handoff occurred when the criminal matter ended, even though civil deadlines and preservation issues were imminent or already expiring.
+
+### B. Causation and lost civil-rights value
+
+This section matters because the alleged malpractice is not just procedural; it allegedly foreclosed the client’s ability to pursue the underlying constitutional claims. The malpractice pages frame the resulting harm as the loss of viable civil-rights claims and the loss of the leverage those claims would have created in the criminal matter. That includes the first-amendment retaliation theory, the warrantless-entry / seizure theories, and the broader Fourteenth Amendment and Monell-based claims described elsewhere on the site.
+
+The site’s malpractice analysis ties those omissions to specific loss categories: missed filing windows, missed investigation opportunities, and missed civil-counsel referral. In that framing, the damages are not abstract. They are the value of claims that could have been preserved, plus the downstream effect on settlement posture, public accountability, and access to suppression / impeachment arguments.
+
+### C. Practical takeaway
+
+For readers using this page as a hub, the malpractice section should be read alongside the dedicated malpractice evidence hub and the §1983 analysis pages. The point is not merely that counsel was unhelpful. The point is that alleged failures by counsel may have become a separate injury layer, distinct from but dependent on the underlying constitutional record.
 
 ## VI. Federal Civil Rights Claims Analysis
 
-* 42 U.S.C. Section 1983 Claims
-* 42 U.S.C. Section 1985 Civil Rights Conspiracy
-* RICO Claims (18 U.S.C. Sections 1961-1968)
+The federal-civil-rights section is the umbrella for the site’s constitutional theories. It pulls together the First, Fourth, and Fourteenth Amendment claims, then maps them onto §1983 liability theories, including municipal liability, state-action arguments, qualified-immunity questions, and related procedural barriers. The site’s own analysis pages treat this as the central doctrinal frame for the case record. See [Legal analysis of 42 U.S.C. § 1983 claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md), [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md), and [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md).
+
+### A. Section 1983 claims and constitutional hooks
+
+The page’s one-screen claim index already identifies the main §1983 predicates: First Amendment retaliation, Fourth Amendment unlawful search and seizure, Fourteenth Amendment due process and equal protection, Monell municipal liability, and malicious-prosecution / Brady-related theories. Those are the claim categories that matter most because they connect the site’s factual record to recognized federal causes of action.
+
+In practical terms, the federal-civil-rights theory is that the same factual sequence can support multiple overlapping claims: retaliation for protected speech, unreasonable search or seizure, and due-process violations when the proceeding allegedly relied on suppressed or conflicted evidence. The site treats those theories as reinforcing rather than mutually exclusive.
+
+### B. Monell, state action, and YWCA–MPD entwinement
+
+The strongest institutional-liability theory is not limited to one officer. It is the claim that the YWCA–MPD relationship and the Brueckner conflict may support state-action or Monell-style liability if the record shows policy, custom, ratification, deliberate indifference, or joint action. That framing appears explicitly in the legal-analysis page and the §1983 cluster summary. See the sections on Monell, deliberate indifference, and YWCA state-actor exposure in [Legal analysis of 42 U.S.C. § 1983 claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md).
+
+The significance of this theory is that it shifts the focus from isolated missteps to system design: board-level entanglement, coordinated-response practices, information-sharing, and the alleged use of advocacy channels in a way that impacted criminal and civil outcomes. If those facts are proven, they can support broader institutional liability than a claim against a single detective or prosecutor.
+
+### C. Qualified immunity, accrual, and limitations
+
+The federal claims section also has a procedural dimension. The site’s legal-analysis page highlights qualified immunity for individuals, limitations questions, and continuing-violation arguments. Those issues do not eliminate the claims on their face, but they shape what survives, who can be sued, and whether the court reaches the merits.
+
+That is why the malpractice issue and the §1983 issue are linked on this site: if civil deadlines were missed, the federal claims may still matter as the underlying injury and the measuring stick for malpractice damages, even where direct recovery is procedurally constrained. The same is true for tolling arguments, fraudulent concealment theories, and continuing-violation analysis in a record alleging repeated acts over multiple years.
+
+### D. Why this umbrella matters here
+
+The central value of the federal-civil-rights analysis is that it allows the page to connect facts across the entire site: the retaliation materials, the Fourth Amendment search/seizure materials, the Fourteenth Amendment due-process and equal-protection materials, the malpractice materials, and the institutional-reform pages. That is the doctrinal bridge between the narrative record and a plausible civil-rights case structure.
 
 ## VII. Institutional Reform Requirements
 

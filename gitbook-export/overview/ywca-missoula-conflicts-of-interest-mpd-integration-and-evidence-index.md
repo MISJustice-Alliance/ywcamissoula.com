@@ -40,7 +40,7 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 * First Amendment angle: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 
-### Reform and remediation frame
+### Remediation priorities
 
 The reform pages across this site converge on the same structural fix: create separation where the record shows overlap, and create independent review where the record shows internal screening. In practice, that means an outside complaint intake path, board-level conflict restrictions, auditable confidentiality rules, and public reporting that lets survivors and counsel test whether reform actually changed outcomes.
 
