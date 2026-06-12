@@ -10,7 +10,6 @@
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)
 * [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* [Connie Brueckner investigative research report](connie-brueckner-investigative-report.md)
 * [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 
@@ -115,6 +114,7 @@
 ## Additional Evidence & Documentation
 
 * [Additional Evidence & Documentation — Overview](additional-evidence-and-documentation/README.md)
+* [Connie Brueckner investigative research report](additional-evidence-and-documentation/connie-brueckner-investigative-report.md)
 * [Referral for Criminal Investigation Index](additional-evidence-and-documentation/referrals-for-criminal-investigation/README.md)
   * [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis.md)
   * [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-elise-chard.md)
