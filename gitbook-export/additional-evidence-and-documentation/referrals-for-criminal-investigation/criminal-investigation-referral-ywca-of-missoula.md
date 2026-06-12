@@ -31,7 +31,7 @@ The source packet alleges that YWCA of Missoula became the institutional center 
 
 The source packet further alleges that YWCA received Mr. Nuno's June 3, 2018 complaint about E'Lise Chard and Rebecca Pettit, did not investigate it, and instead provided the complaint and associated donation information to E'Lise Chard. E'Lise allegedly used those materials nine days later in a protection-order petition. The same packet alleges that YWCA later received a character-reference letter from witness P.S. that contradicted a dangerousness narrative used in criminal proceedings, but that the letter was not disclosed to Mr. Nuno, his defense counsel, prosecutors, or the court.
 
-Beyond the Nuno-specific facts, the packet alleges broader institutional patterns: client confidentiality breaches, disability-discrimination complaints, shelter policies that allegedly contradicted federal grant representations, use of vulnerable clients as harassment proxies, and non-substantive responses to five formal 2025 requests for comment. These broader allegations are relevant to regulatory and pattern evidence, but they require independent verification before they can support criminal or civil enforcement.
+Beyond the Nuno-specific facts, the packet alleges broader institutional patterns: client confidentiality breaches, disability-discrimination complaints, shelter policies that allegedly contradicted federal grant representations, use of vulnerable clients as harassment proxies, and non-substantive responses to five formal 2025 requests for comment. The importance of those broader allegations is not that each one proves a crime on its own. It is that, taken together, they describe a service network that may have functioned as a screening, routing, and pressure system rather than as a neutral support provider. That is the same structural concern that appears elsewhere in the record: information allegedly moving from help-seeking channels into adversarial channels, with the institution retaining plausible deniability while the client bears the harm.
 
 ## Potentially applicable statutes and referral channels
 
@@ -212,11 +212,13 @@ The source packet alleges E'Lise Chard recruited Tyleen Root, identified as a YW
 | [State v. Helfrich, 922 P.2d 1159 (Mont. 1996)](https://app.midpage.ai/document/state-v-helfrich-883947?utm_source=mcp) | Criminal defamation in Montana is constitutionally constrained; truth is an absolute defense and truthful criticism cannot be punished. |
 | [State v. Williams, 604 P.2d 1224 (Mont. 1979)](https://app.midpage.ai/document/state-v-williams-876781?utm_source=mcp) | Montana conspiracy requires agreement and an act in furtherance; the target offense must be identified. |
 
-### 7. Client confidentiality, disability discrimination, and grant-reporting allegations
+### 7. Client confidentiality, disability discrimination, and grant-reporting concerns
 
 #### Concise narrative
 
-The packet alleges broader YWCA client abuse through confidentiality breaches described in public reviews or social-media posts, disability-discrimination complaints, winter shelter evictions, underfunded Rapid Rehousing outcomes, and grant reporting that allegedly overstated services or outcomes.
+The packet alleges broader YWCA client abuse through confidentiality breaches described in public reviews or social-media posts, disability-discrimination complaints, winter shelter evictions, underfunded Rapid Rehousing outcomes, and grant reporting that allegedly overstated services or outcomes. The packet treats these not as isolated grievances but as interconnected controls over vulnerable clients: who gets access, who is labeled noncompliant, who is removed, and how the resulting outcome is later described to funders or regulators.
+
+In the referral’s framing, confidentiality is the front-door issue and funding is the back-end issue. If private client information can leak across staff relationships or social networks, then the same service environment can become a channel for retaliation or pressure. If disabled clients are handled inconsistently, that may reveal whether the organization is actually delivering equal access or merely preserving a paper-compliant image. If shelter exits and Rapid Rehousing outcomes are reported in ways that do not match the lived experience, the service model itself becomes part of the compliance problem rather than its solution.
 
 #### Supporting record hooks
 
@@ -234,6 +236,12 @@ The packet alleges broader YWCA client abuse through confidentiality breaches de
 **Partially supported or disputed:** HIPAA criminal exposure requires covered-entity/business-associate analysis, individually identifiable health information, knowing disclosure or misuse, and specific records. False Claims Act exposure requires specific claims, material falsehoods, scienter, and government payment or funding decisions.
 
 **Weak or unsupported:** Public reviews alone are insufficient to establish HIPAA, ADA, grant fraud, or criminal conduct. They are leads for a regulatory audit, not proof.
+
+#### Why this cluster matters across the record
+
+The packet groups these issues together because the same institutional pathways can serve multiple functions at once. A confidentiality lapse can become a pressure mechanism. A disability-accommodation failure can become evidence of selective service. A shelter-eviction practice can become a funding story. Once those pieces operate together, the question is no longer whether one staff member made one bad decision; it is whether the organization’s operating model was calibrated to preserve institutional image while shifting risk onto clients.
+
+That is why the referral keeps returning to records rather than slogans: releases, complaints, intake logs, policy changes, outcome reports, and funder submissions. Those documents can show whether the organization’s public narrative matches what clients actually experienced, or whether the service layer was being used to launder reputational and compliance risk.
 
 #### Case-law authorities
 
