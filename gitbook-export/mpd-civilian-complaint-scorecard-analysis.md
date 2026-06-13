@@ -26,7 +26,7 @@ tags:
 
 ---
 
-{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+{% include "./.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ## ⚠ Critical Preliminary Notice
 
@@ -352,7 +352,7 @@ Sincerely,
 * [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
 
-{% include "../.gitbook/includes/related-links-global (1).md" %}
+{% include "./.gitbook/includes/related-links-global (1).md" %}
 
 ---
 

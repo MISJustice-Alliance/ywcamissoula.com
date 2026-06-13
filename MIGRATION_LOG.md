@@ -108,7 +108,7 @@
 | callout (danger) | `{% hint style="danger" %}` | Ready |
 | code | Fenced code block | Ready |
 | quote | > blockquote | Ready |
-| image | `![alt](../.gitbook/assets/image.png)` | Ready |
+| image | `![alt](./gitbook-export/.gitbook/assets/image.png)` | Ready |
 | link_to_page | `[text](./README.md)` | Ready |
 | table/database | Markdown table | Ready |
 

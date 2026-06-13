@@ -28,7 +28,7 @@ Companion page: [Montana Police Accountability: Complaint Suppression and Civil 
 
 ---
 
-{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+{% include "./.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ## MISJustice Alliance | Accountability Research Series — Report 2
 ### May 2026 | *For Investigative, Legislative, and Advocacy Use — Not Legal Advice*
