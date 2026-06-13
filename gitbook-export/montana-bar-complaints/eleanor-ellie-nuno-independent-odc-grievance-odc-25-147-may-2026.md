@@ -201,7 +201,7 @@ To my knowledge, **Mr. Tipp never contacted this witness, never attempted to dev
 
 ### **G. Dr. Stratford's Psychiatric Letter Documenting Harm from GPS Monitoring**
 
-On April 10, 2019, board-certified psychiatrist Dr. William D. Stratford Jr. sent a letter directly to Mr. Tipp documenting that Elvis was suffering from a "remarkable anxiety disorder" with agoraphobia and paranoid ideation, severely impairing his functioning. Dr. Stratford stated that Elvis was "fearful of leaving his house and believes he is being consistently watched," and recommended delaying court proceedings for several months due to "serious risk of regression and worsening of his condition."
+On April 10, 2019, board-certified psychiatrist Dr. William D. Stratford Jr. sent a letter directly to Mr. Tipp documenting that Elvis was suffering from a "remarkable anxiety disorder" with agoraphobia and paranoid ideation, as he was under constant survailliance, that included police survailliance of myself and his father, severely impairing his functioning. Dr. Stratford stated that Elvis was "fearful of leaving his house and believes he is being consistently watched," and recommended delaying court proceedings for several months due to "serious risk of regression and worsening of his condition."
 
 This letter was written while Elvis was subject to 24/7 GPS ankle monitoring and travel restrictions—conditions that Dr. Stratford's letter directly linked to psychiatric deterioration.
 
