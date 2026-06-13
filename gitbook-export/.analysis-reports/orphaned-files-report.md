@@ -329,8 +329,8 @@ These files are explicitly referenced in `SUMMARY.md`.
 ## Methodology
 
 1. All `.md` files were discovered (excluding `.git/` and `.analysis-reports/`).
-2. Markdown links `[text](path)` were extracted from every `.md` file.
-3. GitBook `{% include "path" %}` directives were also extracted.
+2. Markdown links were extracted from every `.md` file; the example syntax is shown in backticks to avoid creating live links.
+3. GitBook include directives were also extracted; the example syntax is shown in backticks.
 4. Link targets were resolved relative to the source file and normalized.
 5. Files referenced in `SUMMARY.md` are considered "in summary".
 6. Files not in `SUMMARY.md` but referenced elsewhere are "partially orphaned".

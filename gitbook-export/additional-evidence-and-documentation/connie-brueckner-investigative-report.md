@@ -11,7 +11,7 @@
 
 Connie Brueckner is well documented in the public record as a Missoula Police Department detective who worked sexual-assault and related investigations during and after the 2012–2014 Missoula DOJ review. Local reporting and public court filings name her in the Jordan Johnson trial, the 2018 Mark McNeeley investigation, and later Montana appellate briefs involving sexual-offense or related cases. See, for example, NBC Montana’s coverage of Brueckner’s Johnson interview testimony, KPAX’s report on the McNeeley case, and public Montana Supreme Court filings in State v. Smith, State v. Hamernick, State v. Roberts, and State v. Purcell. [NBC Montana](https://www.nbcmontana.com/news/local/jury-sees-video-of-detective-interview-with-johnson), [KPAX](https://www.kpax.com/news/2018/08/16/missoula-man-charged-with-rape), [State v. Smith brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623), [State v. Hamernick brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425), [State v. Roberts brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=449571), [State v. Purcell brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=553616)
 
-**Updated finding:** Connie Brueckner is listed as a member of the YWCA Missoula Board of Directors in the organization’s 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064). The board roster names her alongside Shayla Beaumont, Erika Colstad, Rachel Dierken, and others. The same filing shows schedules for both 2022 and 2023, suggesting the roster reflects service during that period. What remains unverified: the exact start and end dates of her board service, any specific board role (e.g., “board member at large”), and whether she served during the 2012–2014 DOJ investigation period. Other years’ filings in the local archive did not list board members in the extracted text, so the service window cannot be fully established from the files reviewed here. [GSAFAC filing 2023-06-GSAFAC-0000027064](~/YWCA_Public_Filings/2023-06-GSAFAC-0000027064.pdf)
+**Updated finding:** Connie Brueckner is listed as a member of the YWCA Missoula Board of Directors in the organization’s 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064). The board roster names her alongside Shayla Beaumont, Erika Colstad, Rachel Dierken, and others. The same filing shows schedules for both 2022 and 2023, suggesting the roster reflects service during that period. What remains unverified: the exact start and end dates of her board service, any specific board role (e.g., “board member at large”), and whether she served during the 2012–2014 DOJ investigation period. Other years’ filings in the local archive did not list board members in the extracted text, so the service window cannot be fully established from the files reviewed here. GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo)
 
 The DOJ’s official Missoula findings letter and settlement documents documented systemic problems in how sexual-assault cases were investigated and prosecuted, but my full-text search of those official DOJ documents did not find Brueckner’s name. The official documents focus on systemic failures: more than 350 police sexual-assault reports reviewed, poor communication, weak evidence development, and gender bias concerns. [DOJ findings letter](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf), [DOJ settlement/MOU](https://www.justice.gov/sites/default/files/crt/legacy/2014/06/10/missoula_settle_6-10-14.pdf)
 
@@ -33,7 +33,7 @@ Bottom line: Brueckner’s status as an MPD detective and investigator is verifi
 | 2018 | Brueckner assigned to review the Mark McNeeley case involving a 15-year-old and a 19-year-old; she interviews witnesses and reviews texts | Verified | [KPAX](https://www.kpax.com/news/2018/08/16/missoula-man-charged-with-rape) |
 | 2021 | Montana Supreme Court brief in State v. Smith describes Brueckner as the investigating officer | Verified | [State v. Smith brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623) |
 | 2023 | Public Montana appellate filings in Hamernick and Roberts again name Brueckner as the detective/investigator | Verified | [Hamernick brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425), [Roberts brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=449571) |
-| 2022–2023 | Brueckner listed on YWCA Missoula Board of Directors per GSAFAC audited financial statements | Verified | [GSAFAC filing 2023-06-GSAFAC-0000027064](~/YWCA_Public_Filings/2023-06-GSAFAC-0000027064.pdf) |
+| 2022–2023 | Brueckner listed on YWCA Missoula Board of Directors per GSAFAC audited financial statements | Verified | GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo) |
 
 **Reliability note:** The timeline intentionally separates official records from local news and self-published allegation packets.
 
@@ -105,7 +105,7 @@ The conflict-of-interest theory in the starting file is straightforward: if Brue
 
 What is verified:
 - YWCA Missoula is a community advocate partner named in the DOJ MOU. [DOJ MOU](https://www.justice.gov/sites/default/files/crt/legacy/2014/06/10/missoula_settle_6-10-14.pdf)
-- Brueckner is listed on the YWCA Missoula Board of Directors in the 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064), indicating service during at least the 2022–2023 period. [GSAFAC filing](~/YWCA_Public_Filings/2023-06-GSAFAC-0000027064.pdf)
+- Brueckner is listed on the YWCA Missoula Board of Directors in the 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064), indicating service during at least the 2022–2023 period. GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo)
 - YWCA Missoula’s current public board page does not list Brueckner. [YWCA Missoula staff & board](https://www.ywcamissoula.org/about-us/our-staff-board)
 
 What is not verified:
@@ -143,7 +143,7 @@ I did not locate:
 2. She played an investigative role in the Jordan Johnson case and later Missoula sexual-offense cases. [NBC Montana](https://www.nbcmontana.com/news/local/jury-sees-video-of-detective-interview-with-johnson), [State v. Smith](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623), [Hamernick](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425), [Roberts](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=449571), [Purcell](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=553616)
 3. DOJ found systemic deficiencies in Missoula’s handling of sexual-assault cases. [DOJ findings letter](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf)
 4. DOJ’s public documents reviewed here do not name Brueckner.
-5. Brueckner is listed on the YWCA Missoula Board of Directors in the 2023 GSAFAC audited financial statements, verifying board membership for at least the 2022–2023 period. [GSAFAC filing](~/YWCA_Public_Filings/2023-06-GSAFAC-0000027064.pdf)
+5. Brueckner is listed on the YWCA Missoula Board of Directors in the 2023 GSAFAC audited financial statements, verifying board membership for at least the 2022–2023 period. GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo)
 
 ### Allegations / unadjudicated claims
 1. Brueckner served on the YWCA Missoula board during the 2012–2014 DOJ investigation period or during the 2018 investigations.
@@ -164,7 +164,7 @@ I did not locate:
 ### Official / primary
 - DOJ findings letter: https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf
 - DOJ settlement/MOU: https://www.justice.gov/sites/default/files/crt/legacy/2014/06/10/missoula_settle_6-10-14.pdf
-- YWCA Missoula GSAFAC audited financial statements (2023): ~/YWCA_Public_Filings/2023-06-GSAFAC-0000027064.pdf
+- YWCA Missoula GSAFAC audited financial statements (2023): local archive file not bundled in this repo
 - ProPublica YWCA Missoula nonprofit page: https://projects.propublica.org/nonprofits/organizations/810245851
 - YWCA Missoula staff & board: https://www.ywcamissoula.org/about-us/our-staff-board
 - Montana judicial documents: https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623
