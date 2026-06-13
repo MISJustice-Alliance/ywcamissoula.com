@@ -1,13 +1,15 @@
 ---
-title: Intentional Infliction of Extreme Psychological Trauma (2015-2025)
+title: >-
+  Intentional Infliction of Extreme Psychological Trauma (2015-2025)
+description: >-
+  Psychological trauma damages (2015-2025). cPTSD, chilling effect, economic
+  loss, and punitive exposure in the Nuno case.
 tags:
   - Legal Analysis
   - Ongoing Damages
   - Psychological Analysis
-description: >-
-  Psychological trauma damages (2015-2025). cPTSD, chilling effect, economic
-  loss, and punitive exposure in the Nuno case.
 ---
+
 
 # Intentional Infliction of Extreme Psychological Trauma (2015-2025)
 

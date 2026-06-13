@@ -1,15 +1,17 @@
 ---
-title: 2015-2016 Seattle Case & Related Civil Rights Violations
+title: >-
+  2015-2016 Seattle Case & Related Civil Rights Violations
+description: >-
+  This document analyzes civil rights violations occurring in Seattle during
+  2015-2016, including malicious prosecution, excessive bail, and Fourth...
 tags:
   - Seattle
   - Civil Rights
   - 2015-2016
   - Malicious Prosecution
   - Fourth Amendment
-description: >-
-  This document analyzes civil rights violations occurring in Seattle during
-  2015-2016, including malicious prosecution, excessive bail, and Fourth...
 ---
+
 
 # 2015-2016 Seattle Case & Related Civil Rights Violations
 

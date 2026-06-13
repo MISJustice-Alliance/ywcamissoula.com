@@ -1,8 +1,11 @@
 ---
+title: >-
+  Dataset: YWCA of Missoula alleged misconduct (2012–present)
 description: >-
   Curated index of alleged YWCA of Missoula misconduct and supporting primary
   records (2012–present).
 ---
+
 
 # Dataset: YWCA of Missoula alleged misconduct (2012–present)
 

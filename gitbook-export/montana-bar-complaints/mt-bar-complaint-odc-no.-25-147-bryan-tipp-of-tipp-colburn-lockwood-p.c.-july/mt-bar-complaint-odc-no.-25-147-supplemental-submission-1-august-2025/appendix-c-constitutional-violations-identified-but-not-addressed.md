@@ -1,9 +1,12 @@
 ---
+title: >-
+  Appendix C: Constitutional Violations Identified But Not Addressed
 description: >-
   specific constitutional violations that were evident throughout Bryan Tipp's
   representation but were never challenged, despite clear legal grounds and
   professional obligations to protect his client...
 ---
+
 
 # Appendix C: Constitutional Violations Identified But Not Addressed
 

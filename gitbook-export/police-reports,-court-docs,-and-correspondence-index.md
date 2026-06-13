@@ -1,5 +1,8 @@
 ---
 title: Police Reports, Court Docs, and Correspondence Index
+description: >-
+  Record-first hub for Police Reports, Court Docs, and Correspondence, with
+  primary evidence links and related analysis.
 tags:
   - Index
   - Police Reports
@@ -7,10 +10,8 @@ tags:
   - Correspondence
   - Federal Complaints
   - State Complaints
-description: >-
-  Index of police reports, court documents, correspondence, and federal/state
-  complaints supporting the Mr. Nuno civil rights record.
 ---
+
 
 # Police Reports, Court Docs, and Correspondence Index
 

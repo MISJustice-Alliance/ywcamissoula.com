@@ -1,8 +1,10 @@
 ---
+title: Dataset Catalog Indexes
 description: >-
-  Crawlable index of the most important datasets and their canonical entry
-  points.
+  Crawlable dataset hub for Dataset Catalog, with canonical record-set links
+  and structured references.
 ---
+
 
 # Dataset Catalog Indexes
 

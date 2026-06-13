@@ -1,14 +1,15 @@
 ---
 title: Washington/Montana Legal Cases Index
+description: >-
+  Record-first hub for Washington/Montana Legal Cases, with primary evidence
+  links and related analysis.
 tags:
   - Index
   - Washington
   - Montana
   - Legal Cases
-description: >-
-  Index of Washington and Montana legal case analyses: Seattle/Edmonds
-  proceedings, Missoula cases, YWCA conflict issues, and key filings.
 ---
+
 
 # Washington/Montana Legal Cases Index
 

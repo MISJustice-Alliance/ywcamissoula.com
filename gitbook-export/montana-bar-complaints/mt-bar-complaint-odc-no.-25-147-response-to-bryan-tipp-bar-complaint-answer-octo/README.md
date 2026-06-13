@@ -1,15 +1,16 @@
 ---
-title: >-
-  MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer
-  (October 2025)
+title: Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)
+description: >-
+  Index of Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025), with
+  complaint filings, rulings, and supporting records.
 tags:
   - MT Bar Complaint
   - ODC-25-147
   - Bryan Tipp
   - Response
   - October 2025
-description: Bryan Tipp's Response to ODC File No. 25-147, filed September 23, 2025
 ---
+
 
 # Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)
 

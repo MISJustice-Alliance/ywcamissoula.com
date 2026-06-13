@@ -1,8 +1,11 @@
 ---
+title: >-
+  CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula
 description: >-
   Structured evidentiary report mapping alleged institutional conduct by YWCA
   of Missoula to potential Montana, federal, and regulatory referral issues.
 ---
+
 
 # CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula
 

@@ -1,17 +1,18 @@
 ---
 title: >-
-  2016 Dr Marta J.L. Miranda Medical Malpractice: Executive Summary for Legal
-  Advocates
+  Dr. Marta Miranda Malpractice Summary (2016)
+description: >-
+  Case Profile: Elvis Nuno v. Dr. Marta J.L. Miranda, Psy.D. & Multiple
+  Institutional Defendants Total Estimated Damages: $6.4-8.4 Million
+  Current...
 tags:
   - Legal Analysis
   - Medical Malpractice
   - Seattle
   - Washington
   - Dr. Marta Miranda
-description: >-
-  Case Profile: Elvis Nuno v. Dr. Marta J.L. Miranda, Psy.D. & Multiple
-  Institutional Defendants Total Estimated Damages: $6.4-8.4 Million Current...
 ---
+
 
 # 2016 Dr. Marta Miranda malpractice: executive summary
 

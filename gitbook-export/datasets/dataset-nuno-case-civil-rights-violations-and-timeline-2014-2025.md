@@ -1,8 +1,11 @@
 ---
+title: >-
+  Dataset: Nuno case civil-rights violations and timeline (2014–2025)
 description: >-
-  Canonical dataset landing page for the Nuno case timeline and alleged
-  civil-rights violations (2014–2025).
+  Canonical dataset landing page for the Nuno case timeline and alleged civil-
+  rights violations (2014–2025).
 ---
+
 
 # Dataset: Nuno case civil-rights violations and timeline (2014–2025)
 

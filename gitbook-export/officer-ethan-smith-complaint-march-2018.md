@@ -1,7 +1,11 @@
 ---
 title: >-
-  MPD Officer Misconduct Series: 2018 Complaint by Tyrone Nuno Regarding Officer
-  Ethan Smith (Badge #345)
+  Officer Ethan Smith Complaint (March 2018)
+description: >-
+  Primary-source archive entry documenting a March 2018 complaint by Tyrone
+  Nuno concerning repeated, unwanted contact and alleged harassment by
+  Missoula Police Department Officer Ethan Smith (Badge #345) directed at the
+  Nuno family.
 tags:
   - MPD Officer Misconduct
   - Primary Source
@@ -10,11 +14,8 @@ tags:
   - Missoula Police Department
   - Civil Rights
   - Harassment
-description: >-
-  Primary-source archive entry documenting a March 2018 complaint by Tyrone Nuno
-  concerning repeated, unwanted contact and alleged harassment by Missoula Police
-  Department Officer Ethan Smith (Badge #345) directed at the Nuno family.
 ---
+
 
 # MPD Officer Misconduct Series: 2018 Complaint by Tyrone Nuno Regarding Officer Ethan Smith
 

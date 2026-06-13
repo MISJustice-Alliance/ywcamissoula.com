@@ -1,7 +1,9 @@
 ---
 title: >-
-  Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula
-  County Jail (August 2018)
+  Home Invasion and False Imprisonment (Aug 2018)
+description: >-
+  The August 2018 incident presents a textbook case of false imprisonment,
+  Fourth Amendment violations, and malicious prosecution.
 tags:
   - Civil Rights Violations
   - Fourth Amendment Violations
@@ -9,10 +11,8 @@ tags:
   - Missoula
   - Montana
   - Unlawful Arrest
-description: >-
-  The August 2018 incident presents a textbook case of false imprisonment,
-  Fourth Amendment violations, and malicious prosecution.
 ---
+
 
 # Aug 2018: warrantless arrest and false imprisonment
 

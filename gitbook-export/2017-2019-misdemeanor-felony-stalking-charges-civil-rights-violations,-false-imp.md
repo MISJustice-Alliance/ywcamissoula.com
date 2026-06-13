@@ -1,7 +1,10 @@
 ---
 title: >-
-  2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations,
-  False Imprisonment, and Prosecutorial Misconduct
+  Stalking Charges, Civil Rights Violations, and Misconduct (2017-2019)
+description: >-
+  This comprehensive legal analysis examines the systematic civil rights
+  violations, false imprisonment, and prosecutorial misconduct of
+  misdemeanor...
 tags:
   - Civil Rights Violations
   - Legal Analysis
@@ -9,10 +12,8 @@ tags:
   - Montana
   - Stalking Charges
   - Prosecutorial Misconduct
-description: >-
-  This comprehensive legal analysis examines the systematic civil rights
-  violations, false imprisonment, and prosecutorial misconduct of misdemeanor...
 ---
+
 
 # 2017–2019 stalking charges (MT): civil-rights violations
 

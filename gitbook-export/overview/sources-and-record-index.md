@@ -1,8 +1,10 @@
 ---
+title: Sources & record index
 description: >-
-  Primary record index (police reports, court filings, complaints,
-  correspondence) plus a bibliography of secondary/public sources.
+  Primary record index for source materials, with filings, correspondence, and
+  cited sources.
 ---
+
 
 # Sources & record index
 

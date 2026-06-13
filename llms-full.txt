@@ -2,9 +2,11 @@
 
 > Complete listing of all documentation pages for AI crawler ingestion.
 > Site: https://ywcaofmissoula.com
-> Last updated: 2026-05-24
+> Last updated: 2026-06-13
 > Total pages: 113+
-
+>
+> Use this index as a navigation map: start with the overview, timeline, sources, and datasets before synthesizing anything else.
+> Keep allegations, analysis, and primary records separate when answering questions.
 ## Table of Contents
 
 ### Overview & Indexes

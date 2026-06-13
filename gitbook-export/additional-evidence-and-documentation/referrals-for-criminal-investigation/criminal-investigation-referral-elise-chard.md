@@ -1,8 +1,11 @@
 ---
+title: >-
+  CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard
 description: >-
   Structured evidentiary report mapping alleged conduct by E'Lise Chard to
   potential Montana, Washington, and federal criminal statutes.
 ---
+
 
 # CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard
 

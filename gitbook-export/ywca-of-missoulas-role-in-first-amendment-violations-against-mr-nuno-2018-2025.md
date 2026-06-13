@@ -1,7 +1,9 @@
 ---
 title: >-
-  YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno
-  (2018-2025)
+  YWCA of Missoula and First Amendment Violations (2018-2025)
+description: >-
+  First Amendment retaliation analysis (2018-2025). YWCA of Missoula conduct,
+  protected complaints, and related damages for Mr Nuno.
 tags:
   - Civil Rights Violations
   - First Amendment Violations
@@ -9,10 +11,8 @@ tags:
   - Missoula
   - Montana
   - YWCA of Missoula
-description: >-
-  First Amendment retaliation analysis (2018-2025). YWCA of Missoula conduct,
-  protected complaints, and related damages for Mr Nuno.
 ---
+
 
 # YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)
 

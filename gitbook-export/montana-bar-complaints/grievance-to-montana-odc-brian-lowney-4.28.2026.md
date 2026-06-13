@@ -1,11 +1,13 @@
 ---
+title: >-
+  Grievance to Montana ODC — Brian Lowney (April 28, 2026)
 description: >-
-  Formal grievance filed April 28, 2026 with the Montana Office of Disciplinary
-  Counsel against Deputy County Attorney Brian Lowney and the Missoula County
-  Attorney's Office alleging prosecutorial misconduct, Brady violations, and
-  abuse of process in Cause No. DC-18-587.
-title: 'Grievance to Montana ODC — Brian Lowney (April 28, 2026)'
+  Formal grievance filed April 28, 2026 with the Montana Office of
+  Disciplinary Counsel against Deputy County Attorney Brian Lowney and the
+  Missoula County Attorney's Office alleging prosecutorial misconduct, Brady
+  violations, and abuse of process in Cause No. DC-18-587.
 ---
+
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 

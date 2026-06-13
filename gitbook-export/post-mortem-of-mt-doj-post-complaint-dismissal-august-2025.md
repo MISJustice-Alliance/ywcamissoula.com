@@ -1,5 +1,9 @@
 ---
-title: Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)
+title: >-
+  Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)
+description: >-
+  The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents
+  a profound failure to comprehend the nature and scope of the allegations....
 tags:
   - Civil Rights Violations
   - Evidence
@@ -8,10 +12,8 @@ tags:
   - MT DoJ POST Complaint
   - Missoula
   - Montana
-description: >-
-  The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents a
-  profound failure to comprehend the nature and scope of the allegations....
 ---
+
 
 # Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)
 

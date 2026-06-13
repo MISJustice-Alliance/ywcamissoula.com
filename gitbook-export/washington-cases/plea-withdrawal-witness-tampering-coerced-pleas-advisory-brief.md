@@ -1,5 +1,6 @@
 ---
-title: "Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas"
+title: >-
+  Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas
 description: >-
   Legal research and strategic advisory brief on potential Washington plea
   withdrawal or collateral relief arising from alleged witness tampering,
@@ -12,6 +13,7 @@ tags:
   - Due Process
   - Postconviction
 ---
+
 
 # Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas
 

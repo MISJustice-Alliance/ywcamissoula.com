@@ -1,9 +1,13 @@
 ---
+title: >-
+  Brian Lowney Prosecution Addendum
 description: >-
   Public addendum examining how the August 14, 2018 P.S. email raises
   questions about the prosecution process and Brian Lowney's handling of
-  favorable and contradictory information in the criminal case against Elvis Nuno.
+  favorable and contradictory information in the criminal case against Elvis
+  Nuno.
 ---
+
 
 # Public Addendum: P.S. Email and Questions About the Brian Lowney Prosecution Record
 

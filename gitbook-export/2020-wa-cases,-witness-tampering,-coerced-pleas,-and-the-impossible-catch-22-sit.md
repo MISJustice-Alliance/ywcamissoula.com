@@ -1,17 +1,17 @@
 ---
 title: >-
-  2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22
-  Situation
+  WA Cases: Witness Tampering, Coerced Pleas, and Catch-22 (2020)
+description: >-
+  This document analyzes the 2020 Washington cases involving allegations of
+  witness tampering, coerced pleas, and the systemic catch-22 situation...
 tags:
   - Washington
   - '2020'
   - Witness Tampering
   - Coerced Pleas
   - Catch-22
-description: >-
-  This document analyzes the 2020 Washington cases involving allegations of
-  witness tampering, coerced pleas, and the systemic catch-22 situation...
 ---
+
 
 # 2020 WA cases: witness tampering and coerced pleas
 

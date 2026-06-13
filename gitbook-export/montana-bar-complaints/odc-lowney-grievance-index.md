@@ -1,9 +1,10 @@
 ---
+title: ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
 description: >-
-  Index for the Montana Office of Disciplinary Counsel (ODC) grievance against
-  Deputy County Attorney Brian Lowney and the Missoula County Attorney's Office,
-  filed April 28, 2026, arising from Cause No. DC-18-587.
+  Index of ODC Lowney Grievance (April 2026) — Montana Bar, with complaint
+  filings, rulings, and supporting records.
 ---
+
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
 

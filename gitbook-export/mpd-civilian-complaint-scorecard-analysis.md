@@ -1,8 +1,11 @@
 ---
+title: >-
+  MPD Civilian Complaint Scorecard
 description: >-
-  Statistical analysis of MPD civilian complaint data (2016–2022) from Police Scorecard,
-  NBC Montana, and MPD annual reports. Documents 16% sustain rate, zero sustained UoF
-  and discrimination findings, and structural accountability failures.
+  Statistical analysis of MPD civilian complaint data (2016–2022) from Police
+  Scorecard, NBC Montana, and MPD annual reports. Documents 16% sustain rate,
+  zero sustained UoF and discrimination findings, and structural
+  accountability failures.
 tags:
   - legal-analysis
   - mpd
@@ -13,6 +16,7 @@ tags:
   - discrimination
   - missoula
 ---
+
 
 # MPD Civilian Complaint Scorecard
 

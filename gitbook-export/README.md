@@ -1,9 +1,17 @@
 ---
-title: Civil Rights Violations Documentation
+title: Missoula law enforcement, prosecutors, and YWCA misconduct (2012–present)
 description: >-
-  Alleged misconduct involving YWCA Missoula, Missoula Police (MPD),
-  prosecutors, and attorney Bryan Tipp. Nuno case is the evidence spine
-  (2015–2025).
+  Public record-first documentation of alleged misconduct, civil-rights claims,
+  and primary evidence involving YWCA Missoula, Missoula Police (MPD),
+  prosecutors, and related actors in the Nuno case (2012–2025).
+tags:
+  - Missoula
+  - Montana
+  - Civil Rights
+  - YWCA
+  - MPD
+  - Section 1983
+  - Evidence
 ---
 
 # Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)

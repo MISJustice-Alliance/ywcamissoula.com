@@ -1,9 +1,10 @@
 ---
+title: YWCA Missoula: conflicts of interest, MPD integration, and evidence index
 description: >-
-  YWCA Missoula (YWCA of Missoula): allegations of conflict of interest,
-  police/prosecutor integration signals, and a curated index of primary records
-  and analysis.
+  Evidence index for YWCA Missoula conflict-of-interest and MPD integration
+  issues, with primary records and analysis links.
 ---
+
 
 # YWCA Missoula: conflicts of interest, MPD integration, and evidence index
 

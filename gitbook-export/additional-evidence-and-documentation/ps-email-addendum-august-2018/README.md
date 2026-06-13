@@ -1,10 +1,10 @@
 ---
+title: P.S. Email Addendum (August 14, 2018)
 description: >-
-  Discovery exhibit and public addenda concerning the August 14, 2018 P.S. email
-  sent to YWCA of Missoula and its subsequent forwarding into prosecution-adjacent
-  channels. This section contains the original exhibit and analytical addenda
-  examining the email from multiple institutional and legal angles.
+  Record-first hub for P.S. Email Addendum (August 14, 2018), with primary
+  evidence links and related analysis.
 ---
+
 
 # P.S. Email Addendum (August 14, 2018)
 

@@ -1,8 +1,12 @@
 ---
+title: >-
+  MT Bar Complaint ODC No. 25-147:  ODC Ruling (November 2025)
 description: >-
   ODC File No. 25-147 - ODC Ruling: dismissal a grievance filed by Elvis Nuno
-  against his former attorney, Bryan C. Tipp, concerning Tipp’s representation.
+  against his former attorney, Bryan C. Tipp, concerning Tipp’s
+  representation.
 ---
+
 
 # MT Bar Complaint ODC No. 25-147:  ODC Ruling (November 2025)
 

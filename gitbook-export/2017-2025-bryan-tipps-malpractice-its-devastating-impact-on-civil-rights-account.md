@@ -1,17 +1,17 @@
 ---
 title: >-
-  2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights
-  Accountability
+  Bryan Tipp Malpractice and Civil-Rights Fallout (2017-2025)
+description: >-
+  Bryan Tipp malpractice analysis (Missoula / 2017–2025): missed statutes of
+  limitation, lost §1983 claims, and quantified civil-rights damages.
 tags:
   - Bryan Tipp
   - Legal Analysis
   - Legal Malpractice
   - Missoula
   - Montana
-description: >-
-  Bryan Tipp malpractice analysis (Missoula / 2017–2025): missed statutes of
-  limitation, lost §1983 claims, and quantified civil-rights damages.
 ---
+
 
 # Bryan Tipp malpractice (2017–2025)
 

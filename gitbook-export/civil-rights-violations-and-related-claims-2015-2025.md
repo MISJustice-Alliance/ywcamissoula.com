@@ -1,16 +1,18 @@
 ---
-title: Civil Rights Violations and Related Claims (2015-2025)
+title: >-
+  Civil Rights Violations and Related Claims (2015-2025)
+description: >-
+  Missoula Police (MPD) §1983 misconduct analysis (2015-2025):
+  First/Fourteenth Amendment claims, malicious prosecution, prosecutorial
+  misconduct, and damages in the Nuno case record.
 tags:
   - Civil Rights
   - Legal Analysis
   - Missoula
   - Montana
   - 2015-2025
-description: >-
-  Missoula Police (MPD) §1983 misconduct analysis (2015-2025): First/Fourteenth
-  Amendment claims, malicious prosecution, prosecutorial misconduct, and damages
-  in the Nuno case record.
 ---
+
 
 # Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)
 

@@ -1,9 +1,12 @@
 ---
+title: >-
+  Appendix D: Documentation of Lost Civil Claims and Statute of Limitations
 description: >-
-  Bryan Tipp's single phrase—"give the matter time"—cost his client between $4.4
-  and $5.4 million in lost civil recovery, representing one of the most
+  Bryan Tipp's single phrase—"give the matter time"—cost his client between
+  $4.4 and $5.4 million in lost civil recovery, representing one of the most
   expensive pieces of legal advice in Montana history
 ---
+
 
 # Appendix D: Documentation of Lost Civil Claims and Statute of Limitations
 

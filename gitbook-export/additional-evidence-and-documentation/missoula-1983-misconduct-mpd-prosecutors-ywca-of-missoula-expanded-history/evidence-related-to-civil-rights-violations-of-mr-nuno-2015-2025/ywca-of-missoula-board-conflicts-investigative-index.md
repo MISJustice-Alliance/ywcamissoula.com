@@ -1,9 +1,10 @@
 ---
+title: YWCA of Missoula board conflicts (investigative index)
 description: >-
-  Investigative index of board-level conflicts and governance risks at YWCA of
-  Missoula, including MPD/prosecutor integration signals and Nuno case evidence
-  links.
+  Record-first hub for YWCA of Missoula board conflicts (investigative index),
+  with primary evidence links and related analysis.
 ---
+
 
 # YWCA of Missoula board conflicts (investigative index)
 

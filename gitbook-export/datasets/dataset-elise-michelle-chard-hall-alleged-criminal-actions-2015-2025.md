@@ -1,8 +1,11 @@
 ---
+title: >-
+  Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)
 description: >-
   Curated index of alleged criminal actions by E’Lise Michelle Chard / Hall,
   with links to published packets and primary records.
 ---
+
 
 # Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)
 

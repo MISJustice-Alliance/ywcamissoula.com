@@ -1,3 +1,10 @@
+---
+title: Washington Legal Cases Index
+description: >-
+  Record-first hub for Washington Legal Cases, with primary evidence links and
+  related analysis.
+---
+
 <!-- AUTO_UPDATE: 20260529-0235 -->
 
 ---

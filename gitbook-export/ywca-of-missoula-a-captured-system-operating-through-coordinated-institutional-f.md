@@ -1,17 +1,17 @@
 ---
 title: >-
-  YWCA of Missoula: A Captured System Operating Through Coordinated
-  Institutional Failures
+  YWCA of Missoula: Coordinated Institutional Failures
+description: >-
+  YWCA of Missoula institutional capture overview. Coordination with
+  police/prosecutors, retaliation claims, and RICO/1985 red flags.
 tags:
   - Legal Analysis
   - Missoula
   - Montana
   - YWCA
   - YWCA of Missoula
-description: >-
-  YWCA of Missoula institutional capture overview. Coordination with
-  police/prosecutors, retaliation claims, and RICO/1985 red flags.
 ---
+
 
 # YWCA of Missoula: captured system overview
 

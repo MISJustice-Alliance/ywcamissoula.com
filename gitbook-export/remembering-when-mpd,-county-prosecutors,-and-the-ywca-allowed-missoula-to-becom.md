@@ -1,7 +1,9 @@
 ---
 title: >-
-  Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to
-  Become the Sexual Assault Capital of the Country
+  MPD, Prosecutors, and YWCA: Missoula Accountability Failure
+description: >-
+  Background on Missoula institutional failures and YWCA governance conflicts.
+  Context for DOJ scrutiny and later retaliation patterns.
 tags:
   - '2012'
   - Civil Rights Violations
@@ -10,10 +12,8 @@ tags:
   - Montana
   - Police Corruption
   - YWCA of Missoula
-description: >-
-  Background on Missoula institutional failures and YWCA governance conflicts.
-  Context for DOJ scrutiny and later retaliation patterns.
 ---
+
 
 # Remembering When: Missoula rape-capital era
 

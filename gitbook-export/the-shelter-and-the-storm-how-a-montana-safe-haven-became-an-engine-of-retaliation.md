@@ -1,15 +1,17 @@
 ---
-title: 'The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation'
+title: >-
+  Montana Safe Haven Retaliation Case
+description: >-
+  Raw article text extracted from the source PDF, with the original PDF
+  provided for download.
 tags:
   - Legal Analysis
   - YWCA of Missoula
   - Institutional Capture
   - Missoula
   - Montana
-description: >-
-  Raw article text extracted from the source PDF, with the original PDF provided
-  for download.
 ---
+
 
 # The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation
 

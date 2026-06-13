@@ -1,9 +1,12 @@
 ---
+title: >-
+  ODC 25-147: Bryan Tipp Complaint (July 2025)
 description: >-
   Bryan Tipp, while representing me in criminal proceedings (State v. Nuno,
   Missoula County), committed legal malpractice and violated the Montana Rules
   of Professional Conduct by...
 ---
+
 
 # MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)
 

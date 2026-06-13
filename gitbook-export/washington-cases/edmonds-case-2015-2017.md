@@ -1,8 +1,11 @@
 ---
+title: >-
+  Edmonds Case (2015-2017)
 description: >-
   Hub for the Edmonds, Washington case: plea entry, plea withdrawal attempt,
   related complaints, and supporting records (2015-2017).
 ---
+
 
 # Edmonds Case (2015-2017)
 

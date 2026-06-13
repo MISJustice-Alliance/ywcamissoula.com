@@ -1,15 +1,17 @@
 ---
-title: 2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis
+title: >-
+  2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis
+description: >-
+  Analysis of Seattle Office of Police Accountability complaint 2016OPA-1167
+  and its handling.
 tags:
   - Seattle
   - OPA
   - Police Complaint
   - '2016'
   - Legal Analysis
-description: >-
-  Analysis of Seattle Office of Police Accountability complaint 2016OPA-1167 and
-  its handling.
 ---
+
 
 # 2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis
 

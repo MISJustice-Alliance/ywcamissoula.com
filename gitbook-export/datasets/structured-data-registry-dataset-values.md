@@ -1,8 +1,11 @@
 ---
+title: >-
+  Structured data registry (Dataset values)
 description: >-
   Copy-paste registry of Schema.org Dataset fields (name, description, url,
   sameAs) for each dataset landing page.
 ---
+
 
 # Structured data registry (Dataset values)
 

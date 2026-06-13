@@ -1,9 +1,12 @@
 ---
+title: >-
+  SEO + GEO audit (sitewide)
 description: >-
   Actionable, section-by-section search and generative indexing audit for the
   MisJustice Alliance GitBook site.
 hidden: true
 ---
+
 
 # SEO + GEO audit (sitewide)
 

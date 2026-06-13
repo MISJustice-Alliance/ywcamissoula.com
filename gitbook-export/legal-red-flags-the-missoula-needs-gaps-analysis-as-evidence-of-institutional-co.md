@@ -1,12 +1,12 @@
 ---
 title: >-
-  Legal Red Flags: The Missoula Needs & Gaps Analysis as Evidence of
-  Institutional Corruption and Systemic Abuse
+  Missoula Needs & Gaps Analysis: Institutional Corruption Signals
 description: >-
   Missoula homelessness funding analysis: 2024 Needs & Gaps report,
-  institutional capture signals, and links to YWCA of Missoula, Missoula Police
-  Department (MPD), and prosecutors.
+  institutional capture signals, and links to YWCA of Missoula, Missoula
+  Police Department (MPD), and prosecutors.
 ---
+
 
 # Missoula Needs & Gaps analysis: homelessness funding and institutional capture
 

@@ -1,15 +1,17 @@
 ---
-title: 'WA State Bar Complaint: Patricia Fulton (2016)'
+title: >-
+  WA State Bar Complaint: Patricia Fulton (2016)
+description: >-
+  On December 15th, 2015, I retained Patricia Fulton as a defense attorney in
+  a domestic violence related case in Edmonds.
 tags:
   - WA State Bar
   - Patricia Fulton
   - Legal Malpractice
   - Washington
   - '2016'
-description: >-
-  On December 15th, 2015, I retained Patricia Fulton as a defense attorney in a
-  domestic violence related case in Edmonds.
 ---
+
 
 # WA State Bar Complaint: Patricia Fulton (2016)
 

@@ -1,17 +1,17 @@
 ---
 title: >-
-  MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds
-  Municipal Court (Nov 2025)
+  Motion to Seal Dr. Marta Miranda Record (Nov 2025)
+description: >-
+  This motion was submitted to Edmonds Municipal Court on November 3, 2025,
+  regarding a HIPAA violation committed by Dr. Marta J.L. Miranda, Psy.D....
 tags:
   - Motion to Seal
   - Dr. Marta Miranda
   - Edmonds Municipal Court
   - HIPAA
   - November 2025
-description: >-
-  This motion was submitted to Edmonds Municipal Court on November 3, 2025,
-  regarding a HIPAA violation committed by Dr. Marta J.L. Miranda, Psy.D....
 ---
+
 
 # Motion to seal/redact Miranda evaluation (Nov 2025)
 

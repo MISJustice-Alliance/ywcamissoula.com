@@ -1,9 +1,12 @@
 ---
+title: >-
+  ODC 25-147 Supplemental Submission 3.1 (Sept 2025)
 description: >-
-  This supplemental report provides detailed violation by Respondent Bryan Tipp:
-  requiring client Elvis Nuno to surrender fundamental First Amendment rights as
-  a condition of a non-prosecution agreement
+  This supplemental report provides detailed violation by Respondent Bryan
+  Tipp: requiring client Elvis Nuno to surrender fundamental First Amendment
+  rights as a condition of a non-prosecution agreement
 ---
+
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)
 

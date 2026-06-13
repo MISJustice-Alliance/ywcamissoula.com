@@ -1,5 +1,9 @@
 ---
-title: 'Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration'
+title: >-
+  Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration
+description: >-
+  YWCA of Missoula conflict of interest analysis focused on board-level ties
+  to MPD, confidentiality risks, and Nuno case pattern evidence.
 tags:
   - Legal Analysis
   - YWCA of Missoula
@@ -7,10 +11,8 @@ tags:
   - Police Integration
   - Missoula
   - Montana
-description: >-
-  YWCA of Missoula conflict of interest analysis focused on board-level ties to
-  MPD, confidentiality risks, and Nuno case pattern evidence.
 ---
+
 
 # YWCA of Missoula conflict of interest: board conflicts and police integration
 

@@ -1,9 +1,12 @@
 ---
+title: >-
+  RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW
 description: >-
   Request that a Review Panel of the Commission on Practice review ODC's
   determination that "this matter does not warrant disciplinary action" and
   reverse the dismissal.
 ---
+
 
 # RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW
 

@@ -1,9 +1,10 @@
 ---
+title: Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index
 description: >-
-  Bryan Tipp (Tipp, Colburn, Lockwood): malpractice allegations tied to missed
-  statutes of limitations and lost §1983 claims, with links to bar-complaint
-  filings and supporting records.
+  Primary record index for Bryan Tipp malpractice allegations and missed §1983
+  deadlines, with filings, correspondence, and cited sources.
 ---
+
 
 # Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index
 

@@ -1,9 +1,12 @@
 ---
+title: >-
+  Public Addendum: August 14, 2018 P.S. Email and Forwarding Chain
 description: >-
   Public addendum summarizing the August 14, 2018 P.S. email sent to YWCA of
-  Missoula and its forwarding into police and victim-services channels. Revised
-  for public evidentiary use.
+  Missoula and its forwarding into police and victim-services channels.
+  Revised for public evidentiary use.
 ---
+
 
 # Public Addendum: August 14, 2018 P.S. Email and Forwarding Chain
 

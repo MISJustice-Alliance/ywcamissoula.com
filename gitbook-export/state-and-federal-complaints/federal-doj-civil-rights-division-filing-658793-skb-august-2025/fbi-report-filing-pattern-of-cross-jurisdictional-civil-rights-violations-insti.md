@@ -1,7 +1,10 @@
 ---
 title: >-
-  FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations,
-  Institutional Corruption, and Coordinated Harassment (November 2025)
+  FBI Filing: Cross-Jurisdictional Civil Rights Pattern (Nov 2025)
+description: >-
+  FBI referral request for DOJ report 658793-SKB (Nov 2025): alleged Missoula
+  §1983 misconduct and retaliation pattern involving MPD, prosecutors, and
+  YWCA of Missoula.
 tags:
   - FBI Report
   - Civil Rights Violations
@@ -9,11 +12,8 @@ tags:
   - Washington
   - Official Complaint
   - RICO
-description: >-
-  FBI referral request for DOJ report 658793-SKB (Nov 2025): alleged Missoula
-  §1983 misconduct and retaliation pattern involving MPD, prosecutors, and YWCA
-  of Missoula.
 ---
+
 
 # FBI referral request (Nov 2025)
 

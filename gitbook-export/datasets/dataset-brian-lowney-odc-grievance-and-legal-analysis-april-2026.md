@@ -1,10 +1,13 @@
 ---
+title: >-
+  Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)
 description: >-
-  Dataset landing page for the Brian Lowney ODC grievance filed April 28, 2026.
-  Includes the full grievance document, legal analysis of prosecutorial
-  misconduct claims, and cross-references to the broader Montana bar complaints
-  record.
+  Dataset landing page for the Brian Lowney ODC grievance filed April 28,
+  2026. Includes the full grievance document, legal analysis of prosecutorial
+  misconduct claims, and cross-references to the broader Montana bar
+  complaints record.
 ---
+
 
 # Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)
 

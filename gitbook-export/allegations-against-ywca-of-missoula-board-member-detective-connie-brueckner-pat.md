@@ -1,18 +1,18 @@
 ---
 title: >-
-  Allegations Against YWCA of Missoula & Board Member Detective Connie
-  Brueckner: Patterns of Abuse of Power & Unethical Relationships
+  YWCA of Missoula and Detective Connie Brueckner Allegations
+description: >-
+  Evidence summary of YWCA Missoula (YWCA of Missoula) allegations: conflict-
+  of-interest issues, board-level police ties, confidentiality risks, and
+  related civil-rights theories.
 tags:
   - YWCA of Missoula
   - Connie Brueckner
   - Missoula
   - Montana
   - Institutional Corruption
-description: >-
-  Evidence summary of YWCA Missoula (YWCA of Missoula) allegations:
-  conflict-of-interest issues, board-level police ties, confidentiality risks,
-  and related civil-rights theories.
 ---
+
 
 # YWCA Brueckner conflict: allegations summary
 

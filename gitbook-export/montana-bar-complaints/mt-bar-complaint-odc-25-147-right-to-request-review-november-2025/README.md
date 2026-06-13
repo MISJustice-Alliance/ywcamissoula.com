@@ -1,5 +1,8 @@
 ---
 title: MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)
+description: >-
+  Index of MT Bar Complaint ODC-25-147 - Right To Request Review (November
+  2025), with complaint filings, rulings, and supporting records.
 tags:
   - MT Bar Complaint
   - ODC-25-147
@@ -7,8 +10,8 @@ tags:
   - Request for Review
   - November 2025
   - Commission on Practice
-description: ODC FILE NO. 25-147
 ---
+
 
 # MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)
 

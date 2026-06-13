@@ -1,6 +1,10 @@
 ---
-description: Index page for the external case file and its linked evidence documents.
+title: >-
+  MisJustice Alliance case file: daf82b62
+description: >-
+  Index page for the external case file and its linked evidence documents.
 ---
+
 
 # MisJustice Alliance case file: daf82b62
 

@@ -1,9 +1,12 @@
 ---
+title: >-
+  Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)
 description: >-
   Supporting witness grievance from Tyrone Nuno (father of Elvis Nuno) re ODC
   File No. 25-147. Corroborates investigative failures, witness neglect, and
   family pressure tactics by Bryan Tipp.
 ---
+
 
 # Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)
 

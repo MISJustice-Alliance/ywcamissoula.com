@@ -1,9 +1,12 @@
 ---
+title: >-
+  Community Response to Police Misconduct Outreach in Missoula
 description: >-
   Analysis of a Missoula Reddit outreach thread on alleged institutional
   misconduct, showing that hostile replies and downvoting created a “heckler’s
   veto” that discourages victims from speaking up.
 ---
+
 
 # Community Response to Police Misconduct Outreach in Missoula
 

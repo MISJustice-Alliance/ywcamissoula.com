@@ -1,8 +1,11 @@
 ---
+title: >-
+  Police Accountability Failure in Montana
 description: >-
-  A systemic, multi-layered failure of police accountability in Missoula, Montana
-  At every level of the oversight hierarchy, complaint systems are engineered to favor early closure,
-  shield institutional actors, and suppress civilian accountability.
+  A systemic, multi-layered failure of police accountability in Missoula,
+  Montana At every level of the oversight hierarchy, complaint systems are
+  engineered to favor early closure, shield institutional actors, and suppress
+  civilian accountability.
 tags:
   - legal-analysis
   - mpd
@@ -13,6 +16,7 @@ tags:
   - discrimination
   - missoula
 ---
+
 
 # Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ
 

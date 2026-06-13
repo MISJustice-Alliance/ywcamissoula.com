@@ -1,15 +1,17 @@
 ---
-title: 'Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation'
+title: >-
+  Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation
+description: >-
+  Update on YWCA misconduct and the LifeGuard Group investigation. Board
+  conflicts, DOJ findings, and constitutional claim implications.
 tags:
   - YWCA of Missoula
   - LifeGuard Group
   - Missoula
   - Montana
   - Institutional Corruption
-description: >-
-  Update on YWCA misconduct and the LifeGuard Group investigation. Board
-  conflicts, DOJ findings, and constitutional claim implications.
 ---
+
 
 # Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation
 

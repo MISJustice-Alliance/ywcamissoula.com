@@ -1,9 +1,10 @@
 ---
+title: MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)
 description: >-
-  This supplemental submission provides additional documentation and analysis of
-  attorney Bryan Tipp's professional misconduct in his representation of Elvis
-  Nuno from 2018-2022...
+  Index of MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August
+  2025), with complaint filings, rulings, and supporting records.
 ---
+
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)
 

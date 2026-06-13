@@ -1,15 +1,15 @@
 ---
 title: >-
-  Full Analysis of Fourteenth Amendment Equal Protection and Due Process
-  Violations (2015-2025)
+  Fourteenth Amendment Violations (2015-2025)
+description: >-
+  Fourteenth Amendment analysis (2015-2025). Due process, equal protection,
+  selective enforcement, and Section 1983 liability in WA/MT.
 tags:
   - Civil Rights Violations
   - Fourteenth Amendment Violations
   - Legal Analysis
-description: >-
-  Fourteenth Amendment analysis (2015-2025). Due process, equal protection,
-  selective enforcement, and Section 1983 liability in WA/MT.
 ---
+
 
 # Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)
 

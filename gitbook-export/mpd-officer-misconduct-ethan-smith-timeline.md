@@ -1,17 +1,17 @@
 ---
 title: >-
-  MPD Officer Misconduct Series: 2018 Complaint Timeline — Officer Ethan Smith
-  (Badge #345)
+  Officer Ethan Smith Complaint Timeline (2018)
+description: >-
+  Condensed timeline summary of the March 2018 complaint by Tyrone Nuno
+  against Missoula Police Department Officer Ethan Smith (Badge #345).
 tags:
   - MPD Officer Misconduct
   - Timeline
   - Ethan Smith
   - Tyrone Nuno
   - Missoula Police Department
-description: >-
-  Condensed timeline summary of the March 2018 complaint by Tyrone Nuno against
-  Missoula Police Department Officer Ethan Smith (Badge #345).
 ---
+
 
 # MPD Officer Misconduct Series: 2018 Complaint Timeline
 

@@ -1,10 +1,13 @@
 ---
+title: >-
+  ODC 25-147: Independent Grievance and Supplemental Submission
 description: >-
   Independent grievance and supporting witness statement by Eleanor ("Ellie")
   M. Nuno — mother of Elvis Nuno — corroborating ODC File No. 25-147 against
   attorney Bryan Tipp, documenting prior representation pattern and direct
   witness to investigative failures.
 ---
+
 
 # **INDEPENDENT GRIEVANCE & SUPPLEMENTAL SUBMISSION BEFORE THE OFFICE OF DISCIPLINARY COUNSEL OF THE STATE OF MONTANA**
 

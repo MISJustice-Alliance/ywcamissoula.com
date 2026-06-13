@@ -1,16 +1,18 @@
 ---
-title: Comprehensive Timeline, Relationship Diagram, & Actionable Claims
+title: >-
+  Comprehensive Timeline, Relationship Diagram, & Actionable Claims
+description: >-
+  Master timeline and index (2014-2025) of filings, evidence, relationship
+  diagrams, and actionable civil rights claims in Montana and Washington in
+  regards to the Nuno case.
 tags:
   - Timeline
   - Relationship Diagram
   - Claims
   - 2014-2025
   - Master Document
-description: >-
-  Master timeline and index (2014-2025) of filings, evidence, relationship
-  diagrams, and actionable civil rights claims in Montana and Washington in
-  regards to the Nuno case.
 ---
+
 
 # Comprehensive Timeline, Relationship Diagram, & Actionable Claims
 

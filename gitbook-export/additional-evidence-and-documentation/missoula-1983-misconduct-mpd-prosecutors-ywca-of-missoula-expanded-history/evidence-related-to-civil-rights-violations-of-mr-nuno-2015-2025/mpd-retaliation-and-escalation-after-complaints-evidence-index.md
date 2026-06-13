@@ -1,9 +1,10 @@
 ---
+title: MPD retaliation and escalation after complaints (evidence index)
 description: >-
-  Evidence index for alleged Missoula Police Department (MPD) retaliation and
-  escalation after protected complaints and petitions, using the Nuno case
-  record as the primary spine.
+  Index of MPD retaliation and escalation after complaints (evidence index),
+  with complaint filings, rulings, and supporting records.
 ---
+
 
 # MPD retaliation and escalation after complaints (evidence index)
 

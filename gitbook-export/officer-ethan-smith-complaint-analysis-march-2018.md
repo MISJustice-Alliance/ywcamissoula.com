@@ -1,6 +1,11 @@
 ---
 title: >-
   Officer Ethan Smith Complaint Analysis — March 2018
+description: >-
+  Deep-dive analysis of the March 2018 complaint by Tyrone Nuno concerning
+  repeated, unwanted contact and alleged harassment by Missoula Police
+  Department Officer Ethan Smith (Badge #345), situating the complaint within
+  the broader pattern of YWCA–police coordination in Missoula.
 tags:
   - MPD Officer Misconduct
   - Primary Source
@@ -11,12 +16,8 @@ tags:
   - Harassment
   - YWCA Coordination
   - Analysis
-description: >-
-  Deep-dive analysis of the March 2018 complaint by Tyrone Nuno concerning
-  repeated, unwanted contact and alleged harassment by Missoula Police Department
-  Officer Ethan Smith (Badge #345), situating the complaint within the broader
-  pattern of YWCA–police coordination in Missoula.
 ---
+
 
 # Officer Ethan Smith Complaint Analysis — March 2018
 

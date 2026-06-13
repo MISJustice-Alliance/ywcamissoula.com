@@ -1,9 +1,12 @@
 ---
+title: >-
+  Public Addendum: P.S. Email and the Bryan Tipp Representation Record
 description: >-
   Public addendum examining whether the August 14, 2018 P.S. email — a
   facially favorable discovery item — was meaningfully developed or used by
   Bryan Tipp during his representation of Elvis Nuno.
 ---
+
 
 # Public Addendum: P.S. Email and the Bryan Tipp Representation Record
 

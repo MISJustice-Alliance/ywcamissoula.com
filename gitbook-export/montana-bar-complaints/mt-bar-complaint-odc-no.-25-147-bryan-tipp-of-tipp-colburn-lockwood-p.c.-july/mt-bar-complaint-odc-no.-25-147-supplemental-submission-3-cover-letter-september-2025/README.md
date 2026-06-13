@@ -1,9 +1,11 @@
 ---
+title: MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)
 description: >-
-  Primary allegation: Tipp repeatedly pressured client to surrender passwords
-  for devices seized under unlawful warrant, despite professional and legal
-  risks
+  Index of MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover
+  Letter (September, 2025), with complaint filings, rulings, and supporting
+  records.
 ---
+
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)
 

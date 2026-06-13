@@ -1,8 +1,11 @@
 ---
+title: >-
+  Glossary (doctrines, agencies, entities)
 description: >-
   Quick definitions of recurring legal doctrines, agencies, and named entities
   used across this site.
 ---
+
 
 # Glossary (doctrines, agencies, entities)
 

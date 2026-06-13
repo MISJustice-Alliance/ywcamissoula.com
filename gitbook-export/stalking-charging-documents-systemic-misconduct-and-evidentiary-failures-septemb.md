@@ -1,17 +1,17 @@
 ---
 title: >-
-  Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures
-  (September 2018)
+  Stalking Charges and Evidentiary Failures (September 2018)
+description: >-
+  September 2018 charging document review. Evidentiary failures, conflicts of
+  interest, Brady issues, and constitutional implications.
 tags:
   - Legal Analysis
   - Missoula
   - Montana
   - Stalking Charges
   - Evidentiary Failures
-description: >-
-  September 2018 charging document review. Evidentiary failures, conflicts of
-  interest, Brady issues, and constitutional implications.
 ---
+
 
 # Stalking charging documents (Sep 2018)
 

@@ -1,8 +1,12 @@
 ---
+title: >-
+  Dataset: Danielle Christine Chard / Bemis alleged criminal actions
+  (2015–2025)
 description: >-
-  Curated index of alleged criminal actions by Danielle Christine Chard / Bemis,
-  with links to published packets and primary records.
+  Curated index of alleged criminal actions by Danielle Christine Chard /
+  Bemis, with links to published packets and primary records.
 ---
+
 
 # Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)
 

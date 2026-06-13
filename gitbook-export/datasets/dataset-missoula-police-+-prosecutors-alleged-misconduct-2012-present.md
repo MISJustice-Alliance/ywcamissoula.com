@@ -1,8 +1,11 @@
 ---
+title: >-
+  Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)
 description: >-
   Curated index of alleged misconduct by Missoula Police and Missoula County
   prosecutors, with links to primary records.
 ---
+
 
 # Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)
 

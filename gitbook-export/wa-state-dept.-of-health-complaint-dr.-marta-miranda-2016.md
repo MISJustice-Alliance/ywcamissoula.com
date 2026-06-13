@@ -1,15 +1,17 @@
 ---
-title: 'WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)'
+title: >-
+  WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)
+description: >-
+  Dr. Marta Miranda is a "forensic psychologist." She was, at the time, the
+  only doctor who had the required credentials to complete a court-ordered...
 tags:
   - WA Dept of Health
   - Dr. Marta Miranda
   - Forensic Psychology
   - Washington
   - '2016'
-description: >-
-  Dr. Marta Miranda is a "forensic psychologist." She was, at the time, the only
-  doctor who had the required credentials to complete a court-ordered...
 ---
+
 
 # WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)
 

@@ -1,3 +1,10 @@
+---
+title: Legal malpractice evidence (Bryan Tipp)
+description: >-
+  Record-first hub for Legal malpractice evidence (Bryan Tipp), with primary
+  evidence links and related analysis.
+---
+
 # Legal malpractice evidence (Bryan Tipp)
 
 ### Executive snapshot

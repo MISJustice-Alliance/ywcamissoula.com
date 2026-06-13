@@ -1,9 +1,10 @@
 ---
+title: Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index
 description: >-
-  Evidence index for alleged prosecutorial misconduct, Brady/Giglio, and
-  abuse-of-process issues in Missoula, Montana, using the Nuno case as the
-  primary spine.
+  Evidence index for prosecutorial misconduct, Brady/Giglio, and abuse-of-process
+  issues, with primary records and analysis links.
 ---
+
 
 # Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index
 

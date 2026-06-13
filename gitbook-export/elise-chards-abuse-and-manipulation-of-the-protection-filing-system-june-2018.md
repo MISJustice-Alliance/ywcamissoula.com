@@ -1,18 +1,18 @@
 ---
 title: >-
-  E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June
-  2018)
+  E'Lise Chard and Protection Filing Abuse (June 2018)
+description: >-
+  June 12, 2018 Missoula County, MT order of protection filing. Alleged
+  retaliatory petition, perjury/credibility issues, and abuse-of-process
+  analysis with primary records.
 tags:
   - E'Lise Chard
   - Protection Order
   - Perjury
   - June 2018
   - Abuse of Process
-description: >-
-  June 12, 2018 Missoula County, MT order of protection filing. Alleged
-  retaliatory petition, perjury/credibility issues, and abuse-of-process
-  analysis with primary records.
 ---
+
 
 # June 2018: E'Lise Chard protection order petition (Missoula County, MT) - alleged abuse of process
 

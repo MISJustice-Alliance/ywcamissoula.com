@@ -1,7 +1,9 @@
 ---
-title: >-
-  MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C.
-  (July 2025)
+title: MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)
+description: >-
+  Index of MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn,
+  Lockwood, P.C. (July 2025), with complaint filings, rulings, and supporting
+  records.
 tags:
   - Bryan Tipp
   - Legal Malpractice
@@ -10,10 +12,8 @@ tags:
   - Montana
   - ODC-25-147
   - Official Complaint
-description: >-
-  I allege that Bryan Tipp, while representing me in criminal proceedings (State
-  v. Nuno, Missoula County), committed legal malpractice and violated...
 ---
+
 
 # MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)
 

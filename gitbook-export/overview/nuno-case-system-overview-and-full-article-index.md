@@ -1,8 +1,15 @@
 ---
+title: Nuno case system overview and full article index
 description: >-
-  Site map of every article, organized around the Nuno case (2015–2025) as the
+  Canonical site map for the Nuno case record (2015–2025), organized as the
   evidence spine for investigating alleged misconduct and revictimization in
-  Missoula’s MPD/prosecutor/YWCA ecosystem.
+  Missoula’s MPD, prosecutor, and YWCA ecosystem.
+tags:
+  - Nuno case
+  - Missoula
+  - Montana
+  - site map
+  - evidence index
 ---
 
 # Nuno case system overview and full article index

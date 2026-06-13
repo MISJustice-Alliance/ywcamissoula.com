@@ -1,4 +1,6 @@
 ---
+title: >-
+  ODC Complaint: Lowney / Missoula Prosecutors (PDF)
 description: >-
   PDF archive of the formal ODC grievance against Deputy County Attorney Brian
   Lowney and the Missoula County Attorney's Office, filed with the Montana
@@ -10,6 +12,7 @@ tags:
   - abuse
   - final
 ---
+
 
 # ODC Complaint: Lowney / Missoula Prosecutors (PDF)
 

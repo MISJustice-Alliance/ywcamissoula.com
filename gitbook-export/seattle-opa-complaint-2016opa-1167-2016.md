@@ -1,15 +1,17 @@
 ---
-title: Seattle OPA Complaint - 2016OPA-1167 (2016)
+title: >-
+  Seattle OPA Complaint - 2016OPA-1167 (2016)
+description: >-
+  Official complaint filed with Seattle Office of Professional Accountability
+  regarding police misconduct in Case 2016OPA-1167.
 tags:
   - Seattle OPA
   - 2016OPA-1167
   - Police Complaint
   - Washington
   - '2016'
-description: >-
-  Official complaint filed with Seattle Office of Professional Accountability
-  regarding police misconduct in Case 2016OPA-1167.
 ---
+
 
 # Seattle OPA Complaint - 2016OPA-1167 (2016)
 

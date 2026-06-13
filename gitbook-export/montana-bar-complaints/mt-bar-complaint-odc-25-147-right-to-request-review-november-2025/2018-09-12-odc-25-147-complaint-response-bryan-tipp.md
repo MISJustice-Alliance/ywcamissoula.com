@@ -1,6 +1,11 @@
 ---
+title: >-
+  2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp
+description: >-
+  Investigator: Sheena M. Broadwater
 hidden: true
 ---
+
 
 # 2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp
 

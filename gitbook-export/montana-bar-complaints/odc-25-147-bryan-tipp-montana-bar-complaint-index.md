@@ -1,12 +1,10 @@
 ---
 title: ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
 description: >-
-  Index of filings for Montana Office of Disciplinary Counsel (ODC) File 25-147
-  re attorney Bryan Tipp: original complaint, supplemental submissions, ODC
-  ruling/review posture, May 2026 reconsideration materials, supporting witness
-  grievances, and companion Brian Lowney prosecutorial-misconduct cross
-  references.
+  Index of ODC 25-147 (Bryan Tipp) — Montana Bar, with complaint filings,
+  rulings, and supporting records.
 ---
+
 
 # ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
 

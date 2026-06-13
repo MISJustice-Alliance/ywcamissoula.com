@@ -1,7 +1,9 @@
 ---
 title: >-
-  MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August
-  2025)
+  MT DoJ POST Complaint (August 2025)
+description: >-
+  Official Notarized Document Submitted to the MT DoJ POST Department on
+  August 12th, 2025
 tags:
   - MT DoJ
   - MT DoJ POST Complaint
@@ -9,10 +11,8 @@ tags:
   - Montana
   - Official Complaint
   - YWCA of Missoula
-description: >-
-  Official Notarized Document Submitted to the MT DoJ POST Department on August
-  12th, 2025
 ---
+
 
 # MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)
 

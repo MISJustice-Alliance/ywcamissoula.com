@@ -1,9 +1,13 @@
 ---
+title: >-
+  MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September,
+  2025)
 description: >-
   Mr. Tipp pressured his client to surrender passwords for seized electronic
   devices to law enforcement, directly contradicting basic cybersecurity
   principles, professional obligations to protect client
 ---
+
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)
 

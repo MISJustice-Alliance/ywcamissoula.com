@@ -1,8 +1,12 @@
 ---
+title: >-
+  CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis
 description: >-
   Structured evidentiary report mapping alleged conduct by Danielle Christine
-  Chard / Bemis to potential Washington, Montana, and federal criminal statutes.
+  Chard / Bemis to potential Washington, Montana, and federal criminal
+  statutes.
 ---
+
 
 # CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis
 

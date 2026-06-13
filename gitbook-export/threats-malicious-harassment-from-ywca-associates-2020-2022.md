@@ -1,15 +1,17 @@
 ---
-title: Threats & Malicious Harassment From YWCA Associates (2020-2022)
+title: >-
+  Threats & Malicious Harassment From YWCA Associates (2020-2022)
+description: >-
+  2020-2022 threats and harassment record. Messages, defamation attempts, and
+  pattern evidence tied to YWCA-associated individuals.
 tags:
   - YWCA
   - Harassment
   - Threats
   - 2020-2022
   - Documentation
-description: >-
-  2020-2022 threats and harassment record. Messages, defamation attempts, and
-  pattern evidence tied to YWCA-associated individuals.
 ---
+
 
 # Threats & Malicious Harassment From YWCA Associates (2020-2022)
 

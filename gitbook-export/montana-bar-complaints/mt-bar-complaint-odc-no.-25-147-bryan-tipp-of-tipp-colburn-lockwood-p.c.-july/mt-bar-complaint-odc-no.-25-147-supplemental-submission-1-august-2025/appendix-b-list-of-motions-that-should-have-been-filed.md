@@ -1,9 +1,12 @@
 ---
+title: >-
+  Appendix B: List of Motions That Should Have Been Filed
 description: >-
   A list of motions that any competent criminal defense attorney should have
-  filed during Bryan Tipp's 18-month representation, demonstrating his complete
-  abdication of professional responsibilities.
+  filed during Bryan Tipp's 18-month representation, demonstrating his
+  complete abdication of professional responsibilities.
 ---
+
 
 # Appendix B: List of Motions That Should Have Been Filed
 

@@ -1,6 +1,10 @@
 ---
-description: Index for the published ODC 25-147 case page and its linked documents.
+title: >-
+  MisJustice Alliance case file: 2df48ac7
+description: >-
+  Index for the published ODC 25-147 case page and its linked documents.
 ---
+
 
 # MisJustice Alliance case file: 2df48ac7
 

@@ -1,9 +1,11 @@
 ---
+title: Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index
 description: >-
-  Missoula Police Department (MPD): curated entry point for alleged misconduct,
-  retaliation patterns, warrants/searches, and links into primary records and
-  case timelines.
+  Primary record index for Missoula Police (MPD): misconduct allegations,
+  retaliation evidence, and primary, with filings, correspondence, and cited
+  sources.
 ---
+
 
 # Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index
 

@@ -1,9 +1,12 @@
 ---
+title: >-
+  Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts
 description: >-
-  Detective Brueckner's undiscovered conflict was significantly more severe than
-  Officer Smith's conflict that led to his removal, highlighting Bryan Tipp's
-  catastrophic failure to address the conflict.
+  Detective Brueckner's undiscovered conflict was significantly more severe
+  than Officer Smith's conflict that led to his removal, highlighting Bryan
+  Tipp's catastrophic failure to address the conflict.
 ---
+
 
 # Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts
 

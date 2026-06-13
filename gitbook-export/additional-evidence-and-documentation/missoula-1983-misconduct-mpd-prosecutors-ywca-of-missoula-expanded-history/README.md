@@ -1,9 +1,11 @@
 ---
+title: Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)
 description: >-
-  Expanded history of alleged Missoula §1983 misconduct: MPD, Missoula County
-  prosecutors, and YWCA of Missoula, using the Nuno case (2015–2025) as the
-  evidence spine.
+  Record-first hub for Missoula §1983 misconduct: MPD, prosecutors, YWCA of
+  Missoula (Expanded history), with primary evidence links and related
+  analysis.
 ---
+
 
 # Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)
 

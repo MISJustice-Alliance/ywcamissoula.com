@@ -1,8 +1,11 @@
 ---
+title: >-
+  Dataset CSV export
 description: >-
-  Copy/paste CSV exports for dataset landing pages and direct-download (sameAs)
-  links.
+  Copy/paste CSV exports for dataset landing pages and direct-download
+  (sameAs) links.
 ---
+
 
 # Dataset CSV export
 

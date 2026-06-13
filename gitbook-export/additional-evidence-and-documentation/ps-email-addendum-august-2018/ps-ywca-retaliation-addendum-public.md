@@ -1,9 +1,13 @@
 ---
+title: >-
+  Public Addendum: P.S. Email, YWCA Complaint Handling, and Retaliation
+  Concerns
 description: >-
   Public addendum examining how the August 14, 2018 P.S. email raises YWCA
   complaint-handling and retaliation concerns when read against the broader
   documented pattern of institutional conduct.
 ---
+
 
 # Public Addendum: P.S. Email, YWCA Complaint Handling, and Retaliation Concerns
 

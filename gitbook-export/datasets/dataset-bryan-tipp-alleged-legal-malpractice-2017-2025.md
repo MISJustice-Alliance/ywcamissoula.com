@@ -1,8 +1,11 @@
 ---
+title: >-
+  Dataset: Bryan Tipp alleged legal malpractice (2017–2025)
 description: >-
   Curated index of alleged malpractice by attorney Bryan Tipp, with links to
   filings and correspondence.
 ---
+
 
 # Dataset: Bryan Tipp alleged legal malpractice (2017–2025)
 

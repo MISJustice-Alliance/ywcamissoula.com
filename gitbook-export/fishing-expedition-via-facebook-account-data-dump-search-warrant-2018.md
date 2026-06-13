@@ -1,5 +1,9 @@
 ---
-title: Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)
+title: >-
+  Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)
+description: >-
+  2018 Facebook data dump warrant analysis. Overbroad digital search, Fourth
+  Amendment issues, and chilling effect on protected speech.
 tags:
   - Civil Rights Violations
   - Fourth Amendment Violations
@@ -7,10 +11,8 @@ tags:
   - Missoula
   - Montana
   - Search Warrant
-description: >-
-  2018 Facebook data dump warrant analysis. Overbroad digital search, Fourth
-  Amendment issues, and chilling effect on protected speech.
 ---
+
 
 # Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)
 

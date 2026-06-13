@@ -1,15 +1,16 @@
 ---
-title: Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)
+title: Federal DOJ Civil Rights Division Filing - 658793-SKB (August 2025)
+description: >-
+  Index of Federal DOJ Civil Rights Division Filing - 658793-SKB (August
+  2025), with complaint filings, rulings, and supporting records.
 tags:
   - Federal DoJ
   - Civil Rights Division
   - 658793-SKB
   - Official Complaint
   - August 2025
-description: >-
-  Official filing submitted to the U.S. Department of Justice Civil Rights
-  Division.
 ---
+
 
 # Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)
 

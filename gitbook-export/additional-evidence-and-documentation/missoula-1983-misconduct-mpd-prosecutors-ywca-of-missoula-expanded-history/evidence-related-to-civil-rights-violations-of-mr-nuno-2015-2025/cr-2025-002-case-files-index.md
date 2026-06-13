@@ -1,8 +1,9 @@
 ---
+title: CR-2025-002 — Case files index
 description: >-
-  Index of CR-2025-002 case filings and evidentiary files published by
-  MISJustice Alliance.
+  Index of CR-2025-002 filings, exhibits, and published packets.
 ---
+
 
 # CR-2025-002 — Case files index
 

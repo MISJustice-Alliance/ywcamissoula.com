@@ -1,9 +1,12 @@
 ---
+title: >-
+  Public Addendum: P.S. Email and Malicious Prosecution Concerns
 description: >-
-  Public addendum examining the August 14, 2018 P.S. email as evidence relevant
-  to public concerns about malicious prosecution and the handling of favorable
-  information in the criminal case against Elvis Nuno.
+  Public addendum examining the August 14, 2018 P.S. email as evidence
+  relevant to public concerns about malicious prosecution and the handling of
+  favorable information in the criminal case against Elvis Nuno.
 ---
+
 
 # Public Addendum: P.S. Email and Malicious Prosecution Concerns
 

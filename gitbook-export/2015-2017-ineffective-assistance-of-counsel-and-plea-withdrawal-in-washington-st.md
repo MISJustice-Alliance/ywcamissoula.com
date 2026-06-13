@@ -1,17 +1,17 @@
 ---
 title: >-
-  2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington
-  State
+  WA Ineffective Assistance and Plea Withdrawal (2015-2017)
+description: >-
+  This analysis examines ineffective assistance of counsel claims and plea
+  withdrawal proceedings under Washington State law.
 tags:
   - Ineffective Assistance
   - Plea Withdrawal
   - Washington State
   - Patricia Fulton
   - Sixth Amendment
-description: >-
-  This analysis examines ineffective assistance of counsel claims and plea
-  withdrawal proceedings under Washington State law.
 ---
+
 
 # WA (2015–2017): plea withdrawal and ineffective assistance
 

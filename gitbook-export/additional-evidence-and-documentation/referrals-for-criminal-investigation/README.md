@@ -1,8 +1,10 @@
 ---
+title: Referral for Criminal Investigation Index
 description: >-
-  Overview and index for criminal-investigation referral materials published
-  under Additional Evidence & Documentation.
+  Record-first hub for Referral for Criminal Investigation, with primary
+  evidence links and related analysis.
 ---
+
 
 # Referral for Criminal Investigation Index
 

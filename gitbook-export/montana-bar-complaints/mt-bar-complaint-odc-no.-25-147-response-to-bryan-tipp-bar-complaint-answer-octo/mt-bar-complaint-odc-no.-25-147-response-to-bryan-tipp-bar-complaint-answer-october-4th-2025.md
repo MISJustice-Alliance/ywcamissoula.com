@@ -1,9 +1,12 @@
 ---
+title: >-
+  ODC 25-147: Response to Bryan Tipp Complaint
 description: >-
-  Mr. Tipp's response fundamentally mischaracterizes the nature and scope of the
-  grievance while confirming the very misconduct that forms the basis of the
-  complaint.
+  Mr. Tipp's response fundamentally mischaracterizes the nature and scope of
+  the grievance while confirming the very misconduct that forms the basis of
+  the complaint.
 ---
+
 
 # MT Bar Complaint ODC No. 25-147:  Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)
 
