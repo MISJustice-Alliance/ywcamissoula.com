@@ -1,5 +1,5 @@
 ---
-title: YWCA Missoula: conflicts of interest, MPD integration, and evidence index
+title: "YWCA Missoula: conflicts of interest, MPD integration, and evidence index"
 description: >-
   Evidence index for YWCA Missoula conflict-of-interest and MPD integration
   issues, with primary records and analysis links.

@@ -1,5 +1,5 @@
 ---
-title: Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index
+title: "Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index"
 description: >-
   Primary record index for Bryan Tipp malpractice allegations and missed §1983
   deadlines, with filings, correspondence, and cited sources.

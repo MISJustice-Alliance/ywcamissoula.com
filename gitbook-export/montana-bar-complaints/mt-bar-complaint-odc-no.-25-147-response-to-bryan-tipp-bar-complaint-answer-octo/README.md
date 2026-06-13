@@ -1,5 +1,5 @@
 ---
-title: Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)
+title: "Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)"
 description: >-
   Index of Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025), with
   complaint filings, rulings, and supporting records.

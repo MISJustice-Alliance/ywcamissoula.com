@@ -1,5 +1,5 @@
 ---
-title: MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)
+title: "MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)"
 description: >-
   Index of MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August
   2025), with complaint filings, rulings, and supporting records.

@@ -1,5 +1,5 @@
 ---
-title: Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)
+title: "Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)"
 description: >-
   Record-first hub for Missoula §1983 misconduct: MPD, prosecutors, YWCA of
   Missoula (Expanded history), with primary evidence links and related

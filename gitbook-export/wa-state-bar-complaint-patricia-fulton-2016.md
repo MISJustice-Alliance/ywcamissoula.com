@@ -15,7 +15,7 @@ tags:
 
 # WA State Bar Complaint: Patricia Fulton (2016)
 
-{% file src=".gitbook/assets/cr-2025-002-complaint-14_misjusticealliance.arweave.net.pdf" %}
+[Patricia Fulton bar complaint PDF](.gitbook/assets/cr-2025-002-complaint-14_misjusticealliance.arweave.net.pdf)
 
 ***
 

@@ -1,5 +1,5 @@
 ---
-title: Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index
+title: "Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index"
 description: >-
   Primary record index for Missoula Police (MPD): misconduct allegations,
   retaliation evidence, and primary, with filings, correspondence, and cited
