@@ -125,6 +125,7 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 * [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)
+* [Deployment lint root cause note](deployment-lint-root-cause.md)
 
 ## Nuno case: damages model (claimed; assumes liability)
 
