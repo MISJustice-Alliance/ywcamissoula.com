@@ -5,8 +5,8 @@ title: >-
 description: >-
   Expanded request for Commission on Practice review of ODC's June 9, 2026
   dismissal of the grievance against Brian C. Lowney, with Montana and federal
-  case law on prosecutor duties, Brady/Giglio disclosure, limitations, and
-  waiver conditions.
+  case law on prosecutor duties, Brady/Giglio disclosure, limitations, waiver
+  conditions, and the MRLDE felony-exception theory.
 ---
 
 
@@ -43,6 +43,7 @@ This request is timely. ODC's June 9, 2026 letter states that review must be req
 2. Whether ODC's dismissal prematurely avoided substantive allegations that a Montana prosecutor maintained or resolved a criminal case in a manner inconsistent with probable cause, Brady/Giglio disclosure duties, and the prosecutor's duty to seek justice rather than victory.
 3. Whether ODC erred by ignoring that Complainant did not discover the majority of the material facts concerning Detective Connie Brueckner's YWCA board conflict, the prosecution's reliance on Officer Ethan Smith's reports after Smith's removal, and the P.S. email forwarding/rerouting chain until June 2025 and afterward.
 4. Whether the deferred prosecution agreement and later dismissal posture require scrutiny because the record alleges that dismissal leverage was used to suppress protected speech and shield institutional actors from accountability.
+5. Whether ODC erred by failing to analyze the "no time limit" exception under MRLDE Rule 11(D)(2) where the grievance alleged prosecutorial misuse of state authority that may constitute felony-grade civil-rights deprivation or a related federal felony.
 
 ---
 
@@ -182,7 +183,25 @@ Those facts, if substantiated, would support a professional-discipline inquiry e
 
 ---
 
-## X. ODC's comparison to a single 2019 charge date is factually incomplete
+## X. The nuclear option: MRLDE Rule 11(D)(2)'s no-limit felony exception
+
+ODC also failed to address the most serious Rule 11 exception. MRLDE Rule 11 provides no time limit for alleged misconduct that constitutes a felony, regardless of whether the lawyer is criminally charged, prosecuted, or convicted. [Rules for Lawyer Disciplinary Enforcement, No. AF 06-0628 (Mont. May 27, 2020)](https://app.midpage.ai/document/rules-for-lawyer-disciplinary-enforcement-4536816?utm_source=mcp&lines=192-202); see also [current Montana Rules for Lawyer Disciplinary Enforcement, Rule 11](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=213755).
+
+This is a preservation and review argument. The Review Panel need not decide that Lowney committed a federal felony. It should decide only that ODC could not dismiss the grievance without analyzing whether the alleged facts, if proven, trigger Rule 11(D)(2). The grievance alleges that a prosecutor used criminal-case dismissal leverage to require suppression of speech that a municipal judge had already recognized as protected First Amendment activity. If that allegation is substantiated, it is not merely a contract or plea-negotiation issue. It is a potential deprivation-of-rights issue under color of law.
+
+Section 242 criminalizes willful action under color of law that deprives a person of rights secured by the Constitution or laws of the United States. [18 U.S.C. § 242](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section242). The Supreme Court describes the statute as requiring action that is willful, under color of law, and deprives a person of federally protected rights. [United States v. Lanier, 520 U.S. 259 (1997)](https://app.midpage.ai/document/united-states-v-lanier-118098?utm_source=mcp&lines=38). The specific-intent requirement is demanding: the actor must intend to deprive a person of a federal right made definite by the Constitution, statute, or decisions interpreting them, or act in reckless disregard of that right. [Screws v. United States, 325 U.S. 91 (1945)](https://app.midpage.ai/document/screws-v-united-states-104135?utm_source=mcp&lines=132-138); [United States v. Juan Dale Reese, United States of America v. Scott Matthew Dwyer, United States of America v. Daniel Wayne Broussard, United States of America v. Larry Marcel Houston, 2 F.3d 870 (9th Cir. 1993)](https://app.midpage.ai/document/united-states-v-juan-dale-628300?utm_source=mcp&lines=210-214).
+
+Lanier is important because it rejects an artificially narrow notice rule. A § 242 theory does not require a prior case with identical facts if the unlawfulness is apparent in light of preexisting law; general constitutional rules can give fair warning when they apply with obvious clarity to specific conduct. [United States v. Lanier, 520 U.S. 259 (1997)](https://app.midpage.ai/document/united-states-v-lanier-118098?utm_source=mcp&lines=79-81); [United States v. Lanier, 520 U.S. 259 (1997)](https://app.midpage.ai/document/united-states-v-lanier-118098?utm_source=mcp&lines=102). The alleged sequence here is unusually concrete for fair-warning purposes: a court had already ruled the YWCA complaint speech constitutionally protected, yet the prosecution allegedly used dismissal leverage to require removal or suppression of the same protected speech.
+
+First Amendment retaliation doctrine supplies the right at issue. The Supreme Court recognizes that, as a general matter, government officials may not subject a person to retaliatory action for protected speech. [Nieves v. Bartlett, 587 U.S. 391 (2019)](https://app.midpage.ai/document/nieves-v-bartlett-9226038?utm_source=mcp&lines=67-69). In retaliatory-prosecution cases, protected speech, retaliatory motive, causation, and lack of probable cause are central because official reprisal through criminal prosecution is a recognized constitutional injury. [Hartman v. Moore, 547 U.S. 250 (2006)](https://app.midpage.ai/document/hartman-v-moore-145662?utm_source=mcp&lines=45); [Hartman v. Moore, 547 U.S. 250 (2006)](https://app.midpage.ai/document/hartman-v-moore-145662?utm_source=mcp&lines=114). The Ninth Circuit likewise applies an objective chilling standard and recognizes that a plaintiff states First Amendment retaliation by alleging protected activity, adverse action that would chill a person of ordinary firmness, and protected activity as a substantial or motivating factor. [Jonathan Capp v. County of San Diego, 940 F.3d 1046 (9th Cir. 2019)](https://app.midpage.ai/document/jonathan-capp-v-county-of-4444434?utm_source=mcp&lines=95-104); [Jonathan Capp v. County of San Diego, 940 F.3d 1046 (9th Cir. 2019)](https://app.midpage.ai/document/jonathan-capp-v-county-of-4444434?utm_source=mcp&lines=133-141).
+
+The felony-exception analysis must be framed precisely. The base form of § 242 carries a maximum of one year, while felony-grade penalties attach when the statutory aggravating facts are present. [18 U.S.C. § 242](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section242). That caveat does not excuse ODC's omission. It means ODC had to address whether the alleged misuse of prosecution power, together with any related civil-rights, conspiracy, obstruction, or deprivation facts in the record, constituted felony misconduct for Rule 11(D)(2) purposes. ODC did not do that. It instead stated only that no Rule 11(D) exception was alleged.
+
+The Review Panel should therefore require ODC to analyze Rule 11(D)(2) expressly. If the conduct alleged constitutes felony-grade deprivation of rights under color of law, conspiracy against rights, obstruction, or another federal felony, Rule 11 imposes no disciplinary time limit. If ODC believes the felony exception does not apply, it should state why, identify the elements it found missing, and explain that conclusion against the case-file allegations rather than resolving the issue by characterizing the matter as a stale 2019 charge.
+
+---
+
+## XI. ODC's comparison to a single 2019 charge date is factually incomplete
 
 The dismissal letter's statement that "your charges happened in 2019" is not only legally incomplete; it appears factually imprecise. The underlying prosecution materials in the published grievance record identify a September 25, 2018 charging affidavit, a deferred prosecution period, and dismissal-related events extending into 2020-2021. The grievance also alleges later-discovered facts and continuing consequences tied to the prosecutor's handling of dismissal and the DPA conditions.
 
@@ -198,7 +217,7 @@ Without those findings, the dismissal cannot be meaningfully reviewed.
 
 ---
 
-## XI. Substantive allegations requiring investigation
+## XII. Substantive allegations requiring investigation
 
 ODC's letter did not reject the grievance on the merits. If the Review Panel corrects the limitations error, the following substantive allegations warrant investigation:
 
@@ -226,20 +245,21 @@ The grievance alleges that Lowney received notice that the deferred prosecution 
 
 ---
 
-## XII. Requested relief
+## XIII. Requested relief
 
 For the foregoing reasons, Complainant respectfully requests that the Review Panel:
 
 1. **Disapprove or modify ODC's dismissal** of ODC File No. 26-145.
 2. **Find that ODC's limitations analysis was incomplete** because it failed to address the June 2025-and-afterward discovery of essential facts, discovery accrual, continuing offense, tolling, and exceptions under MRLDE Rule 11.
-3. **Direct ODC to conduct further investigation** under MRLDE Rule 10(C)(3), including review of the charging affidavit, DPA, dismissal communications, defense-counsel correspondence, MPD records concerning Officer Smith's removal, records concerning Detective Brueckner's YWCA board role, and communications involving YWCA-affiliated witnesses or proxies.
-4. **Require preservation of relevant records** held by ODC, the Missoula County Attorney's Office, MPD, and related custodians, including communications with Bryan Tipp and records concerning the DPA lapse and final dismissal.
-5. **Require a merits determination** addressing Rules 3.1, 3.4(a), 3.8(a), 3.8(d), 8.4(c), and 8.4(d), rather than a disposition resting only on an unsupported event-date assumption.
-6. **Grant any further relief** the Review Panel deems appropriate to protect the public, the legal system, and the integrity of the disciplinary process.
+3. **Require ODC to analyze MRLDE Rule 11(D)(2)** and determine whether the alleged use of prosecution-dismissal leverage to suppress protected speech implicates felony-grade deprivation of rights under color of law, conspiracy against rights, obstruction, or another felony theory that removes any disciplinary time limit.
+4. **Direct ODC to conduct further investigation** under MRLDE Rule 10(C)(3), including review of the charging affidavit, DPA, dismissal communications, defense-counsel correspondence, MPD records concerning Officer Smith's removal, records concerning Detective Brueckner's YWCA board role, and communications involving YWCA-affiliated witnesses or proxies.
+5. **Require preservation of relevant records** held by ODC, the Missoula County Attorney's Office, MPD, and related custodians, including communications with Bryan Tipp and records concerning the DPA lapse and final dismissal.
+6. **Require a merits determination** addressing Rules 3.1, 3.4(a), 3.8(a), 3.8(d), 8.4(c), and 8.4(d), rather than a disposition resting only on an unsupported event-date assumption.
+7. **Grant any further relief** the Review Panel deems appropriate to protect the public, the legal system, and the integrity of the disciplinary process.
 
 ---
 
-## XIII. Preservation of further review rights
+## XIV. Preservation of further review rights
 
 Complainant expressly preserves the right to request Montana Supreme Court review if the Review Panel affirms ODC's dismissal. Under MRLDE Rule 14, when a Review Panel affirms Disciplinary Counsel's dismissal after Rule 10(C)(3) review, the Commission must notify the complainant that the complainant may request review by the Montana Supreme Court within thirty-five days. [Current Montana Rules for Lawyer Disciplinary Enforcement, Rule 14](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=213755).
 
@@ -247,7 +267,7 @@ Complainant also preserves all rights to submit the same factual record to other
 
 ---
 
-## XIV. Certification
+## XV. Certification
 
 Complainant certifies that this Request for Review is filed within the thirty-day deadline stated in ODC's June 9, 2026 dismissal letter and is submitted in good faith based on personal knowledge, the published grievance record, and case materials subject to further verification.
 
@@ -268,6 +288,7 @@ Date: ____________________
 * [Schoof v. Nesbit, 316 P.3d 831 (Mont. 2014)](https://app.midpage.ai/document/schoof-v-nesbit-2648684?utm_source=mcp&lines=239-242)
 * [Town of Clyde Park v. Younkin, 99 P.3d 196 (Mont. 2004)](https://app.midpage.ai/document/town-of-clyde-park-v-886779?utm_source=mcp&lines=37-41)
 * [Nelson v. Nelson, 50 P.3d 139 (Mont. 2002)](https://app.midpage.ai/document/nelson-v-nelson-886116?utm_source=mcp&lines=97)
+* [18 U.S.C. § 242](https://uscode.house.gov/view.xhtml?edition=prelim&num=0&req=granuleid%3AUSC-prelim-title18-section242)
 * [Montana Ass'n of Counties v. State Ex Rel. Fox, 404 P.3d 733 (Mont. 2017)](https://app.midpage.ai/document/montana-ass-n-of-counties-4216916?utm_source=mcp&lines=265-268)
 * [State Ex Rel. Fletcher v. District Court of Nineteenth Judicial District, 859 P.2d 992 (Mont. 1993)](https://app.midpage.ai/document/state-ex-rel-fletcher-v-2613197?utm_source=mcp&lines=38-41)
 * [State v. Partain, 567 P.3d 932 (Mont. 2025)](https://app.midpage.ai/document/state-v-partain-10873593?utm_source=mcp&lines=180-183)
@@ -277,6 +298,12 @@ Date: ____________________
 * [Hugh Wendell MacDonald v. James A. Musick, 425 F.2d 373 (9th Cir. 1970)](https://app.midpage.ai/document/hugh-wendell-macdonald-v-james-289819?utm_source=mcp&lines=34)
 * [Thomas Davies v. Grossmont Union High School District, 930 F.2d 1390 (9th Cir. 1991)](https://app.midpage.ai/document/thomas-davies-v-grossmont-union-559562?utm_source=mcp&lines=154)
 * [United States v. Nathan Wilson, 123 F.4th 1021 (9th Cir. 2024)](https://app.midpage.ai/document/united-states-v-nathan-wilson-10763727?utm_source=mcp&lines=146)
+* [United States v. Lanier, 520 U.S. 259 (1997)](https://app.midpage.ai/document/united-states-v-lanier-118098?utm_source=mcp&lines=79-81)
+* [Screws v. United States, 325 U.S. 91 (1945)](https://app.midpage.ai/document/screws-v-united-states-104135?utm_source=mcp&lines=132-138)
+* [United States v. Juan Dale Reese, United States of America v. Scott Matthew Dwyer, United States of America v. Daniel Wayne Broussard, United States of America v. Larry Marcel Houston, 2 F.3d 870 (9th Cir. 1993)](https://app.midpage.ai/document/united-states-v-juan-dale-628300?utm_source=mcp&lines=210-214)
+* [Hartman v. Moore, 547 U.S. 250 (2006)](https://app.midpage.ai/document/hartman-v-moore-145662?utm_source=mcp&lines=45)
+* [Nieves v. Bartlett, 587 U.S. 391 (2019)](https://app.midpage.ai/document/nieves-v-bartlett-9226038?utm_source=mcp&lines=67-69)
+* [Jonathan Capp v. County of San Diego, 940 F.3d 1046 (9th Cir. 2019)](https://app.midpage.ai/document/jonathan-capp-v-county-of-4444434?utm_source=mcp&lines=95-104)
 
 ## Related
 
