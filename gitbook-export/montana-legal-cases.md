@@ -58,7 +58,7 @@ See prior update (20260527-1601). [unverified] No further developments as of May
 
 **Open Research Items**
 - ODC No. 25-147 status: [unverified]
-- ODC Lowney grievance status: [unverified]
+- ODC Lowney grievance status: dismissed by ODC June 9, 2026; Commission on Practice review request prepared before July 9, 2026 deadline
 - Any new Montana civil rights filings: [unverified]
 
 <!-- /AUTO_UPDATE -->
@@ -92,7 +92,7 @@ The U.S. Supreme Court declined to grant qualified immunity to Michigan officer 
 
 **Open Research Items**
 - Status of ODC No. 25-147 (Bryan Tipp): [unverified] pending review
-- Status of ODC grievance (Brian Lowney): filed April 28, 2026 — [unverified] status unknown
+- Status of ODC grievance (Brian Lowney): filed April 28, 2026; dismissed by ODC June 9, 2026 on limitations grounds; Commission review request prepared
 - Montana POST complaint: dismissed, see archive
 
 <!-- /AUTO_UPDATE -->
@@ -121,6 +121,8 @@ This page is the Montana index for case analysis and linked primary records, wit
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](./montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](./montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 
 ### Related
 

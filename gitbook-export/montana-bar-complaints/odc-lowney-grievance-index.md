@@ -8,6 +8,12 @@ description: >-
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
 
+## Current status and review posture
+
+**Current posture:** ODC dismissed the Brian C. Lowney grievance in ODC File No. 26-145 by letter dated June 9, 2026, on the ground that ODC viewed the claims as barred by MRLDE Rule 11(A)'s limitations period. The letter states that the "charges happened in 2019" and that no facts supporting tolling under Rule 11(C) or an exception under Rule 11(D) were alleged. ODC advised that a written request for Commission on Practice review must be submitted on or before July 9, 2026.
+
+**Review response:** A Commission on Practice review request has been prepared and published here. It argues that ODC's limitations analysis was incomplete because it treated the grievance as a single 2019 event rather than addressing discovery accrual, continuing-offense timing, tolling, and exceptions under MRLDE Rule 11. It also adds Montana and federal authority supporting investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver issues.
+
 ### Executive snapshot
 
 This page is a navigable case file index for the **Montana Office of Disciplinary Counsel grievance against Brian Lowney, Esq.** and the **Missoula County Attorney's Office**, filed April 28, 2026. It organizes the grievance document, legal analysis, and related cross-references so readers can verify the record quickly.
@@ -19,6 +25,8 @@ The Lowney grievance is intertwined with ODC 25-147, the Bryan Tipp defense-coun
 ### Verify first (primary artifacts)
 
 * Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](./odc-26-145-rejection-brian-lowney-june-9-2026.md)
+* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](./request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 * Dataset landing page: [Dataset: Brian Lowney prosecutorial misconduct grievance (2018–2026)](../datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 * ODC 25-147 companion index (defense counsel): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * Shared intake/case-authorities analysis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
@@ -50,10 +58,12 @@ Related starting points:
 ### Suggested reading order
 
 1. Start with the full grievance document and its embedded legal analysis.
-2. Review the ODC 25-147 (Bryan Tipp) index to understand the companion defense-counsel complaint.
-3. Read the shared Tipp/Lowney civil-intake analysis to understand how the two ODC tracks overlap.
-4. Read the YWCA-related case files for institutional context.
-5. Consult the federal and state complaints index for parallel administrative tracks.
+2. Read ODC's June 9, 2026 rejection letter to understand the limitations ground ODC used.
+3. Read the Commission review request for the Rule 11 response and Montana/federal prosecutor-duty authorities.
+4. Review the ODC 25-147 (Bryan Tipp) index to understand the companion defense-counsel complaint.
+5. Read the shared Tipp/Lowney civil-intake analysis to understand how the two ODC tracks overlap.
+6. Read the YWCA-related case files for institutional context.
+7. Consult the federal and state complaints index for parallel administrative tracks.
 
 ### Article index
 
@@ -71,6 +81,15 @@ Related starting points:
 * [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](./odc-complaint-lowney-missoula-prosecutors-pdf.md)
   * **Summary:** PDF archive of the formal ODC grievance permanently stored on Arweave. Contains the full court filing against Deputy County Attorney Brian Lowney and the Missoula County Attorney's Office.
   * **What changed at this stage:** Provides an immutable, verifiable primary source document for the grievance record.
+
+#### ODC disposition and Commission review
+
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](./odc-26-145-rejection-brian-lowney-june-9-2026.md)
+  * **Summary:** Public record page for ODC's dismissal letter. ODC dismissed the grievance as time-barred and set a July 9, 2026 deadline for Commission on Practice review.
+  * **What changed at this stage:** The matter moved from initial grievance posture to review posture; ODC's stated reason became the Rule 11 limitations issue.
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](./request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
+  * **Summary:** Expanded review request arguing that ODC's limitations analysis was incomplete and that Montana and federal authority support investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver allegations.
+  * **What changed at this stage:** Adds the appellate-style response to ODC's closure and converts the Lowney record into a Commission-review packet.
 
 #### Supporting institutional context
 

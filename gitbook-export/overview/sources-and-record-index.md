@@ -24,6 +24,8 @@ This page is the canonical source list for the project. It separates **primary r
   * [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
   * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
   * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
+  * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](../montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
+  * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](../montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
   * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
   * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
   * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
@@ -97,6 +99,8 @@ Core internal indexes:
 
 * [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](../montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 
 High-signal packets (direct links):
 

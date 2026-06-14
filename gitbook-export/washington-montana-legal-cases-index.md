@@ -49,6 +49,8 @@ Use it to pivot from an event or proceeding into the deeper record.
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 
 ### Related
 

@@ -94,6 +94,8 @@
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](montana-bar-complaints/odc-lowney-grievance-index.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf.md)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 
 ## Montana State Complaints
 
