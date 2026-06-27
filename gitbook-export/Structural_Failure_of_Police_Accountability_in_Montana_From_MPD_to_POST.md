@@ -35,6 +35,10 @@ Companion page: [Montana Police Accountability: Complaint Suppression and Civil 
 
 ---
 
+![Missoula Police Structural Accountability Infographic](./.gitbook/assets/infographic-missoula-police-structural-accountability-report.png)
+
+---
+
 ## Executive Summary
 This report documents a systemic, multi-layered failure of police accountability in Missoula, Montana — one that operates not through active conspiracy but through structural design. At every level of the oversight hierarchy, complaint systems are engineered to favor early closure, shield institutional actors, and suppress civilian accountability: at the local level via the Missoula Police Department's self-investigated Office of Professional Standards (OPS); at the municipal oversight level via an advisory-only Police Commission with no enforcement authority; and at the state level via the Montana Public Safety Officer Standards and Training (POST) Council, whose complaint triage policies effectively block civilian-origin investigations before they can begin.
 
