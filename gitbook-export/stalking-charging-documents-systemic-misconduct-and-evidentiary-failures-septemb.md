@@ -1,6 +1,6 @@
 ---
 title: >-
-  Stalking Charging Documents (September 2018): Case Hub
+  Missoula Charging Documents
 description: >-
   Index hub for the September 2018 stalking charging documents. Organizes the
   worst alleged misconduct, damages, family impact, the P.S. email, and related
@@ -15,7 +15,7 @@ tags:
 ---
 
 
-# Stalking Charging Documents (September 2018): Case Hub
+# Missoula Charging Documents
 
 ### Reader note
 

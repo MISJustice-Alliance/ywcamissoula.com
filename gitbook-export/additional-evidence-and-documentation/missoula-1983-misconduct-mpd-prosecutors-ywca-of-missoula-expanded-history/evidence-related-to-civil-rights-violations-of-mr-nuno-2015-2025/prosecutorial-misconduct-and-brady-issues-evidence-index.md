@@ -37,7 +37,7 @@ Whether either applies is always **fact-specific** and depends on materiality an
 
 * [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md)
 * [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](../../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](../../../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Missoula Charging Documents](../../../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../../../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)

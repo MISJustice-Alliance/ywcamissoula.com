@@ -138,6 +138,7 @@ This page is an index of complaint filings and published complaint packets acros
 
 ### Montana state complaints
 
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](../institutional-willful-blindness-pattern-analysis.md)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](../mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)

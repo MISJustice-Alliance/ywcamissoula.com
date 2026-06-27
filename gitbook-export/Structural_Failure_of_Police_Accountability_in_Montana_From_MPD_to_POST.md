@@ -206,6 +206,7 @@ The secondary story is the POST pipeline: a paralegal reviewed and closed a mult
 
 For complementary analyses of MPD oversight data and structural reform requirements, see:
 
+* **[Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](../institutional-willful-blindness-pattern-analysis.md)** — Systemic analysis of how POST, ODC, and MPD OPS structurally prevent substantive review through procedural foreclosure
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](missoula-police-oversight-students-guide-governance-structural-limitations.md)

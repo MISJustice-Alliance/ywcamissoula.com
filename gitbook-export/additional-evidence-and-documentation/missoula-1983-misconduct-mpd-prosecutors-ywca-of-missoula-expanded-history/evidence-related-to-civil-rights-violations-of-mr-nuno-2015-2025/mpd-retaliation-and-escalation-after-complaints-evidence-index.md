@@ -42,7 +42,7 @@ This index focuses on:
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](../../../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../../../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 * [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](../../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](../../../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Missoula Charging Documents](../../../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 
 ### Key documents (high-signal)
 

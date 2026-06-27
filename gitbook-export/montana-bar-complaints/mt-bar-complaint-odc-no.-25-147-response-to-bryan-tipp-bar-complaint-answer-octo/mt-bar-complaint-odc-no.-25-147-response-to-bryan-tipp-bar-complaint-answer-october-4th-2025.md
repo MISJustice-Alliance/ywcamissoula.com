@@ -479,7 +479,7 @@ The Office of Disciplinary Counsel should:
 
 **SUPPORTING DOCUMENTATION REFERENCED:**
 
-* Legal Analysis of Stalking Charging Documents (September 2018)
+* Legal Analysis of Missoula Charging Documents
 * Bryan Tipp Email Communications
 * Comprehensive Analysis of Civil Rights Violations
 * Montana Rules of Professional Conduct

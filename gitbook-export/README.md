@@ -38,6 +38,7 @@ Start with the **Verify first** links, then use the hubs and datasets below.
 * [YWCA Missoula](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
 * [Bryan Tipp](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
 * [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
+* [Institutional Willful Blindness: Pattern Analysis](institutional-willful-blindness-pattern-analysis.md) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 
 ### Datasets (for Google discovery)
 

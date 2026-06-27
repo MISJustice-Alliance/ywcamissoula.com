@@ -25,6 +25,10 @@ Related correspondence:
 * [POST email chain / escalation (Aug 2025)](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
 * [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
 
+### Pattern Analysis
+
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](../institutional-willful-blindness-pattern-analysis.md) — Systemic analysis of how POST's five-year temporal bar and other procedural mechanisms prevent substantive review of continuing-pattern complaints
+
 ## Summary
 
 I respectfully submit this complaint regarding a pattern of civil rights violations, conflicts of interest, and abuse of power by Missoula Police Department personnel - specifically Ethan Smith and Connie Brueckner - and by MPD as an institution, connected to matters involving the YWCA of Missoula and culminating in an unlawful arrest and false imprisonment in or around August 2018.

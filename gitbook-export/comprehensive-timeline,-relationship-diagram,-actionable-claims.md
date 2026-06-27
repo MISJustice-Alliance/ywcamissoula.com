@@ -105,7 +105,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Detective Smith removed for "obvious impropriety"](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
 * [Detective Connie Brueckner assigned while serving on YWCA board](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
 * [Stalking charges filed and related civil rights violations (2017-2019)](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Stalking Charging Documents (September 2018): Case Hub](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Missoula Charging Documents](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 
 ### 2018-2020: Escalation and case outcomes (Montana and Washington)
 

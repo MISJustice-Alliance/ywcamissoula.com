@@ -40,13 +40,14 @@ This index is organized so investigators can start with the Nuno record, then pi
 
 ### Nuno case: fastest entry points (recommended)
 
-Use these first if you’re validating the pattern or building an investigative roadmap:
+Use these first if you're validating the pattern or building an investigative roadmap:
 
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Civil Rights Violations and Related Claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/)
 * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/)
 * [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](../institutional-willful-blindness-pattern-analysis.md) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 
 ### Datasets (for Google discovery)
 
