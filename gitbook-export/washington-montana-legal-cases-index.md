@@ -30,6 +30,7 @@ Use it to pivot from an event or proceeding into the deeper record.
 ### Washington legal cases
 
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
+* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
@@ -42,7 +43,7 @@ Use it to pivot from an event or proceeding into the deeper record.
 
 * [YWCA Brueckner conflict: allegations summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
-* [Stalking Charging Documents (September 2018): Case Hub](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Missoula Charging Documents](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)

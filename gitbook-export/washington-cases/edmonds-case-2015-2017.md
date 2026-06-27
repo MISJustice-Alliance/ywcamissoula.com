@@ -25,8 +25,9 @@ Use this page as the jump-off point for Edmonds-related records. This includes t
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
 * [2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington State](../2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
 * [WA State Bar Complaint: Patricia Fulton (2016)](../wa-state-bar-complaint-patricia-fulton-2016.md)
+* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](../2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
-* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](../wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
+* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](../wa-state-dept.-of-health-complaint-dr-marta-miranda-2016.md)
 * [2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct, HIPAA Violations, DOH Complaint Denial, and Strategic Legal Implications](../2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
 * [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 

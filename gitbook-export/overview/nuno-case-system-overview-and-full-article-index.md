@@ -171,7 +171,7 @@ Use this documentation to:
 * [Montana Legal Cases](../montana-legal-cases.md)
 * [YWCA of Missoula Allegations and Brueckner Conflict of Interest](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Stalking Charging Documents: Systemic Misconduct and Evidentiary Failures (September 2018)](../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Missoula Charging Documents](../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](../elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
@@ -196,9 +196,8 @@ Use this documentation to:
 * [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](../2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
 * [Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas](../washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 * [Edmonds Case (2015-2017)](../washington-cases/edmonds-case-2015-2017.md)
-
+* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](../washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
 </details>
-
 <details>
 
 <summary><strong>State &#x26; Federal Complaints</strong></summary>

@@ -39,7 +39,7 @@
 * [Officer Ethan Smith Complaint Analysis — March 2018](officer-ethan-smith-complaint-analysis-march-2018.md)
 * [YWCA Brueckner conflict: allegations summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Stalking Charging Documents (September 2018): Case Hub](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
+* [Missoula Charging Documents](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Aug 2018: warrantless arrest and false imprisonment](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [June 2018: E'Lise Chard protection order petition (Missoula County, MT) - alleged abuse of process](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
@@ -57,6 +57,7 @@
 * [2020 WA cases: witness tampering and coerced pleas](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
+* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
 
 ## State & Federal Complaints
 

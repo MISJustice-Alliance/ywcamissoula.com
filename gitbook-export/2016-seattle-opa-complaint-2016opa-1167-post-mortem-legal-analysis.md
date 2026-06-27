@@ -40,6 +40,12 @@ Analysis of Seattle Office of Police Accountability complaint 2016OPA-1167 and i
 * Pattern evidence for Monell liability
 * Basis for federal civil rights complaint
 
+## Detailed Constitutional Analysis
+
+For the full constitutional analysis of the police report fabrication chain, see:
+
+* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
+
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
