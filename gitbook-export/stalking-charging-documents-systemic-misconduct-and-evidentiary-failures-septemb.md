@@ -82,7 +82,7 @@ Plain-English version: someone sent a message that helped Elvis, and the record 
 
 ## 7. Very short version
 
-A broken investigation, disputed statements, family pressure, the P.S. email, and downstream harm are all part of the same record. This page points to the pieces in a way a lawyer can use and a 5-year-old can roughly follow: something was wrong, and the links below show where.
+A broken investigation, disputed statements, family pressure, the P.S. email, and downstream harm are all part of the same record. This page provides a clear map of the key pieces so lawyers and other readers can follow the record: the links below show where the concerns arise.
 
 ### Related
 
