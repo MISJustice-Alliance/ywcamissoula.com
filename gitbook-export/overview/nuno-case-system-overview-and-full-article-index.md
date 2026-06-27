@@ -161,7 +161,10 @@ Use this documentation to:
 * [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](../legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](../oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](../policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](../missoula-police-oversight-students-guide-governance-structural-limitations.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 </details>
 
 <details>
@@ -179,7 +182,10 @@ Use this documentation to:
 * [Remembering When: Missoula Rape Capital Era and Institutional Failures](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](../oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](../policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](../missoula-police-oversight-students-guide-governance-structural-limitations.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 </details>
 
 <details>
@@ -240,7 +246,10 @@ Use this documentation to:
 <summary><strong>Montana State Complaints</strong></summary>
 
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](../mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](../oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](../policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](../missoula-police-oversight-students-guide-governance-structural-limitations.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 
 </details>

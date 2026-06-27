@@ -28,6 +28,9 @@
 * [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
 * [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](missoula-police-oversight-students-guide-governance-structural-limitations.md)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 * [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 

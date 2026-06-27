@@ -197,6 +197,17 @@ This is institutional negligence — a systematic abdication of the accountabili
 The most independently verifiable story is the use-of-force disparity: **505 UoF incidents documented by MPD in 2021-2022 alone; 4 total UoF complaints filed across 7 years; zero sustained.** Both halves of that figure come from MPD's own published sources. No confidential records are required. The story writes itself.
 
 The secondary story is the POST pipeline: a paralegal reviewed and closed a multi-year, multi-document civil rights complaint in under 15 hours — and then refused to engage with a correction. The correspondence is documented in primary-source email records. Neither story requires anonymous sources. Both are verifiable from publicly available or directly obtained documents.
+
+### Related Accountability Analysis
+
+For complementary analyses of MPD oversight data and structural reform requirements, see:
+
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](missoula-police-oversight-students-guide-governance-structural-limitations.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+
 ### For State Legislators
 The CRV Committee's current evidence-gathering window makes this the appropriate moment to present these findings. The specific legislative failure points are:
 
