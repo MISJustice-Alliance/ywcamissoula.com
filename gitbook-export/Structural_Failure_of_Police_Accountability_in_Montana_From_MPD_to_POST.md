@@ -35,7 +35,7 @@ Companion page: [Montana Police Accountability: Complaint Suppression and Civil 
 
 ---
 
-![Missoula Police Structural Accountability Infographic](./.gitbook/assets/infographic-missoula-police-structural-accountability-report.png)
+![Missoula Police Accountability Failure Analysis Infographic](./.gitbook/assets/infographic-missoula-police-structural-accountability-report.png)
 
 ---
 
