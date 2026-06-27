@@ -1,16 +1,26 @@
 ---
 title: >-
-  MisJustice Alliance case file: d81209a2
+  Civil Rights and Police Misconduct Case File: d81209a2
 description: >-
-  Index page for the external case file and its linked evidence documents.
+  Internal index for the external civil-rights and police-misconduct case file and its linked evidence documents.
 ---
 
 
-# MisJustice Alliance case file: d81209a2
+# Civil Rights and Police Misconduct Case File: d81209a2
+
+### Reader note
+
+This page is an internal index for the published external case file **d81209a2** (CR-2025-001). It frames the record as a civil-rights and police-misconduct matter, highlights the linked evidence artifacts, and is written as an advocacy-oriented index rather than a judicial finding.
+
+### At a glance
+
+* This is an internal index, not a court ruling.
+* The page centers constitutional claims, disclosure issues, and police/prosecutorial misconduct allegations.
+* Use the linked packet materials for the underlying record; this page is the navigation and framing layer.
 
 ### Executive snapshot
 
-This page is a stable internal index for the published external case file **d81209a2** (CR-2025-001). It mirrors key packet links so analysis pages can reference a single internal URL while still pointing to stable external artifacts.
+This page is a stable internal index for the published external case file **d81209a2** (CR-2025-001), now framed explicitly as a civil-rights and police-misconduct matter. It mirrors key packet links so analysis pages can reference a single internal URL while still pointing to stable external artifacts.
 
 {% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
