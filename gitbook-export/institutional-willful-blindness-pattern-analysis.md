@@ -170,6 +170,45 @@ In 2012, Missoula attracted national attention for what was publicly described a
 
 What followed the DOJ's closure of that investigation in 2016 is documented in the analytical record: the institutions subject to that oversight process responded by implementing what the record characterizes as "extreme overcorrections — policies that superficially signaled 'change'... that ultimately have served only as mechanisms to avoid future accountability, prevent independent oversight, and enable these institutions to quickly and severely stifle any dissent or public criticism." The DOJ oversight ended. The structural conditions that produced the original misconduct remained and, in some respects, were formalized through the new policy frameworks.
 
+### The Prosecutorial Continuity: Pabst and the Post-DOJ Defensive Posture
+
+The public record of the County Attorney's Office during and after the DOJ investigation documents a consistent posture of institutional minimization that paralleled the police-side accountability failures. During the 2014 campaign — conducted simultaneously with the DOJ investigation she was inheriting — Kirsten Pabst, then chief deputy under Fred Van Valkenburg, defended Jordan Johnson, a University of Montana quarterback charged with rape, arguing that his accuser had fabricated the allegation because Johnson "didn't offer her a relationship." National reporting from the period documented Pabst's role in this defense and her broader public minimization of sexual-assault reporting controversies.
+
+After winning election as County Attorney in November 2014, Pabst publicly positioned herself as part of the office's corrective direction. However, when Jon Krakauer's 2015 book *Missoula: Rape and the Justice System in a College Town* documented specific charging failures in cases her office had handled, Pabst issued a formal public statement characterizing Krakauer's findings as "inaccurate, exaggerated and unnecessarily personal," while simultaneously insisting Missoula's prosecution rates were "much higher than the national average" — a claim directly contradicted by the DOJ's own February 2014 findings letter, which documented only 14 prosecutions from 85 referred cases. The MTPR coverage from April 2015 — the same month as the DOJ settlement agreement — showed the office asserting that reforms had already been implemented while simultaneously disputing the factual basis of outside criticism. The Montana Kaimin headline from the same period — "County Attorney: Krakauer's Accusations Inaccurate, Exaggerated" — captured the core posture: the sitting County Attorney of the city at the center of a federal civil rights investigation publicly characterizing documented criticism of prosecutorial failures as overblown.
+
+These are not private views. They are the documented public record of the person who led the institutional reform process. They are also the strongest available evidence that the reforms that followed were shaped by an institutional disposition to contest accountability rather than pursue it. The pattern documented in this report — procedural foreclosure, narrative management, and the systematic deflection of substantive complaints — is not a police-specific phenomenon. It is the prosecutorial counterpart of the same structural impulse.
+
+#### Timeline of Key Events
+
+| Date | Event |
+|---|---|
+| 2008–2012 | Period covered by DOJ investigation — 350+ assault reports, only 14 of 85 referred cases charged |
+| March 2012 | Pabst resigns as Chief Deputy County Attorney and enters private practice |
+| August 2012 | Pabst joins defense team for Jordan Johnson, a UM quarterback accused of rape, filing motion to dismiss and arguing the prosecution was a politically motivated overreaction to DOJ scrutiny |
+| February–March 2013 | Johnson acquitted; Pabst argues victim "wanted a relationship with the star quarterback" and fabricated the allegation when one wasn't offered |
+| May 2013 | DOJ signs MOA with MPD; County Attorney Van Valkenburg refuses to cooperate |
+| February 2014 | DOJ issues formal findings letter against County Attorney's Office — "substantial evidence of gender bias" |
+| ~2014 (pre-election) | Jezebel article published — "Not-So-Secret Rape Apologist Runs for Missoula County Attorney" |
+| June 2014 | Van Valkenburg enters settlement agreement after DOJ lawsuit becomes untenable |
+| November 2014 | Pabst elected County Attorney |
+| April 22, 2015 | MTPR statement published — Pabst responds to Krakauer's book |
+| April 2015 | Montana Kaimin article published — Pabst calls Krakauer's accusations "inaccurate, exaggerated" |
+| 2016 | DOJ formally closes MOA compliance proceedings |
+
+#### Article Summaries and Significance
+
+**Article 1 — Jezebel: "Not-So-Secret Rape Apologist Runs for Missoula County Attorney" (~2014, pre-election)**
+
+Published during Pabst's 2014 campaign for County Attorney — after the DOJ findings letter but before she won the election. This placed it at the precise moment Missoula was supposedly turning a corner on accountability. The article documented Pabst's direct role in defending accused rapists while simultaneously campaigning on a "reform" platform — specifically her work as defense attorney on the Jordan Johnson case, during which she argued the victim had fabricated the allegation out of romantic disappointment. The article framed her candidacy as a direct threat to the DOJ reform process: a person who had spent the prior two years as a private defense attorney undermining sexual assault prosecutions was now positioning herself as the person who would fix the office's sexual assault prosecution problem.
+
+**Article 2 — MTPR: Pabst's Statement on Krakauer's Book (April 22, 2015)**
+
+Published the day after Jon Krakauer's book *Missoula: Rape and the Justice System in a College Town* was released — Pabst's first public, official response as sitting County Attorney to detailed documented criticism of her office and her predecessor's. The statement is a masterclass in institutional deflection. Pabst acknowledged "things that we missed" and conceded there were "deficiencies in communication" — but spent the bulk of the statement: (1) disputing the "rape capital" characterization, asserting Missoula's prosecution rate was actually "much higher than the national average"; (2) framing Krakauer's charges as "inaccurate, exaggerated and unnecessarily personal"; (3) insisting that "oversimplifying the many factors properly considered in deciding if a person should be formally charged...is disingenuous, destructive and, in the end, harmful to victims"; and (4) repeatedly pivoting to the SVU reforms her office had just created. Critically, she said the DOJ agreement "is not about prosecution rates" — directly contradicting the plain text of the DOJ's February 2014 findings letter, which was centrally about the charging decisions that produced only 14 prosecutions from 85 referrals. The statement's framing — that critics were "oversimplifying," that prosecutorial discretion required putting "emotion aside," and that Missoula was being unfairly maligned — mirrors precisely the posture described in this briefing: an institutional refusal to engage the substance of documented complaints in favor of procedural and rhetorical deflection.
+
+**Article 3 — Montana Kaimin: "County Attorney: Krakauer's Accusations Inaccurate, Exaggerated" (April 2015)**
+
+Published simultaneously with the MTPR statement — a student newspaper at the University of Montana, ground zero for the scandal, reporting on Pabst's public response to the book. The headline itself — drawn directly from Pabst's own words in the MTPR statement — captures the core posture: the sitting County Attorney of the city at the center of a federal civil rights investigation publicly characterizing documented criticism of prosecutorial failures as "inaccurate" and "exaggerated." This was not an off-the-record sentiment but a formal public statement from the chief law enforcement officer of Missoula County, delivered while still under the monitoring period of the DOJ agreement and directed at a nationally published investigative account of cases her own office had handled. The Kaimin audience — University of Montana students, many of whom knew victims and witnesses in the cases Krakauer documented — received from their county's top prosecutor the message that the national criticism was overblown.
+
 ### The Board-Police Overlap
 
 The presence of Missoula Police Department Detective Connie Brueckner as a Board Member at-Large of YWCA Missoula while simultaneously serving as the lead investigator in a stalking prosecution that arose from a complainant's formal letter to YWCA leadership is the structural embodiment of the accountability failure this report documents. It represents the collapse of the institutional boundary between a law enforcement agency and a victim advocacy organization — a collapse that creates a structural conflict in both directions: the victim advocacy organization cannot serve as an adversarial check on police conduct when police leadership sits on its board, and the law enforcement investigation cannot be independent when the investigating officer holds fiduciary duties to the organization at the center of the dispute.
@@ -272,7 +311,40 @@ The malpractice claim against Bryan Tipp remains the most document-intensive and
 
 ***
 
-## XI. Conclusion: The Shield Beneath the System
+## XI. Sources
+
+### Primary project records
+
+* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
+* [Remembering When: Missoula rape-capital era](./remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+
+### Legal authorities
+
+* [Findings Letter - Missoula County Attorney's Office - February 14, 2014](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf)
+* [Department of Justice Reaches Landmark Agreement to Improve Missoula County Attorney's Office's Response to Reports of Sexual Assault](https://www.justice.gov/archives/opa/pr/department-justice-reaches-landmark-agreement-improve-missoula-county-attorney-s-office-s)
+
+### Public reporting and commentary on prosecutorial accountability
+
+* [Not-So-Secret Rape Apologist Runs for Missoula County Attorney (Jezebel, ~2014)](https://www.jezebel.com/not-so-secret-rape-apologist-runs-for-missoula-county-attorney) — Published during Pabst's 2014 campaign; documents her defense of Jordan Johnson and her role as chief deputy during the DOJ investigation period.
+* [Missoula County Attorney Pabst's Statement on Jon Krakauer's Book (MTPR, April 22, 2015)](https://www.mtpr.org/montana-news/2015-04-22/pabst-many-factual-errors-in-krakauers-book) — Pabst's formal response as sitting County Attorney to Krakauer's documented criticism; exemplifies institutional deflection and narrative management.
+* [County Attorney: Krakauer's Accusations Inaccurate, Exaggerated (Montana Kaimin, April 2015)](https://www.montanakaimin.com/news/county-attorney-krakauers-accusations-inaccurate-exaggerated/article_96d2ec06-e929-11e4-bb7e-e76ed8d15c40.html) — Student newspaper coverage of Pabst's public response; captures the headline framing drawn directly from her own words.
+* [Former Prosecutor Set To Take Over Missoula Office That Mistreated Rape Victims On Her Watch (BuzzFeed, 2014)](https://www.buzzfeednews.com/article/katiejmbaker/missoula-county-prosecutor-kirsten-pabst) — Documents Van Valkenburg's statement that Pabst was "an integral part of the management of this office" and her specific public positions on false allegations and consent.
+* [DOJ Troubled by Missoula County Attorney's Letter to Doubleday (Billings Gazette)](https://billingsgazette.com/news/state-and-regional/montana/doj-troubled-by-missoula-county-attorneys-letter-to-doubleday/article_51583e50-29c7-5957-9ba7-4b0fea9a801c.html)
+* [The Deplorable Legacy of Missoula County Attorney Kirsten Pabst (ZoomChron, 2022)](https://zoomchron.com/2022/10/03/the-deplorable-legacy-of-missoula-county-attorney-kirsten-pabst/)
+
+### Related analytical sources
+
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](./oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](./policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+
+***
+
+## XII. Conclusion: The Shield Beneath the System
 
 An oversight architecture that systematically closes complaints through procedural foreclosure — without assessing the evidence, without describing the allegations, without engaging the substance of any claim — is not performing oversight. It is performing the function of a shield, interposed between institutional actors and the accountability mechanisms nominally designed to reach them.
 
