@@ -356,7 +356,7 @@ The probability of that outcome arising by chance, across independent processes 
 
 ***
 
-*This report is an advocacy document prepared for MISJustice Alliance. All factual allegations are drawn from primary records in the case file and from publicly available data sources. No independently adjudicated findings of misconduct have been made by any oversight body against any named individual or institution. This document must be reviewed by qualified human legal counsel before external publication or submission. It does not constitute legal advice and is not a substitute for formal legal representation.*
+*This report is an advocacy document prepared for MISJustice Alliance. All factual allegations are drawn from primary records in the case file and from publicly available data sources. No independently adjudicated findings of misconduct have been made by any oversight body against any named individual or institution.*
 
 *"No individual stands alone against institutional abuse of power."*  
 *— MISJustice Alliance*
