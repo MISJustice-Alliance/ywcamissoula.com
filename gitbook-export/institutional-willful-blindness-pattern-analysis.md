@@ -335,6 +335,8 @@ The malpractice claim against Bryan Tipp remains the most document-intensive and
 * [Former Prosecutor Set To Take Over Missoula Office That Mistreated Rape Victims On Her Watch (BuzzFeed, 2014)](https://www.buzzfeednews.com/article/katiejmbaker/missoula-county-prosecutor-kirsten-pabst) — Documents Van Valkenburg's statement that Pabst was "an integral part of the management of this office" and her specific public positions on false allegations and consent.
 * [DOJ Troubled by Missoula County Attorney's Letter to Doubleday (Billings Gazette)](https://billingsgazette.com/news/state-and-regional/montana/doj-troubled-by-missoula-county-attorneys-letter-to-doubleday/article_51583e50-29c7-5957-9ba7-4b0fea9a801c.html)
 * [The Deplorable Legacy of Missoula County Attorney Kirsten Pabst (ZoomChron, 2022)](https://zoomchron.com/2022/10/03/the-deplorable-legacy-of-missoula-county-attorney-kirsten-pabst/)
+* [Jon Krakauer: Missoula County Attorney's Actions 'Egregious' (Montana Standard)](https://mtstandard.com/news/local/jon-krakauer-missoula-county-attorney-s-actions-egregious/article_ebcb75f4-9319-5d2a-97b6-89e1cacdf0fb.html) — Krakauer's direct response to Pabst's public statements; documents his characterization of her conduct as "egregious" and his prediction that rape victims would be "served poorly" under her leadership.
+* [Kirsten Pabst Character Analysis (SparkNotes)](https://www.sparknotes.com/lit/missoula/character/kirsten-pabst/) — Literary analysis of Pabst's role in Krakauer's *Missoula*; provides educational context on her portrayal as an antagonist in the narrative of institutional failure.
 
 ### Related analytical sources
 
