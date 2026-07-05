@@ -161,12 +161,17 @@
 * [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
 * [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
 * [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
+* [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 * [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
 * [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
 * [Structured data registry (Dataset values)](datasets/structured-data-registry-dataset-values.md)
 * [Dataset CSV export](datasets/dataset-csv-export.md)
 * [SEO + GEO audit (sitewide)](datasets/seo-+-geo-audit-sitewide.md)
+
+## Site Operations
+
+* [Deployment lint root cause note](deployment-lint-root-cause.md)
 
 ## Reference
 
