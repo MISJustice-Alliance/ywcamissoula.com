@@ -22,7 +22,7 @@
 * [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Criminal defense right-to-counsel remedies in institutional-corruption cases](criminal-defense-right-to-counsel-remedies-institutional-corruption-montana.md)
+* [Structural Failure and the Civil Rights Gap](structural-failure-and-the-civil-rights-gap.md)
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
