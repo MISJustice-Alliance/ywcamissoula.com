@@ -123,6 +123,7 @@
 
 * [Additional Evidence & Documentation — Overview](additional-evidence-and-documentation/README.md)
 * [Connie Brueckner investigative research report](additional-evidence-and-documentation/connie-brueckner-investigative-report.md)
+* [Kirsten Pabst, DOJ oversight, and the Jordan Johnson case: source-backed investigative report](additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
 * [Referral for Criminal Investigation Index](additional-evidence-and-documentation/referrals-for-criminal-investigation/README.md)
   * [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis.md)
   * [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-elise-chard.md)
