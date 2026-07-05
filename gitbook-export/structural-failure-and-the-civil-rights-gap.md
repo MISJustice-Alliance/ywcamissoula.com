@@ -17,11 +17,11 @@ tags:
 
 # Structural Failure and the Civil Rights Gap: A Pattern-and-Practice Analysis of Barriers to Representation, Institutional Accountability, and Constitutional Enforcement in Rural and Small-Market Jurisdictions
 
-**Prepared by:** MISJustice Alliance — Anonymous Legal Assistance Group
-**Published:** ywcaofmissoula.com | Legal Analysis & Advocacy Series
-**Intended Audience:** Journalists, civil-rights organizations, policy advocates, legal aid institutions, and legislators
-**Scope:** National patterns with primary focus on rural Western states, including Montana
-**Disclaimer:** This document is for educational, advocacy, and public-interest purposes. It is not legal advice. It does not identify individual clients or allege facts about any specific pending matter.
+* **Prepared by:** MISJustice Alliance — Anonymous Legal Assistance Group
+* **Published:** ywcaofmissoula.com | Legal Analysis & Advocacy Series
+* **Intended Audience:** Journalists, civil-rights organizations, policy advocates, legal aid institutions, and legislators
+* **Scope:** National patterns with primary focus on rural Western states, including Montana
+* **Disclaimer:** This document is for educational, advocacy, and public-interest purposes. It is not legal advice. It does not identify individual clients or allege facts about any specific pending matter.
 
 ***
 
