@@ -26,7 +26,7 @@ tags:
 
 The documented evidence in **2016OPA-1167** reveals a systematic pattern of Fourth Amendment violations stemming from the deliberate falsification of police reports that transformed an initial finding of **no violation** into fabricated criminal charges. This case presents one of the most egregious examples of police report manipulation in the documented chain of custody from Edmonds Police Department to King County Sheriff's Department to Seattle Police Department, ultimately resulting in unlawful custodial detention based on **entirely fabricated evidence**.
 
-{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ## The Report Falsification Chain: A Constitutional Analysis
 
@@ -197,4 +197,4 @@ The case presents compelling claims under § 1983 for fabrication of evidence, f
 - [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 - [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 
-{% include ".gitbook/includes/related-links-global (1).md" %}
+{% include "../.gitbook/includes/related-links-global (1).md" %}
