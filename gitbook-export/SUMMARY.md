@@ -167,7 +167,7 @@
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
 * [Structured data registry (Dataset values)](datasets/structured-data-registry-dataset-values.md)
 * [Dataset CSV export](datasets/dataset-csv-export.md)
-* [SEO + GEO audit (sitewide)](datasets/seo-+-geo-audit-sitewide.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](datasets/seo-+-geo-audit-sitewide.md)
 
 ## Site Operations
 

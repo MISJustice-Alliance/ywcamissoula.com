@@ -1,18 +1,121 @@
 ---
 title: >-
-  SEO + GEO audit (sitewide)
+  Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler
+  Optimization
 description: >-
-  Actionable, section-by-section search and generative indexing audit for the
-  MisJustice Alliance GitBook site.
-hidden: true
+  Sitewide audit dataset for YWCA of Missoula GitBook pages, covering
+  crawlability, Dataset JSON-LD readiness, internal linking, canonical URL
+  placement, and AI-search citation structure.
 ---
 
 
-# SEO + GEO audit (sitewide)
+# Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization
 
-This audit focuses on **crawlability, query matching, and quoteability**.
+### Executive snapshot
 
-It continues at **Legal Analysis**, then covers the remaining site sections.
+This page is the public audit dataset for search, Dataset Search, and AI crawler readiness across the YWCA of Missoula GitBook site. It tracks page-level SEO/GEO standards, Dataset metadata readiness, internal-link coverage, index placement, and crawler-facing access signals. The audit is intended for documentation maintenance, metadata stewardship, and external discovery review. It does not create new factual allegations; it evaluates how existing record-linked pages are structured for retrieval, citation, and verification.
+
+{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+
+### Dataset identity
+
+| Field | Value |
+|-------|-------|
+| **Dataset name** | Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization |
+| **Site** | YWCA of Missoula Accountability Documentation |
+| **Public canonical URL** | https://www.ywcaofmissoula.com/datasets/seo-+-geo-audit-sitewide |
+| **Internal export path** | `datasets/seo-+-geo-audit-sitewide.md` |
+| **Scope** | Sitewide GitBook SEO, GEO, crawler access, Dataset metadata, and internal-link structure |
+| **Geography** | Missoula, Montana; Washington/Montana legal record context |
+| **Temporal coverage** | 2012-present record set; audit maintained from 2026-01-31 forward |
+| **Last reviewed** | 2026-07-05 |
+| **Steward** | MisJustice Alliance / site documentation maintainer |
+
+### Verify first
+
+* Dataset catalog: [Dataset Catalog Indexes](dataset-catalog-indexes.md)
+* Structured-data source of truth: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* Dataset CSV export: [Dataset CSV export](dataset-csv-export.md)
+* Source/citation hub: [Sources & record index](../overview/sources-and-record-index.md)
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* AI crawler map: [llms.txt](https://www.ywcaofmissoula.com/llms.txt)
+
+### What this audit measures
+
+This audit evaluates whether important GitBook pages are discoverable, internally linked, clearly described, and ready for search-engine and AI-assisted citation. The minimum page standard is:
+
+1. Clear title and description.
+2. Executive snapshot with who, where, when, what, and verification path.
+3. “Verify first” links to primary records and canonical hubs.
+4. Stable internal links from at least one hub page.
+5. Public canonical URL selected for Dataset JSON-LD.
+6. Dataset registry row when the page represents a dataset, catalog, structured export, or audit record.
+7. Sitemap, table-of-contents, and `llms.txt` inclusion when the page is intended for indexing.
+
+### Current priority findings
+
+* This audit page is now public-facing and should remain listed in [Dataset Catalog Indexes](dataset-catalog-indexes.md), [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md), [Dataset CSV export](dataset-csv-export.md), `SUMMARY.md`, and `llms.txt`.
+* Dataset canonical URLs should use one hostname consistently: `https://www.ywcaofmissoula.com`.
+* External packets are classified as `distribution` values in the structured-data registry; reserve `sameAs` for equivalent copies or mirrors of a dataset landing page.
+* The repo now includes `llms.txt`, `robots.txt`, and `sitemap.xml`. Confirm after deployment that the published GitBook domain serves all three files from the public root.
+
+### Related dataset pages
+
+* [Dataset: YWCA of Missoula alleged misconduct (2012-present)](dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012-present)](dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* [Dataset: Nuno case civil-rights violations and timeline (2014-2025)](dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
+* [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+
+### External Dataset JSON-LD draft
+
+{% code title="seo-geo-audit-dataset.jsonld" %}
+```json
+{
+  "@context": "https://schema.org",
+  "@type": "Dataset",
+  "name": "Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization",
+  "description": "Sitewide audit dataset for YWCA of Missoula GitBook pages, covering crawlability, Dataset JSON-LD readiness, internal linking, canonical URL placement, and AI-search citation structure.",
+  "url": "https://www.ywcaofmissoula.com/datasets/seo-+-geo-audit-sitewide",
+  "identifier": "ywcaofmissoula-seo-geo-audit-sitewide",
+  "creator": {
+    "@type": "Organization",
+    "name": "MisJustice Alliance"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "MisJustice Alliance"
+  },
+  "isAccessibleForFree": true,
+  "dateModified": "2026-07-05",
+  "temporalCoverage": "2012/..",
+  "spatialCoverage": {
+    "@type": "Place",
+    "name": "Missoula, Montana"
+  },
+  "keywords": [
+    "GitBook SEO",
+    "Dataset JSON-LD",
+    "Google Dataset Search",
+    "AI crawler optimization",
+    "YWCA of Missoula",
+    "Missoula civil rights records"
+  ],
+  "isPartOf": {
+    "@type": "DataCatalog",
+    "name": "YWCA of Missoula Accountability Documentation Dataset Catalog",
+    "url": "https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes"
+  }
+}
+```
+{% endcode %}
+
+### Public indexing checklist
+
+* Keep this page public in GitBook navigation.
+* Keep the canonical URL synchronized across the page, registry, CSV export, sitemap, and `llms.txt`.
+* Confirm that the published page is not blocked by robots rules or page-level `noindex`.
+* Validate the JSON-LD with Google Rich Results Test after site-level header injection.
+* Inspect the canonical URL in Google Search Console after publication.
 
 {% hint style="info" %}
 This is an SEO/GEO audit of a site that publishes **allegations** and links to **primary records**.

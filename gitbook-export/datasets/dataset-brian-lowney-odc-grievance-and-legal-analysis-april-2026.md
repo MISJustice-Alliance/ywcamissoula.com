@@ -27,6 +27,7 @@ This dataset contains the grievance filed with the Montana Office of Disciplinar
 * Grievance index and metadata: [ODC Lowney Grievance Index](../montana-bar-complaints/odc-lowney-grievance-index.md)
 * Related bar complaint (pattern context): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * Source/citation hub: [Sources & record index](../overview/sources-and-record-index.md)
+* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
 
 ### Dataset scope
 
@@ -74,8 +75,10 @@ The Lowney grievance advances allegations of prosecutorial misconduct that compl
   "@type": "Dataset",
   "name": "Brian Lowney ODC Grievance and Legal Analysis (April 2026)",
   "description": "Grievance filed with Montana ODC against attorney Brian Lowney, with legal analysis of prosecutorial misconduct claims and cross-references to broader Montana bar complaints.",
-  "url": "https://misjusticealliance.org/datasets/lowney-odc-grievance-2026",
+  "url": "https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026",
   "sameAs": [],
+  "identifier": "ywcaofmissoula-brian-lowney-odc-grievance-2026",
+  "isAccessibleForFree": true,
   "temporalCoverage": "2026-04-28/2026-04-28",
   "spatialCoverage": {
     "@type": "Place",

@@ -22,7 +22,7 @@ This page is the dataset entry point for search engines and LLMs. It lists the c
 
 Related:
 
-* [SEO + GEO audit (sitewide)](seo-+-geo-audit-sitewide.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](seo-+-geo-audit-sitewide.md)
 
 ### Canonical URL rule
 
@@ -40,12 +40,20 @@ Keep internal GitBook paths for internal navigation only.
 * [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
 * [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
 
+### Dataset operations pages
+
+These pages support Dataset Search, crawler access, and metadata maintenance.
+
+* [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* [Dataset CSV export](dataset-csv-export.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](seo-+-geo-audit-sitewide.md)
+
 ### Export dataset links
 
 You usually want one of two exports:
 
 * **Dataset landing pages only** (internal GitBook URLs).
-* **Landing pages + direct downloads** (external packet URLs for `sameAs`).
+* **Landing pages + direct downloads** (external packet URLs for `distribution`).
 
 Or just copy from a prebuilt export:
 
@@ -66,17 +74,17 @@ Use the registry as the single source of truth:
 That page already stores:
 
 * the dataset **landing page path** (`url path`)
-* the dataset’s **direct downloads / packets** (`sameAs`)
+* the dataset’s **direct downloads / packets** (`distribution`)
 
 #### Copy-paste CSV template
 
 Use **one row per direct-download URL**.
 
-If a dataset has multiple `sameAs` links, repeat the dataset name and landing path.
+If a dataset has multiple distribution links, repeat the dataset name and landing path.
 
 {% code title="datasets.csv (template)" %}
 ```
-dataset_name,landing_page_url_or_path,direct_download_url
+dataset_name,landing_page_url_or_path,distribution_url
 Dataset: Example,/path/to/dataset,https://example.com/file1.pdf
 Dataset: Example,/path/to/dataset,https://example.com/file2.pdf
 ```

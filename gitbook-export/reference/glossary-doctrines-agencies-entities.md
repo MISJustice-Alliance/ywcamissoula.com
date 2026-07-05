@@ -258,4 +258,4 @@ See also:
 ### Related
 
 * [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
-* [SEO + GEO audit (sitewide)](../datasets/seo-+-geo-audit-sitewide.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](../datasets/seo-+-geo-audit-sitewide.md)

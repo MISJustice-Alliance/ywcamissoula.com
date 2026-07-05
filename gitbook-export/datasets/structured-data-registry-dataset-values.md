@@ -2,8 +2,8 @@
 title: >-
   Structured data registry (Dataset values)
 description: >-
-  Copy-paste registry of Schema.org Dataset fields (name, description, url,
-  sameAs) for each dataset landing page.
+  Copy-paste registry of Schema.org Dataset fields and distribution URLs for
+  each dataset landing page.
 ---
 
 
@@ -17,7 +17,7 @@ Use it when adding site-level Dataset JSON-LD via theme/header injection.
 
 * [Dataset Catalog Indexes](dataset-catalog-indexes.md)
 * [Dataset CSV export](dataset-csv-export.md)
-* [SEO + GEO audit (sitewide)](seo-+-geo-audit-sitewide.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](seo-+-geo-audit-sitewide.md)
 
 ### Canonical URL rule (SEO-critical)
 
@@ -53,7 +53,8 @@ If your public site uses different slugs, set Schema.org `url` to the public can
 * **description:** Canonical dataset landing page for the Nuno case timeline and alleged civil-rights violations (2014–2025).
 * **gitbook path (internal):** `/spaces/1wVVtf6V5BVc7mbV09eH/pages/BjSFamAeU9CSR4FZl0P9`
 * **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025
-* **sameAs (direct downloads / packets):**
+* **sameAs:** none
+* **distribution (direct downloads / packets):**
   * https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
   * https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
   * https://cr-2025-001-brief-2\_misjusticealliance.arweave.net/
@@ -64,7 +65,8 @@ If your public site uses different slugs, set Schema.org `url` to the public can
 * **description:** Curated index of alleged misconduct by Missoula Police and Missoula County prosecutors, with links to primary records.
 * **gitbook path (internal):** `/spaces/1wVVtf6V5BVc7mbV09eH/pages/GqcrUUPzBzjrI0GbvQPg`
 * **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present
-* **sameAs (direct downloads / packets):**
+* **sameAs:** none
+* **distribution (direct downloads / packets):**
   * https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
   * https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
   * https://doc11\_ywca\_supplemental\_misjusticealliance.arweave.net/
@@ -76,7 +78,8 @@ If your public site uses different slugs, set Schema.org `url` to the public can
 * **description:** Curated index of alleged YWCA of Missoula misconduct and supporting primary records (2012–present).
 * **gitbook path (internal):** `/spaces/1wVVtf6V5BVc7mbV09eH/pages/epCZPlfrCClE1PDJ4NgM`
 * **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present
-* **sameAs (direct downloads / packets):**
+* **sameAs:** none
+* **distribution (direct downloads / packets):**
   * https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
   * https://cr-2025-001-other-3\_misjusticealliance.arweave.net/
   * https://cr-2025-001-other-2\_misjusticealliance.arweave.net/
@@ -88,11 +91,21 @@ If your public site uses different slugs, set Schema.org `url` to the public can
 * **description:** Curated index of alleged malpractice by attorney Bryan Tipp, with links to filings and correspondence.
 * **gitbook path (internal):** `/spaces/1wVVtf6V5BVc7mbV09eH/pages/8YVFnDJlo08hIiXhIQaM`
 * **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025
-* **sameAs (direct downloads / packets):**
+* **sameAs:** none
+* **distribution (direct downloads / packets):**
   * https://arweave.net/LtpoZ8c2hBC4r3ihxMTjdwHCEKk5fdKy31QDhuX92Sk
   * https://cr-2025-003-ruling-2\_misjusticealliance.arweave.net/
   * https://cr-2025-003-other-23\_misjusticealliance.arweave.net/
   * https://cr-2025-003-evidence-21\_misjusticealliance.arweave.net/
+
+#### Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)
+
+* **name:** Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)
+* **description:** Dataset landing page for the Brian Lowney ODC grievance filed April 28, 2026, with legal analysis and cross-references to the Montana bar complaints record.
+* **gitbook path (internal):** `datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md`
+* **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026
+* **sameAs:** none
+* **distribution:** none yet; add direct packet or CSV/JSON export URLs here if published later.
 
 #### Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)
 
@@ -100,7 +113,8 @@ If your public site uses different slugs, set Schema.org `url` to the public can
 * **description:** Curated index of alleged criminal actions by E’Lise Michelle Chard / Hall, with links to published packets and primary records.
 * **gitbook path (internal):** `/spaces/1wVVtf6V5BVc7mbV09eH/pages/spbKHrdNOD0GD9Si7lse`
 * **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025
-* **sameAs (direct downloads / packets):**
+* **sameAs:** none
+* **distribution (direct downloads / packets):**
   * https://cr-2025-002-other-2\_misjusticealliance.arweave.net/
 
 #### Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)
@@ -109,15 +123,26 @@ If your public site uses different slugs, set Schema.org `url` to the public can
 * **description:** Curated index of alleged criminal actions by Danielle Christine Chard / Bemis, with links to published packets and primary records.
 * **gitbook path (internal):** `/spaces/1wVVtf6V5BVc7mbV09eH/pages/ChAMnJLP1mxhGHHbFqYF`
 * **public url (canonical):** https://www.ywcaofmissoula.com/datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025
-* **sameAs (direct downloads / packets):**
+* **sameAs:** none
+* **distribution (direct downloads / packets):**
   * https://doc9\_danielle\_chard\_criminal\_report\_misjusticealliance.arweave.net/
+
+#### Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization
+
+* **name:** Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization
+* **description:** Sitewide audit dataset for YWCA of Missoula GitBook pages, covering crawlability, Dataset JSON-LD readiness, internal linking, canonical URL placement, and AI-search citation structure.
+* **gitbook path (internal):** `datasets/seo-+-geo-audit-sitewide.md`
+* **public url (canonical):** https://www.ywcaofmissoula.com/datasets/seo-+-geo-audit-sitewide
+* **identifier:** `ywcaofmissoula-seo-geo-audit-sitewide`
+* **dateModified:** `2026-07-05`
+* **sameAs:** none
+* **distribution:** none yet; add a CSV or JSON audit export here if one is published later.
 
 ### Notes
 
 * Schema.org nuance:
   * Use `distribution` for **downloadable files** (preferred).
-  * Use `sameAs` for **equivalent copies / mirrors** of the same dataset landing page.
-  * This registry keeps `sameAs` as a pragmatic “direct downloads / packets” list because it’s easy to emit as a flat array in JSON-LD.
+  * Use `sameAs` only for **equivalent copies / mirrors** of the same dataset landing page.
 * Keep `name` stable. Treat it like a dataset identifier.
 * Keep descriptions short and factual. Avoid adding new allegations in the description line.
 * Prefer using the same canonical URL everywhere:
@@ -132,7 +157,7 @@ Keep these values consistent so generative systems can quote them without guessi
 * Use explicit entity names: “Schema.org Dataset”, “Google Dataset Search”, “JSON-LD”.
 * Keep dataset names stable over time.
 * Keep descriptions factual and non-inflammatory.
-* Ensure `sameAs` links are direct, durable, and publicly accessible.
+* Ensure distribution links are direct, durable, and publicly accessible.
 
 {% hint style="warning" %}
 This registry is for discovery and indexing. It does not replace careful redaction and privacy review.

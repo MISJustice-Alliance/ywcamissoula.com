@@ -72,7 +72,7 @@ Recommended fields:
 {% include "../.gitbook/includes/dataset-structured-data-schema.org-guidance.md" %}
 
 {% hint style="info" %}
-If you later publish an actual CSV/JSON export, link it via `sameAs` and treat this page as the canonical landing page.
+If you later publish an actual CSV/JSON export, link it via `distribution` and treat this page as the canonical landing page.
 {% endhint %}
 
 **See also:** [Dataset catalog (Google indexing)](dataset-catalog-indexes.md)
