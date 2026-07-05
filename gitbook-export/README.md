@@ -74,6 +74,7 @@ Legal analysis of constitutional violations and civil claims, including:
 * Malicious prosecution, Brady violations, and prosecutorial misconduct
 * Legal malpractice and ineffective assistance of counsel
 * Institutional capture and conflicts inside victim-advocacy workflows
+* Pattern-and-practice barriers to civil-rights representation and enforcement in rural or small-market jurisdictions
 
 ### Montana Cases
 
