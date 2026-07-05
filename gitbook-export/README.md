@@ -1,9 +1,10 @@
 ---
 title: Missoula law enforcement, prosecutors, and YWCA misconduct (2012–present)
 description: >-
-  Public record-first documentation of alleged misconduct, civil-rights claims,
-  and primary evidence involving YWCA Missoula, Missoula Police (MPD),
-  prosecutors, and related actors in the Nuno case (2012–2025).
+  Public record-first documentation and research guide centered on the Nuno case
+  as the evidentiary spine for alleged misconduct, civil-rights claims,
+  complaint filings, official responses, and institutional redress pathways
+  involving YWCA Missoula, MPD, prosecutors, and state/federal institutions.
 tags:
   - Missoula
   - Montana
@@ -18,7 +19,11 @@ tags:
 
 ### Executive snapshot
 
-This site organizes record-linked **allegations** involving Missoula’s law-enforcement and victim-advocacy ecosystem (2012–present). The Nuno case (2015–2025) is used as the main evidence spine to connect events, filings, and institutional actors. Core legal frameworks referenced include the First, Fourth, and Fourteenth Amendments and **42 U.S.C. § 1983**.
+This site is a record-first research guide for people trying to understand what happened after they were allegedly wrongly targeted, charged, prosecuted, or pushed toward coerced plea outcomes in Missoula and adjacent jurisdictions. The Nuno case (2015–2025) is the evidentiary spine that ties together events, filings, complaint responses, institutional actors, and the downstream human and legal costs.
+
+The page maps the institutions involved in law enforcement, prosecution, oversight, and public-facing victim-advocacy work — including MPD, county and state prosecutors, Montana DOJ and POST channels, the courts, the DOJ/FBI civil-rights pipeline, and YWCA of Missoula where the record alleges conflict-of-interest and coordination concerns.
+
+Core frameworks referenced here include the First, Fourth, and Fourteenth Amendments, 42 U.S.C. § 1983, state complaint processes, and pattern-and-practice research.
 
 Verification is record-first.
 
@@ -39,6 +44,19 @@ Start with the **Verify first** links, then use the hubs and datasets below.
 * [Bryan Tipp](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
 * [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 * [Institutional Willful Blindness: Pattern Analysis](institutional-willful-blindness-pattern-analysis.md) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
+
+### Institutional map
+
+Use this site as a guide to the institutions that matter when tracing a complaint from first report to final disposition:
+
+| Institution / channel | Role in the record | Best entry point |
+| --- | --- | --- |
+| MPD / Missoula police | Initial investigation, warrants, custody, records handling | [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md) |
+| County and state prosecutors | Charging, plea negotiations, dismissal decisions, disclosure duties | [Civil Rights Violations and Related Claims](civil-rights-violations-and-related-claims-2015-2025.md) |
+| Montana DOJ / POST / bar | Professional discipline, POST complaints, and administrative review | [Montana Bar Complaints](montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis.md) |
+| DOJ / FBI civil-rights channels | Federal civil-rights intake and escalation | [Federal and State Department Complaints](state-and-federal-complaints/federal-and-state-department-complaints.md) |
+| YWCA of Missoula | Public-facing advocacy/workflow institution alleged to overlap with enforcement and complaint routing | [YWCA Missoula](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md) |
+| Courts | Dismissals, plea outcomes, sealed records, and appellate/post-conviction record | [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md) |
 
 ### Datasets (for Google discovery)
 
@@ -118,6 +136,17 @@ Supporting documentation including:
 * Civil rights timeline of events (2014-2025)
 * Relationship diagrams (people, agencies, and institutions)
 * Background and historical context for Missoula (2012 and earlier)
+
+### Complaint and response archive
+
+If you need the paper trail from filing to reply, start here:
+
+* [Federal and State Department Complaints](state-and-federal-complaints/federal-and-state-department-complaints.md)
+* [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/README.md)
+* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* [MT Bar Complaint ODC-25-147 - Right To Request Review](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](montana-bar-complaints/odc-lowney-grievance-index.md)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 
 ## Start here
 
