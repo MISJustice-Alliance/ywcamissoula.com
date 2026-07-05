@@ -156,6 +156,7 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Civil Rights Violations and Related Claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/)
+* [Kirsten Pabst DOJ oversight and Jordan Johnson hub](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md)
 * [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
 * [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
 * [Sources & record index](overview/sources-and-record-index.md)

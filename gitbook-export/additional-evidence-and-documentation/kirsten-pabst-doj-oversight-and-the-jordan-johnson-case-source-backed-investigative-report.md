@@ -1,5 +1,5 @@
 ---
-title: Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Source-Backed Investigative Report
+title: "Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Source-Backed Investigative Report"
 description: >-
   Source-verified summary of the Missoula County Attorney's Office DOJ
   investigation, Kirsten H. Pabst's public statements, and the Jordan Johnson
@@ -20,7 +20,7 @@ contested: false
 
 ## 1. Executive Summary
 
-This report isolates the source-verified record that connects the Missoula County Attorney's Office DOJ investigation, Kirsten H. Pabst's public posture during and after that oversight period, and the Jordan Johnson case. It is intentionally narrower than the broader Missoula accountability pages already in this book, and it is designed to avoid repeating the fuller ecosystem histories already documented in [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
+This report isolates the source-verified record connecting the Missoula County Attorney's Office DOJ investigation, Kirsten H. Pabst's public posture during and after that oversight period, and the Jordan Johnson case. It stays narrower than the broader Missoula accountability pages already in this book and avoids repeating the fuller ecosystem histories already documented in [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
 
 Three points are well supported by the record:
 
