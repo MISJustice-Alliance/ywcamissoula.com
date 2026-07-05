@@ -85,8 +85,8 @@
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
   * [MisJustice Alliance case file: 2df48ac7](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
 * [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/README.md)
-  * [MT Bar Complaint ODC No. 25-147:  Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025.md)
-  * [MT Bar Complaint ODC No. 25-147:  ODC Ruling (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
+  * [MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025.md)
+  * [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
   * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
@@ -94,7 +94,7 @@
 * [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 * [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
 
-### ODC Lowney Grievance (2026)
+## ODC Lowney Grievance (2026)
 
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](montana-bar-complaints/odc-lowney-grievance-index.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
