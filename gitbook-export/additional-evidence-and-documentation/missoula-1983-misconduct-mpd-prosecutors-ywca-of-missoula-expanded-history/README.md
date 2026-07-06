@@ -68,6 +68,8 @@ Johnson was charged in July 2012, suspended from the team, and faced up to 100 y
 
 The timing of institutional response revealed priorities: Football coach Robin Pflugrad publicly praised Johnson's "character and tremendous moral fiber" three days before University President Royce Engstrom fired both Pflugrad and Athletic Director Jim O'Day in April 2012.
 
+For a tighter source-backed treatment of the prosecutor-to-defense transition and the conflict-of-interest appearance question, see [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](../kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md).
+
 **Kerry Barrett (Gang Rape—No Charges)**
 
 Kerry Barrett alleged gang rape by four University of Montana football players after consuming 8-11 shots of 99-proof alcohol within one hour at a party. She described being "in and out...penis in my face" and pushing the first player away before he forced himself on her, followed by three additional players.

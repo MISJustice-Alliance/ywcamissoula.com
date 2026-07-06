@@ -23,7 +23,7 @@ contested: false
 
 This is a source-backed investigative report that critically examines Kirsten H. Pabst's career. DOJ oversight and the Jordan Johnson case are the anchor examples, but the aim is broader: to map the public evidence for conflicts of interest, narrative management, campaign-practices controversy, and other accountability flags that appear across her rise from prosecutor to county attorney. It stays source-tight and avoids upgrading allegations or advocacy into adjudicated fact.
 
-The report treats Pabst's career as a sequence of institutional roles, public statements, and disputed public controversies—not as a neutral résumé. It asks how those roles and statements may have shaped both the defense posture in Jordan Johnson and the public narrative around DOJ oversight.
+The report treats Pabst's career as a sequence of institutional roles, public statements, and disputed public controversies—not as a neutral résumé. It asks how those roles and statements may have shaped both the defense posture in Jordan Johnson and the public narrative around DOJ oversight. On the record reviewed here, the absence of any clearly surfaced recusal memo, conflict-screening process, or comparable public ethics record is itself part of the problem.
 
 If you want the short version of the career arc, it runs: county prosecutor -> defense counsel in a high-profile sexual-assault case -> elected county attorney. The sections below make that sequence explicit.
 
