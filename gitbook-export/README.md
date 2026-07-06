@@ -19,7 +19,7 @@ tags:
 
 ### Executive snapshot
 
-This site is a record-first research guide for people trying to understand what happened after they were allegedly wrongly targeted, charged, prosecuted, or pushed toward coerced plea outcomes in Missoula and adjacent jurisdictions. The Nuno case (2015–2025) is the evidentiary spine that ties together events, filings, complaint responses, institutional actors, and the downstream human and legal costs.
+This site is a record-first research guide for legal researchers, journalists, civil rights advocates, civil rights attorneys, and individuals trying to navigate the legal system during and directly after being wrongly targeted, charged, prosecuted, or pushed toward coerced plea outcomes in Missoula and adjacent jurisdictions. The Nuno case (2015–2025) is the evidentiary spine that ties together events, filings, complaint responses, institutional actors, and the downstream human and legal costs.
 
 The page maps the institutions involved in law enforcement, prosecution, oversight, and public-facing victim-advocacy work — including MPD, county and state prosecutors, Montana DOJ and POST channels, the courts, the DOJ/FBI civil-rights pipeline, and YWCA of Missoula where the record alleges conflict-of-interest and coordination concerns.
 

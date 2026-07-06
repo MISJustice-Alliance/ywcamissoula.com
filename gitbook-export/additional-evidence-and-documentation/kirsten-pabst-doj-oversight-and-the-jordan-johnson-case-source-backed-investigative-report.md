@@ -1,9 +1,10 @@
 ---
 title: "Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Source-Backed Investigative Report"
 description: >-
-  Source-verified summary of the Missoula County Attorney's Office DOJ
-  investigation, Kirsten H. Pabst's public statements, and the Jordan Johnson
-  case, with gaps flagged for follow-up verification.
+  Public-record, opposition-research style review of Kirsten H. Pabst's career
+  as it appears in DOJ oversight materials, trial reporting, campaign-practices
+  decisions, and contemporaneous journalism, with source gaps flagged for
+  follow-up verification.
 tags:
   - legal
   - accountability
@@ -20,7 +21,7 @@ contested: false
 
 ## 1. Executive Summary
 
-This report isolates the source-verified record connecting the Missoula County Attorney's Office DOJ investigation, Kirsten H. Pabst's public posture during and after that oversight period, and the Jordan Johnson case. It stays narrower than the broader Missoula accountability pages already in this book and avoids repeating the fuller ecosystem histories already documented in [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
+This report is a source-backed, opposition-research style review of Kirsten H. Pabst's public career record. DOJ oversight and the Jordan Johnson case are the anchor examples, but the aim is broader: to map the public evidence for conflicts of interest, narrative management, campaign-practices controversy, and other accountability flags that appear across her rise from prosecutor to county attorney. It stays source-tight and avoids upgrading allegations or advocacy into adjudicated fact. For the wider Missoula ecosystem context, see [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
 
 Three points are well supported by the record:
 
@@ -30,10 +31,12 @@ Three points are well supported by the record:
 
 The record also shows that Pabst, after winning election as county attorney, publicly defended the office's record and rejected Krakauer's criticism as inaccurate or exaggerated. Those statements are documented, but they are not the same thing as an adjudicated finding of misconduct. (Source: Montana Public Radio, Apr. 22, 2015; Montana Kaimin, Nov. 2014; Montana Standard, Apr. 2015)
 
-Two additional threads deserve to be said plainly:
+Four additional threads deserve to be said plainly:
 
 1. The federal record says MCAO refused the DOJ's request for documents, information, and staff interviews during the investigation. Pabst's later public posture, by contrast, emphasized "many factual errors," said the DOJ agreement was "not about prosecution rates," and recast the office as already improving and "starting to make ripples." That is not a neutral description of oversight; it is a minimizing narrative that helps convert a serious civil-rights investigation into a managed public-relations reset.
 2. Read with the June 2014 MOU and the broader oversight architecture, that posture fits a bureaucratic black-box pattern: the office controls much of the underlying record, the city/state/federal actors formalize a cooperative compliance story, and the public is left with a process that can discourage complaints, narrow the record, and favor early closure over independent scrutiny. See also [[institutional-willful-blindness-pattern-analysis]] and [[montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief]].
+3. The Jordan Johnson material matters not because it proves the defense's theory, but because it places Pabst inside a high-profile sexual-assault matter as both a former prosecutor and later defense lawyer in the same contested ecosystem.
+4. The COPP/Fletcher record adds a separate public-practices controversy from the same period, which makes the overall pattern harder to dismiss as a one-off disagreement about DOJ rhetoric.
 
 
 ## 2. Source Hierarchy and Verification Notes
@@ -75,9 +78,9 @@ That federal baseline matters because later public disputes were often framed as
 | June 10, 2014 | DOJ MOU / settlement PDF | Establishes the formal reform package and oversight structure |
 | 2015 | Public disputes over Krakauer's book | Shows the office still contesting the narrative while reform was underway |
 
-## 4. Kirsten Pabst's Role in the Transition Period
+## 4. Kirsten Pabst's Public-Record Career Pattern
 
-Public reporting from the period placed Kirsten Pabst inside the office culture the DOJ later criticized, and later reporting described her as part of the office's leadership continuity. This report uses the source-backed minimum: Pabst was not a detached outside observer when the controversy escalated. (Source: Montana Kaimin, Nov. 2014; Montana Public Radio, Apr. 2015; Montana Standard, Apr. 2015)
+Public reporting from the period placed Kirsten Pabst inside the office culture the DOJ later criticized, and later reporting described her as part of the office's leadership continuity. Read as a career-wide public record rather than a single-case vignette, the same name appears across the prosecution side, the defense side, campaign coverage, and the later county-attorney office. That does not by itself prove misconduct; it does show why this report treats her career as a broader accountability subject rather than as a DOJ-only story. (Source: Montana Kaimin, Nov. 2014; Montana Public Radio, Apr. 2015; Montana Standard, Apr. 2015; NBC Montana, 2014; Missoulian, Dec. 2014)
 
 The strongest directly quoted public statement available in this pass is the April 22, 2015 Montana Public Radio transcript. In it, Pabst said the office was proud of its work, said the community had been improving its response to sexual assault, and stated that criticism of how cases were charged could be harmful to victims. She also said the DOJ agreement "is not about prosecution rates" and asserted that Missoula's prosecution rate had been "much higher than the national average." (Source: Montana Public Radio, Apr. 22, 2015, https://www.mtpr.org/montana-news/2015-04-22/missoula-county-prosecutor-kirsten-pabsts-statement-on-jon-krakauers-book)
 

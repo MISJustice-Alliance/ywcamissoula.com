@@ -17,7 +17,7 @@ tags:
 
 ### Executive snapshot
 
-This page is a high-level governance and conflict-of-interest framing focused on YWCA of Missoula and its alleged interactions with MPD and Missoula County prosecutors. It is a synthesis page, not a primary record. Use the “Verify first” links to work from packets and rulings back into the narrative.
+This site is a record-first research guide for legal researchers, journalists, civil rights advocates, civil rights attorneys, and individuals trying to navigate the legal system during and directly after being wrongly targeted, charged, prosecuted, or pushed toward coerced plea outcomes in Missoula and adjacent jurisdictions. The Nuno case (2015–2025) is the evidentiary spine that ties together events, filings, complaint responses, institutional actors, and the downstream human and legal costs.
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
