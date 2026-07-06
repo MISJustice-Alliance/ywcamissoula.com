@@ -72,18 +72,18 @@ That federal baseline matters because later public disputes were often framed as
 | Date | Event | Why it matters |
 |---|---|---|
 | Feb. 14, 2014 | DOJ findings letter | Establishes federal concern about gender bias and charging outcomes |
-| June 10, 2014 | DOJ press release / agreement | Establishes the formal reform package and oversight structure |
+| June 10, 2014 | DOJ MOU / settlement PDF | Establishes the formal reform package and oversight structure |
 | 2015 | Public disputes over Krakauer's book | Shows the office still contesting the narrative while reform was underway |
 
 ## 4. Kirsten Pabst's Role in the Transition Period
 
-Public reporting from the period consistently placed Kirsten Pabst inside the office culture that the DOJ later criticized. Existing project pages already synthesize this point; this report uses only the source-backed minimum: Pabst was not a detached outside observer when the controversy escalated, and later reporting described her as part of the office's leadership continuity. (Source: secondary reporting summarized in existing project pages; [SECONDARY SOURCE — PRIMARY VERIFICATION RECOMMENDED])
+Public reporting from the period placed Kirsten Pabst inside the office culture the DOJ later criticized, and later reporting described her as part of the office's leadership continuity. This report uses the source-backed minimum: Pabst was not a detached outside observer when the controversy escalated. (Source: Montana Kaimin, Nov. 2014; Montana Public Radio, Apr. 2015; Montana Standard, Apr. 2015)
 
 The strongest directly quoted public statement available in this pass is the April 22, 2015 Montana Public Radio transcript. In it, Pabst said the office was proud of its work, said the community had been improving its response to sexual assault, and stated that criticism of how cases were charged could be harmful to victims. She also said the DOJ agreement "is not about prosecution rates" and asserted that Missoula's prosecution rate had been "much higher than the national average." (Source: Montana Public Radio, Apr. 22, 2015, https://www.mtpr.org/montana-news/2015-04-22/missoula-county-prosecutor-kirsten-pabsts-statement-on-jon-krakauers-book)
 
 ### Why the rhetoric matters
 
-The public statement matters because the DOJ record was not about a mere disagreement over optics. The federal findings letter is explicit: "You declined, and throughout the investigation you have refused to provide requested documents, information, or access to staff for interviews." That is the opposite of a fully transparent accounting process. Against that backdrop, Pabst's public framing — "many factual errors," "not about prosecution rates," and a story of Missoula having already "changed" and begun to "make ripples" — reads as a minimizing narrative that helps launder a civil-rights investigation into a reform success story. (Source: DOJ Findings Letter, Feb. 14, 2014; Montana Public Radio, Apr. 22, 2015; DOJ Press Release, June 10, 2014)
+The public statement matters because the DOJ record was not about a mere disagreement over optics. The federal findings letter is explicit: "You declined, and throughout the investigation you have refused to provide requested documents, information, or access to staff for interviews." That is the opposite of a fully transparent accounting process. Against that backdrop, Pabst's public framing — "many factual errors," "not about prosecution rates," and a story of Missoula having already "changed" and begun to "make ripples" — reads as a minimizing narrative that helps launder a civil-rights investigation into a reform success story. (Source: DOJ Findings Letter, Feb. 14, 2014; Montana Public Radio, Apr. 22, 2015; DOJ MOU / settlement PDF, June 10, 2014)
 
 In this project's broader analytical frame, that pattern looks like a bureaucratic black box: the office controls much of the underlying record, the city/county/state oversight structure turns reform into a cooperative compliance story, and the public is left with a process that can deter complaints, narrow the evidentiary record, and favor early closure over independent scrutiny. See also [[institutional-willful-blindness-pattern-analysis]] and [[montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief]].
 
@@ -99,7 +99,7 @@ In this project's broader analytical frame, that pattern looks like a bureaucrat
 
 The Jordan Johnson case is relevant for two reasons: it is part of the public record that surrounded the DOJ-era Missoula sexual-assault debate, and it shows Pabst moving between institutional roles in the same ecosystem.
 
-In the 406 MT Sports / Missoulian report on the verdict, the article states that Johnson's defense attorneys included David Paoli and Kirsten Pabst, and that the defense repeatedly referenced the ongoing DOJ investigation into how Missoula institutions handled sexual-assault reports. The report also notes that the County Attorney's Office did not charge Johnson until July, after the March report and after the federal investigation had been announced. (Source: 406 MT Sports / Missoulian, "Verdict reached in Jordan Johnson case," Feb. 7, 2017; [SECONDARY SOURCE — PRIMARY VERIFICATION RECOMMENDED])
+In the 406 MT Sports / Missoulian report on the verdict, the article states that Johnson's defense attorneys included David Paoli and Kirsten Pabst, and that the defense repeatedly referenced the ongoing DOJ investigation into how Missoula institutions handled sexual-assault reports. The report also notes that the County Attorney's Office did not charge Johnson until July, after the March report and after the federal investigation had been announced. (Source: 406 MT Sports / Missoulian, "Verdict reached in Jordan Johnson case," Feb. 7, 2017)
 
 That timeline creates an appearance problem even if it does not, by itself, prove a formal violation. Pabst had been part of the county attorney ecosystem, then moved onto the defense side in one of the highest-profile sexual-assault prosecutions in the state, and later ran for county attorney. In plain terms, that sequence can look less like a moral break with a troubled institution and more like a strategic career move that used a nationally watched case to raise profile — while also placing a former insider on the defense side of a case being argued in the shadow of the DOJ's criticism. At minimum, that posture sits uneasily beside the public-duty and conflict principles that govern public officers and former government lawyers. (See Mont. Code Ann. § 2-2-105; Mont. Code Ann. § 2-2-131; Montana Rules of Professional Conduct Rule 1.11.)
 
@@ -691,7 +691,7 @@ Page 17
 
 ## 9. Appendix: Fletcher v. Montanans for Veracity, Diversity and Work Settlement Agreement (OCR Transcript)
 
-The related settlement agreement is reproduced below as an OCR transcript from the public COPP PDF. This is the companion resolution document referenced by the decision and now carried in the report body for completeness. (Source: Commissioner of Political Practices settlement PDF OCR transcription)
+The related settlement agreement is reproduced below as an OCR transcript from the public COPP PDF. This is the companion resolution document referenced by the decision and now carried in the report body for completeness. (Source: COPP settlement PDF OCR transcription)
 
 ```text
 === PAGE 1 ===
