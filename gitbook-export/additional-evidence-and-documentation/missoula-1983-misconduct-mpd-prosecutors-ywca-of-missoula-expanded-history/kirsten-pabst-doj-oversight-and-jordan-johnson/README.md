@@ -25,8 +25,8 @@ Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread in
 ## What this hub covers
 
 * The February 2014 DOJ findings letter and the resulting reform agreement.
-* Kirsten Pabst's public defense of the office record during the oversight period.
-* The Jordan Johnson trial-report context that places Pabst inside the same accountability ecosystem.
+* Kirsten Pabst's public defense of the office record during the oversight period, including the minimizing rhetoric that sat beside the DOJ baseline.
+* The Jordan Johnson trial-report context that places Pabst inside the same accountability ecosystem and raises the appearance-of-conflict question.
 
 ## Related reading
 

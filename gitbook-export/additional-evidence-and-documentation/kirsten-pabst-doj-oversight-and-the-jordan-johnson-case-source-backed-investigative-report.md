@@ -30,6 +30,12 @@ Three points are well supported by the record:
 
 The record also shows that Pabst, after winning election as county attorney, publicly defended the office's record and rejected Krakauer's criticism as inaccurate or exaggerated. Those statements are documented, but they are not the same thing as an adjudicated finding of misconduct. (Source: Montana Public Radio, Apr. 22, 2015; Montana Kaimin, Nov. 2014; Montana Standard, Apr. 2015)
 
+Two additional threads deserve to be said plainly:
+
+1. The federal record says MCAO refused the DOJ's request for documents, information, and staff interviews during the investigation. Pabst's later public posture, by contrast, emphasized "many factual errors," said the DOJ agreement was "not about prosecution rates," and recast the office as already improving and "starting to make ripples." That is not a neutral description of oversight; it is a minimizing narrative that helps convert a serious civil-rights investigation into a managed public-relations reset.
+2. Read with the June 2014 MOU and the broader oversight architecture, that posture fits a bureaucratic black-box pattern: the office controls much of the underlying record, the city/state/federal actors formalize a cooperative compliance story, and the public is left with a process that can discourage complaints, narrow the record, and favor early closure over independent scrutiny. See also [[institutional-willful-blindness-pattern-analysis]] and [[montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief]].
+
+
 ## 2. Source Hierarchy and Verification Notes
 
 | Source | Type | What it supports | Confidence |
@@ -73,7 +79,11 @@ Public reporting from the period consistently placed Kirsten Pabst inside the of
 
 The strongest directly quoted public statement available in this pass is the April 22, 2015 Montana Public Radio transcript. In it, Pabst said the office was proud of its work, said the community had been improving its response to sexual assault, and stated that criticism of how cases were charged could be harmful to victims. She also said the DOJ agreement "is not about prosecution rates" and asserted that Missoula's prosecution rate had been "much higher than the national average." (Source: Montana Public Radio, Apr. 22, 2015, https://www.mtpr.org/montana-news/2015-04-22/missoula-county-prosecutor-kirsten-pabsts-statement-on-jon-krakauers-book)
 
-That statement is important because it shows the office's posture after federal scrutiny had already begun. It is a public defense of the office's record, not a neutral acknowledgment of the DOJ's findings. (Source: Montana Public Radio, Apr. 22, 2015)
+### Why the rhetoric matters
+
+The public statement matters because the DOJ record was not about a mere disagreement over optics. The federal findings letter is explicit: "You declined, and throughout the investigation you have refused to provide requested documents, information, or access to staff for interviews." That is the opposite of a fully transparent accounting process. Against that backdrop, Pabst's public framing — "many factual errors," "not about prosecution rates," and a story of Missoula having already "changed" and begun to "make ripples" — reads as a minimizing narrative that helps launder a civil-rights investigation into a reform success story. (Source: DOJ Findings Letter, Feb. 14, 2014; Montana Public Radio, Apr. 22, 2015; DOJ Press Release, June 10, 2014)
+
+In this project's broader analytical frame, that pattern looks like a bureaucratic black box: the office controls much of the underlying record, the city/county/state oversight structure turns reform into a cooperative compliance story, and the public is left with a process that can deter complaints, narrow the evidentiary record, and favor early closure over independent scrutiny. See also [[institutional-willful-blindness-pattern-analysis]] and [[montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief]].
 
 ### Public-facing posture documented in the record
 
@@ -88,6 +98,8 @@ That statement is important because it shows the office's posture after federal 
 The Jordan Johnson case is relevant for two reasons: it is part of the public record that surrounded the DOJ-era Missoula sexual-assault debate, and it shows Pabst moving between institutional roles in the same ecosystem.
 
 In the 406 MT Sports / Missoulian report on the verdict, the article states that Johnson's defense attorneys included David Paoli and Kirsten Pabst, and that the defense repeatedly referenced the ongoing DOJ investigation into how Missoula institutions handled sexual-assault reports. The report also notes that the County Attorney's Office did not charge Johnson until July, after the March report and after the federal investigation had been announced. (Source: 406 MT Sports / Missoulian, "Verdict reached in Jordan Johnson case," Feb. 7, 2017; [SECONDARY SOURCE — PRIMARY VERIFICATION RECOMMENDED])
+
+That timeline creates an appearance problem even if it does not, by itself, prove a formal violation. Pabst had been part of the county attorney ecosystem, then moved onto the defense side in one of the highest-profile sexual-assault prosecutions in the state, and later ran for county attorney. In plain terms, that sequence can look less like a moral break with a troubled institution and more like a strategic career move that used a nationally watched case to raise profile — while also placing a former insider on the defense side of a case being argued in the shadow of the DOJ's criticism. At minimum, that posture sits uneasily beside the public-duty and conflict principles that govern public officers and former government lawyers. (See Mont. Code Ann. § 2-2-105; Mont. Code Ann. § 2-2-131; Montana Rules of Professional Conduct Rule 1.11.)
 
 Because this is a trial report and not a court filing, the safest use of the source is limited: it verifies that Pabst was part of the defense team and that the DOJ investigation was part of the defense narrative. It does not, by itself, prove the truth of any argumentative claim made at trial. (Source: 406 MT Sports / Missoulian, Feb. 7, 2017)
 
@@ -112,21 +124,692 @@ Montana Standard published Krakauer's reply, reporting that he called Pabst's ac
 
 Taken together, those reports do not prove a specific later prosecution failure on their own. They do, however, establish a documented public conflict between the prosecutor, the author who criticized the office, and the broader reform narrative.
 
-## 7. Official Political-Practices Record: Complaint/Decision Exists, Details Still Need Extraction
+## 7. Official Political-Practices Record: Complaint/Decision Now Transcribed
 
-The Montana Commissioner of Political Practices' site indexes documents titled "Fletcher v. Montanans for Veracity, Diversity and Work" and provides separate complaint and decision PDFs in its 2013-2016 decisions archive. The search results show that the complaint and decision are official records and that the decision index references Kirsten Pabst by name. (Source: Commissioner of Political Practices site search results / indexed decision archive; [REQUIRES VERIFICATION])
+The Montana Commissioner of Political Practices archive indexes the official Fletcher matter titled "Fletcher v. Montanans for Veracity, Diversity and Work" and the related settlement agreement. In this pass, I extracted the decision PDF text and transcribed it below so the report now carries the source record directly instead of only pointing to the archive index. (Source: Commissioner of Political Practices archive index; decision PDF OCR transcription)
 
-In this pass, I verified the existence of the indexed official records, but I did not yet extract and transcribe the full complaint or decision text into the report body. That means the precise disposition language and any penalty details remain a follow-up task. (Source: Commissioner of Political Practices archive index; [REQUIRES VERIFICATION])
+The decision text is reproduced below as an OCR transcript from the public PDF.
 
-## 8. Investigative Gaps and Recommended Next Steps
+## 8. Appendix: Fletcher v. Montanans for Veracity, Diversity and Work Decision (OCR Transcript)
 
-1. Extract and transcribe the full COPP complaint and decision PDF text for Fletcher v. Montanans for Veracity, Diversity and Work. The current pass verifies the indexed existence of the records but not their full contents.
+```text
+=== PAGE 1 ===
+BEFORE THE COMMISSIONER OF
+POLITICAL PRACTICES OF THE STATE OF MONTANA
+
+Fletcher v. Montanans for Dismissal of Complaint Against
+
+Veracity, Diversity and Work Kirsten Pabst
+
+No. COPP 2014-CFP-028 Summary of Facts and Finding of
+Sufficient Evidence to Show a
+Violation of Montana’s Campaign
+Practices Act as to Montanans for
+Veracity, Diversity and Work
+
+John Fletcher is a resident of Missoula, Montana. Montanans for Veracity,
+Diversity and Work (MVDW) is a political committee drawing its existence from
+registration as a PAC with the office of the Montana Commissioner of Political
+Practices (COPP). Kirsten Pabst is a Missoula resident and attorney who ran
+for nomination as the Democratic candidate for Missoula County Attorney in
+the 2014 primary elections.
+
+On May 30, 2014 Mr. Fletcher filed a complaint against MVDW and
+Candidate Pabst alleging violations, by coordination, of the prohibition of
+corporate contributions to candidates.
+
+SUBSTANTIVE ISSUES ADDRESSED
+
+The substantive areas of campaign finance law addressed by this decision
+are: 1) Timely reporting of contributions to and expenditures by a PAC; and, 2)
+Coordination applying corporate contributions to a candidate.
+
+Fletcher v. MVDW Decision
+Page 1 of 17
+: ee
+
+=== PAGE 2 ===
+FINDING OF FACTS
+The foundation facts necessary for this Decision are as follows:
+Finding of Fact No. 1: On November 29, 2013, Kirsten Pabst filed a
+“Statement of Candidate” (form C-1) with the Commissioner of
+Political Practices (COPP) as a Democratic candidate for the position
+of Missoula county attorney. The position of Missoula county
+attorney is a partisan position, elected by the voters every four
+years. Two other candidates filed to run on the primary ballot with
+Ms. Pabst in 2014: Jason Marks (Democrat) and Josh Van de
+Wetering (Democrat). (Commissioner’s records, Missoula County
+Elections Office, Secretary of State (SOS) Website).
+Finding of Fact No. 2. On May 19, 2014 MVDW filed the appropriate
+“Statement of Organization” (Form C-2) with the COPP and thereby
+became a Montana political action committee. The form stated that
+MVDW would “support” Kirsten Pabst and “oppose” Josh Van de
+Wetering in the June 3, 2014 primary election. (Commissioner’s
+records).
+Finding of Fact No. 3: On June 3, 2014 a primary election was held
+for the Democratic nominee as Missoula county attorney. Kirsten
+Pabst received 7,762 votes to win the election. Josh Van de Wetering
+received 4,559 votes and Jason Marks received 1,018 votes. Kirsten
+Pabst will proceed to the general election November 4, 2014.
+(Secretary of State’s (SOS) website, Missoula County Elections Office)
+DISCUSSION
+MVDW was registered as a political action committee in Montana during
+the applicable 2014 election (See FF No. 2, See 44.10.327(2)(b) ARM). MVDW
+held itself out as an entity that would accept contributions and make
+expenditures in the June 3, 2014 primary election in support of or opposition
+to two particular candidates (see FF No. 2). The C-2 form filed by MVDW self
+identifies the entity as a “political action committee.”
+In this Matter the type of committee makes a difference as a particular
+candidate committee files certain pre-election reports detailing contributions
+Fletcher v. MVDW Decision
+Page 2
+
+=== PAGE 3 ===
+[§13-37-226(3) MCA] while a political action committee files reports detailing
+expenditures [§13-37-226(5) MCA]. Given that two candidates are listed and
+the PAC box checked on the MVDW C-2 form, the Commissioner determines
+that MVDW is an independent committee, defined by 44.10.327(1)(b), (2)(b)
+ARM and reporting under §13-37-226(5) MCA.
+I. Campaign Practices Law Violations
+The Fletcher complaint alleges that MVDW made certain campaign
+expenditures that, by coordination, became illegal contributions to the
+campaign of Candidate Pabst. The Commissioner is directed (“shall
+investigate”, See §13-37-111 MCA) to investigate any related campaign practice
+violation and, accordingly, also examines the method and timing of MVDW
+campaign finance reports.
+A. Coordination.
+For the purposes of a coordination determination the following findings of
+fact are made:
+Finding of Fact No. 4: On July 3, 2014 MVDW filed a campaign
+finance report showing $9,850 in campaign expenditures. Those
+expenditures were reported as $3,350 to Greenlight Media Strategies
+for “flyers” and $6,500 as payment for Missoulian advertising.
+(Commissioner’s records).
+Finding of Fact No. 5. The flyers (FOF 4) were mailed to Missoula
+County residents prior to the June 3, 2014 primary election and
+attacked Candidate Van de Wetering asking “Can we trust Josh Van
+de Wetering to be our County Attorney?” (Commissioner’s records).
+Finding of Fact No. 6: The newspaper ads (FOF 4) were published on
+or about May 28, 2014 and they advocated a vote for Candidate
+Pabst. (Commissioner’s records.)
+Fletcher v. MVDW Decision
+Page 3
+
+=== PAGE 4 ===
+Finding of Fact No. 7: MVDW “reported” $11,500 in contributions
+
+from 4 Missoula attorneys and 2 corporate entities. (Commissioner’s
+
+records).
+
+An advertisement, whether or not coordinated, that expressly advocates a
+vote “for” or “against” a particular candidate becomes a campaign expenditure
+by the entity making the advertisement. An express advocacy analysis can be
+lengthy, depending on the wording examined (See Bonogofsky v. National Gun
+Owners Alliance, COPP-2010-CFP-008). However, “a court should find that an
+ad is the functional equivalent of express advocacy only if the ad is susceptible
+of no reasonable interpretation other than as an appeal to vote for or against a
+specific candidate.” Federal Election Comm’n v. Wisconsin Right to Life, 551
+U.S. 449, 469-70 (2007) (“WRTL”). In this Matter it is not necessary to engage
+in a lengthy analysis as there is no other reasonable alternative to an express
+advocacy determination, given the timing and language of the flyers and ads.
+Indeed, MVDW agrees with this analysis as it reports the cost of the ads and
+flyers as an election expense (FOF No. 4), albeit as an independent election
+expense by MVDW.
+
+The Fletcher complaint challenges the independence of the MVDW
+expenditure and asserts that the expenditure was not independent, but
+coordinated with Candidate Pabst. A campaign expenditure that is deemed to
+be “coordinated” between a candidate and another entity or person is treated
+as though it is a contribution to and/or expense by the candidate’s own
+committee. Contributions to a candidate are limited in amount from any
+source and prohibited completely from a corporate source. (See §§13-35-227,
+
+Fletcher v. MVDW Decision
+Page 4
+
+=== PAGE 5 ===
+13-37-216, MCA). Because a coordinated third party election expense is
+deemed to be a contribution it becomes subject to the limits and prohibition of
+these laws.! In this Matter if coordination is found Candidate Pabst will be
+deemed to have accepted illegal corporate contributions and contributions over
+the amount allowed by law. See FOF No. 7.
+
+Montana law [44.10.323(4) ARM] defines coordination as “an expenditure
+made in cooperation with, consultation with, at the request or suggestion of, or
+the prior consent of a candidate...” Commissions and Commissioners have
+found coordination only in particular circumstances. The FEC, while
+advancing a new coordination regulation in 2012 (11 C.F.R. §109.21(d)(4)),
+operates under a 6 member commission structure and that commission has
+deadlocked on basic enforcement decisions. Coordination Reconsidered,
+Briffault, Columbia Law Review, May 2013. In regard to coordination, the FEC
+has found that there needs to be more than common vendors, interrelated
+individuals (as in a former employee of the candidate) and shared contacts.
+Thus, the FEC has not found coordination unless there is actual evidence
+showing the coordination between the expenditure and the candidate. Id.
+
+Coordination decisions by Montana Commissioners show a similar
+approach to that of the federal decisions. Commissioner Argenbright
+considered a complaint that a political committee, Citizens for Common Sense
+Government (CCSG), and six candidates for the Missoula City council were
+1 A third party, including a corporation, can participate in an election through an independent
+expenditure. An independent election expenditure is subject only to reporting and attribution
+and is not subject to contribution limits or bans.
+
+Fletcher v. MVDW Decision
+Page 5
+see ee
+
+=== PAGE 6 ===
+coordinated or linked such that CCSG was a candidate committee subject to
+contribution limits. Harmon and Sweet v. Citizens for Common Sense
+Government, et. al., December 31, 1997. Despite extensive crossover in
+involvement (participation in parade using same mode of transportation) and
+people, the Commissioner found no coordination because there were “no notes,
+memoranda, records of telephone conversations, correspondence, or other
+documents” supporting “coordination, cooperation, or consultation”. Id. p. 19.
+Further, there was “little, if any, similarity” in campaign literature. Id. p. 23.
+
+Likewise, Commissioner Higgins rejected coordination between a candidate
+and a political committee that engaged in attack activity against the opposing
+candidate. Close v. People for Responsive Government, December 15, 2005.
+The Commissioner found crossover contributors between the political
+committee and the candidate, but found no evidence of communication or
+activity showing coordination between the candidate and committee.
+Commissioner Unsworth rejected coordination in Keane v. Montanans fora
+True Democrat, April 2, 2008. The Commissioner noted crossover
+contributions/activity by people involved in both the candidate campaign and
+the political committee, but found no coordination because “...there is no
+evidence that MTDC’s expenditures for newspaper and radio ads, billboards,
+and campaign flyers opposing Candidate Keane and supporting Candidate
+McAdam were made with the prior knowledge, consent and encouragement of
+Candidate McAdam or his campaign.” Id. p. 9. In addition the Commissioner
+found that the crossover communication was “limited” and that it was personal
+
+Fletcher v. MVDW Decision
+Page 6
+
+=== PAGE 7 ===
+and not on behalf of the political committee. Id.
+
+In contrast to the above three decisions, Commissioner Vaughey found
+coordination in Little v. Progressive Missoula, July 22, 2004. The
+Commissioner identified crossover activity, finding that members of the
+Progressive Missoula steering committee were directly involved in the
+candidate’s (Allison Handler) campaign. Further, the Commissioner found
+specific evidence showing that Candidate Handler and the individual committee
+members knew of the negative attack role that Progressive Missoula would play
+in support of the candidate’s campaign. The Commissioner found that certain
+barriers between the Handler campaign and Progressive Missoula, including a
+letter of reproach from Progressive Missoula to Candidate Handler, were
+artifices designed to disguise the real cooperation. The Commissioner found
+that the Progressive Missoula expenditures for flyers were made with “...prior
+knowledge, consent and encouragement of Handler...” Thus they were
+coordinated expenditures.
+
+This Commissioner has issued a series of Decisions finding coordination, all
+based on actions between Western (American) Tradition Partnership and 2010
+candidates for Montana public office.2, These Decisions, like Little v.
+Progressive Missoula, rely on documents, actions and activity showing
+coordination. In total this Commissioner has found undisclosed, unreported,
+
+2 Bonogofsky v. Kennedy, COPP 2010-CFP-015; Washburn v. Murray, COPP 2010-CFP-019; Ward v.
+Miller, COPP 2010-CFP-021; Clark v. Bannan, COPP 2010-CFP-023; Bonogofsky v. Boniek, COPP-2010-
+CFP-027; Bonogofsky v. Wittich, COPP-2010-CFP-031; Madin v. Sales, COPP-2010-CFP-029; Bonogofsky
+v. Prouse, COPP-2010-CFP-033; Bonogofsky v. Wagman, COPP-2010-CFP-035; and Madin v. Kitts COPP-
+2013- CFP- 001. In contrast the Commissioner did not find coordination in Madin v. Burnett, COPP-
+2012-CFP-052; Ponte v. Buttrey, COPP-2014-CFP-007; and Miller v. Van Dyk, COPP-2014-CFP-002.
+Fletcher v. MVDW Decision
+Page 7
+eee
+
+=== PAGE 8 ===
+and coordinated corporate involvement by WTP (and agents) in ten 2010
+candidate campaigns. (See FN 2).
+
+In this Matter Candidate Pabst and David Paoli (on behalf of MVDW)
+expressly and completely denied any coordination. (Commissioner’s records).3
+Consistent with the approach taken in prior coordination determinations the
+Commissioner independently investigated the coordination complaint.
+
+The Fletcher complaint alleged associational identity between Candidate
+Pabst and MVDW, largely through Paoli’s law firm. The Commissioner’s
+investigator examined this issue and determined that Candidate Pabst leased
+law office space from an entity owned by Paoli. (Commissioner’s records). This
+resulted in Paoli’s law firm sharing a law office suite with Pabst’s law firm and
+several additional law firms. Id. There was, however, no legal or factual
+evidence showing that the separate law firms had intermingled funds or legal
+identities. While attorneys Pabst and Paoli co-counseled on a least one case 4,
+the Commissioner takes administrative notice, based on 30 years of experience
+as a Montana trial lawyer, that law firms regularly join together on a particular
+case without surrendering their separate legal identities. Such situational
+cooperation and crossover activity does not, by itself, create coordination.
+Harmon and Sweet v. Citizens for Common Sense Government. Further, the
+Commissioner determines that the separation between the Pabst and Paoli law
+firms (and related entities) is actual, and not in name only, so as to be
+3 The Commissioner accepts those denials as good faith, but notes that he received comparable denials of
+coordination in the Matters listed in Footnote 2.
+
+4 The Commissioner notes that he understands that the Paoli and Pabst law firms joined to offer a co-
+counsel defense in the high-profile rape trial of a University of Montana football player. Josh Van de
+Wetering was involved as a prosecutor in that trial.
+Fletcher v. MVDW Decision
+Page 8
+
+=== PAGE 9 ===
+separation in fact rather than separation in law. See Vermont Right to Life
+Committee v Sorrell, 2"4 Circuit No. 12-2904-cv (July 2, 2014, pp. 69-73).
+
+The Commissioner next examines whether or not there is evidence of actual
+communication or activity showing coordination between the candidate and
+committee. To that end the Commissioner’s investigator interviewed the ad
+placement representatives for the Missoulian and Greenlight Media Strategies,
+the two entities through which MVDW made election expenses. Both
+representatives told the Commissioner’s investigator that they dealt with Mr.
+Paoli. Both stated that they were specifically instructed by Mr. Paoli to avoid
+any contact at all with Candidate Pabst. (Investigator’s notes).
+
+The Commissioner determines that this Matter does not fall under the reach
+of Little v. Progressive Missoula or the Decisions cited in footnote 2. There is no
+evidence of shared action or information between Candidate Pabst and MVDW.
+Accordingly, the Commissioner determines that there is a lack of sufficient
+facts to show a campaign practice violation through coordination.
+
+This coordination portion of the Fletcher complaint is dismissed as against
+Candidate Pabst and MVDW. Candidate Pabst is therefore fully dismissed in
+this Matter because a finding of coordination was necessary in order to hold
+Candidate Pabst responsible for actions of MVDW. There are allegations,
+discussed below, remaining against MVDW.
+
+B. Campaign Finance Report Filing Violations
+
+MVDW admits that it engaged in election activity, making election
+expenditures. Accordingly, as an independent committee MVDW is required to
+
+Fletcher v. MVDW Decision
+Page 9
+
+=== PAGE 10 ===
+file a campaign finance report:
+a) ...on the 12 day preceding the date of an election in which it
+participates by making an expenditure;
+b) ..within 24 hours of making a [$500 or more] debt or
+expenditure...if made between the 17‘t day before an election and
+the day of the election;
+c) ...not more than 20 days after an election in which it participates
+by making an expenditure
+See §13-37-226(5) MCA. Montana’s campaign related laws require full and
+timely disclosure of campaign contributions and expenditures. A political
+committee is required to timely file a certification [§13-37-201 MCA], timely
+keep and maintain accounts of contributions and expenditures [§13-37-208
+MCA] and timely file reports to the Commissioner’s office of such contributions
+and expenditures [§13-37-226 MCA]. The reports, once filed, are available for
+review by the public, thereby providing transparency and shared access to this
+information.
+1. Pre-Election Report
+The primary election took place on June 3, 2014. FF No. 3.
+MVDW’s pre-election PAC report was due 12 days pre-election or no later
+than May 21, 2014, with reporting current through May 16, 2014.
+(Commissioner’s Website Information, 2014).
+Finding of Fact No. 8: On May 19, 2014 MVDW filed its
+statement of organization (Form C-2). (Commissioner’s records).
+Finding of Fact No. 9: On May 27, 2014, MVDW filed its first C6
+campaign finance report (Form C-6). MVDW listed one corporate
+contribution in the amount of $4,000 and $2,500 from 3
+individual contributions with all contributions made on May 21,
+2014. (Commissioner’s records).
+Fletcher v. MVDW Decision
+Page 10
+
+=== PAGE 11 ===
+MVDW created some confusion with its initial filings. MVDW was
+required to file its certification (Form C-2) within “5 days after it makes
+an expenditure.” (§13-37-201 MCA). As set out below, the first evidence
+of expenditure and contributions occurred on May 21, 2014. MVDW,
+however, filed its Form C-2 on May 19, 2014 (FOF No. 8) before it made
+any expenditure. Because there was no expenditure or contributions
+made by May 16, 2014 MVDW did not need to file a pre-election
+campaign finance report and cannot be in violation based on this report.
+
+2. 24-Hour Reports
+MVDW chose to fund and make its independent expenditure activity
+during the 17 day gap between the last day of reporting required by the
+pre-election campaign finance report and the day of the election. As an
+independent committee (See this Decision, page 3), MVDW must report
+within 24 hours of making a ($500 or more) debt or expenditure...if made
+between the 17 day before an election and the day of the election. See
+§13-37-226(5) MCA.
+Finding of Fact No. 10: The Commissioner’s investigator
+determined that David Paoli contacted the Missoulian on
+May 21, 2014 and established an MVDW account on May
+23, 2014. (Investigator’s notes). Those contacts resulted in
+8 Missoulian ads running between May 27 and June 3,
+2014 for a total cost of $6,500. (Commissioner’s records).
+Finding of Fact No. 11: The Commissioner’s investigator
+determined that David Paoli contacted Greenlight Media on
+May 22 or 23, 2014. (Investigator’s notes). That contact
+resulted in the Flyer preparation in time for a mailing drop
+date of May 29, 2014. Id. The total cost of the flyers was
+$3,350. (Commissioner’s records).
+Fletcher v. MVDW Decision
+Page 11
+
+=== PAGE 12 ===
+Finding of Fact No. 12: MVDW filed four 24 hour notices
+
+(Form C-7E): On May 29, 2014 disclosing 4 contributors
+
+totaling $5,000; On May 29, 2014 disclosing 3 contributors
+
+totaling $5,500; On May 29, 2014 disclosing “print ads”
+
+expenditures to the Missoulian in the amount of $1,491.20;
+
+and, on June 12, 2014 disclosing “advertising” in the
+
+Missoulian in the amount of $5,008.80 and with Greenlight
+
+in the amount of $3,350.5
+MVDW’s reporting of its expenses does not comport to the requirements of
+Montana law. MVDW paid $6,500 for the production of and publication of 8
+ads in the Missoulian (FOF No. 11). MVDW reported the Ad costs on the date
+the Ads were published.
+
+The publication or payment date, however, is not determinant of the date
+reporting is required as, if that were the case, candidates and political
+committees would pay late and disclose activity after the fact, thereby depriving
+the opposing candidate and the public of the transparency that is required by
+reporting and disclosure laws. Instead, Montana statutes (§13-37-230(1)(f}
+MCA) require the reporting and disclosure of “the amount and nature of debts
+and obligations owed...”. Montana regulations, at 44.10.535 ARM, add that
+“lijf the exact amount of a debt or obligation is not known, the estimated
+amount owed shall be reported.”
+
+Past Commissioners have rigorously applied these laws requiring that
+campaigns “estimate their debts when they are incurred”, not after an election.
+Akey v. Clark, March 26, 1999 (Commissioner Vaughey); because “the public
+has a right to full disclosure of all debts and estimated debts incurred by a
+5 Only the C-7 (24 hour) reports showing expenses appear on the MVDW reports available
+from the Commissioner’s website since C-7 contribution reporting is not required.
+
+Fletcher v. MVDW Decision
+Page 12
+
+=== PAGE 13 ===
+candidate during the appropriate reporting periods.” Ream v. Bankhead,
+September 10, 1999 (Commissioner Vaughey). This reporting of debt covers
+services, advertisements campaign expenses in general (Wilcox v. Raser, May
+26, 2010 (Commissioner Unsworth)) and even the expenses owed musicians
+(Hardin v. Ringling 5, December 17, 2012 (Commissioner Murry)).
+
+In this Matter MVDW engaged in a tightly run and calculated series of
+independent expenditures. FOF Nos. 10 and 11. MVDW timed its fundraising
+and expenditures to fall after the pre-election reporting period, presumably to
+avoid alerting the opposing candidate to its efforts. This left 17 days before the
+election, a period of time during which MVDW was required to report
+expenditures within 24 hours.
+
+Specifically, the Commissioner determines that MVDW was required to
+report the actual or estimated amount of the debt incurred in this Matter on a
+C-7E form no later than May 24, 2014 for the Missoulian ads ($6,500) and for
+the Greenlight flyer costs ($3,350).6 See §13-37-230(1)(f) MCA, 44.10.535
+ARM, Akey v. Clark, Ream v Bankhead, Wilcox v. Raser, Hardin v. Ringling 5.
+MVDW, however, filed C-7E forms that reported 5 days late for $1,491.20 in
+Missoulian costs; 19 days late for $5,008.80 in Missoulian costs; and 19 days
+late for $3,350 in Greenlight costs. (FOF No. 12). The Commissioner finds
+sufficient facts to show a campaign practice violation for this late reporting.
+
+3. Post-Election Report
+
+MVDW’s post-election report was due “not more than 20 days after the
+
+6 The May 24, 2014 reporting date is based on the facts set out in FOF Nos. 10 and 11.
+Fletcher v. MVDW Decision
+Page 13
+
+=== PAGE 14 ===
+date of the election” [§13-37-226(5) MCA], or by June 23, 2014. The campaign
+finance report due after the election, like the pre-election report, requires
+disclosure of both contributions and expenditures. §13-37-225 MCA.
+
+MVDW filed its post-election report on July 3, 2014, or 10 days late.
+Further, while MVDW disclosed the required information as to $6,500 in
+contributions in a voluntarily filed pre-election C-6 form, the July 3 report did
+not disclose the required information on the contributors of the additional
+$5,000 to MVDW. The Commissioner hereby finds that there are sufficient
+facts to show that MVDW failed to meet the requirements of law with its post-
+election filing. The Commissioner further finds that the post-election report is
+deficient as filed.
+
+C. Parties
+
+The Commissioner hereby identifies MVDW, David Paoli and J. Michael
+Barrett as the persons and parties for whom sufficient facts exist to show that
+each was individually and together responsible for campaign practice violations
+described in this Decision. J. Michael Barrett is so identified because he is the
+Treasurer of MVDW. David Paoli is so identified because he planned and
+carried out the acts that resulted in the campaign practice violations described
+above.
+
+ENFORCEMENT
+The Commissioner has limited discretion when making the
+determination as to an unlawful campaign practice. First, the Commissioner
+cannot avoid, but must act on a complaint as the law mandates that the
+Fletcher v. MVDW Decision
+Page 14
+
+=== PAGE 15 ===
+Commissioner (“shall investigate,” see, §13-37-111(2)(a) MCA) investigate any
+alleged violation of campaign practices law. The mandate to investigate is
+followed by a mandate to take action as the law requires that if there is
+“sufficient evidence” of a violation the Commissioner must (“shall notify”, see
+§13-37-124 MCA) initiate consideration for adjudication.
+
+This Commissioner, having been charged to investigate and decide,
+hereby determines that sufficient evidence exists to show that the MVDW and
+Messrs. Barrett/Paoli violated Montana’s campaign practice laws, including but
+not limited to §§ 13-37-225 and 226 MCA. Having determined that there is
+sufficient evidence to show a campaign practice violation has occurred, the
+next step is to determine whether there are circumstances or explanations that
+may affect adjudication of the violation and/or the amount of the fine.
+
+MVDW’s decision to act was by choice and deliberate. Excusable neglect
+cannot be applied to the failures in this Matter. See discussion of excusable
+neglect principles in Matters of Vincent, Nos. COPP-2013-CFP-006 and 009.
+Likewise, the actions are too significant to be excused as de minimis. See
+discussion of de minimis principles in Matters of Vincent, Nos. COPP-2013-CFP-
+006 and 009. With the above analysis in mind, this Matter is also not
+appropriate for application of the de minimis theory.
+
+Because there is a sufficiency finding of violation and a determination
+that de minimis and excusable neglect theories are not applicable, civil
+adjudication and/or a civil fine is justified (see §13-37-124 MCA). This
+Commissioner hereby, through this decision, issues a “sufficient evidence”
+
+Fletcher v. MVDW Decision
+Page 15
+
+=== PAGE 16 ===
+Finding and Decision justifying civil adjudication under §13-37-124 MCA.
+This matter will now be submitted to (or “noticed to”) the Lewis and Clark
+County attorney for his review for appropriate civil action. See §13-37-124(1)
+MCA.’ Should the County Attorney waive the right to adjudicate (§13-37-
+124(2) MCA) or fail to prosecute within 30 days (§13-37-124(1) MCA) this
+Matter returns to this Commissioner for possible adjudication. Id.
+
+Most of the Matters decided by a Commissioner and referred to the
+County Attorney are waived back to the Commissioner for his further
+consideration. Assuming that this Matter is waived back, the Finding and
+Decision in this Matter does not necessarily lead to civil adjudication as the
+Commissioner has discretion (“may then initiate” see §13-37-124(1) MCA) in
+regard to a legal action. Instead, most of the Matters decided by a
+Commissioner are resolved by payment of a negotiated fine. In the event that a
+fine is not negotiated and the Matter resolved, the Commissioner retains
+statutory authority to bring a complaint in district court against any person
+who intentionally or negligently violates any requirement of Chapter 37,
+including those of §13-37-226. (See §13-37-128 MCA). Full due process is
+provided to the alleged violator because the district court will consider the
+matter de novo.
+
+CONCLUSION
+Based on the preceding Discussion as Commissioner I find and decide that
+the complaint against Kirsten Pabst is dismissed. I further find and decide
+7 Notification is to “...the county attorney in which the alleged violation occurred...” §13-37-
+124(1) MCA. The failure to report occurred in Lewis and Clark County.
+Fletcher v. MVDW Decision
+Page 16
+
+=== PAGE 17 ===
+that there is sufficient evidence to show that MVDW, J. Michael Barrett and
+David Paoli violated Montana’s campaign practices laws, including §§13-37-
+225, 226, 229, and 230 MCA, and that a civil penalty action under § 13-37-
+128, MCA is warranted. Upon return to the Commissioner of this Matter by
+the County Attorney, this Commissioner will assess the amount of civil penalty,
+should MVDW and/or Messrs. Barrett and Paoli choose to settle this Matter
+with a negotiated fine. N
+DATED this 16th day of July, 201%
+: \ ell
+“gerard . Motl
+
+Commissioner of Political Practices
+
+Of the State of Montana
+
+P. O. Box 202401
+
+1205 8t Avenue
+
+Helena, MT 59620
+
+Phone: (406)-444-4622
+
+Fletcher v. MVDW Decision
+Page 17
+```
+
+## 9. Appendix: Fletcher v. Montanans for Veracity, Diversity and Work Settlement Agreement (OCR Transcript)
+
+The related settlement agreement is reproduced below as an OCR transcript from the public COPP PDF. This is the companion resolution document referenced by the decision and now carried in the report body for completeness. (Source: Commissioner of Political Practices settlement PDF OCR transcription)
+
+```text
+=== PAGE 1 ===
+POSTMARKED
+MAR 17 2017
+SETTLEMENT AGREEMENT == = 21) 2)
+
+This settlement agreement is entered into by Jonathan R. Mot, inhis officiah g
+capacity as the current Montana Commissioner of Political Practites ‘(hereinafter “the
+Commissioner”) and the following parties: Montanans for Veracity, Diversity and Work
+and David Paoli (“Respondents”). POLIT: ee
+
+Montana law authorizes the Commissioner to file an action in district court in
+order to seek a civil penalty for violation of Montana’s campaign finance and practices
+laws and rules, §§13-37-124 and 13-37-128 Mont. Code Ann. In order to avoid litigation,
+the Commissioner and the Respondents enter into this agreement to resolve this matter.
+
+1. Acampaign practice complaint was filed against Respondents in the final weeks
+of Montana’s 2014 primary election. The Commissioner issued a Decision
+responding to the Complaint, dated July 16, 2014.
+
+2. The Decision documents prepared by the Commissioner are posted for public
+viewing on the COPP website under Fletcher v. Montanans for Diversity and
+Work, No. COPP-2014-CFP-028. The reader of this Settlement Agreement is
+directed to these documents for a summary and description of the issues resolved
+by this Settlement Agreement.
+
+3. The Respondents acknowledge that they have read and understand the
+Commissioner’s Decision issued in this Matter.
+
+4. The Commissioner hereby acknowledges that the Respondents have filed all
+disclosures and documents required in this Matter. The issue for which the
+social debt (fine) is assessed is that of unintentional late filing of the disclosures
+and documents.
+
+5. This Matter is settled under the following terms:
+
+a. The Respondents agree to pay the amount of $3,712.50 as a civil fine to
+resolve this Matter. The fine amount is to be paid as $1,485 in cash plus a
+value in the amount of $2,227.50 as in-kind costs and services to be
+provided by Respondents in support of continuing legal education (CLE)
+program offered in Missoula on the topic of the role of attorneys involved
+in campaigns involving ballot issues or candidates. The CLE will be held
+in advance of 2018 elections. The Commissioner greatly appreciates the
+Respondents willingness to participate in this CLE. The accounting
+
+Settlement Agreement
+Fletcher v. Montanans for Veracity, COPP-2014-CFP-028
+Page 10f 3
+
+=== PAGE 2 ===
+responsibilities of Respondents as to showing the in-kind will be the
+minimal amount necessary.
+
+b. The Commissioner settles this Matter with the understanding that
+Respondents actions were not deliberate as to any violation of Montana's
+Campaign Finance and Practice Laws. It is understood and agreed that
+the payment of the civil fine referenced above, and execution of this
+settlement agreement by the Respondent is accepted as the sole
+consideration for full satisfaction and compromise of what are disputed
+claims.
+
+6. The Commissioner and the Respondent agree that execution of this settlement
+agreement by both parties, and a payment of a civil fine in the amount of $1,485
+cash plus cooperation as to the CLE by the Respondents, fully and finally
+resolves all of the issues as set forth in the Decision.
+
+7. Simultaneously with the return of the executed settlement agreement the
+Respondents will remit to the Commissioner $1,485, on a check made out to:
+“Commissioner of Political Practices” and mailed to the Office of the
+Commissioner of Political Practices, 1209 8th Avenue, P.O. Box 202401, Helena,
+Montana, 59620.
+
+8. In consideration of payment of the civil fine referenced above, the Commissioner
+agrees not to pursue any further administrative or court proceedings against the
+Respondents or other persons that may be named or unnamed in the Decision,
+based on the matters discussed in the Decision and in this Settlement Agreement.
+
+9. The Commissioner and the Respondents fully and forever release and discharge
+each other and their respective officials, officers, members, employees,
+successors, assigns, agents, ostensible agents, attorneys, and representatives
+from any and all actions, claims, causes of action, demands, expenses, damages
+or injuries, whether asserted or unasserted, known or unknown, foreseen or
+unforeseen, arising out of the matters investigated by the Commissioner and
+summarized in the Decision and in this Settlement Agreement.
+
+10. The Commissioner and the Respondents agree that the executed Settlement
+Agreement is a public document.
+
+11. This settlement agreement, consisting of 3 pages, sets forth the entire agreement
+that has been reached between the Commissioner and the Respondents. No
+
+Settlement Agreement
+Fletcher v. Montanans for Veracity, COPP-2014-CFP-028
+Page 2 of 3
+
+=== PAGE 3 ===
+modification or amendment of this agreement will be effective unless both parties
+complete a subsequent written statement that is signed by both parties.
+( > \wol\ 3/20]) ]
+. Motl Dated
+Lb of, Y) Practices
+David Paol1 for all —= Dated |
+Settlement Agreement
+Fletcher v. Montanans for Veracity, COPP-2014-CFP-028
+Page 3 of 3
+```
+
+## 10. Investigative Gaps and Recommended Next Steps
+
+1. The settlement agreement text is now appended in this report; if the article is further expanded, verify any OCR ambiguities directly against the original PDF images before quoting a line in isolation.
 2. Pull the underlying MCAO employment records or contemporaneous reporting that fix Pabst's role and timing in the office with more precision than secondary campaign coverage.
 3. Cross-check the Jordan Johnson trial reporting against the underlying court record to separate courtroom argument from independently established fact.
 4. Preserve the DOJ findings letter and June 10, 2014 agreement as the primary baseline when drafting any longer narrative, so later commentary is not allowed to erase the federal record.
 5. If this report is expanded, add a short appendix mapping each public statement by Pabst to the exact date, publication, and source type.
+6. Locate the full transcript or video of the April 2015 Pabst remarks to verify the exact "overblown" wording, if that phrasing is used in any primary or transcript-level source.
+7. Check whether any formal recusal, ethics, or conflict review was filed when Pabst moved from the prosecutor's office into the Jordan Johnson defense and later into the county-attorney campaign.
+8. Pull the underlying June 2014 MOU language so the report can quote the oversight framework directly rather than relying only on the press release summary.
 
-## 9. Related Reading
+## 11. Related Reading
 
 - [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 - [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
