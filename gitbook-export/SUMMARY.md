@@ -123,7 +123,7 @@
 
 * [Additional Evidence & Documentation — Overview](additional-evidence-and-documentation/README.md)
 * [Connie Brueckner investigative research report](additional-evidence-and-documentation/connie-brueckner-investigative-report.md)
-* [Kirsten Pabst, DOJ oversight, and the Jordan Johnson case: source-backed investigative report](additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
+* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
 * [Kirsten Pabst DOJ oversight and Jordan Johnson hub](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md)
 * [Referral for Criminal Investigation Index](additional-evidence-and-documentation/referrals-for-criminal-investigation/README.md)
   * [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis.md)

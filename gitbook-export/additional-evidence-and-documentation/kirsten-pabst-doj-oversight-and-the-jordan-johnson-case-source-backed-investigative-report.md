@@ -1,7 +1,7 @@
 ---
-title: "Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Source-Backed Investigative Report"
+title: "Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report"
 description: >-
-  Public-record, opposition-research style review of Kirsten H. Pabst's career
+  Public-record investigative report of Kirsten H. Pabst's career
   as it appears in DOJ oversight materials, trial reporting, campaign-practices
   decisions, and contemporaneous journalism, with source gaps flagged for
   follow-up verification.
@@ -21,7 +21,11 @@ contested: false
 
 ## 1. Executive Summary
 
-This report is a source-backed, opposition-research style review of Kirsten H. Pabst's public career record. DOJ oversight and the Jordan Johnson case are the anchor examples, but the aim is broader: to map the public evidence for conflicts of interest, narrative management, campaign-practices controversy, and other accountability flags that appear across her rise from prosecutor to county attorney. It stays source-tight and avoids upgrading allegations or advocacy into adjudicated fact. For the wider Missoula ecosystem context, see [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
+This report is a source-backed public-record review of Kirsten H. Pabst's career. DOJ oversight and the Jordan Johnson case are the anchor examples, but the aim is broader: to map the public evidence for conflicts of interest, narrative management, campaign-practices controversy, and other accountability flags that appear across her rise from prosecutor to county attorney. It stays source-tight and avoids upgrading allegations or advocacy into adjudicated fact.
+
+If you want the short version of the career arc, it runs: county prosecutor -> defense counsel in a high-profile sexual-assault case -> elected county attorney. The sections below make that sequence explicit.
+
+For the wider Missoula ecosystem context, see [Remembering When: Missoula rape-capital era](../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
 
 Three points are well supported by the record:
 
@@ -34,7 +38,7 @@ The record also shows that Pabst, after winning election as county attorney, pub
 Four additional threads deserve to be said plainly:
 
 1. The federal record says MCAO refused the DOJ's request for documents, information, and staff interviews during the investigation. Pabst's later public posture, by contrast, emphasized "many factual errors," said the DOJ agreement was "not about prosecution rates," and recast the office as already improving and "starting to make ripples." That is not a neutral description of oversight; it is a minimizing narrative that helps convert a serious civil-rights investigation into a managed public-relations reset.
-2. Read with the June 2014 MOU and the broader oversight architecture, that posture fits a bureaucratic black-box pattern: the office controls much of the underlying record, the city/state/federal actors formalize a cooperative compliance story, and the public is left with a process that can discourage complaints, narrow the record, and favor early closure over independent scrutiny. See also [[institutional-willful-blindness-pattern-analysis]] and [[montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief]].
+2. Read with the June 2014 MOU and the broader oversight architecture, that posture fits a bureaucratic black-box pattern: the office controls much of the underlying record, the city/state/federal actors formalize a cooperative compliance story, and the public is left with a process that can discourage complaints, narrow the record, and favor early closure over independent scrutiny. See also [Institutional Willful Blindness: Pattern Analysis](../institutional-willful-blindness-pattern-analysis.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
 3. The Jordan Johnson material matters not because it proves the defense's theory, but because it places Pabst inside a high-profile sexual-assault matter as both a former prosecutor and later defense lawyer in the same contested ecosystem.
 4. The COPP/Fletcher record adds a separate public-practices controversy from the same period, which makes the overall pattern harder to dismiss as a one-off disagreement about DOJ rhetoric.
 
@@ -53,7 +57,20 @@ Four additional threads deserve to be said plainly:
 
 Where a claim depends on campaign coverage, commentary, or later retrospective reporting, this report labels it as secondary and avoids turning it into a standalone conclusion.
 
-## 3. DOJ Baseline: What the Federal Record Actually Said
+## 3. Career timeline and role transitions
+
+This is the cleanest chronology for the record:
+
+| Date / period | Role or event | Why it matters |
+|---|---|---|
+| 2014 | Public record places Pabst on the prosecutor side during the DOJ oversight period | Establishes proximity to the office DOJ criticized |
+| 2014 election cycle | Pabst runs for county attorney and becomes the subject of a campaign-practices complaint | Shows the transition from office insider to candidate |
+| 2015-2016 | Pabst appears in public reporting as defense counsel in the Jordan Johnson matter | Places her on the opposite side of a high-profile sexual-assault case inside the same Missoula ecosystem |
+| Dec. 2014 / 2015 | Pabst assumes the county attorney role and publicly defends the office's record | Marks the move from insider/defense counsel to elected prosecutor |
+
+The point of the timeline is not to suggest one event proves the next. The point is that the same name moves through the same contested institutional landscape in a way that raises legitimate public-accountability questions.
+
+## 4. DOJ Baseline: What the Federal Record Actually Said
 
 The DOJ findings letter is the anchor document. It did not merely criticize public messaging; it described a structural problem in how the Missoula County Attorney's Office handled sexual-assault referrals and stated that the office had prosecuted only 14 of 85 referred adult-woman sexual-assault cases in the covered period. (Source: DOJ Findings Letter, Feb. 14, 2014, https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf)
 
@@ -88,7 +105,7 @@ The strongest directly quoted public statement available in this pass is the Apr
 
 The public statement matters because the DOJ record was not about a mere disagreement over optics. The federal findings letter is explicit: "You declined, and throughout the investigation you have refused to provide requested documents, information, or access to staff for interviews." That is the opposite of a transparent accounting process. Against that backdrop, Pabst's public framing — "many factual errors," "not about prosecution rates," and a story of Missoula having already "changed" and begun to "make ripples" — is the kind of claim a transparent system and transparent operations would dispel, not the absolute refusal to share records with the public and with federal DOJ investigators. It reads as a minimizing narrative that helps launder a civil-rights investigation into a reform success story. (Source: DOJ Findings Letter, Feb. 14, 2014; Montana Public Radio, Apr. 22, 2015; DOJ MOU / settlement PDF, June 10, 2014)
 
-In this project's broader analytical frame, that pattern looks like a bureaucratic black box: the office controls much of the underlying record, the city/county/state oversight structure turns reform into a cooperative compliance story, and the public is left with a process that can deter complaints, narrow the evidentiary record, and favor early closure over independent scrutiny. See also [[institutional-willful-blindness-pattern-analysis]] and [[montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief]].
+In this project's broader analytical frame, that pattern looks like a bureaucratic black box: the office controls much of the underlying record, the city/county/state oversight structure turns reform into a cooperative compliance story, and the public is left with a process that can deter complaints, narrow the evidentiary record, and favor early closure over independent scrutiny. See also [Institutional Willful Blindness: Pattern Analysis](../institutional-willful-blindness-pattern-analysis.md) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md).
 
 ### Public-facing posture documented in the record
 
