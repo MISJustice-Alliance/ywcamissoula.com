@@ -154,7 +154,7 @@ Use this documentation to:
 
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Structural Failure and the Civil Rights Gap](../structural-failure-and-the-civil-rights-gap.md)
+* [The Civil Rights Cap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture](../legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
   * ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)

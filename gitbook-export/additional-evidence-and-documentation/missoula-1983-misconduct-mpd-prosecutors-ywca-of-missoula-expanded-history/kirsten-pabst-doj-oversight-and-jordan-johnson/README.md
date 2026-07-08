@@ -18,9 +18,9 @@ Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread in
 ### Primary entry points
 
 * [Source-backed investigative report](../../kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
-* [Remembering When: Missoula rape-capital era](../../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](../../institutional-willful-blindness-pattern-analysis.md)
+* [Remembering When: Missoula rape-capital era](../../../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../../../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](../../../institutional-willful-blindness-pattern-analysis.md)
 
 ## What this hub covers
 
