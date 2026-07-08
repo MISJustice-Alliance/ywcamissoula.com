@@ -1,6 +1,6 @@
 ---
 title: >-
-  The Civil Rights Cap: Structural Failures & Barriers to Securing Legal
+  The Civil Rights Gap: Structural Failures & Barriers to Securing Legal
   Representation
 description: >-
   Pattern-and-practice analysis of barriers to representation, institutional
@@ -16,7 +16,7 @@ tags:
   - MISJustice Alliance
 ---
 
-# The Civil Rights Cap: Structural Failures & Barriers to Securing Legal Representation
+# The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation
 
 * **Prepared by:** MISJustice Alliance — Anonymous Legal Assistance Group
 * **Published:** ywcaofmissoula.com | Legal Analysis & Advocacy Series
@@ -28,9 +28,9 @@ tags:
 
 ## Executive Summary
 
-The record assembled here supports a straightforward proposition: the civil-rights remedy exists in theory, but in too many cases it is not meaningfully available in practice. That gap is not accidental. It is produced by recurring structural barriers that are especially acute in rural states like Montana.
+The record assembled here demonstrates a straightforward proposition: the civil-rights remedy exists as a matter of law, but in too many cases it is not meaningfully available as a matter of practice. That is no accident. It is the predictable result of recurring structural barriers, especially in rural states like Montana.
 
-This report identifies five compounding failure mechanisms that, operating together, convert formal constitutional protections into remedies that are often unavailable as a practical matter:
+Five recurring mechanisms account for that failure. Operating together, they convert formal constitutional protections into remedies that are often unavailable as a practical matter:
 
 1. **The economics of § 1983 representation** — qualified immunity, damages ceilings, and fee-shifting risk make many meritorious claims economically irrational to file
 2. **Rural and small-market legal deserts** — attorney shortages, social overlap, and institutional dependence make independent civil-rights counsel structurally unavailable in many communities
@@ -54,7 +54,7 @@ Together, the statutes were supposed to function as a self-funding enforcement m
 
 A typical § 1983 case requires between 500 and 2,000 attorney hours to litigate from complaint through trial — representing between $150,000 and $600,000 in professional time invested at modest billing rates. The attorney receives nothing if the case is lost at any stage. The attorney may receive reduced fees even if the case is won but damages are low. Under *Farrar v. Hobby* (1992), a plaintiff who proves a constitutional violation but recovers only nominal damages may receive zero fee award — meaning the attorney who prevailed on the constitutional merits is still not compensated for years of work.[^2]
 
-This creates a market in which civil rights attorneys are not making moral assessments about whether a violation occurred — they are running probability-adjusted expected-value calculations. The calculation involves multiplying: the probability of surviving a motion to dismiss, times the probability of surviving summary judgment, times the probability of overcoming qualified immunity, times the probability of winning at trial, times expected damages, times the probability of collecting fees afterward. If any single factor is small, the case may become economically irrational to accept regardless of how serious the constitutional violation was.[^2]
+This creates a market in which civil-rights attorneys are not simply making moral judgments about whether a violation occurred; they are performing probability-adjusted expected-value calculations. The calculation is unforgiving: the probability of surviving a motion to dismiss, multiplied by the probability of surviving summary judgment, multiplied by the probability of overcoming qualified immunity, multiplied by the probability of winning at trial, multiplied by expected damages, multiplied by the probability of collecting fees afterward. If any single factor is small, the case may become economically irrational to accept regardless of how serious the constitutional violation was.[^2]
 
 ### The Qualified Immunity Filter
 
@@ -248,9 +248,9 @@ The following table summarizes the primary failure mechanisms, the legal doctrin
 
 ***
 
-## Part IX: Reform Priorities for Policy Advocates
+## Part IX: Targeted Reforms
 
-The reforms below are narrow, administrable, and directed at the failure points established above. None requires a wholesale redesign of the civil-rights system. Each targets a documented mechanism that prevents meritorious claims from being investigated, preserved, or pursued.
+The reforms below are narrow, administrable, and directed at the failure points identified above. None requires a wholesale redesign of the civil-rights system. Each targets a documented mechanism that prevents meritorious claims from being investigated, preserved, or pursued.
 
 ### Reform 1: Mandatory Conflict Disclosure for Investigative Assignments
 
@@ -284,7 +284,7 @@ State legislatures should codify that the civil rights statute of limitations is
 
 ***
 
-## Part X: The Role of Advocacy Organizations
+## Part X: Evidence Aggregation and Public Oversight
 
 ### Pattern Aggregation and Documentation
 
@@ -300,7 +300,7 @@ Journalists who understand the structural patterns described in this report can 
 
 ***
 
-## Part XI: Montana's Evidence Black Box and the Counsel-Supply Problem
+## Part XI: Montana's Evidentiary Access Barrier and Counsel-Supply Problem
 ### Records that never reach the attorney
 In Missoula, the practical barrier is not only whether a victim can file a complaint; it is whether the underlying evidence package ever becomes visible enough for counsel to evaluate. Incident reports, internal complaints, body-camera files, dispatch logs, emails, and prosecutorial correspondence are often locked inside the same institutions whose conduct is under challenge. If those materials are withheld, delayed, or released only after narrow redactions, a civil-rights lawyer cannot tell whether the case is viable, cannot price the litigation, and cannot plead the facts with the confidence needed to take the matter on contingency.
 
@@ -318,13 +318,13 @@ For most members of the public — especially the people most likely to suffer c
 
 ## Conclusion
 
-The practical question is not whether constitutional rights exist on paper. It is whether the people most likely to suffer government abuse can actually invoke those rights before time, cost, isolation, and institutional conflict foreclose relief. On the record assembled here, the answer is too often no.
+The practical question is not whether constitutional rights exist on paper. The question is whether the people most likely to suffer government abuse can actually invoke those rights before time, cost, isolation, and institutional conflict foreclose relief. On the record assembled here, the answer is too often no.
 
-The barriers documented in this report fall hardest on rural residents in legal deserts, people entangled in criminal proceedings, defendants dependent on conflict-adjacent counsel, and individuals whose claims depend on records held by the very institutions they challenge. The failure is therefore not episodic. It is structural.
+The barriers documented in this report fall hardest on rural residents in legal deserts, people entangled in criminal proceedings, defendants dependent on conflict-adjacent counsel, and individuals whose claims depend on records held by the very institutions they challenge. The failure is not episodic. It is structural.
 
-The five mechanisms identified above — economic unviability of § 1983 litigation, rural legal deserts, the criminal-to-civil knowledge gap, institutional conflict architecture, and inter-jurisdictional intelligence failure — operate cumulatively. No single reform fully resolves the problem because no single failure is doing all the work. Meaningful reform requires simultaneous pressure on each point of blockage.
+The five mechanisms identified above — economic unviability of § 1983 litigation, rural legal deserts, the criminal-to-civil knowledge gap, institutional conflict architecture, and inter-jurisdictional intelligence failure — operate cumulatively. No single reform can solve a problem that is produced by several reinforcing failures. Meaningful reform therefore requires simultaneous pressure on each point of blockage.
 
-Accordingly, the legal tools already exist: § 1983, *Brady*, *Monell*, the First Amendment retaliation doctrine, and the legal-malpractice discovery rule. What is missing is not doctrine. What is missing is a system in which doctrine can be reached by the people it was supposed to protect.
+Accordingly, the legal tools already exist: § 1983, *Brady*, *Monell*, the First Amendment retaliation doctrine, and the legal-malpractice discovery rule. What is missing is not doctrine. What is missing is an enforcement environment in which doctrine can actually be reached by the people it was designed to protect.
 
 ***
 
