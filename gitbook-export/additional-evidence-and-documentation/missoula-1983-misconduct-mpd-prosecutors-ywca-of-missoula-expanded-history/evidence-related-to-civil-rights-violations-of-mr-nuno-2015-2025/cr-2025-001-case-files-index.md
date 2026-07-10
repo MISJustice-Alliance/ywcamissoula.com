@@ -224,6 +224,18 @@ These pages should generally link back here when they cite CR-2025-001 documents
 * Needs & Gaps capture analysis: [Legal Red Flags: Missoula Needs & Gaps Analysis and Institutional Capture](../../../legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
 * DOJ intake: [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](../../../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
 
+### Research Reports, Legal Advocacy, and Analysis
+
+
+* [Research Reports, Legal Advocacy, and Analysis](../../../research-reports-legal-advocacy-and-analysis/README.md)
+* [Missoula Police Department](../../../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
+* [YWCA of Missoula](../../../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
+* [Missoula County Prosecutors Office](../../../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../../../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
+* [Montana State Institutional Failures](../../../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../../../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
+* [US Legal System Gaps & Analysis](../../../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](../../../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 ### Related
 
 {% include "../../../.gitbook/includes/related-links-global (1).md" %}

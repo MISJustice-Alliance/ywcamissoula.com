@@ -12,7 +12,7 @@ description: >-
 
 This section groups the project’s long-form legal research, advocacy briefs, and theory-mapping pages. Start with the hub pages below, then follow the supporting evidence links inside each hub when you need record-backed context.
 
-### Hubs
+### Sub-pages
 
 * [Missoula Police Department](missoula-police-department.md)
 * [YWCA of Missoula](ywca-of-missoula.md)
@@ -22,6 +22,12 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
 * [US Legal System Gaps & Analysis](us-legal-system-gaps-analysis.md)
 * [Multi-Jurisdiction & Cross-State Legal Analysis](multi-jurisdiction-cross-state-legal-analysis.md)
+
+### Related
+
+* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
+* [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
+* [Sources & record index](../overview/sources-and-record-index.md)
 
 ### Notes
 

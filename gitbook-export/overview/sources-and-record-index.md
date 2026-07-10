@@ -215,6 +215,18 @@ Key external bibliography packet:
 * If it’s **public reporting**: add it under **Bibliography** above.
 * If it supports one page heavily: also add it in that page’s footer as **Sources**.
 
+### Research Reports, Legal Advocacy, and Analysis
+
+
+* [Research Reports, Legal Advocacy, and Analysis](../research-reports-legal-advocacy-and-analysis/README.md)
+* [Missoula Police Department](../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
+* [YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
+* [Missoula County Prosecutors Office](../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
+* [Montana State Institutional Failures](../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
+* [US Legal System Gaps & Analysis](../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}

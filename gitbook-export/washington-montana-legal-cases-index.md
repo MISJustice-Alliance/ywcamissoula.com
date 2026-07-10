@@ -57,6 +57,18 @@ Use it to pivot from an event or proceeding into the deeper record.
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
 * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 
+### Research Reports, Legal Advocacy, and Analysis
+
+
+* [Research Reports, Legal Advocacy, and Analysis](research-reports-legal-advocacy-and-analysis/README.md)
+* [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
+* [YWCA of Missoula](research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
+* [Missoula County Prosecutors Office](research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
+* [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
+* [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
