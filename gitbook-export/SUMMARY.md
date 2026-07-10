@@ -15,15 +15,14 @@
 
 ## Research Reports, Legal Advocacy, and Analysis
 
-* [Research Reports, Legal Advocacy, and Analysis Index](research-reports-legal-advocacy-and-analysis/README.md)
-  * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
-  * [YWCA of Missoula](research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
-  * [Missoula County Prosecutors Office](research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
-  * [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-  * [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-  * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-  * [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
-
+* [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
+* [YWCA of Missoula](research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
+* [Missoula County Prosecutors Office](research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
+* [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
+* [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 ## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
@@ -53,12 +52,6 @@
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
-
-## Multi-Jurisdiction & Cross-State Legal Analysis
-
-* [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
-  * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-  * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
 
 ## State & Federal Complaints
 
