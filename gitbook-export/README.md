@@ -106,9 +106,8 @@ Case files and evidence tied to Missoula, Montana, including:
 * YWCA of Missoula conflicts, confidentiality risks, and law-enforcement integration
 * Stalking charges and prosecutorial misconduct
 * Protection order abuse
-* Attorney Bryan Tipp malpractice and missed civil remedies
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-* [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
 ### Washington Cases
 
@@ -123,8 +122,8 @@ Records from Seattle and Edmonds, Washington proceedings:
 ### Multi-Jurisdiction & Cross-State Legal Analysis
 
 * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
-  * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-  * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
+  * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+  * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
 
 ### Official Complaints
 
