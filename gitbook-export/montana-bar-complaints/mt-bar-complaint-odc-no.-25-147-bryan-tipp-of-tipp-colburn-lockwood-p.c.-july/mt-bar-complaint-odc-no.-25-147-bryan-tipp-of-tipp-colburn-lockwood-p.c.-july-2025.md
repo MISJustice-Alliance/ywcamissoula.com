@@ -119,7 +119,7 @@ The close and, at times, opaque relationship between the YWCA, the Missoula Poli
 
 ***
 
-[MT\_Bar\_Complaint-redacted.pdf](attachment:86e7e934-bed3-4f7c-bf9c-7e69060a6208:MT_Bar_Complaint-redacted.pdf)
+[MT_Bar_Complaint-redacted.pdf](../../.gitbook/assets/MT_Bar_Complaint-redacted.pdf)
 
 ### Related
 
