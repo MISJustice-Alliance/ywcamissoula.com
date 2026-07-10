@@ -85,17 +85,17 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
 
 ## What's included (high-signal index)
 
-### Legal Analysis
+### Research Reports, Legal Advocacy, and Analysis
 
-Legal analysis of constitutional violations and civil claims, including:
-
-* First Amendment retaliation for protected speech and complaints
-* Fourth Amendment unlawful searches, seizures, and warrants
-* Fourteenth Amendment due process and equal protection violations
-* Malicious prosecution, Brady violations, and prosecutorial misconduct
-* Legal malpractice and ineffective assistance of counsel
-* Institutional capture and conflicts inside victim-advocacy workflows
-* Pattern-and-practice barriers to civil-rights representation and enforcement in rural or small-market jurisdictions
+* [Research Reports, Legal Advocacy, and Analysis](research-reports-legal-advocacy-and-analysis/README.md)
+  * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
+  * [YWCA of Missoula](research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
+  * [Missoula County Prosecutors Office](research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
+  * [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
+  * [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+  * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
+  * [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
+  * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 
 ### Montana Cases
 
@@ -107,6 +107,8 @@ Case files and evidence tied to Missoula, Montana, including:
 * Stalking charges and prosecutorial misconduct
 * Protection order abuse
 * Attorney Bryan Tipp malpractice and missed civil remedies
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
 ### Washington Cases
 
@@ -117,6 +119,12 @@ Records from Seattle and Edmonds, Washington proceedings:
 * Washington State Bar complaints against Patricia Fulton
 * Washington Department of Health (DOH) complaint against Dr. Marta J.L. Miranda, Psy.D.
 * Cross-jurisdiction pattern indicators relevant to credibility and intent
+
+### Multi-Jurisdiction & Cross-State Legal Analysis
+
+* [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+  * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+  * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
 
 ### Official Complaints
 

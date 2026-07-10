@@ -13,27 +13,16 @@
 * [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 
-## Legal Analysis
+## Research Reports, Legal Advocacy, and Analysis
 
-* [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](SYNTHESIS-1983-Claims-YWCA-MPD-2012-2025.md)
-* [YWCA of Missoula: captured system overview](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
-* [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation.md)
-* [YWCA of Missoula conflict of interest: board conflicts, police integration, and remediation priorities](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
-* [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
-* [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
-* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](structural-failure-and-the-civil-rights-gap.md)
-* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](legal-analysis-1983-claims-ywca-mpd-2012-2025.md)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
-* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
-* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](missoula-police-oversight-students-guide-governance-structural-limitations.md)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-* [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
+* [Research Reports, Legal Advocacy, and Analysis](research-reports-legal-advocacy-and-analysis/README.md)
+  * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
+  * [YWCA of Missoula](research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
+  * [Missoula County Prosecutors Office](research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
+  * [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
+  * [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+  * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
+  * [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
 
 ## Montana Cases
 
@@ -48,6 +37,8 @@
 * [June 2018: E'Lise Chard protection order petition (Missoula County, MT) - alleged abuse of process](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
 ## Washington Cases
 
@@ -62,6 +53,12 @@
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
+
+## Multi-Jurisdiction & Cross-State Legal Analysis
+
+* [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+  * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+  * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
 
 ## State & Federal Complaints
 
