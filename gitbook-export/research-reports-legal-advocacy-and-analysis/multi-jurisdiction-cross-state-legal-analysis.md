@@ -1,5 +1,5 @@
 ---
-title: Multi-Jurisdiction & Cross-State Legal Analysis
+title: "Multi-Jurisdiction & Cross-State Legal Analysis"
 description: >-
   Sub-section index for cross-state constitutional analysis, damages,
   and procedural issues spanning Washington and Montana.

@@ -1,5 +1,5 @@
 ---
-title: US Legal System Gaps & Analysis
+title: "US Legal System Gaps & Analysis"
 description: >-
   Sub-section index for access-to-counsel, enforcement, and civil-rights
   system gaps across rural and small-market jurisdictions.

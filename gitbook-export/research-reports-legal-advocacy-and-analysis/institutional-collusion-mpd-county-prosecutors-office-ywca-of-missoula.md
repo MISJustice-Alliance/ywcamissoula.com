@@ -1,5 +1,5 @@
 ---
-title: Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula
+title: "Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula"
 description: >-
   Sub-section index for cross-institution coordination, retaliation,
   and institutional-capture analysis across MPD, prosecutors, and YWCA.
