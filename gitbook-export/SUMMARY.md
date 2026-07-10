@@ -15,7 +15,7 @@
 
 ## Research Reports, Legal Advocacy, and Analysis
 
-* [Research Reports, Legal Advocacy, and Analysis](research-reports-legal-advocacy-and-analysis/README.md)
+* [Research Reports, Legal Advocacy, and Analysis Index](research-reports-legal-advocacy-and-analysis/README.md)
   * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
   * [YWCA of Missoula](research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
   * [Missoula County Prosecutors Office](research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)

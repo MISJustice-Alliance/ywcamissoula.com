@@ -1,12 +1,13 @@
 ---
-title: Research Reports, Legal Advocacy, and Analysis
+title: Research Reports, Legal Advocacy, and Analysis Index
 description: >-
-  Landing page for the site’s research-report and legal-advocacy section,
-  with sub-section hubs for MPD, YWCA, prosecutors, institutional
-  collusion, state failures, DOJ history, and cross-jurisdiction claims.
+  Index and hub page for the site’s research-report and legal-advocacy
+  section, with sub-section hubs for MPD, YWCA, prosecutors,
+  institutional collusion, state failures, DOJ history, and
+  cross-jurisdiction claims.
 ---
 
-# Research Reports, Legal Advocacy, and Analysis
+# Research Reports, Legal Advocacy, and Analysis Index
 
 ### Executive snapshot
 
