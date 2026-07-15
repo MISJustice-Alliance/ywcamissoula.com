@@ -197,7 +197,7 @@ Supporting work:
 
 Overview hubs updated for Priority 0:
 
-* ✅ [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../)
+* ✅ [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
 * ✅ [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
 * ✅ [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * ✅ [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)

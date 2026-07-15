@@ -68,6 +68,7 @@ Use this site as a guide to the institutions that matter when tracing a complain
 * [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 * [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
 * [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](datasets/seo-+-geo-audit-sitewide.md)
 
 ### Core case spine
 
@@ -153,7 +154,9 @@ If you need the paper trail from filing to reply, start here:
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](montana-bar-complaints/odc-lowney-grievance-index.md)
+* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
 
 ## Start here
 

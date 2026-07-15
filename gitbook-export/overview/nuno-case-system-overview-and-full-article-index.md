@@ -61,6 +61,7 @@ Use these when you want a single crawlable landing page per “record set”:
 * [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](../datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 * [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](../datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
 * [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](../datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](../datasets/seo-+-geo-audit-sitewide.md)
 
 ### FAQ (quick navigation)
 
@@ -127,7 +128,7 @@ Use this documentation to:
 
 <summary><strong>Overview</strong></summary>
 
-* [Introduction](../)
+* [Introduction](../README.md)
 * [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](../datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
 * [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](../datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
@@ -266,6 +267,7 @@ Use this documentation to:
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](../policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](../missoula-police-oversight-students-guide-governance-structural-limitations.md)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](../mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 
 </details>

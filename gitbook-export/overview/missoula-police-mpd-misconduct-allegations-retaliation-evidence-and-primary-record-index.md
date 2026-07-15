@@ -28,7 +28,7 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 
 ### Start here
 
-* High-level overview: [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../)
+* High-level overview: [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
 * §1983 claims framing: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
 * Event-by-event spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary record index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)

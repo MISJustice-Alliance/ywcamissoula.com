@@ -94,7 +94,7 @@ Dataset: Example,/path/to/dataset,https://example.com/file2.pdf
 
 These pages are the best “routers” into the underlying primary records:
 
-* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../)
+* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
 * [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Sources & record index](../overview/sources-and-record-index.md)

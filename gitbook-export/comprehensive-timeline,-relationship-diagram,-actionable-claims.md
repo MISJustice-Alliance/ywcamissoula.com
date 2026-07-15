@@ -133,7 +133,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
 * [Remembering When: Missoula Rape Capital Era and Institutional Failures](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 * [Forced relocation from Montana due to safety concerns](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
-* [Ongoing civil rights advocacy and documentation](./)
+* [Ongoing civil rights advocacy and documentation](README.md)
 
 ## Relationship diagram
 
