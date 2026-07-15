@@ -21,6 +21,7 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 * [Montana State Institutional Failures](montana-state-institutional-failures.md)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
 * [US Legal System Gaps & Analysis](us-legal-system-gaps-analysis.md)
+  * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md)
 * [Multi-Jurisdiction & Cross-State Legal Analysis](multi-jurisdiction-cross-state-legal-analysis.md)
 
 ### Related

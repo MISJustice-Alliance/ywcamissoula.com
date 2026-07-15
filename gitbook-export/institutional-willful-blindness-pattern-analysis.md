@@ -18,6 +18,10 @@ tags:
 
 # Institutional Willful Blindness: A Pattern Analysis of Complaint-Suppression Across Missoula's Oversight Architecture
 
+{% hint style="info" %}
+Companion federal-enforcement analysis: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md).
+{% endhint %}
+
 **Prepared by:** MISJustice Alliance — Anonymous Legal Assistance Group  
 **Jurisdiction:** State of Montana / Ninth Circuit Federal District  
 **Classification:** Tier-1 Advocacy Document  

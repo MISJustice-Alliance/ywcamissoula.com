@@ -7,6 +7,10 @@ description: >-
 
 # DOJ Investigation of Missoula County Institutional Failure (2012-2014)
 
+{% hint style="info" %}
+For the later federal enforcement posture, see [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md).
+{% endhint %}
+
 ### Executive snapshot
 
 This hub is the historical anchor for the DOJ investigation era. It is the place to start when you need the institutional baseline that later Missoula analysis pages treat as the start of the reform-and-recurrence cycle.

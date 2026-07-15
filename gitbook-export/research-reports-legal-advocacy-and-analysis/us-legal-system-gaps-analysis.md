@@ -14,6 +14,7 @@ This hub collects the pages that argue the remedy gap is structural: the right e
 ### Sub-pages
 
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
+* [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md)
 
 ### Supporting evidence
 
