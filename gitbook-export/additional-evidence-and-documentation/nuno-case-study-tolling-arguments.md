@@ -111,6 +111,14 @@ The same caution applies to the Montana ticket and licensing barrier. A current 
 
 Mr. Nuno's decision to relocate to Mexico is final and complete. He attributes that decision to the combined legal, employment, caregiving, and safety pressures described here. The finalized relocation decision may support a documented damages narrative, although “constructive exile” remains an advocacy characterization rather than a standalone cause of action or adjudicated fact.
 
+## Immediate drafting priorities arising from the relocation decision
+
+1. **Add a distinct relocation-damages subsection to the draft federal civil-rights complaint.** Counsel should evaluate a subsection describing the alleged compelled international relocation and distinguish it from the 2017 interstate relocation already identified in the record. “Constructive exile” may serve as a descriptive heading or advocacy characterization, but it should not be pleaded as an independent damages count unless counsel identifies a recognized cause of action and supporting authority.
+2. **Prepare a sworn relocation declaration.** The declaration should document that the decision to relocate is final, explain the circumstances Mr. Nuno contends compelled it, confirm his intent to continue pursuing his claims, and provide counsel with a reliable contact method. Personal addresses, telephone numbers, travel details, and other sensitive contact information should remain in counsel's private file rather than on this public site.
+3. **Confirm remote-participation options.** Counsel should determine whether remote appearances, video testimony, and appearances through local counsel are available for the Montana traffic matter, the contemplated malpractice action concerning Bryan Tipp, and any federal civil-rights filing. Each court and proceeding may apply different rules, and no assumption about remote access should be made without confirmation from the court or retained counsel.
+4. **Analyze the procedural effects of Mexican residency.** Counsel should assess whether residence in Mexico changes any diversity-jurisdiction analysis, service or notice logistics, deposition arrangements, access to U.S. courts, or other case-management requirements. Residence abroad does not by itself resolve those questions, which depend on citizenship, domicile, parties, claims, and the governing procedural rules.
+5. **Update the damages record with dated documentation.** Existing damages models should separately track international relocation expenses, disruption to U.S. business continuity, loss of professional networks or opportunities, additional litigation and travel costs, and caregiving-related relocation harm. Each entry should identify the date, amount or non-economic effect, supporting document, and asserted connection to the conduct at issue.
+
 ## Evidence required for a litigation-grade assessment
 
 | Priority | Evidence | Why it matters |
