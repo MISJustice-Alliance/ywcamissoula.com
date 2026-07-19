@@ -11,7 +11,7 @@ description: >-
 
 ## Scope and publication standard
 
-This report consolidates four July 2026 working drafts concerning Elvis Ryland Nuno's reported legal circumstances, related civil-rights and legal-malpractice theories, and possible statute-of-limitations arguments. The drafts substantially overlap: one is a first-person declaration, one is a tolling memorandum, one expands that memorandum with a proposed relocation to Mexico, and one is an exported AI conversation containing much of the same material.
+This report consolidates four July 2026 working drafts concerning Elvis Ryland Nuno's reported legal circumstances, related civil-rights and legal-malpractice theories, and possible statute-of-limitations arguments. The drafts substantially overlap: one is a first-person declaration, one is a tolling memorandum, one expands that memorandum to document the completed decision to relocate to Mexico, and one is an exported AI conversation containing much of the same material.
 
 The four drafts are allegation and research records—not independent corroboration. This page therefore separates (1) what Mr. Nuno reports, (2) what the identified records may be able to establish, and (3) what the cited law actually supports. “Dismissed,” “alleged,” and “reported” are used deliberately. A dismissal does not itself prove innocence, fabrication, retaliation, or official misconduct. No named person or institution should be treated as having committed wrongdoing unless a competent tribunal or authenticated record establishes it.
 
@@ -42,7 +42,7 @@ The following chronology reflects the four source drafts. Every entry remains su
 | 2020–2025 | Mr. Nuno reports online harassment, business interference, lost work, and recurring background reports describing a “felony assault with a deadly weapon.” | Dated communications, platform records, contracts, adverse-action notices, consumer reports, dispute files, and certified criminal histories. |
 | 2025 | Mr. Nuno reports discovering the alleged Brueckner/YWCA relationship. | Proof of the discovery date, underlying records, prior notice, searches made, and reasons the information was not found earlier. |
 | 2026 | Mr. Nuno reports an unresolved Washington warrant, shifting explanations of noncompliance, threatened incarceration, a Montana ticket/license barrier, employment consequences, and continuing safety fears. | Correct court and docket, current warrant return, compliance ledger, ticket/license records, recent reports, and dated incident records. |
-| July 2026 | One draft describes a planned international relocation with Mr. Nuno's father. The source materials inconsistently call this a second and a third forced migration. | Confirmation whether the move occurred, dates, costs, caregiving records, and contemporaneous explanation of the decision. |
+| July 2026 | Mr. Nuno finalized the decision to relocate to Mexico with his father. The decision is complete and is no longer described as proposed or tentative. | Relocation dates, costs, caregiving records, and contemporaneous records explaining the finalized decision. |
 
 ## What Section 1983 accrual permits—and does not permit
 
@@ -109,7 +109,7 @@ The asserted Washington warrant is too uncertain for categorical publication. Th
 
 The same caution applies to the Montana ticket and licensing barrier. A current driver record, ticket docket, appearance requirement, and any warrant or hold would convert a personal account into a verifiable procedural issue.
 
-If the planned move to Mexico occurred, it may support a documented damages narrative. It is safer to say that Mr. Nuno attributes the relocation decision to the combined legal, employment, caregiving, and safety pressures described here. “Constructive exile” should remain an advocacy characterization, not be presented as a standalone cause of action or adjudicated fact.
+Mr. Nuno's decision to relocate to Mexico is final and complete. He attributes that decision to the combined legal, employment, caregiving, and safety pressures described here. The finalized relocation decision may support a documented damages narrative, although “constructive exile” remains an advocacy characterization rather than a standalone cause of action or adjudicated fact.
 
 ## Evidence required for a litigation-grade assessment
 
