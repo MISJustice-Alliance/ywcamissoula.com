@@ -131,6 +131,7 @@
 ## Additional Evidence & Documentation
 
 * [Additional Evidence & Documentation — Overview](additional-evidence-and-documentation/README.md)
+* [Nuno Case Study: Documented Barriers and Tolling Arguments](additional-evidence-and-documentation/nuno-case-study-tolling-arguments.md)
 * [Connie Brueckner investigative research report](additional-evidence-and-documentation/connie-brueckner-investigative-report.md)
 * [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
 * [Kirsten Pabst DOJ oversight and Jordan Johnson hub](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md)
