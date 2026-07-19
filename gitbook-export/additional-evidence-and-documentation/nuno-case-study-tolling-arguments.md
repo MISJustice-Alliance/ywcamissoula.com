@@ -34,13 +34,13 @@ The following chronology reflects the four source drafts. Every entry remains su
 | 2014–2015 | Mr. Nuno reports relationship deterioration and contradictory or false reports by Danielle Chard. | Complete police reports, CAD/911 material, messages, and court files. |
 | Nov. 22, 2015 | An armed Edmonds police response reportedly followed a murder-suicide allegation; the drafts state that no weapon was found. | Incident report, dispatch audio, body-camera material, warrant materials, and disposition. |
 | 2016 | Mr. Nuno entered an Edmonds domestic-violence plea that he characterizes as coerced. A separate Seattle harassment/cyberstalking matter was reportedly dismissed with prejudice. | Certified judgment, plea statement, plea colloquy, charging instruments, and Seattle dismissal order. |
-| Sept. 2016–2021 | Dr. Marta Miranda completed an evaluation whose accuracy and disclosures Mr. Nuno disputes. Washington Department of Health complaints were reportedly closed or reconsidered without substantive findings. | Evaluation, engagement/court order, audio relied upon by Mr. Nuno, agency complaints, closure notices, and court access history. |
+| Sept. 2016–2021 | Dr. Marta Miranda completed an evaluation whose accuracy Mr. Nuno disputes. Washington Department of Health complaints were reportedly closed or reconsidered without substantive findings. | Evaluation, engagement/court order, audio relied upon by Mr. Nuno, agency complaints, and closure notices. |
 | 2017 | Mr. Nuno relocated from Washington to Montana, which he attributes to safety and legal pressure. | Contemporaneous correspondence, relocation records, and declarations. |
 | June 2018 | Mr. Nuno complained to YWCA of Missoula about E'Lise Chard and another employee. A protection-order petition followed nine days later; the drafts say later testimony conflicted with parts of the petition. | Complaint, petition, hearing transcript, exhibits, orders, and proof of service. |
 | 2018–2019 | Montana investigations, searches, seizures, detention, and stalking charges followed. Mr. Nuno alleges that Detective Connie Brueckner had an undisclosed YWCA board role overlapping the investigation. The Montana charges were reportedly dismissed with prejudice in 2019. | Certified dockets and dismissal orders; warrants and returns; property logs; jail records; Form 990/board records; disclosure logs; and investigation-assignment dates. |
 | 2018–2025 | Bryan Tipp represented Mr. Nuno. Mr. Nuno alleges that counsel failed to investigate conflicts, preserve civil claims, or accurately advise him about deadlines. He reports receiving the complete file in 2025. | Retainer, full client file, advice correspondence, termination date, billing, and an expert standard-of-care review. |
 | 2020–2025 | Mr. Nuno reports online harassment, business interference, lost work, and recurring background reports describing a “felony assault with a deadly weapon.” | Dated communications, platform records, contracts, adverse-action notices, consumer reports, dispute files, and certified criminal histories. |
-| 2024–2025 | Mr. Nuno reports recognizing a distinct substance-use-treatment confidentiality issue in the Miranda evaluation and discovering the alleged Brueckner/YWCA relationship. | Proof of discovery dates, the underlying records, prior notice, searches made, and reasons the information was not found earlier. |
+| 2025 | Mr. Nuno reports discovering the alleged Brueckner/YWCA relationship. | Proof of the discovery date, underlying records, prior notice, searches made, and reasons the information was not found earlier. |
 | 2026 | Mr. Nuno reports an unresolved Washington warrant, shifting explanations of noncompliance, threatened incarceration, a Montana ticket/license barrier, employment consequences, and continuing safety fears. | Correct court and docket, current warrant return, compliance ledger, ticket/license records, recent reports, and dated incident records. |
 | July 2026 | One draft describes a planned international relocation with Mr. Nuno's father. The source materials inconsistently call this a second and a third forced migration. | Confirmation whether the move occurred, dates, costs, caregiving records, and contemporaneous explanation of the decision. |
 
@@ -69,8 +69,6 @@ Where a damages claim would necessarily imply that an existing conviction or sen
 Montana generally does not postpone a limitations period merely because a person did not know all facts or did not understand the available legal theory. Where the discovery rule applies, notice that would prompt a reasonable person to investigate starts the clock unless the plaintiff exercises reasonable diligence. [Christian v. Atlantic Richfield Co., 358 P.3d 131 (Mont. 2015)](https://app.midpage.ai/document/christian-v-atlantic-richfield-co-2832772?utm_source=mcp&lines=510-511); [Christian v. Atlantic Richfield Co., 358 P.3d 131 (Mont. 2015)](https://app.midpage.ai/document/christian-v-atlantic-richfield-co-2832772?utm_source=mcp&lines=545-548).
 
 The reported 2025 discovery of the Brueckner/YWCA relationship is therefore relevant but not self-executing. The public availability of nonprofit board filings can cut both ways: it may support the existence and timing of the relationship, but a defendant may argue that reasonable investigation could have found it earlier. The record would need to show what was concealed, who had a duty to disclose it, what Mr. Nuno and counsel knew, what inquiries they made, and why those inquiries did not reasonably reveal the fact.
-
-The 2024–2025 recognition of a possible treatment-record confidentiality issue presents the same problem. Learning the legal significance of a report years later is not necessarily late discovery of the underlying facts. The relevant questions include when Mr. Nuno received the report, what disclosure it contained, whose privacy interest was implicated, what authorization or court order existed, and when sufficient facts—not merely a later legal label—were known.
 
 ### Fraudulent concealment and equitable tolling
 
@@ -105,12 +103,6 @@ This is potentially the clearest present-tense issue because each actual report,
 
 The Fair Credit Reporting Act may provide a more direct framework than trying to revive old defamation or civil-rights claims. A consumer pursuing an FCRA claim against a furnisher must first show that the reported information was inaccurate. [Marshall Gross v. Citimortgage, Inc., 33 F.4th 1246 (9th Cir. 2022)](https://app.midpage.ai/document/marshall-gross-v-citimortgage-inc-6341048?utm_source=mcp&lines=92). After the statutory dispute process triggers a furnisher's duties, its investigation must be reasonable and non-cursory. [Marshall Gross v. Citimortgage, Inc., 33 F.4th 1246 (9th Cir. 2022)](https://app.midpage.ai/document/marshall-gross-v-citimortgage-inc-6341048?utm_source=mcp&lines=62-63). This page does not conclude that an FCRA violation occurred; the actual reports and dispute history are indispensable.
 
-### Medical and substance-use-treatment information
-
-The drafts overstate the availability of a direct HIPAA damages claim. The Ninth Circuit holds that HIPAA itself creates no private right of action. [Webb v. Smart Document Solutions, LLC, 499 F.3d 1078 (9th Cir. 2007)](https://app.midpage.ai/document/webb-v-smart-document-solutions-1362411?utm_source=mcp&lines=24). That does not decide whether authenticated facts could support an administrative complaint, a properly recognized state-law claim, a constitutional medical-privacy theory against a state actor, or a remedy under another statute. It does mean the public report should not label each later access to an old court filing as a new private HIPAA claim.
-
-The 42 C.F.R. Part 2 issue also needs threshold proof: whether the information came from a federally assisted substance-use-disorder program, whether the subject's information is protected, who disclosed it, what consent or court authorization existed, and what remedy the governing law permits. Because the source drafts concern a third party's sensitive health information, the underlying details should not be republished without that person's informed consent and careful redaction.
-
 ### Current warrant, travel, licensing, and relocation
 
 The asserted Washington warrant is too uncertain for categorical publication. The drafts refer to “Lake County Superior Court” while repeatedly connecting the matter to Edmonds and Snohomish County. Before this site identifies a warrant as a felony warrant or attributes it to unpaid fees, house arrest, treatment, or a protection-order bargain, it should obtain the issuing court, case number, warrant date, statutory charge, judgment, compliance conditions, ledger, and present status.
@@ -128,8 +120,7 @@ If the planned move to Mexico occurred, it may support a documented damages narr
 | 3 | Authenticated YWCA board/Form 990 records plus investigation-assignment and disclosure records | Establishes the alleged overlap, materiality, nondisclosure, and reasonable-discovery questions. |
 | 4 | Complete Tipp client file, retainer, advice, termination date, and expert review | Establishes discovery, repose, standard of care, causation, and damages for malpractice analysis. |
 | 5 | Consumer reports, adverse-action notices, certified histories, disputes, and reinvestigation results | Identifies the allegedly inaccurate data, responsible entities, fresh acts, and available FCRA process. |
-| 6 | Miranda evaluation, authorizing order/consents, agency files, and access history | Defines the actual disclosure, protected person, possible duties, discovery date, and available remedies. |
-| 7 | Dated threat, harassment, employment, contract, caregiving, and relocation records | Separates independently actionable recent events from continuing effects and supports damages. |
+| 6 | Dated threat, harassment, employment, contract, caregiving, and relocation records | Separates independently actionable recent events from continuing effects and supports damages. |
 
 ## Balanced conclusions
 
@@ -140,8 +131,7 @@ The source materials support documenting a present, consequential set of barrier
 3. **The alleged Brueckner/YWCA relationship is potentially important evidence, but not automatic tolling.** Concealment, materiality, notice, and diligence must be proved.
 4. **The malpractice theory has a discovery component but no safe deadline can be published yet.** The three-year limitations rule and ten-year repose rule must be applied to each dated act or omission.
 5. **Recent background reports may present independently timely issues.** The report, vendor, dispute, and adverse-action records should be obtained before selecting an FCRA, state-law, or other theory.
-6. **HIPAA does not create a direct private cause of action.** Any Part 2, state-law, administrative, or constitutional privacy theory needs separate, fact-specific analysis.
-7. **Current consequences remain important.** Even where they do not revive an old claim, they may document damages, explain present barriers, support administrative correction efforts, or form the facts of a separate recent claim.
+6. **Current consequences remain important.** Even where they do not revive an old claim, they may document damages, explain present barriers, support administrative correction efforts, or form the facts of a separate recent claim.
 
 ## Related site materials
 
@@ -149,7 +139,6 @@ The source materials support documenting a present, consequential set of barrier
 * [Washington legal cases index](../washington-legal-cases-index.md)
 * [Home invasion, warrantless arrest, false imprisonment, and Missoula County Jail account](../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
 * [Bryan Tipp malpractice allegations and source index](../overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
-* [Motion to seal or redact the Miranda evaluation](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 
 ## Research note
 
