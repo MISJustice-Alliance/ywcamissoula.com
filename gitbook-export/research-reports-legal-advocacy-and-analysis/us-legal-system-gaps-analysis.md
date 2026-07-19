@@ -11,6 +11,8 @@ description: >-
 
 This hub collects the pages that argue the remedy gap is structural: the right exists, but counsel, enforcement, and oversight often do not function well enough to make that right usable.
 
+The linked analysis *When the Watchdog Walks Away* applies this framework to the current federal collapse in pattern-or-practice enforcement. It argues that the May 2025 DOJ retreat, combined with the loss of roughly 75% of the Civil Rights Division's career attorneys and the closure of the 2013–2016 Missoula administrative agreement, leaves an enforcement vacuum in which local and state institutions are expected to police themselves without an effective external backstop. The article also examines what remains available to advocates: § 1983 litigation, bar discipline, Montana POST, ODC, and public records strategies.
+
 ### Sub-pages
 
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
