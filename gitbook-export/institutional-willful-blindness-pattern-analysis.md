@@ -110,6 +110,14 @@ The grievance filed with the Montana Office of Disciplinary Counsel (ODC) as Cas
 
 The ODC's response is textbook procedural foreclosure: take the narrowest possible characterization of the complaint, resolve that narrow question in the attorney's favor, and close the file without engaging any of the specific allegations that gave the complaint its substance.
 
+### ODC-25-147 July 2026 Closure Response: the evidentiary gap
+
+The July 10, 2026 closure letter adds an important nuance to the record. Supplemental Submission #4 did not merely restate the earlier grievance; it identified two exhibit-specific allegations: the alleged failure to investigate an August 14, 2018 third-party email and an April 10, 2019 psychiatric letter concerning monitoring conditions. ODC's July response said the newly provided material contained no new or changed information or allegations not already addressed in the November determination, and therefore the matter would remain closed.
+
+That language strengthens the procedural critique in one sense: the public letter does not show where the November determination addressed either exhibit. But the source record also supports a narrower and more careful conclusion. Montana's disciplinary rules give Disciplinary Counsel discretion over investigative scope and require a concise written statement of reasons, not an exhibit-by-exhibit findings order at the intake stage. So the public record supports saying the July response does not show its work as to those two exhibits; it does not, by itself, prove that ODC failed to review them.
+
+That is the pattern's key feature: not just silence, but carefully bounded silence that leaves no public trace of substantive engagement.
+
 ### ODC-26-145: The June 9, 2026 Rejection of the Lowney Grievance
 
 A separate grievance — ODC Case No. 26-145 — was filed on April 28, 2026, against Brian C. Lowney, another attorney whose conduct in relation to the Nuno matter is documented in the complaint record. The grievance was dismissed by ODC on June 9, 2026.
@@ -153,6 +161,8 @@ This method has three structural consequences, each of which functions to protec
 The ODC's handling of both the Tipp and Lowney grievances reflects a specific variant of this pattern. In each case, the complaint was reframed as a question of scope of representation — did the attorney undertake to perform the challenged conduct as part of the engagement? — and resolved on that framing without reaching the actual allegation, which was that the attorney performed conduct he did undertake in a manner that violated specific, identified rules.
 
 The Request for Review in ODC-25-147 names this inversion directly: "ODC's framing fundamentally mischaracterizes this complaint as a scope of representation dispute about whether Mr. Tipp was retained to pursue civil claims. This complaint has never been about scope of representation — a point I made repeatedly in both my initial complaint and my response." The actual claims — active misinformation, rule violations, constitutional rights trading — required engagement with the specific conduct. The ODC's dismissal refused that engagement by treating a framing the complainant had repeatedly rejected as if it were the only framing available.
+
+The July 2026 closure letter sharpens the same point. By saying the new material contained nothing new or changed, while not mapping that conclusion to the two exhibits identified in Supplemental Submission #4, ODC created a record that is procedurally defensible but substantively opaque. That is not the same as a merits finding on the exhibits; it is a controlled refusal to reveal whether the exhibits were actually weighed or merely absorbed into the prior closure label.
 
 This is not review. It is procedural substitution.
 
