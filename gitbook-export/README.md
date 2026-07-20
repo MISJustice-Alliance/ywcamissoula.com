@@ -86,7 +86,7 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
 
 ## What's included (high-signal index)
 
-### Research Reports, Legal Advocacy, and Analysis — Overview
+### Research Reports, Legal Advocacy, and Analysis
 
 * [Research Reports, Legal Advocacy, and Analysis](research-reports-legal-advocacy-and-analysis/README.md)
   * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
@@ -99,44 +99,27 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
     * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md)
   * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 
-### Montana Cases — Overview
+### Montana Cases
 
 Case files and evidence tied to Missoula, Montana, including:
 
-* [Montana Cases — Overview](montana-legal-cases.md)
-  * [MPD Officer Misconduct](officer-ethan-smith-complaint-march-2018.md)
-    * [MPD Officer Misconduct: Ethan Smith Timeline](mpd-officer-misconduct-ethan-smith-timeline.md)
-    * [Officer Ethan Smith Complaint Analysis — March 2018](officer-ethan-smith-complaint-analysis-march-2018.md)
-  * [YWCA of Missoula](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
-    * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
-    * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-  * [Stalking Charges & Related Evidence](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-    * [Missoula Charging Documents](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
-    * [Aug 2018: warrantless arrest and false imprisonment](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
-    * [June 2018: E'Lise Chard protection order petition (Missoula County, MT) - alleged abuse of process](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
-    * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
-  * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-  * [Montana State Accountability](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-    * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
-    * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+* MPD investigative conduct and escalation after protected complaints
+* Missoula County prosecutorial decision-making and disclosure failures
+* YWCA of Missoula conflicts, confidentiality risks, and law-enforcement integration
+* Stalking charges and prosecutorial misconduct
+* Protection order abuse
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
+* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
-### Washington Cases — Overview
+### Washington Cases
 
 Records from Seattle and Edmonds, Washington proceedings:
 
-* [Washington Cases — Overview](washington-legal-cases-index.md)
-  * [Seattle / Edmonds Proceedings](2015-2016-seattle-case-related-civil-rights-violations.md)
-    * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
-    * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
-    * [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
-  * [Bar / Health Complaints](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
-    * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
-    * [2016 Dr. Marta Miranda malpractice: executive summary](2016-dr-marta-j.l.-miranda-medical-malpractice-executive-summary-for-legal-advoc.md)
-    * [Motion to seal/redact Miranda evaluation (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
-  * [Plea Withdrawal & Coerced Pleas](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
-    * [2020 WA cases: witness tampering and coerced pleas](2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
-    * [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
-
+* 2015-2016 Seattle case
+* Coerced plea agreements
+* Washington State Bar complaints against Patricia Fulton
+* Washington Department of Health (DOH) complaint against Dr. Marta J.L. Miranda, Psy.D.
+* Cross-jurisdiction pattern indicators relevant to credibility and intent
 
 ### Multi-Jurisdiction & Cross-State Legal Analysis
 
