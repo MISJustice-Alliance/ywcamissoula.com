@@ -102,6 +102,10 @@ Core internal indexes:
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
 * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](../montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 
+Latest ODC 25-147 disposition record:
+
+* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](../montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
+
 High-signal packets (direct links):
 
 * [ODC 25-147 original complaint](https://arweave.net/LtpoZ8c2hBC4r3ihxMTjdwHCEKk5fdKy31QDhuX92Sk)

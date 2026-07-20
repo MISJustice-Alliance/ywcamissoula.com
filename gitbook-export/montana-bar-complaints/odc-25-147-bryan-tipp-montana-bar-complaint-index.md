@@ -177,6 +177,12 @@ Related starting points:
   * **Summary:** Documents failure to investigate and use two materially favorable exhibits: the P.S. character witness email (August 14, 2018) and the Dr. William Stratford psychiatric letter (April 10, 2019). Frames MRPC Rules 1.1, 1.3, and 1.4 violations.
   * **What changed at this stage:** The record expands into specific documentary evidence of investigative failure and witness neglect.
 
+#### ODC closure response (July 2026)
+
+* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](odc-25-147-july-2026-closure-response-analysis.md)
+  * **Summary:** Reproduces ODC's July 10, 2026 closure response and compares its stated "no new information" rationale with the two exhibit-specific allegations in Supplemental Submission #4. Adds the governing disciplinary rules and carefully limited Montana precedent.
+  * **What changed at this stage:** ODC confirmed that the matter remains closed after Commission review and warned against serial submissions; the public record now includes a source-separated analysis of that response.
+
 #### Supporting Witness Grievance (May 2026)
 
 * [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)

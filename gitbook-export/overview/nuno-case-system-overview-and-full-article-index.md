@@ -253,6 +253,8 @@ Use this documentation to:
 * [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
   * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
+* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4 (May 2026)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
+* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](../montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
 * [Case Overview: MT Bar Complaint ODC No. 25-147](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * [ODC Lowney Grievance Index](../montana-bar-complaints/odc-lowney-grievance-index.md)
