@@ -86,7 +86,7 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
 
 ## What's included (high-signal index)
 
-### Research Reports, Legal Advocacy, and Analysis
+### Research Reports, Legal Advocacy, and Analysis — Overview
 
 * [Research Reports, Legal Advocacy, and Analysis](research-reports-legal-advocacy-and-analysis/README.md)
   * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)

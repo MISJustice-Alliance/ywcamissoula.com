@@ -1,6 +1,19 @@
 # Table of contents
 
-## Research Reports, Legal Advocacy, and Analysis
+## Overview
+
+* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](README.md)
+* [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
+* [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
+* [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
+* [Sources & record index](overview/sources-and-record-index.md)
+* [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
+* [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
+
+## Research Reports, Legal Advocacy, and Analysis — Overview
 
 * [Research Reports, Legal Advocacy, and Analysis — Overview](research-reports-legal-advocacy-and-analysis/README.md)
   * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
@@ -29,19 +42,6 @@
   * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
     * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
     * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-
-## Overview
-
-* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](README.md)
-* [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
-* [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)
-* [Police Reports, Court Docs, and Correspondence Index](police-reports,-court-docs,-and-correspondence-index.md)
-* [Sources & record index](overview/sources-and-record-index.md)
-* [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
-* [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
 ## Montana Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
