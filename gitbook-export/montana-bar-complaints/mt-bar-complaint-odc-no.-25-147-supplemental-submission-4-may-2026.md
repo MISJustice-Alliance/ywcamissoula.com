@@ -4,6 +4,10 @@ BEFORE THE OFFICE OF DISCIPLINARY COUNSELSTATE BAR OF MONTANA
 **Later development:** ODC responded on July 10, 2026, and stated that the matter would remain closed. See [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](./odc-25-147-july-2026-closure-response-analysis.md).
 {% endhint %}
 
+{% hint style="info" %}
+**Later development:** a clarification request regarding the July 10, 2026 letter and Supplemental Submission #4 was sent to ODC and published here as [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](./odc-25-147-clarification-request-july-2026.md).
+{% endhint %}
+
 In re: Grievance Against BRYAN CHARLES TIPP of Tipp Coburn Lockwood, P.C.
 
 ODC File No. 25-147

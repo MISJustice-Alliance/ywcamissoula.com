@@ -154,6 +154,7 @@ If you need the paper trail from filing to reply, start here:
 * [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/README.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
+* [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](montana-bar-complaints/odc-25-147-clarification-request-july-2026.md)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review](montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](montana-bar-complaints/odc-lowney-grievance-index.md)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)

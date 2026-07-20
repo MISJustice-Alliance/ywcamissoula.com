@@ -105,6 +105,7 @@ Core internal indexes:
 Latest ODC 25-147 disposition record:
 
 * [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](../montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
+* [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](../montana-bar-complaints/odc-25-147-clarification-request-july-2026.md)
 
 High-signal packets (direct links):
 

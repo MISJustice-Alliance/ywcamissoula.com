@@ -12,6 +12,8 @@ description: >-
 
 **Current posture:** ODC 25-147 is recorded here as denied on review and closed. No notice of the review denial was received, so the justification used by ODC is unknown. The May 2026 supplemental materials—Supplemental Submission #4, Tyrone Nuno's supporting witness grievance, and Eleanor ("Ellie") Nuno's independent grievance/supporting submission—have now been submitted as new material that functionally places the Tipp matter back before ODC for reconsideration and opens or expands the investigative record relating to Eleanor Nuno's grievance.
 
+**Publication note:** the July 2026 clarification request regarding ODC's closure letter is published separately as a source record so readers can compare the request, the July 10 response, and the underlying Supplemental Submission #4.
+
 **How the complaint has evolved:** The record began as a legal-malpractice complaint focused on missed civil-rights deadlines and professional duties owed by Bryan Tipp as criminal defense counsel. It then grew into a broader misconduct record as additional research and located evidence tied the representation to alleged prosecutorial misconduct by Brian Lowney, investigative misconduct by MPD officers, conduct by E'Lise Chard, and institutional conflicts involving the YWCA of Missoula. The complaint now functions as both a defense-counsel malpractice record and a cross-reference map for related Brady/Giglio, First Amendment, witness-fabrication, and institutional-conflict theories.
 
 ### Executive snapshot
@@ -37,6 +39,7 @@ This page is a navigable case file index for **Montana Office of Disciplinary Co
 * Companion prosecutorial-misconduct grievance: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * Companion Lowney index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](odc-lowney-grievance-index.md)
 * May 2026 evidence supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4](mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
+* July 2026 clarification request: [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](odc-25-147-clarification-request-july-2026.md)
 * May 2026 supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 * May 2026 independent grievance/supporting submission: [Eleanor ("Ellie") Nuno Independent ODC Grievance](eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
 
@@ -88,6 +91,7 @@ Related starting points:
 | November 2025 disposition and request for review | ODC ruling and review request | ODC rejected the complaint; review was requested, later treated here as denied and closed without notice to the complainant, leaving the rationale unknown. | Preserved the agency-disposition record while creating the need for reconsideration based on later-located evidence. |
 | April 2026 Lowney grievance | Grievance against Brian Lowney / Missoula prosecutors | Added a companion prosecutorial-misconduct track involving Brady/Giglio, protected speech, charging/bail practices, and DPA leverage. | Showed that the Tipp malpractice theory cannot be evaluated in isolation from alleged prosecutorial and MPD misconduct. |
 | May 2026 Supplemental #4 | P.S. character-witness email and Dr. William Stratford psychiatric letter | Added exhibit-specific proof that favorable evidence was allegedly in Tipp's possession but not investigated, used in bail/release litigation, or deployed in negotiations. | Directly tied Tipp's alleged failures to E'Lise Chard's forwarding of favorable information into law-enforcement channels, YWCA-law-enforcement coordination, and documented harm from GPS monitoring. |
+| July 2026 clarification request | Clarification request to ODC regarding the July 10 closure letter | Added a source-published follow-up asking ODC to explain how the two exhibit-specific allegations in Supplemental Submission #4 were treated. | Keeps the record of the July 10 response and the complainant's allegation-specific follow-up in one navigable sequence. |
 | May 2026 Tyrone Nuno submission | Supporting witness grievance | Added firsthand corroboration that Officer Ethan Smith allegedly harassed family members, was removed after Tyrone's complaint, and that Tipp never interviewed Tyrone or used that evidence. | Directly connects the Tipp record to MPD investigator misconduct, witness neglect, and the failure to investigate the Smith-to-Brueckner transition. |
 | May 2026 Eleanor Nuno submission | Independent grievance and supporting witness statement | Added independent complainant status, former-client pattern evidence, denial of fabricated mental-health statements attributed to her, and corroboration of family-pressure tactics. | Expands ODC review beyond Tipp's representation of Elvis Nuno into Eleanor Nuno's own grievance and strengthens the link between defense-counsel malpractice, MPD charging statements, and witness-fabrication allegations. |
 
@@ -182,6 +186,12 @@ Related starting points:
 * [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](odc-25-147-july-2026-closure-response-analysis.md)
   * **Summary:** Reproduces ODC's July 10, 2026 closure response and compares its stated "no new information" rationale with the two exhibit-specific allegations in Supplemental Submission #4. Adds the governing disciplinary rules and carefully limited Montana precedent.
   * **What changed at this stage:** ODC confirmed that the matter remains closed after Commission review and warned against serial submissions; the public record now includes a source-separated analysis of that response.
+
+#### Clarification request (July 2026)
+
+* [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](odc-25-147-clarification-request-july-2026.md)
+  * **Summary:** Publishes the follow-up request sent to ODC after the July 10 closure letter, asking for allegation-specific explanation, exhibit-level review confirmation, and clarification of the “serial grievance” framing.
+  * **What changed at this stage:** Adds the complainant's direct response to ODC's closure language and preserves the request as a standalone record document.
 
 #### Supporting Witness Grievance (May 2026)
 

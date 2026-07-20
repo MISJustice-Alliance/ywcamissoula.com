@@ -27,6 +27,7 @@ This page analyzes documents and procedural rules. It does not determine whether
 |---|---:|---|
 | ODC closure letter reproduced below | July 10, 2026 | ODC's stated reason for leaving the matter closed |
 | [Supplemental Submission #4](./mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md) | May 2026 | The two evidence-investigation allegations submitted after the original dismissal |
+| [Clarification request regarding the July 10, 2026 letter](./odc-25-147-clarification-request-july-2026.md) | July 2026 | The published follow-up request asking ODC to explain how the two exhibit-specific allegations were treated |
 | [ODC dismissal](./mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md) | November 3, 2025 | ODC's original disposition and stated review procedure |
 | [Request for Commission on Practice review](./mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md) | November 2025 | The complainant's challenge to the original dismissal |
 
@@ -88,6 +89,7 @@ Any further procedural step should be confirmed against the complete ODC record 
 
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 * [Supplemental Submission #4 (May 2026)](./mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
+* [Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](./odc-25-147-clarification-request-july-2026.md)
 * [Tyrone Nuno supporting-witness grievance](./tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 * [Eleanor Nuno independent grievance](./eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
 * [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
