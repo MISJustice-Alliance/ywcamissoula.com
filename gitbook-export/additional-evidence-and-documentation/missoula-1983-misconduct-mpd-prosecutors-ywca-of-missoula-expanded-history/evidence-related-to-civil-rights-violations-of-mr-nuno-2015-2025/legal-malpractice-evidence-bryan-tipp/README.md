@@ -20,7 +20,7 @@ This page is a sub-index for evidence themes relevant to alleged legal malpracti
 * Malpractice overview (analysis): [Bryan Tipp malpractice (2017–2025)](../../../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 * Key correspondence deep dive: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
 * Canonical source list: [Sources & record index](../../../../overview/sources-and-record-index.md)
-* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../README.md)
 
 ### Key pages
 

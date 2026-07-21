@@ -17,7 +17,7 @@ This page is a jump index for investigating board-level conflict-of-interest and
 ### Verify first (primary artifacts)
 
 * YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
 * CR packet indexes:
   * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
   * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
@@ -70,7 +70,7 @@ It provides a timestamped pattern to test governance conflict → operational ha
 
 Use the evidence map and the YWCA institutional liability evidence page.
 
-Start with [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./).
+Start with [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md).
 
 #### Where do I go for a legal-claims overview?
 

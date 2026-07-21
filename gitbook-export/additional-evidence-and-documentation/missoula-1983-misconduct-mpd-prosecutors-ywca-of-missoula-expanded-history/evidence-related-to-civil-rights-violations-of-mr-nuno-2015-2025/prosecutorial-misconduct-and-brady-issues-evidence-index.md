@@ -18,7 +18,7 @@ Use it to move from theme → documents → packet-ready citations, then validat
 
 ### Verify first (primary artifacts)
 
-* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
 * Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)

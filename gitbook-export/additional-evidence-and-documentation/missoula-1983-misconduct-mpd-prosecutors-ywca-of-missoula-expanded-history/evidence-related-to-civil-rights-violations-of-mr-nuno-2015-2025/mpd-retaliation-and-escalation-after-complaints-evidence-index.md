@@ -16,7 +16,7 @@ This page is a sub-index for evidence themes involving alleged **retaliation and
 
 ### Verify first (primary artifacts)
 
-* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
 * MPD hub/router: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](../../../overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
@@ -58,7 +58,7 @@ Use these when assembling an evidence packet or validating causation.
 ### Cross-links (analysis hubs)
 
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)
-* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
 * [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
 
 ### FAQ

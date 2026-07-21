@@ -32,9 +32,9 @@ This page is a navigable case file index for **Montana Office of Disciplinary Co
 
 #### Key filings to quote
 
-* Original complaint packet: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
+* Original complaint packet: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
 * ODC disposition: [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
-* Review request: [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
+* Review request: [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
 * Current synthesis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](odc-25-147-lowney-case-authorities-analysis.md)
 * Companion prosecutorial-misconduct grievance: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](grievance-to-montana-odc-brian-lowney-4.28.2026.md)
 * Companion Lowney index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](odc-lowney-grievance-index.md)
@@ -105,7 +105,7 @@ Related starting points:
 
 #### Complaint package
 
-* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
+* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
   * **Summary:** Alleges malpractice and MRPC violations. Centers on “give it time” advice and deadline loss.
   * **What changed at this stage:** This filing opens the grievance and sets the baseline narrative.
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
@@ -114,7 +114,7 @@ Related starting points:
 
 #### Supplemental Submission #1 (with appendices)
 
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/)
+* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/README.md)
   * **Summary:** Expands from statute-of-limitations harm into competence and diligence failures. Emphasizes conflicts, missing motions, and unasserted constitutional issues.
   * **What changed at this stage:** The theory shifts from “missed civil deadlines” to “criminal defense failures drove the harm.”
   * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
@@ -132,7 +132,7 @@ Related starting points:
 
 #### Supplemental Submission #3 (device-password coercion and speech waiver)
 
-* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/)
+* [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/README.md)
   * **Summary:** Introduces the third submission and its focus areas. Flags password coercion and alleged speech concessions in resolution terms.
   * **What changed at this stage:** The record expands into digital evidence handling and constitutional waiver issues.
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-september-2025.md)
@@ -144,7 +144,7 @@ Related starting points:
 
 #### Respondent response and complainant reply
 
-* [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/)
+* [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/README.md)
   * **Summary:** Respondent-side position and supporting materials. Emphasizes scope-of-representation and “dismissal equals competence.”
   * **What changed at this stage:** A defense narrative appears and becomes the dispute’s central axis.
   * [MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)](mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025.md)
@@ -159,7 +159,7 @@ Related starting points:
 * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
   * **Summary:** The full ODC letter text. Includes factual background, party summaries, and the formal reasoning used.
   * **What changed at this stage:** This becomes the authoritative document to quote and appeal.
-* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
+* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
   * **Summary:** Initiates review after dismissal. Frames the stakes and requested relief at a high level.
   * **What changed at this stage:** The case moves from ODC closure to Commission review posture.
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)

@@ -266,7 +266,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
 These pages should generally link back here when they cite CR-2025-002 records:
 
 * Master timeline hub: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+* Evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
 * Prosecutors: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md)
 * YWCA retaliation framing: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * Washington proceedings: [Edmonds Case (2015-2017)](../../../washington-cases/edmonds-case-2015-2017.md)

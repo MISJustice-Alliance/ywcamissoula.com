@@ -31,7 +31,7 @@ They should be treated as a model that **assumes liability is proven** and requi
 
 ### Narrative + theory entry points (optional)
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../README.md)
 * [2017-2019 Misdemeanor & Felony Stalking Charges - Civil Rights Violations, False Imprisonment, and Prosecutorial Misconduct](../../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../../../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
 
@@ -46,7 +46,7 @@ This evidence map is split into smaller pages.
 * [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md)
 * [MPD retaliation and escalation after complaints (evidence index)](mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
 * [First Amendment retaliation evidence (protected speech → escalation)](first-amendment-retaliation-evidence-protected-speech-escalation.md)
-* [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/)
+* [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/README.md)
 * [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](prosecutorial-misconduct-and-brady-issues-evidence-index.md)
 * [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md)
 * [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md)

@@ -44,8 +44,8 @@ Use these first if you're validating the pattern or building an investigative ro
 
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Civil Rights Violations and Related Claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/)
-* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
+* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
 * [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
 * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](../institutional-willful-blindness-pattern-analysis.md) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 
@@ -75,7 +75,7 @@ Start with the [Comprehensive Timeline, Relationship Diagram, & Actionable Claim
 
 Use the timeline and the claims map first.
 
-Then pivot into system framing using [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/) and the [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/).
+Then pivot into system framing using [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md) and the [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md).
 
 #### What’s “primary record” vs “analysis” here?
 
@@ -93,7 +93,7 @@ That includes allegations of retaliation after complaints, conflict-infected “
 
 Start in the evidence map, then follow the sub-pages by claim type.
 
-Use [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/) as the theme → records router.
+Use [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md) as the theme → records router.
 
 ### How to navigate
 
@@ -227,7 +227,7 @@ Use this documentation to:
 <summary><strong>State &#x26; Federal Complaints</strong></summary>
 
 * [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
-* [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
+* [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/README.md)
   * [FBI report filing — cross-jurisdiction civil rights violations (Nov 2025)](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
 
 </details>
@@ -236,21 +236,21 @@ Use this documentation to:
 
 <summary><strong>Montana Bar Complaints</strong></summary>
 
-* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
+* [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
   * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
-  * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/)
+  * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/README.md)
     * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
     * [Appendix B: List of Motions That Should Have Been Filed](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed.md)
     * [Appendix C: Constitutional Violations Identified But Not Addressed](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-c-constitutional-violations-identified-but-not-addressed.md)
     * [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
-  * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/)
+  * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 - Cover Letter (September, 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/README.md)
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-september-2025.md)
     * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1 (September, 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
   * [MisJustice Alliance case file (2df48ac7…)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
-* [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/)
+* [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/README.md)
   * [MT Bar Complaint ODC No. 25-147: Response to Bryan Tipp Bar Complaint Answer (October 4th, 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-october-4th-2025.md)
   * [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
-* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
+* [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/README.md)
   * [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
   * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](../montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp.md)
 * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4 (May 2026)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
@@ -299,13 +299,13 @@ Use this documentation to:
 
 <summary><strong>Additional Evidence &#x26; Documentation</strong></summary>
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/)
-  * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
+  * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
     * [Scope and primary evidence types](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types.md)
     * [Fourth Amendment evidence (entry, seizure, and digital search)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md)
     * [Fabricated evidence and false reporting](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting.md)
     * [First Amendment retaliation evidence (protected speech → escalation)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md)
-    * [Legal malpractice evidence (Bryan Tipp)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
+    * [Legal malpractice evidence (Bryan Tipp)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/README.md)
       * ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md)
     * [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md)
     * [YWCA institutional liability evidence](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence.md)
