@@ -17,9 +17,9 @@ This page is a stable internal index for the published external case file **daf8
 ### Verify first (primary artifacts)
 
 * External case portal (canonical public entry): https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab
-* Internal packet index: [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Internal packet index: [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * Back to evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 ### Case
@@ -162,7 +162,7 @@ This page is a stable internal index for the published external case file **daf8
 
 ***
 
-**Previous:** [MisJustice Alliance case file: d81209a2](misjustice-alliance-case-file-d81209a2....md) · **Next:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
+**Previous:** [MisJustice Alliance case file: d81209a2](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...) · **Next:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 ### Related
 

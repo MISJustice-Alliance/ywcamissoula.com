@@ -17,7 +17,7 @@ The documented evidence establishes that Mr. Nuno's case—characterized by Dete
 
 #### Key external packets (CR-2025-001)
 
-* [CR-2025-001 — Case files index](evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * [Shelter and the Storm (PDF)](https://cr-2025-001-evidence-23_misjusticealliance.arweave.net/)
 * [Investigative report: YWCA of Missoula (PDF)](https://cr-2025-001-evidence-24_misjusticealliance.arweave.net/)
 * [Source documentation citations (PDF)](https://cr-2024-001-other_misjusticealliance.arweave.net/)
@@ -68,7 +68,7 @@ Johnson was charged in July 2012, suspended from the team, and faced up to 100 y
 
 The timing of institutional response revealed priorities: Football coach Robin Pflugrad publicly praised Johnson's "character and tremendous moral fiber" three days before University President Royce Engstrom fired both Pflugrad and Athletic Director Jim O'Day in April 2012.
 
-For a tighter source-backed treatment of the prosecutor-to-defense transition and the conflict-of-interest appearance question, see [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](../kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md).
+For a tighter source-backed treatment of the prosecutor-to-defense transition and the conflict-of-interest appearance question, see [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report).
 
 **Kerry Barrett (Gang Rape—No Charges)**
 

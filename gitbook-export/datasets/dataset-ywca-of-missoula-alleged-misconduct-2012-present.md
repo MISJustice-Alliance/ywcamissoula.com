@@ -17,12 +17,12 @@ This dataset is the canonical landing page for record-linked **allegations** inv
 
 ### Verify first (primary artifacts)
 
-* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* CR-2025-001 packet index: [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
-* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
+* CR-2025-001 packet index: [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Structured-data values: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 ### Scope
 
@@ -45,9 +45,9 @@ This dataset is not:
 
 ### Canonical entry points
 
-* YWCA hub: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
-* Institutional capture overview: [YWCA of Missoula: captured system overview](../ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
+* YWCA hub: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
+* Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
+* Institutional capture overview: [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 
 ### Primary published packets (downloadable)
 
@@ -57,8 +57,8 @@ These external packets are the densest “dataset-like” artifacts right now:
 * https://cr-2025-001-other-3\_misjusticealliance.arweave.net/
 * https://cr-2025-001-other-2\_misjusticealliance.arweave.net/
 * https://cr-2025-001-brief-2\_misjusticealliance.arweave.net/
-* [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* [MisJustice Alliance case file: d81209a2](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* [MisJustice Alliance case file: d81209a2](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...)
 
 ### Suggested data model (for a spreadsheet or JSON export)
 
@@ -80,7 +80,7 @@ Recommended fields:
 This project publishes allegations and supporting records. Avoid posting personal addresses, phone numbers, or other sensitive identifiers.
 {% endhint %}
 
-**See also:** [Dataset catalog (Google indexing)](dataset-catalog-indexes.md)
+**See also:** [Dataset catalog (Google indexing)](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
 
 ### Related
 

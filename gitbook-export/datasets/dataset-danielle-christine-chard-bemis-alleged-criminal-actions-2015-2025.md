@@ -18,11 +18,11 @@ This dataset is the canonical landing page for record-linked **allegations** inv
 
 ### Verify first (primary artifacts)
 
-* CR-2025-002 packet index: [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
-* Case file hub: [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
-* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
-* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* CR-2025-002 packet index: [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* Case file hub: [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Structured-data values: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 ### Scope
 
@@ -44,8 +44,8 @@ This dataset is not:
 
 ### Canonical entry points
 
-* Case file hub: [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
-* Primary record router: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+* Case file hub: [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
+* Primary record router: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
 
 ### Primary published packet (downloadable)
 
@@ -55,7 +55,7 @@ Direct report packet:
 
 See also:
 
-* [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+* [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
 
 ### Suggested data model
 
@@ -75,7 +75,7 @@ Recommended fields:
 If you later publish an actual CSV/JSON export, link it via `distribution` and treat this page as the canonical landing page.
 {% endhint %}
 
-**See also:** [Dataset catalog (Google indexing)](dataset-catalog-indexes.md)
+**See also:** [Dataset catalog (Google indexing)](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
 
 ### Related
 

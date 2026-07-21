@@ -27,9 +27,9 @@ This page is a stable internal index for the published external case file **d812
 ### Verify first (primary artifacts)
 
 * External case portal (canonical public entry): https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c
-* Internal packet index: [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Internal packet index: [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * Back to evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
 
 ### Case
@@ -134,7 +134,7 @@ This page is a stable internal index for the published external case file **d812
 
 ***
 
-**Previous:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md) · **Next:** [MisJustice Alliance case file: daf82b62](misjustice-alliance-case-file-daf82b62....md)
+**Previous:** [Ongoing harassment and RICO predicate framing](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing) · **Next:** [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
 
 ### Related
 

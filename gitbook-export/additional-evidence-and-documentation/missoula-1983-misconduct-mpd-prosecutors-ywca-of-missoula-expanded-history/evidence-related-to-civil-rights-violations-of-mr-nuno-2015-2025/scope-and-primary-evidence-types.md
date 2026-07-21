@@ -9,12 +9,12 @@ This page defines the scope of the evidence set and the “high-signal” record
 ### Verify first (primary artifacts)
 
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
 * CR packet indexes:
-  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+  * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+  * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 ### What this evidence set covers
 
@@ -51,7 +51,7 @@ These records help because they don’t rely on memory.
 
 ***
 
-**Previous:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./) · **Next:** [Fourth Amendment evidence (entry, seizure, and digital search)](fourth-amendment-evidence-entry-seizure-and-digital-search.md)
+**Previous:** [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./) · **Next:** [Fourth Amendment evidence (entry, seizure, and digital search)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search)
 
 ### Related
 

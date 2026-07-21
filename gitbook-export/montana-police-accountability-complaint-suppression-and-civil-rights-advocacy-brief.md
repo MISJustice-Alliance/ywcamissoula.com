@@ -35,15 +35,15 @@ For potential civil counsel and civil-rights advocates, the significance is twof
 
 ### Verify first
 
-* MPD complaint statistics: [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
-* Long-form architecture analysis: [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* Historical context article: [Remembering When: Missoula rape-capital era](./remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
-* Expanded-history source file: [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](./additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
-* Original state complaint: [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
-* POST closure analysis: [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
-* Prosecutorial grievance record: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* MPD source hub: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](./overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
-* Canonical source list: [Sources & record index](./overview/sources-and-record-index.md)
+* MPD complaint statistics: [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+* Long-form architecture analysis: [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* Historical context article: [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* Expanded-history source file: [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
+* Original state complaint: [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
+* POST closure analysis: [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
+* Prosecutorial grievance record: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* MPD source hub: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 
 ---
 
@@ -164,13 +164,13 @@ That package does not prove a case by itself. It does, however, provide a cohere
 
 ### Primary project records
 
-* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
-* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
-* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
-* [Remembering When: Missoula rape-capital era](./remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](./additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
+* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+* [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
 
 ### Legal authorities
 
@@ -195,15 +195,15 @@ That package does not prove a case by itself. It does, however, provide a cohere
 * [County Attorney: Krakauer's Accusations Inaccurate, Exaggerated](https://www.montanakaimin.com/news/county-attorney-krakauers-accusations-inaccurate-exaggerated/article_96d2ec06-e929-11e4-bb7e-e76ed8d15c40.html) — **Significance:** Montana Kaimin coverage from November 2014 documenting Pabst's pre-election response to Krakauer's reporting. Pabst characterized the book's claims as "inaccurate and exaggerated" and defended the office's record. This article captures the office's defensive posture before the DOJ settlement, establishing that the resistance to external scrutiny predated the formal agreement and continued through the transition. **Timeline:** November 2014 — after the DOJ findings letter but before the settlement agreement, showing the office's public narrative management during the period of federal pressure.
 * [Not-So-Secret Rape Apologist Runs for Missoula County Attorney (Jezebel, 2014)](https://www.jezebel.com/not-so-secret-rape-apologist-runs-for-missoula-county-attorney) — **Significance:** The Jezebel article that first publicly framed Pabst's campaign as a continuation of the troubled office culture rather than a break from it. Documents her role as chief deputy during the DOJ investigation period and her public minimization of sexual-assault reporting issues. **Timeline:** October 2014 — the earliest major national reporting on Pabst's candidacy, establishing the credibility dispute that would persist through her term.
 * [Jon Krakauer: Missoula County Attorney's Actions 'Egregious' (Montana Standard)](https://mtstandard.com/news/local/jon-krakauer-missoula-county-attorney-s-actions-egregious/article_ebcb75f4-9319-5d2a-97b6-89e1cacdf0fb.html) — Krakauer's direct response to Pabst's public statements; documents his characterization of her conduct as "egregious" and his prediction that rape victims would be "served poorly" under her leadership.
-* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md) — Source-led treatment of the prosecutor-to-defense transition, the appearance-of-conflict issue, and Pabst's public posture during DOJ-era scrutiny.
+* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report) — Source-led treatment of the prosecutor-to-defense transition, the appearance-of-conflict issue, and Pabst's public posture during DOJ-era scrutiny.
 * [Kirsten Pabst Character Analysis (SparkNotes)](https://www.sparknotes.com/lit/missoula/character/kirsten-pabst/) — Literary analysis of Pabst's role in Krakauer's *Missoula*; provides educational context on her portrayal as an antagonist in the narrative of institutional failure.
 
 ### Montana legal and policy sources
 
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](./oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](./policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
 
 {% include ".gitbook/includes/related-links-global (1).md" %}

@@ -26,7 +26,7 @@ The primary record for this report is `Criminal-Investigation-Referral-E-Lise-Ch
 | Primary jurisdiction alleged | Missoula County, Montana |
 | Related interstate record | Sister of Danielle Christine Chard / Bemis; source packet alleges the Montana conduct was a second phase of a broader Washington-Montana pattern |
 | Primary documented period | 2017 through 2025, with central Montana events in June-September 2018 |
-| Related referral | [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](criminal-investigation-referral-danielle-chard-bemis.md) |
+| Related referral | [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis) |
 
 ## Executive narrative
 

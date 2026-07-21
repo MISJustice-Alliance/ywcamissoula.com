@@ -11,12 +11,12 @@ Use it to route into the cited notice letters, governance artifacts, and third-p
 ### Verify first (primary artifacts)
 
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](../../../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* Board conflicts jump index: [YWCA of Missoula board conflicts and remediation index](ywca-of-missoula-board-conflicts-investigative-index.md)
+* YWCA hub/router: [YWCA Missoula: conflicts of interest, MPD integration, evidence index, and remediation priorities](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
+* Board conflicts jump index: [YWCA of Missoula board conflicts and remediation index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 * CR packet indexes:
-  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
+  * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+  * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
 
 ### Knowledge and ratification
 
@@ -26,7 +26,7 @@ Use it to route into the cited notice letters, governance artifacts, and third-p
 
 CR-2025-001 notice records:
 
-* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * [YWCA first notice (request for response)](https://cr-2025-001-evidence-26_misjusticealliance.arweave.net/)
 * [YWCA second notice (follow-up)](https://cr-2025-001-evidence-27_misjusticealliance.arweave.net/)
 
@@ -67,7 +67,7 @@ Evidence tends to cluster around:
 
 ***
 
-**Previous:** [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md) · **Next:** [Damages evidence (quantified and non-economic)](damages-evidence-quantified-and-non-economic.md)
+**Previous:** [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence) · **Next:** [Damages evidence (quantified and non-economic)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic)
 
 ### Related
 

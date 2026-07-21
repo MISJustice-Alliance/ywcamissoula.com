@@ -19,7 +19,7 @@ tags:
 # Institutional Willful Blindness: A Pattern Analysis of Complaint-Suppression Across Missoula's Oversight Architecture
 
 {% hint style="info" %}
-Companion federal-enforcement analysis: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md).
+Companion federal-enforcement analysis: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum).
 {% endhint %}
 
 **Prepared by:** MISJustice Alliance — Anonymous Legal Assistance Group  
@@ -186,7 +186,7 @@ What followed the DOJ's closure of that investigation in 2016 is documented in t
 
 ### The Prosecutorial Continuity: Pabst and the Post-DOJ Defensive Posture
 
-The public record of the County Attorney's Office during and after the DOJ investigation documents a consistent posture of institutional minimization that paralleled the police-side accountability failures. During the 2014 campaign — conducted simultaneously with the DOJ investigation she was inheriting — Kirsten Pabst, then chief deputy under Fred Van Valkenburg, defended Jordan Johnson, a University of Montana quarterback charged with rape, arguing that his accuser had fabricated the allegation because Johnson "didn't offer her a relationship." National reporting from the period documented Pabst's role in this defense and her broader public minimization of sexual-assault reporting controversies. For a narrower source-led analysis of that role-switch and the appearance-of-conflict issue, see [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](./additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md).
+The public record of the County Attorney's Office during and after the DOJ investigation documents a consistent posture of institutional minimization that paralleled the police-side accountability failures. During the 2014 campaign — conducted simultaneously with the DOJ investigation she was inheriting — Kirsten Pabst, then chief deputy under Fred Van Valkenburg, defended Jordan Johnson, a University of Montana quarterback charged with rape, arguing that his accuser had fabricated the allegation because Johnson "didn't offer her a relationship." National reporting from the period documented Pabst's role in this defense and her broader public minimization of sexual-assault reporting controversies. For a narrower source-led analysis of that role-switch and the appearance-of-conflict issue, see [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report).
 
 After winning election as County Attorney in November 2014, Pabst publicly positioned herself as part of the office's corrective direction. However, when Jon Krakauer's 2015 book *Missoula: Rape and the Justice System in a College Town* documented specific charging failures in cases her office had handled, Pabst issued a formal public statement characterizing Krakauer's findings as "inaccurate, exaggerated and unnecessarily personal," while simultaneously insisting Missoula's prosecution rates were "much higher than the national average" — a claim directly contradicted by the DOJ's own February 2014 findings letter, which documented only 14 prosecutions from 85 referred cases. The MTPR coverage from April 2015 — the same month as the DOJ settlement agreement — showed the office asserting that reforms had already been implemented while simultaneously disputing the factual basis of outside criticism. The Montana Kaimin headline from the same period — "County Attorney: Krakauer's Accusations Inaccurate, Exaggerated" — captured the core posture: the sitting County Attorney of the city at the center of a federal civil rights investigation publicly characterizing documented criticism of prosecutorial failures as overblown.
 
@@ -329,12 +329,12 @@ The malpractice claim against Bryan Tipp remains the most document-intensive and
 
 ### Primary project records
 
-* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
-* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
-* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
-* [Remembering When: Missoula rape-capital era](./remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
+* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+* [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
 
 ### Legal authorities
 
@@ -354,9 +354,9 @@ The malpractice claim against Bryan Tipp remains the most document-intensive and
 
 ### Related analytical sources
 
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](./oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](./policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 
 ***
 

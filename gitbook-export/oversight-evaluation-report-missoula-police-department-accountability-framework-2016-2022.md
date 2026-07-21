@@ -158,11 +158,11 @@ This evaluation concludes that the internal governance of the Missoula Police De
 
 ## Related pages
 
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-* [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
-* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present)
 
 {% include "./.gitbook/includes/related-links-global (1).md" %}
 

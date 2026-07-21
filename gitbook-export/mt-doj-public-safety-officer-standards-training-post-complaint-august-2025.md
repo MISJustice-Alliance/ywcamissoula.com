@@ -23,11 +23,11 @@ tags:
 Related correspondence:
 
 * [POST email chain / escalation (Aug 2025)](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 ### Pattern Analysis
 
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](./institutional-willful-blindness-pattern-analysis.md) — Systemic analysis of how POST's five-year temporal bar and other procedural mechanisms prevent substantive review of continuing-pattern complaints
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how POST's five-year temporal bar and other procedural mechanisms prevent substantive review of continuing-pattern complaints
 
 ## Summary
 
@@ -65,9 +65,9 @@ I respectfully submit this complaint regarding a pattern of civil rights violati
 
 ### See also
 
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](./montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](./post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
 
 ### Related
 

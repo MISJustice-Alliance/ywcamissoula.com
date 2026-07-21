@@ -143,10 +143,10 @@ The source materials support documenting a present, consequential set of barrier
 
 ## Related site materials
 
-* [Connie Brueckner investigative research report](connie-brueckner-investigative-report.md)
-* [Washington legal cases index](../washington-legal-cases-index.md)
-* [Home invasion, warrantless arrest, false imprisonment, and Missoula County Jail account](../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
-* [Bryan Tipp malpractice allegations and source index](../overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
+* [Connie Brueckner investigative research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report)
+* [Washington legal cases index](https://www.ywcaofmissoula.com/washington-legal-cases-index)
+* [Home invasion, warrantless arrest, false imprisonment, and Missoula County Jail account](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
+* [Bryan Tipp malpractice allegations and source index](https://www.ywcaofmissoula.com/overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index)
 
 ## Research note
 

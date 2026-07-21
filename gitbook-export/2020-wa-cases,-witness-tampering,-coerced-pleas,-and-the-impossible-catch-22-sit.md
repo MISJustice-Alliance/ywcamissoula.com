@@ -22,7 +22,7 @@ This document analyzes the 2020 Washington cases involving allegations of witnes
 ### Primary record and advisory brief
 
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
-* [Washington plea withdrawal advisory: witness tampering and coerced pleas](washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
+* [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 
 ## Witness Tampering Allegations
 

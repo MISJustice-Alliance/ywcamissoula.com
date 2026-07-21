@@ -21,7 +21,7 @@ This page maps potential Fourteenth Amendment theories (equal protection + due p
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * Case summary packet: https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
 * Primary packet index (44 files): https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
 * Seattle dismissal order (2016): https://cr-2024-002-ruling-6\_misjusticealliance.arweave.net/

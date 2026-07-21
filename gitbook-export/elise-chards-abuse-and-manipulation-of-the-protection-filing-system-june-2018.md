@@ -33,11 +33,11 @@ Jurisdiction: **Montana (Missoula County)**.
 
 ### Verify first (primary records)
 
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 * [E’Lise Chard petition for order of protection (06-2018)](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
 * [YWCA complaint letter to YWCA Missoula leadership (06-2018)](https://4lsdab3ewlxq2wmdvchfyal5xbalnl6kxbo2i5o2mhtorvkrcfva.arweave.net/4uQwB2Sy7w1Zg6iOXAF9uEC2r8q4XaR12mHm6NVREWo)
 * [Exculpatory character witness statement sent to YWCA (alleged suppression)](https://ujc7y6rmhoezlugqun4rdagh5qlfdyymnc5aqmvfgtaouvxgw5xq.arweave.net/okX8eiw7iZXQ0KN5EYDH7BZR4wxouggypTTA6lbmt28)
-* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
+* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](https://www.ywcaofmissoula.com/datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025)
 
 ### Scope and terminology
 
@@ -236,7 +236,7 @@ Primary artifact:
 * [Exculpatory character witness statement sent to YWCA (alleged suppression)](https://ujc7y6rmhoezlugqun4rdagh5qlfdyymnc5aqmvfgtaouvxgw5xq.arweave.net/okX8eiw7iZXQ0KN5EYDH7BZR4wxouggypTTA6lbmt28)
 * [Comprehensive Criminal Report — E’Lise Chard (2017–2025)](https://in3lcn37ikhd7tdvif2n5ikpwk5scgrlfnngbacgz7xsqbeqg7ha.arweave.net/Q3axN39Cjj_MdUF03qFPsrshGisrWmCARs_vKASQN84)
 * [Sworn Declaration of Elvis Ryland Nuno (criminal referral support)](https://doc11_elvis_nuno_sworn_declaration_misjusticealliance.arweave.net/)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 * Court filings and transcripts
 * Prior statements contradicting sworn testimony
 * Communication records
@@ -252,10 +252,10 @@ These are issue labels used for research and cross-referencing, not legal advice
 
 ### Related pages
 
-* [Montana Legal Cases](montana-legal-cases.md)
-* [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Aug 2018: warrantless arrest and false imprisonment](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
-* [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+* [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
+* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
+* [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 
 ### Related
 

@@ -98,7 +98,7 @@ ODC's letter did not ask when Complainant discovered the essential facts. That o
 
 Complainant did not know during the criminal case that Detective Connie Brueckner, who assumed a central investigative role after Officer Smith, allegedly served as a YWCA board member while investigating a matter involving a YWCA employee and Complainant's protected complaint against YWCA. That fact is not a legal conclusion; it is an essential fact supporting the Brady/Giglio, probable-cause, and conflict-of-interest allegations.
 
-The current GitBook record treats this as a primary verification point, not a mere inference. See [YWCA Brueckner conflict: allegations summary](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md), [Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration](../legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md), and [Connie Brueckner investigative research report](../additional-evidence-and-documentation/connie-brueckner-investigative-report.md).
+The current GitBook record treats this as a primary verification point, not a mere inference. See [YWCA Brueckner conflict: allegations summary](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat), [Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration), and [Connie Brueckner investigative research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report).
 
 Because this conflict was allegedly undisclosed by law enforcement, the prosecution, and defense counsel, it is exactly the kind of concealed or self-concealing fact that makes ODC's single-date analysis unreliable. It was not enough that Complainant knew he had been charged. He needed to know that a conflicted investigator allegedly helped build the case, that the conflict connected directly to the complaining witness's institution, and that the conflict was not disclosed in the criminal proceeding.
 
@@ -106,7 +106,7 @@ Because this conflict was allegedly undisclosed by law enforcement, the prosecut
 
 The Lowney grievance also depends on when Complainant discovered the depth of the prosecution's reliance on Officer Ethan Smith's reports after Smith was allegedly removed from the case for an obvious appearance of impropriety. Smith's removal is relevant in itself, but the limitations issue turns on the later-discovered combination: removal plus prosecutorial reliance.
 
-The published record now separately documents the Smith complaint and timeline. See [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith](../officer-ethan-smith-complaint-march-2018.md), [MPD Officer Misconduct: Ethan Smith Timeline](../mpd-officer-misconduct-ethan-smith-timeline.md), and [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](./mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md).
+The published record now separately documents the Smith complaint and timeline. See [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-march-2018), [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/mpd-officer-misconduct-ethan-smith-timeline), and [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts).
 
 This is not a new legal theory layered onto old facts. It is the later discovery of facts essential to the disciplinary theory: that the prosecutor's charging affidavit allegedly depended on work from an officer whose conflict had already been identified and acted upon. Under the discovery-rule cases, that is the relevant question.
 
@@ -114,7 +114,7 @@ This is not a new legal theory layered onto old facts. It is the later discovery
 
 The P.S. email is also a later-discovered essential fact. The issue is not simply that a favorable character-reference email existed. The issue is how it moved through YWCA and prosecution-adjacent channels, how it was reframed, and whether anyone recognized it as favorable, impeachment, or credibility evidence.
 
-The public addendum states that P.S. sent an email to YWCA on August 14, 2018, favorable to Complainant and critical of E'Lise Chard; E'Lise Chard forwarded it to Detective Arianna Adams and Kim Harvey with language characterizing it as being "on Elvis' behalf" while acknowledging uncertainty; and Kim Harvey forwarded the chain again on August 23, 2018. See [Brian Lowney Prosecution Addendum](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-brian-lowney-addendum-public.md) and [Core Exhibit Analysis: P.S. Email and Forwarding Chain](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-email-addendum-public.md).
+The public addendum states that P.S. sent an email to YWCA on August 14, 2018, favorable to Complainant and critical of E'Lise Chard; E'Lise Chard forwarded it to Detective Arianna Adams and Kim Harvey with language characterizing it as being "on Elvis' behalf" while acknowledging uncertainty; and Kim Harvey forwarded the chain again on August 23, 2018. See [Brian Lowney Prosecution Addendum](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-brian-lowney-addendum-public) and [Core Exhibit Analysis: P.S. Email and Forwarding Chain](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-email-addendum-public).
 
 This should be framed as rerouting/non-disclosure and mishandling, not overstated as proof that Lowney personally possessed the email on a specific date without a full discovery log. But that restraint strengthens the review request: the record shows enough to require investigation into whether favorable information entered the prosecution ecosystem, whether it was reframed as suspicious rather than favorable, and why it was not used to correct the prosecution narrative.
 
@@ -307,7 +307,7 @@ Date: ____________________
 
 ## Related
 
-* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](./odc-26-145-rejection-brian-lowney-june-9-2026.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](./odc-lowney-grievance-index.md)
-* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)

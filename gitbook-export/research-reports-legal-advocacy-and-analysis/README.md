@@ -14,20 +14,20 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 
 ### Categories
 
-* [Missoula Police Department](missoula-police-department.md)
-* [YWCA of Missoula](ywca-of-missoula.md)
-* [Missoula County Prosecutors Office](missoula-county-prosecutors-office.md)
-* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-* [Montana State Institutional Failures](montana-state-institutional-failures.md)
-* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-* [US Legal System Gaps & Analysis](us-legal-system-gaps-analysis.md)
-* [Multi-Jurisdiction & Cross-State Legal Analysis](multi-jurisdiction-cross-state-legal-analysis.md)
+* [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
+* [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
+* [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
+* [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 
 ### Related
 
-* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
-* [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
-* [Sources & record index](../overview/sources-and-record-index.md)
+* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](https://www.ywcaofmissoula.com)
+* [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
+* [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 
 ### Notes
 

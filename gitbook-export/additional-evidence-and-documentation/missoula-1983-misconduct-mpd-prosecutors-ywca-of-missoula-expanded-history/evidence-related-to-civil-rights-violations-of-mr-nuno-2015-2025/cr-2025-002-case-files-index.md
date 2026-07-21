@@ -16,23 +16,23 @@ This page is a stable internal index to the **CR-2025-002** document set publish
 ### Verify first (primary artifacts)
 
 * External case portal (canonical public entry): https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab
-* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* Complaint index: [Federal and State Department Complaints](../../../state-and-federal-complaints/federal-and-state-department-complaints.md)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Complaint index: [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](../../../research-reports-legal-advocacy-and-analysis/README.md)
-* [Missoula Police Department](../../../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
-* [YWCA of Missoula](../../../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
-* [Missoula County Prosecutors Office](../../../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
-* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../../../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-* [Montana State Institutional Failures](../../../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../../../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-* [US Legal System Gaps & Analysis](../../../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
-* [Multi-Jurisdiction & Cross-State Legal Analysis](../../../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
+* [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
+* [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
+* [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related
 
 {% include "../../../.gitbook/includes/related-links-global (1).md" %}
@@ -265,9 +265,9 @@ If you want one GitBook page per file later, say so and I’ll split them out.
 
 These pages should generally link back here when they cite CR-2025-002 records:
 
-* Master timeline hub: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
-* Prosecutors: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md)
-* YWCA retaliation framing: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-* Washington proceedings: [Edmonds Case (2015-2017)](../../../washington-cases/edmonds-case-2015-2017.md)
-* Complaint index: [Federal and State Department Complaints](../../../state-and-federal-complaints/federal-and-state-department-complaints.md)
+* Master timeline hub: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Evidence hub: [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)
+* Prosecutors: [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence)
+* YWCA retaliation framing: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
+* Washington proceedings: [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* Complaint index: [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)

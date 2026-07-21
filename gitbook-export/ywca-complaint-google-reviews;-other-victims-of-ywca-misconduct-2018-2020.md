@@ -101,7 +101,7 @@ Primary artifacts (external):
 * [YWCA complaint packet (image)](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
 * [Google review 01](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/)
 * [Google review 02](https://cr-2025-002-evidence-7_misjusticealliance.arweave.net/)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 * Documented staff misconduct by E'Lise Chard and Rebecca Pettit
 * Requested organizational accountability
 * Accompanied by $400 goodwill donation
@@ -138,7 +138,7 @@ To make the page’s accountability theme consistent with the rest of the site, 
 
 ### Related public-facing exhibits (CR-2025-001)
 
-* [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * [Arthur Brown Google review (screenshot)](https://cr-2025-001-evidence-10_misjusticealliance.arweave.net/)
 * [Reddit complaints (screenshot)](https://cr-2025-001-evidence-9_misjusticealliance.arweave.net/)
 * Facebook thread screenshots: [1](https://cr-2025-001-evidence-8_misjusticealliance.arweave.net/) · [2](https://cr-2025-001-evidence-3_misjusticealliance.arweave.net/)

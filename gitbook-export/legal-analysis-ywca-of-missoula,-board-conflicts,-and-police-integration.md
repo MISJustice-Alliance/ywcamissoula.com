@@ -20,7 +20,7 @@ tags:
 
 This page focuses on a **YWCA of Missoula conflict of interest** risk: governance ties and operational integration with law enforcement and prosecutorial actors.
 
-For a document-first entry point, use: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md).
+For a document-first entry point, use: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index).
 
 ### Executive snapshot
 
@@ -30,11 +30,11 @@ This page maps a conflict-of-interest theory: YWCA of Missoula governance and op
 
 ### Verify first (primary artifacts)
 
-* Board conflicts router: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
-* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* Board conflicts router: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
+* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
 * CR-2025-001 key packet (dossier): https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary citations hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 
 ### What this page tries to answer
 

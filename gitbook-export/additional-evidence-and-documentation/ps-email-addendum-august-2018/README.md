@@ -29,15 +29,15 @@ The exhibit and its accompanying addenda raise public-accountability questions a
 
 The following addenda examine the P.S. email from different analytical perspectives:
 
-1. [**Core Exhibit Analysis**](ps-email-addendum-public.md) — What the record shows and the public-interest questions it raises about YWCA complaint handling.
+1. [**Core Exhibit Analysis**](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-email-addendum-public) — What the record shows and the public-interest questions it raises about YWCA complaint handling.
 
-2. [**YWCA Retaliation Concerns**](ps-ywca-retaliation-addendum-public.md) — How the forwarding pattern relates to broader retaliation concerns and YWCA governance.
+2. [**YWCA Retaliation Concerns**](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-addendum-public) — How the forwarding pattern relates to broader retaliation concerns and YWCA governance.
 
-3. [**Malicious Prosecution Concerns**](ps-ywca-retaliation-malicious-prosecution-addendum-public.md) — The email as evidence of favorable information entering prosecution channels without visible neutral assessment.
+3. [**Malicious Prosecution Concerns**](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-malicious-prosecution-addendum-public) — The email as evidence of favorable information entering prosecution channels without visible neutral assessment.
 
-4. [**Bryan Tipp Malpractice**](ps-tipp-malpractice-addendum-public.md) — Whether the favorable discovery item was meaningfully developed or communicated by defense counsel.
+4. [**Bryan Tipp Malpractice**](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-tipp-malpractice-addendum-public) — Whether the favorable discovery item was meaningfully developed or communicated by defense counsel.
 
-5. [**Brian Lowney Prosecution Record**](ps-brian-lowney-addendum-public.md) — How the email's presence in prosecution-adjacent channels raises questions about prosecutorial handling of contradictory information.
+5. [**Brian Lowney Prosecution Record**](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-brian-lowney-addendum-public) — How the email's presence in prosecution-adjacent channels raises questions about prosecutorial handling of contradictory information.
 
 ## Context
 
@@ -45,7 +45,7 @@ This exhibit sits within a broader documented pattern in which complaints to YWC
 
 For related materials, see:
 
-- [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](../../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
-- [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-- [Bryan Tipp malpractice (2017–2025)](../../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-- [2017–2019 stalking charges (MT): civil-rights violations](../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+- [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+- [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
+- [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+- [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)

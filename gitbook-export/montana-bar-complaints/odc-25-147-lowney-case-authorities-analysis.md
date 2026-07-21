@@ -52,20 +52,20 @@ The attached intake brief is useful, but several statements required adjustment 
 
 #### Tipp / defense-counsel track
 
-* ODC 25-147 index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-* Original July 2025 Tipp complaint: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C.](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
+* ODC 25-147 index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
+* Original July 2025 Tipp complaint: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C.](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025)
 * ODC disposition and review materials: [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/)
-* Lost-claims appendix: [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations.md)
-* Speech-waiver supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1](mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025.md)
-* P.S. / Stratford evidence supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4](mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
-* Supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
-* Independent/supporting witness grievance: [Eleanor ("Ellie") Nuno Independent ODC Grievance](eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
+* Lost-claims appendix: [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations)
+* Speech-waiver supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #3.1](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3-cover-letter-september-2025/mt-bar-complaint-odc-no.-25-147-supplemental-submission-3.1-september-2025)
+* P.S. / Stratford evidence supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026)
+* Supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
+* Independent/supporting witness grievance: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
 
 #### Lowney / prosecutorial-misconduct track
 
-* Lowney grievance index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](odc-lowney-grievance-index.md)
-* April 28, 2026 Lowney grievance: [Grievance to Montana ODC — Brian Lowney](grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* PDF archive page: [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](odc-complaint-lowney-missoula-prosecutors-pdf.md)
+* Lowney grievance index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* April 28, 2026 Lowney grievance: [Grievance to Montana ODC — Brian Lowney](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* PDF archive page: [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf)
 
 ### Procedural posture
 

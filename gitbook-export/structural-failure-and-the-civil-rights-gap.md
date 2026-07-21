@@ -19,7 +19,7 @@ tags:
 # The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation
 
 {% hint style="info" %}
-Companion report: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md).
+Companion report: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum).
 {% endhint %}
 
 * **Prepared by:** MISJustice Alliance — Anonymous Legal Assistance Group

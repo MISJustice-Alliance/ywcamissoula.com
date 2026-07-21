@@ -9,10 +9,10 @@ This page is a sub-index for Fourth Amendment evidence themes: alleged unlawful 
 ### Verify first (primary artifacts)
 
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* CR-2025-002 packet index: [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-* §1983 claims overview (context): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* CR-2025-002 packet index: [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* §1983 claims overview (context): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
 
 ### 2015 Edmonds SWAT / excessive-force posture
 
@@ -22,7 +22,7 @@ This page is a sub-index for Fourth Amendment evidence themes: alleged unlawful 
 
 ### August 2018 warrantless home entry and detention
 
-Pair this page with: [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](../../../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
+Pair this page with: [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 
 Key supporting items:
 
@@ -32,7 +32,7 @@ Key supporting items:
 
 ### Facebook “all data” warrant as a fishing expedition
 
-Pair this page with: [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../../../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
+Pair this page with: [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
 
 Key supporting items:
 
@@ -42,7 +42,7 @@ Key supporting items:
 
 ***
 
-**Previous:** [Scope and primary evidence types](scope-and-primary-evidence-types.md) · **Next:** [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md)
+**Previous:** [Scope and primary evidence types](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types) · **Next:** [Fabricated evidence and false reporting](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting)
 
 ### Related
 

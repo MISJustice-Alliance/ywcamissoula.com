@@ -29,6 +29,6 @@ This document is a formal grievance filed with the Montana Office of Disciplinar
 
 ## Context
 
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](./odc-lowney-grievance-index.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](../datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026)

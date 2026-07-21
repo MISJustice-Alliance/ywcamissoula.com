@@ -102,7 +102,7 @@ No new Montana Supreme Court attorney discipline orders found in publicly availa
 
 # Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)
 
-Quick hub: [Missoula Police](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md) · [YWCA conflicts](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
+Quick hub: [Missoula Police](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index) · [YWCA conflicts](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 
 ### Executive snapshot
 
@@ -112,11 +112,11 @@ This page synthesizes research findings on civil-rights litigation under **42 U.
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
-* YWCA–MPD conflicts hub: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* MPD misconduct index: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
-* Missoula §1983 claims: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary citations hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* YWCA–MPD conflicts hub: [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
+* MPD misconduct index: [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
+* Missoula §1983 claims: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
 
 ---
 
@@ -686,12 +686,12 @@ Drawing on the synthesis and cross-validation with the broader Space record, the
 
 ## Related
 
-* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
-* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* [YWCA of Missoula conflict of interest: board conflicts and police integration](legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
-* [YWCA of Missoula: captured system overview](ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
-* [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
+* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
+* [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
+* [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
+* [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 
 ---
 

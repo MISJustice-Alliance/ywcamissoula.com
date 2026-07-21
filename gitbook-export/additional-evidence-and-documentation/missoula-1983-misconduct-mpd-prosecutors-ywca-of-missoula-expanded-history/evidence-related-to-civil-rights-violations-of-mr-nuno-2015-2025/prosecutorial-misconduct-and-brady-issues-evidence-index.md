@@ -18,13 +18,13 @@ Use it to move from theme → documents → packet-ready citations, then validat
 
 ### Verify first (primary artifacts)
 
-* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./README.md)
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
+* Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * CR packet indexes:
-  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+  * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+  * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 ### Definition (for quoteability)
 
@@ -35,16 +35,16 @@ Whether either applies is always **fact-specific** and depends on materiality an
 
 ### Key documents (high-signal)
 
-* [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](prosecutorial-misconduct-evidence.md)
-* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](../../../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
-* [Missoula Charging Documents](../../../stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../../../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)
-* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../../../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-* [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](../../../montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence)
+* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Missoula Charging Documents](https://www.ywcaofmissoula.com/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
+* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
 
 ### FAQ
 
@@ -64,32 +64,32 @@ Then follow the linked packets and rulings.
 
 They are collected under the published case file indexes.
 
-Start with [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md).
+Start with [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index).
 
 #### How does this connect to §1983?
 
 Brady and malicious prosecution themes are used here to support federal civil-rights theories.
 
-Start with [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md).
+Start with [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025).
 
 #### Where are the underlying primary records?
 
 Use the record indexes first, then follow event-by-event links.
 
-Start with [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md).
+Start with [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index).
 
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](../../../research-reports-legal-advocacy-and-analysis/README.md)
-* [Missoula Police Department](../../../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
-* [YWCA of Missoula](../../../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
-* [Missoula County Prosecutors Office](../../../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
-* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../../../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-* [Montana State Institutional Failures](../../../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../../../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-* [US Legal System Gaps & Analysis](../../../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
-* [Multi-Jurisdiction & Cross-State Legal Analysis](../../../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
+* [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
+* [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
+* [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related
 
 {% include "../../../.gitbook/includes/related-links-global (1).md" %}

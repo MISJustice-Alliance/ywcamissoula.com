@@ -35,5 +35,5 @@ Archive summaries note that following this complaint, Smith was removed from any
 
 ## Primary Source
 
-- [Full complaint analysis and primary-source text](officer-ethan-smith-complaint-march-2018.md)
+- [Full complaint analysis and primary-source text](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-march-2018)
 - [Original complaint letter (PDF)](.gitbook/assets/Officer_Ethan_Smith_Complaint-March-2018.pdf)

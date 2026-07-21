@@ -11,19 +11,19 @@ Use it to route into the underlying complaint artifacts, timeline waypoints, and
 ### Verify first (primary artifacts)
 
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../../../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* MPD retaliation jump page: [MPD retaliation and escalation after complaints (evidence index)](mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* MPD retaliation jump page: [MPD retaliation and escalation after complaints (evidence index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index)
 * CR packet indexes:
-  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
-  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-* §1983 claims overview (context): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../../../civil-rights-violations-and-related-claims-2015-2025.md)
+  * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+  * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* §1983 claims overview (context): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
 
 ### Protected activity records
 
 * The written YWCA complaint and attachments.
 * Documentation of follow-on complaints to government offices.
-* CR-2025-001 outreach packets: [case files index](cr-2025-001-case-files-index.md)
+* CR-2025-001 outreach packets: [case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * Timelines showing escalation after protected petitioning activity.
 
 ### Causation support
@@ -34,11 +34,11 @@ Use it to route into the underlying complaint artifacts, timeline waypoints, and
 
 ### Related deep dive
 
-* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case.md) (Dec 23, 2020 correspondence; SOL timing)
+* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case) (Dec 23, 2020 correspondence; SOL timing)
 
 ***
 
-**Previous:** [Fabricated evidence and false reporting](fabricated-evidence-and-false-reporting.md) · **Next:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/)
+**Previous:** [Fabricated evidence and false reporting](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting) · **Next:** [Legal malpractice evidence (Bryan Tipp)](legal-malpractice-evidence-bryan-tipp/)
 
 ### Related
 

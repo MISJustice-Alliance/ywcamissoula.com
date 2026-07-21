@@ -33,11 +33,11 @@ This page is the public audit dataset for search, Dataset Search, and AI crawler
 
 ### Verify first
 
-* Dataset catalog: [Dataset Catalog Indexes](dataset-catalog-indexes.md)
-* Structured-data source of truth: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
-* Dataset CSV export: [Dataset CSV export](dataset-csv-export.md)
-* Source/citation hub: [Sources & record index](../overview/sources-and-record-index.md)
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Dataset catalog: [Dataset Catalog Indexes](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
+* Structured-data source of truth: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
+* Dataset CSV export: [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export)
+* Source/citation hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * AI crawler map: [llms.txt](https://www.ywcaofmissoula.com/llms.txt)
 
 ### What this audit measures
@@ -54,17 +54,17 @@ This audit evaluates whether important GitBook pages are discoverable, internall
 
 ### Current priority findings
 
-* This audit page is now public-facing and should remain listed in [Dataset Catalog Indexes](dataset-catalog-indexes.md), [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md), [Dataset CSV export](dataset-csv-export.md), `SUMMARY.md`, and `llms.txt`.
+* This audit page is now public-facing and should remain listed in [Dataset Catalog Indexes](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes), [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values), [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export), `SUMMARY.md`, and `llms.txt`.
 * Dataset canonical URLs should use one hostname consistently: `https://www.ywcaofmissoula.com`.
 * External packets are classified as `distribution` values in the structured-data registry; reserve `sameAs` for equivalent copies or mirrors of a dataset landing page.
 * The repo now includes `llms.txt`, `robots.txt`, and `sitemap.xml`. Confirm after deployment that the published GitBook domain serves all three files from the public root.
 
 ### Related dataset pages
 
-* [Dataset: YWCA of Missoula alleged misconduct (2012-present)](dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
-* [Dataset: Missoula Police + prosecutors alleged misconduct (2012-present)](dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
-* [Dataset: Nuno case civil-rights violations and timeline (2014-2025)](dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
-* [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* [Dataset: YWCA of Missoula alleged misconduct (2012-present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012-present)](https://www.ywcaofmissoula.com/datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present)
+* [Dataset: Nuno case civil-rights violations and timeline (2014-2025)](https://www.ywcaofmissoula.com/datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025)
+* [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 ### External Dataset JSON-LD draft
 
@@ -181,14 +181,14 @@ Use this as the default “first screen” for every Legal Analysis page.
 
 Legal Analysis pages updated for Priority 0:
 
-* ✅ [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* ✅ [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* ✅ [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* ✅ [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](../legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co.md)
-* ✅ [YWCA of Missoula conflict of interest: board conflicts and police integration](../legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration.md)
-* ✅ [YWCA of Missoula: captured system overview](../ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
-* ✅ [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](../ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
-* ✅ [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](../update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation.md)
+* ✅ [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* ✅ [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
+* ✅ [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
+* ✅ [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](https://www.ywcaofmissoula.com/legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co)
+* ✅ [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
+* ✅ [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
+* ✅ [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
+* ✅ [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
 
 Supporting work:
 
@@ -197,59 +197,59 @@ Supporting work:
 
 Overview hubs updated for Priority 0:
 
-* ✅ [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
-* ✅ [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
-* ✅ [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* ✅ [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
-* ✅ [Sources & record index](../overview/sources-and-record-index.md)
-* ✅ [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
-* ✅ [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](../overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md)
-* ✅ [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](../overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index.md)
-* ✅ [Washington/Montana Legal Cases Index](../washington-montana-legal-cases-index.md)
-* ✅ [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
-* ✅ [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* ✅ [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* ✅ [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](https://www.ywcaofmissoula.com)
+* ✅ [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
+* ✅ [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* ✅ [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
+* ✅ [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* ✅ [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* ✅ [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
+* ✅ [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
+* ✅ [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/washington-montana-legal-cases-index)
+* ✅ [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
+* ✅ [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* ✅ [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 Dataset catalog + dataset landing pages updated for Priority 0:
 
-* ✅ [Dataset Catalog Indexes](dataset-catalog-indexes.md)
-* ✅ [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
-* ✅ [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
-* ✅ [Dataset: YWCA of Missoula alleged misconduct (2012–present)](dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
-* ✅ [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
-* ✅ [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
-* ✅ [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
+* ✅ [Dataset Catalog Indexes](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
+* ✅ [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](https://www.ywcaofmissoula.com/datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025)
+* ✅ [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present)
+* ✅ [Dataset: YWCA of Missoula alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
+* ✅ [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](https://www.ywcaofmissoula.com/datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025)
+* ✅ [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](https://www.ywcaofmissoula.com/datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025)
+* ✅ [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](https://www.ywcaofmissoula.com/datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025)
 
 MisJustice Alliance internal case-file index pages updated for Priority 0:
 
-* ✅ [MisJustice Alliance case file: d81209a2](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
-* ✅ [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
-* ✅ [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+* ✅ [MisJustice Alliance case file: d81209a2](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...)
+* ✅ [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
+* ✅ [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
 
 Montana + Washington case index pages updated for Priority 0:
 
-* ✅ [Montana Legal Cases](../montana-legal-cases.md)
-* ✅ [Washington Legal Cases Index](../washington-legal-cases-index.md)
+* ✅ [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
+* ✅ [Washington Legal Cases Index](https://www.ywcaofmissoula.com/washington-legal-cases-index)
 
 Discipline + evidence router pages updated for Priority 0:
 
-* ✅ [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* ✅ [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * ✅ [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/)
 
 Evidence sub-index pages updated for Priority 0:
 
-* ✅ [Fourth Amendment evidence (entry, seizure, and digital search)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search.md)
-* ✅ [Fabricated evidence and false reporting](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting.md)
-* ✅ [MPD retaliation and escalation after complaints (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
-* ✅ [First Amendment retaliation evidence (protected speech → escalation)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation.md)
-* ✅ [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
-* ✅ [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md)
-* ✅ [Damages evidence (quantified and non-economic)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
-* ✅ [YWCA institutional liability evidence](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence.md)
-* ✅ [Ongoing harassment and RICO predicate framing](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing.md)
-* ✅ [Scope and primary evidence types](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types.md)
+* ✅ [Fourth Amendment evidence (entry, seizure, and digital search)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search)
+* ✅ [Fabricated evidence and false reporting](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fabricated-evidence-and-false-reporting)
+* ✅ [MPD retaliation and escalation after complaints (evidence index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index)
+* ✅ [First Amendment retaliation evidence (protected speech → escalation)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/first-amendment-retaliation-evidence-protected-speech-escalation)
+* ✅ [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index)
+* ✅ [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence)
+* ✅ [Damages evidence (quantified and non-economic)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic)
+* ✅ [YWCA institutional liability evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence)
+* ✅ [Ongoing harassment and RICO predicate framing](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing)
+* ✅ [Scope and primary evidence types](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/scope-and-primary-evidence-types)
 * ✅ [Legal malpractice evidence (Bryan Tipp)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
-* ✅ [YWCA of Missoula board conflicts (investigative index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md)
+* ✅ [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 
 #### Primary goals for this section
 
@@ -311,7 +311,7 @@ That makes LLM quotes more accurate.
 
 **Missoula §1983 misconduct hub**
 
-Target page: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](../civil-rights-violations-and-related-claims-2015-2025.md)
+Target page: [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
 
 * Add a **one-screen** “Claim index” near the top.
 * Replace “Estimated Total Damages” language with:
@@ -321,7 +321,7 @@ Target page: [Missoula §1983 misconduct: civil rights violations and related cl
 
 **Fourteenth Amendment analysis**
 
-Target page: [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
+Target page: [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
 
 * Tighten the title to the query:
   * “Fourteenth Amendment (Due Process + Equal Protection) — WA/MT (2015–2025)”
@@ -332,16 +332,16 @@ Target page: [Full Analysis of Fourteenth Amendment Equal Protection and Due Pro
 
 **Tipp malpractice analysis**
 
-Target page: [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+Target page: [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 
 * Fix the header numbering (it jumps from III to VI).
 * Split “damages model” into a clearly labeled subsection.
 * Add a “Verify first” link to the **case file index**:
-  * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+  * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 
 **YWCA institutional capture overview**
 
-Target page: [YWCA of Missoula: captured system overview](../ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f.md)
+Target page: [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 
 * Move “RICO” and “criminal activity” language lower.
 * Add a “What this page alleges” bullet list.
@@ -378,11 +378,11 @@ Montana case pages should rank for **event + year + county** queries.
 
 #### Quick link targets
 
-* Montana hub: [Montana Legal Cases](../montana-legal-cases.md)
+* Montana hub: [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
 * High-signal pages:
-  * [Aug 2018: warrantless arrest and false imprisonment](../home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
-  * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](../fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
-  * [2017–2019 stalking charges (MT): civil-rights violations](../2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
+  * [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
+  * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
+  * [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
 
 ***
 
@@ -413,11 +413,11 @@ Washington case pages should rank for **city + year + case posture** queries.
 
 #### Quick link targets
 
-* WA index: [Washington Legal Cases Index](../washington-legal-cases-index.md)
+* WA index: [Washington Legal Cases Index](https://www.ywcaofmissoula.com/washington-legal-cases-index)
 * High-signal pages:
-  * [WA (2015–2017): plea withdrawal and ineffective assistance](../2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
-  * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](../2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
-  * [Seattle OPA Complaint - 2016OPA-1167 (2016)](../seattle-opa-complaint-2016opa-1167-2016.md)
+  * [WA (2015–2017): plea withdrawal and ineffective assistance](https://www.ywcaofmissoula.com/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
+  * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
+  * [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/seattle-opa-complaint-2016opa-1167-2016)
 
 ***
 
@@ -450,9 +450,9 @@ These pages are “document SEO” gold. People search the exact filing type.
 
 #### Quick link targets
 
-* Complaints index: [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
+* Complaints index: [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * DOJ filing: [Federal DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
-* FBI follow-up: [FBI referral request (Nov 2025)](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
+* FBI follow-up: [FBI referral request (Nov 2025)](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
 
 ***
 
@@ -479,9 +479,9 @@ This section should rank for **attorney name + ODC number** queries.
 
 #### Quick link targets
 
-* Canonical index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* Canonical index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * Complaint packet: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/)
-* ODC ruling: [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md)
+* ODC ruling: [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025)
 
 ***
 
@@ -498,8 +498,8 @@ Treat this as a “filing library”. Filing libraries do well when they’re co
 
 #### Quick link targets
 
-* [WA State Bar Complaint: Patricia Fulton (2016)](../wa-state-bar-complaint-patricia-fulton-2016.md)
-* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](../wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
+* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/wa-state-bar-complaint-patricia-fulton-2016)
+* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
 
 ***
 
@@ -519,7 +519,7 @@ This content is high-risk for defamation issues and low-quality rater triggers.
 
 #### Quick link target
 
-* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
+* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 
 ***
 
@@ -547,9 +547,9 @@ These are the “evidence routers”. They should be the most internally linked 
 
 * Standardize **Executive snapshot** + **Verify first** blocks across Legal Analysis.
 * Make canonical hubs link to:
-  * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-  * [Sources & record index](../overview/sources-and-record-index.md)
-  * [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+  * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+  * [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+  * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
 
 #### Priority 1 (reduce quality/risk flags)
 
@@ -567,7 +567,7 @@ These are the “evidence routers”. They should be the most internally linked 
 
 Progress:
 
-* ✅ [Glossary (doctrines, agencies, entities)](../reference/glossary-doctrines-agencies-entities.md)
+* ✅ [Glossary (doctrines, agencies, entities)](https://www.ywcaofmissoula.com/reference/glossary-doctrines-agencies-entities)
 
 {% hint style="warning" %}
 Nothing here is legal advice.

@@ -52,33 +52,33 @@ The September 2018 stalking charging documents are used here as a hub for the wi
 
 ## 3. Damages and harm
 
-* [Damages evidence (quantified and non-economic)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic.md)
-* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* [Damages evidence (quantified and non-economic)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic)
+* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 
 Use these pages for the claimed injury story: emotional distress, economic loss, reputational harm, and the broader impact on daily life.
 
 ## 4. Harm to friends and family
 
-* [Officer Ethan Smith Complaint Analysis — March 2018](officer-ethan-smith-complaint-analysis-march-2018.md)
-* [MPD Officer Misconduct: Ethan Smith Timeline](mpd-officer-misconduct-ethan-smith-timeline.md)
-* [Officer Ethan Smith Complaint — March 2018](officer-ethan-smith-complaint-march-2018.md)
+* [Officer Ethan Smith Complaint Analysis — March 2018](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-analysis-march-2018)
+* [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/mpd-officer-misconduct-ethan-smith-timeline)
+* [Officer Ethan Smith Complaint — March 2018](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-march-2018)
 
 These pages help show how contact with family members, repeated outreach, and pressure on uninvolved relatives became part of the harm pattern.
 
 ## 5. The P.S. email
 
-* [Public Addendum: August 14, 2018 P.S. Email and Forwarding Chain](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-email-addendum-public.md)
-* [Public Addendum: P.S. Email, YWCA Complaint Handling, and Retaliation Concerns](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-addendum-public.md)
-* [Public Addendum: P.S. Email and the Bryan Tipp Representation Record](additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-tipp-malpractice-addendum-public.md)
+* [Public Addendum: August 14, 2018 P.S. Email and Forwarding Chain](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-email-addendum-public)
+* [Public Addendum: P.S. Email, YWCA Complaint Handling, and Retaliation Concerns](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-addendum-public)
+* [Public Addendum: P.S. Email and the Bryan Tipp Representation Record](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-tipp-malpractice-addendum-public)
 
 Plain-English version: someone sent a message that helped Elvis, and the record says it was forwarded into the machinery around the case. That matters because it may show favorable information being routed the wrong way instead of being handled fairly.
 
 ## 6. Other matters that help frame the case
 
-* [YWCA institutional liability evidence](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence.md)
-* [Sources & record index](overview/sources-and-record-index.md)
-* [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
+* [YWCA institutional liability evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence)
+* [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
 
 ## 7. Very short version
 

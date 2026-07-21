@@ -16,11 +16,11 @@ tags:
 
 # YWCA Brueckner conflict: allegations summary
 
-Quick hub: [YWCA Missoula](overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index.md).
+Quick hub: [YWCA Missoula](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index).
 
 This page summarizes alleged YWCA misconduct with a focus on **YWCA of Missoula conflict of interest** risks and downstream harm.
 
-For a document-first entry point, use: [YWCA of Missoula board conflicts (investigative index)](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index.md).
+For a document-first entry point, use: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index).
 
 The totality of available evidence presented here alleges that YWCA Missoula operates as a captured institution that harms vulnerable populations while functioning as an enforcement or escalation channel for retaliation against critics.
 

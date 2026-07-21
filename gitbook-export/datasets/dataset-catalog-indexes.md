@@ -16,13 +16,13 @@ This page is the dataset entry point for search engines and LLMs. It lists the c
 
 ### Verify first (primary artifacts)
 
-* Dataset structured-data values (single source of truth): [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
-* Source/citation hub: [Sources & record index](../overview/sources-and-record-index.md)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Dataset structured-data values (single source of truth): [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
+* Source/citation hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 
 Related:
 
-* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](seo-+-geo-audit-sitewide.md)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](https://www.ywcaofmissoula.com/datasets/seo-+-geo-audit-sitewide)
 
 ### Canonical URL rule
 
@@ -32,21 +32,21 @@ Keep internal GitBook paths for internal navigation only.
 
 ### Priority datasets
 
-* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025.md)
-* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present.md)
-* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
-* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](dataset-bryan-tipp-alleged-legal-malpractice-2017-2025.md)
-* [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
-* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025.md)
-* [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025.md)
+* [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](https://www.ywcaofmissoula.com/datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025)
+* [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present)
+* [Dataset: YWCA of Missoula alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
+* [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](https://www.ywcaofmissoula.com/datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025)
+* [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026)
+* [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](https://www.ywcaofmissoula.com/datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025)
+* [Dataset: Danielle Christine Chard / Bemis alleged criminal actions (2015–2025)](https://www.ywcaofmissoula.com/datasets/dataset-danielle-christine-chard-bemis-alleged-criminal-actions-2015-2025)
 
 ### Dataset operations pages
 
 These pages support Dataset Search, crawler access, and metadata maintenance.
 
-* [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
-* [Dataset CSV export](dataset-csv-export.md)
-* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](seo-+-geo-audit-sitewide.md)
+* [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
+* [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](https://www.ywcaofmissoula.com/datasets/seo-+-geo-audit-sitewide)
 
 ### Export dataset links
 
@@ -57,7 +57,7 @@ You usually want one of two exports:
 
 Or just copy from a prebuilt export:
 
-* [Dataset CSV export](dataset-csv-export.md)
+* [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export)
 
 #### Export landing-page URLs (quick)
 
@@ -69,7 +69,7 @@ If you need a “flat list” of URLs, open each dataset page and copy the addre
 
 Use the registry as the single source of truth:
 
-* [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 That page already stores:
 
@@ -94,16 +94,16 @@ Dataset: Example,/path/to/dataset,https://example.com/file2.pdf
 
 These pages are the best “routers” into the underlying primary records:
 
-* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](../README.md)
-* [Nuno case system overview and full article index](../overview/nuno-case-system-overview-and-full-article-index.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* [Sources & record index](../overview/sources-and-record-index.md)
+* [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](https://www.ywcaofmissoula.com)
+* [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 
 ### Structured data (Schema.org Dataset)
 
 Google’s Dataset Search is driven by **Dataset structured data** (JSON-LD).
 
-Copy-paste field values from: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+Copy-paste field values from: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 GitBook pages typically do not allow arbitrary script injection inside page body.
 
@@ -126,8 +126,8 @@ Recommended for downloads:
 
 When adding or renaming a dataset page:
 
-* Update: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
-* Update: [Dataset CSV export](dataset-csv-export.md)
+* Update: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
+* Update: [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export)
 * Ensure the dataset page links back here (so crawlers find the hub)
 
 {% hint style="info" %}
@@ -137,15 +137,15 @@ These pages are documentation and indexing. They summarize **allegations** and l
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](../research-reports-legal-advocacy-and-analysis/README.md)
-* [Missoula Police Department](../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
-* [YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
-* [Missoula County Prosecutors Office](../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
-* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-* [Montana State Institutional Failures](../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-* [US Legal System Gaps & Analysis](../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
-* [Multi-Jurisdiction & Cross-State Legal Analysis](../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
+* [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
+* [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
+* [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}

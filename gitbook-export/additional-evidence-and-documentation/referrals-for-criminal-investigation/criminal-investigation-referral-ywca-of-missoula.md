@@ -25,7 +25,7 @@ The primary record for this report is `YWCA of Missoula - Criminal Investigation
 | Entity type described in source | Federally funded nonprofit and community partner in Missoula sexual-assault response reforms |
 | Primary alleged institutional actors | E'Lise Chard, Rebecca Pettit, Detective Connie Brueckner, Officer Ethan Smith, Prosecutor Brian Lowney, and related law-enforcement/prosecution actors |
 | Primary period | Approximately 2012 through 2025, with central events in 2018 |
-| Related reports | [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](criminal-investigation-referral-elise-chard.md); [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](criminal-investigation-referral-danielle-chard-bemis.md) |
+| Related reports | [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-elise-chard); [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis) |
 | Principal jurisdictional focus | Missoula County, Montana; District of Montana federal screening; Washington coordination screen for the alleged false-extradition incident |
 
 ## Executive narrative

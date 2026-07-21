@@ -26,11 +26,11 @@ This page analyzes a First Amendment retaliation / petition-for-redress theory i
 
 ### Verify first (primary artifacts)
 
-* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present.md)
+* YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
 * Complaint + character reference packet (Aug 2018): https://cr-2025-002-evidence-17\_misjusticealliance.arweave.net/
 * MPD complaint packet re: Officer Smith: https://cr-2025-002-complaint-13\_misjusticealliance.arweave.net/
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Primary citations hub: [Sources & record index](overview/sources-and-record-index.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Primary citations hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 
 This legal analysis evaluates potential institutional liability theories tied to alleged First Amendment retaliation after complaints.
 

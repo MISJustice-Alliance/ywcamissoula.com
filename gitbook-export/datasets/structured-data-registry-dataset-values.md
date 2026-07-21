@@ -15,9 +15,9 @@ Use it when adding site-level Dataset JSON-LD via theme/header injection.
 
 ### Related pages (keep in sync)
 
-* [Dataset Catalog Indexes](dataset-catalog-indexes.md)
-* [Dataset CSV export](dataset-csv-export.md)
-* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](seo-+-geo-audit-sitewide.md)
+* [Dataset Catalog Indexes](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
+* [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export)
+* [Dataset SEO/GEO Audit: YWCA of Missoula GitBook Indexing and Crawler Optimization](https://www.ywcaofmissoula.com/datasets/seo-+-geo-audit-sitewide)
 
 ### Canonical URL rule (SEO-critical)
 

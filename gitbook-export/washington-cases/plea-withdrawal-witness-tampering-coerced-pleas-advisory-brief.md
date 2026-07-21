@@ -38,15 +38,15 @@ That fact pattern matters because Washington law requires plea withdrawal where 
 ### Verify first
 
 * Downloadable primary record: [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
-* Existing Washington page: [2020 WA cases: witness tampering and coerced pleas](../2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
-* Edmonds case hub: [Edmonds Case (2015-2017)](edmonds-case-2015-2017.md)
-* Related IAC page: [WA (2015-2017): plea withdrawal and ineffective assistance](../2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
-* Due process analysis: [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* Emotional-distress damages analysis: [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* Psychiatric corroboration: [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
-* Timeline and claims map: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Retaliation context: [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
-* Montana harassment context: [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+* Existing Washington page: [2020 WA cases: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit)
+* Edmonds case hub: [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* Related IAC page: [WA (2015-2017): plea withdrawal and ineffective assistance](https://www.ywcaofmissoula.com/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
+* Due process analysis: [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
+* Emotional-distress damages analysis: [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
+* Psychiatric corroboration: [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice)
+* Timeline and claims map: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Retaliation context: [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
+* Montana harassment context: [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
 
 ## Record Summary
 
@@ -159,16 +159,16 @@ The sworn declaration materially strengthens the plea-withdrawal theory because 
 ### Primary project records
 
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
-* [2020 WA cases: witness tampering and coerced pleas](../2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit.md)
-* [Edmonds Case (2015-2017)](edmonds-case-2015-2017.md)
-* [WA (2015-2017): plea withdrawal and ineffective assistance](../2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
-* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](../full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
-* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-* [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations](../state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti.md)
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](../threats-malicious-harassment-from-ywca-associates-2020-2022.md)
-* [MPD retaliation and escalation after complaints (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
+* [2020 WA cases: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit)
+* [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [WA (2015-2017): plea withdrawal and ineffective assistance](https://www.ywcaofmissoula.com/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
+* [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
+* [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
+* [2019 Dr. Stratford psychiatric letter: GPS monitoring harm, Missoula/WA prosecution, and malpractice](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/2019-dr.-stratford-psychiatric-letter-gps-monitoring-harm-missoula-wa-prosecution-and-malpractice)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
+* [MPD retaliation and escalation after complaints (evidence index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index)
 
 ### Legal authorities
 

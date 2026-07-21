@@ -16,19 +16,19 @@ This page is the canonical source list for the project. It separates **primary r
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
-* Dataset landing pages (crawlable hubs): [Dataset Catalog Indexes](../datasets/dataset-catalog-indexes.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Dataset landing pages (crawlable hubs): [Dataset Catalog Indexes](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
 * Key packet indexes:
-  * [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-  * [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
-  * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-  * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
-  * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](../montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
-  * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](../montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
-  * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
-  * [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-  * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+  * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+  * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+  * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
+  * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+  * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
+  * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+  * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+  * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+  * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 {% hint style="info" %}
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
@@ -38,8 +38,8 @@ If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket
 
 These are crawlable “one URL per record set” hubs:
 
-* [Dataset catalog (Google indexing)](../datasets/dataset-catalog-indexes.md)
-* Registry (structured-data values): [Structured data registry (Dataset values)](../datasets/structured-data-registry-dataset-values.md)
+* [Dataset catalog (Google indexing)](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
+* Registry (structured-data values): [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 #### CR-2025-001 (case file: d81209a2)
 
@@ -49,8 +49,8 @@ External case page: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e
 
 Core internal indexes:
 
-* [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* [MisJustice Alliance case file: d81209a2](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* [MisJustice Alliance case file: d81209a2](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...)
 
 High-signal packets (direct links):
 
@@ -71,14 +71,14 @@ External case page: [https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aeb
 
 Core internal indexes:
 
-* [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
-* [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
 
 High-signal packets (direct links):
 
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
   * Tags: `declaration` `court-filing` `witness-tampering` `coerced-plea` `washington` `notarized`
-* [Washington plea withdrawal advisory: witness tampering and coerced pleas](../washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief.md)
+* [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
   * Tags: `legal-analysis` `postconviction` `plea-withdrawal` `witness-tampering` `washington`
 * [Case summary — criminal referral (2015–2025)](https://cr-2025-002-brief-2_misjusticealliance.arweave.net/)
   * Tags: `report` `court-filing` `misconduct` `fraud` `civil-rights` `discrimination` `final`
@@ -97,15 +97,15 @@ External case page: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc7
 
 Core internal indexes:
 
-* [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
-* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](../montana-bar-complaints/odc-lowney-grievance-index.md)
-* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](../montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
+* [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
 
 Latest ODC 25-147 disposition record:
 
-* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](../montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
-* [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](../montana-bar-complaints/odc-25-147-clarification-request-july-2026.md)
+* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis)
+* [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-clarification-request-july-2026)
 
 High-signal packets (direct links):
 
@@ -120,11 +120,11 @@ These are the canonical public “case file” pages. Use them when you need a s
 
 * Cases portal: [https://misjusticealliance.org/cases](https://misjusticealliance.org/cases)
 * Case file: [https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c](https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c)
-  * Internal index: [MisJustice Alliance case file: d81209a2](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2....md)
+  * Internal index: [MisJustice Alliance case file: d81209a2](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...)
 * Case file: [https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab](https://misjusticealliance.org/cases/daf82b62-28a3-4f15-aebc-e1ec257d83ab)
-  * Internal index: [MisJustice Alliance case file: daf82b62](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62....md)
+  * Internal index: [MisJustice Alliance case file: daf82b62](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...)
 * Case file (ODC 25-147 dossier): [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
-  * Internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
+  * Internal index: [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
 
 {% hint style="warning" %}
 To build a complete “document links” index in GitBook, paste the document list (titles + URLs) from each case file page into the matching internal index page above.
@@ -136,26 +136,26 @@ To build a complete “document links” index in GitBook, paste the document li
 
 Start with these hubs. They are designed to point to the underlying source documents.
 
-* [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-* [Washington/Montana Legal Cases Index](../washington-montana-legal-cases-index.md)
+* [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/washington-montana-legal-cases-index)
 
 #### 2) Official complaints (agency filings)
 
-* [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](../mpd-civilian-complaint-scorecard-analysis.md)
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](../Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+* [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 #### 3) Missoula systemic history and context
 
-* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/README.md)
+* [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 
 #### 4) Evidence maps (by theme)
 
-* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
-* [CR-2025-001 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
-* [CR-2025-002 — Case files index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
+* [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 Key external bibliography packet:
 
@@ -223,15 +223,15 @@ Key external bibliography packet:
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](../research-reports-legal-advocacy-and-analysis/README.md)
-* [Missoula Police Department](../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
-* [YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
-* [Missoula County Prosecutors Office](../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
-* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-* [Montana State Institutional Failures](../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-* [US Legal System Gaps & Analysis](../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
-* [Multi-Jurisdiction & Cross-State Legal Analysis](../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
+* [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
+* [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
+* [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}

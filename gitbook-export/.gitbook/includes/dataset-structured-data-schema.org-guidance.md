@@ -21,7 +21,7 @@ Recommended semantics:
 
 Copy-paste Dataset values from:
 
-* [Structured data registry (Dataset values)](../../datasets/structured-data-registry-dataset-values.md)
+* [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 Keep Schema.org `url` aligned with the public canonical URL.
 

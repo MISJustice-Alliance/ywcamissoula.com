@@ -44,7 +44,7 @@ Analysis of Seattle Office of Police Accountability complaint 2016OPA-1167 and i
 
 For the full constitutional analysis of the police report fabrication chain, see:
 
-* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167.md)
+* [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](https://www.ywcaofmissoula.com/washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167)
 
 ### Related
 

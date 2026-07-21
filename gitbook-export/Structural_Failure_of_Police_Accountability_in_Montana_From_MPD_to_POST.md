@@ -24,7 +24,7 @@ tags:
 
 **Prepared:** May 2026 | *For Investigative and Advocacy Use — Not Legal Advice*
 
-Companion page: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](./montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+Companion page: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ---
 
@@ -206,12 +206,12 @@ The secondary story is the POST pipeline: a paralegal reviewed and closed a mult
 
 For complementary analyses of MPD oversight data and structural reform requirements, see:
 
-* **[Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](./institutional-willful-blindness-pattern-analysis.md)** — Systemic analysis of how POST, ODC, and MPD OPS structurally prevent substantive review through procedural foreclosure
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
+* **[Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis)** — Systemic analysis of how POST, ODC, and MPD OPS structurally prevent substantive review through procedural foreclosure
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](mpd-civilian-complaint-scorecard-analysis.md)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
+* [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ### For State Legislators
 The CRV Committee's current evidence-gathering window makes this the appropriate moment to present these findings. The specific legislative failure points are:

@@ -16,9 +16,9 @@ This page serves as the routing index for criminal-investigation referral materi
 
 | Referral | Subject | Primary jurisdictions | Status |
 | --- | --- | --- | --- |
-| [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](criminal-investigation-referral-danielle-chard-bemis.md) | Danielle Christine Chard / Bemis | Washington, Montana, federal | Updated June 2026 from consolidated referral memorandum, attached declaration packet, and legal research |
-| [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](criminal-investigation-referral-elise-chard.md) | E'Lise Chard | Montana, Washington coordination screen, federal | Added June 2026 from updated E'Lise Chard referral packet and legal research |
-| [CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula](criminal-investigation-referral-ywca-of-missoula.md) | YWCA of Missoula | Montana, federal civil-rights/regulatory, Washington coordination screen | Added June 2026 from institutional referral packet and legal research |
+| [CRIMINAL INVESTIGATION REFERRAL - Danielle Chard / Bemis](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis) | Danielle Christine Chard / Bemis | Washington, Montana, federal | Updated June 2026 from consolidated referral memorandum, attached declaration packet, and legal research |
+| [CRIMINAL INVESTIGATION REFERRAL - E'Lise Chard](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-elise-chard) | E'Lise Chard | Montana, Washington coordination screen, federal | Added June 2026 from updated E'Lise Chard referral packet and legal research |
+| [CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-ywca-of-missoula) | YWCA of Missoula | Montana, federal civil-rights/regulatory, Washington coordination screen | Added June 2026 from institutional referral packet and legal research |
 
 ## Current evidence clusters
 

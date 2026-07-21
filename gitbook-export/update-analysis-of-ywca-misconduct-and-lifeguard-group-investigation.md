@@ -23,16 +23,16 @@ This page is an update tying the LifeGuard Group investigation material to a con
 
 ### Verify first (primary artifacts)
 
-* CR-2025-001 packet index: [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* CR-2025-001 packet index: [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * YWCA misconduct + LifeGuard Group cover-up (PDF): https://arweave.net/z090jtLboolS9BP\_oTv\_QSKSAhHTtev6iD\_MnI2IRCo
 * Relationship diagram (PNG): https://arweave.net/mAQT\_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 
 The documentation cited here is used to argue a pattern of governance conflict involving **Detective Connie Brueckner**, who simultaneously served on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees.
 
 ### Supporting documents (CR-2025-001)
 
-* [CR-2025-001 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index.md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * [YWCA misconduct + LifeGuard Group cover-up (PDF)](https://arweave.net/z090jtLboolS9BP_oTv_QSKSAhHTtev6iD_MnI2IRCo)
 * [YWCA relationship diagram (PNG)](https://arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w)
 

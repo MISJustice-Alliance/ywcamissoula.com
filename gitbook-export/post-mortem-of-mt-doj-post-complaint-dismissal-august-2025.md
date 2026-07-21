@@ -21,9 +21,9 @@ tags:
 
 Related:
 
-* [Original MT DoJ POST complaint (08-12-2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
-* [CR-2025-002 — Case files index](additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index.md)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](./institutional-willful-blindness-pattern-analysis.md) — Systemic analysis documenting POST's temporal-bar inversion and the broader pattern of procedural foreclosure across Montana oversight channels
+* [Original MT DoJ POST complaint (08-12-2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
+* [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis documenting POST's temporal-bar inversion and the broader pattern of procedural foreclosure across Montana oversight channels
 
 ## The Fundamental Misunderstanding
 
@@ -179,9 +179,9 @@ POST's dismissal demonstrates either failure to review documentation or institut
 
 ### See also
 
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](./montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
-* [MT DoJ POST Complaint (August 2025)](./mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [MT DoJ POST Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 
 ### Related
 

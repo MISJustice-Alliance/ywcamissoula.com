@@ -56,6 +56,6 @@ These public materials are not offered as a substitute for ODC’s direct review
 
 ## Related records
 
-* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-* [Supplemental Submission #4 (May 2026)](./mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md)
-* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](./odc-25-147-july-2026-closure-response-analysis.md)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
+* [Supplemental Submission #4 (May 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026)
+* [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis)

@@ -17,10 +17,10 @@ Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread in
 
 ### Primary entry points
 
-* [Source-backed investigative report](../../kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
-* [Remembering When: Missoula rape-capital era](../../../remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](../../../montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](../../../institutional-willful-blindness-pattern-analysis.md)
+* [Source-backed investigative report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report)
+* [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis)
 
 ## What this hub covers
 
@@ -30,5 +30,5 @@ Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread in
 
 ## Related reading
 
-* [Expanded history landing page](../README.md)
-* [Evidence map for the civil-rights record](../evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/README.md)
+* [Expanded history landing page](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
+* [Evidence map for the civil-rights record](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)

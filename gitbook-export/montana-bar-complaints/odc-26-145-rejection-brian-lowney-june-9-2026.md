@@ -50,7 +50,7 @@ Under that posture, the Commission review request should focus on four questions
 
 ## Related
 
-* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](./request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](./odc-lowney-grievance-index.md)
-* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)

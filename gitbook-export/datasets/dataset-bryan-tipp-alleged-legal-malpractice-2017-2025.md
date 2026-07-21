@@ -17,12 +17,12 @@ This dataset is the canonical landing page for record-linked **allegations** of 
 
 ### Verify first (primary artifacts)
 
-* Hub/router: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](../overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
-* Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-* CR-2025-003 internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
-* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
-* Structured-data values: [Structured data registry (Dataset values)](structured-data-registry-dataset-values.md)
+* Hub/router: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](https://www.ywcaofmissoula.com/overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index)
+* Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
+* CR-2025-003 internal index: [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
+* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Structured-data values: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 ### Scope
 
@@ -44,8 +44,8 @@ This dataset is not:
 
 ### Canonical entry points
 
-* Hub: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](../overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index.md)
-* Malpractice analysis: [Bryan Tipp malpractice (2017–2025)](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
+* Hub: [Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index](https://www.ywcaofmissoula.com/overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index)
+* Malpractice analysis: [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * Evidence hub: [Legal malpractice evidence (Bryan Tipp)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/)
 
 ### Primary published packets (downloadable)
@@ -56,8 +56,8 @@ Core packets:
 * https://cr-2025-003-ruling-2\_misjusticealliance.arweave.net/
 * https://cr-2025-003-other-23\_misjusticealliance.arweave.net/
 * https://cr-2025-003-evidence-21\_misjusticealliance.arweave.net/
-* Internal index: [MisJustice Alliance case file: 2df48ac7](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7....md)
-* Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* Internal index: [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
+* Bar-complaint index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 
 ### Suggested data model
 
@@ -76,7 +76,7 @@ Recommended fields:
 For credibility, keep each row anchored to a specific filing or email artifact.
 {% endhint %}
 
-**See also:** [Dataset catalog (Google indexing)](dataset-catalog-indexes.md)
+**See also:** [Dataset catalog (Google indexing)](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
 
 ### Related
 

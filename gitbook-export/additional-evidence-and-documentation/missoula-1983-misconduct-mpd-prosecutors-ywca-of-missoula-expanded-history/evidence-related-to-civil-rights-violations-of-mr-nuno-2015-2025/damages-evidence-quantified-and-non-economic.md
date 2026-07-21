@@ -11,12 +11,12 @@ Treat any totals as **assumes liability is proven** and requires admissible proo
 ### Verify first (primary artifacts)
 
 * Evidence hub (theme map): [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](./)
-* Canonical source list: [Sources & record index](../../../overview/sources-and-record-index.md)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](../../../police-reports,-court-docs,-and-correspondence-index.md)
-* Damages theory context (analysis): [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](../../../intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Damages theory context (analysis): [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
 * CR packet indexes:
-  * [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
-  * [CR-2025-002 — Case files index](cr-2025-002-case-files-index.md)
+  * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
+  * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 ### Quantified economic loss (claimed model): **$3,441,000**
 
@@ -37,13 +37,13 @@ Treat any totals as **assumes liability is proven** and requires admissible proo
 
 ### Related exhibits (CR-2025-001)
 
-* [CR-2025-001 — Case files index](cr-2025-001-case-files-index.md)
+* [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * [Estimated damages by victim class (chart)](https://cr-2025-001-evidence-6_misjusticealliance.arweave.net/)
 * [Federal funding chart (exhibit)](https://cr-2025-001-evidence-7_misjusticealliance.arweave.net/)
 
 ***
 
-**Previous:** [YWCA institutional liability evidence](ywca-institutional-liability-evidence.md) · **Next:** [Ongoing harassment and RICO predicate framing](ongoing-harassment-and-rico-predicate-framing.md)
+**Previous:** [YWCA institutional liability evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence) · **Next:** [Ongoing harassment and RICO predicate framing](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ongoing-harassment-and-rico-predicate-framing)
 
 ### Related
 

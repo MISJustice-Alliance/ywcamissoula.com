@@ -190,11 +190,11 @@ The case presents compelling claims under § 1983 for fabrication of evidence, f
 
 ### Related
 
-- [Edmonds Case (2015-2017)](edmonds-case-2015-2017.md)
-- [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](../2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis.md)
-- [2015-2016 Seattle Case & Related Civil Rights Violations](../2015-2016-seattle-case-related-civil-rights-violations.md)
-- [Washington/Montana Legal Cases Index](../washington-montana-legal-cases-index.md)
-- [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](../comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
-- [Police Reports, Court Docs, and Correspondence Index](../police-reports,-court-docs,-and-correspondence-index.md)
+- [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+- [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
+- [2015-2016 Seattle Case & Related Civil Rights Violations](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations)
+- [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/washington-montana-legal-cases-index)
+- [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+- [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}

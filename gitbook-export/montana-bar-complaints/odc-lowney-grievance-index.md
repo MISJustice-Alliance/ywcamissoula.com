@@ -24,13 +24,13 @@ The Lowney grievance is intertwined with ODC 25-147, the Bryan Tipp defense-coun
 
 ### Verify first (primary artifacts)
 
-* Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
-* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](./odc-26-145-rejection-brian-lowney-june-9-2026.md)
-* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](./request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
-* Dataset landing page: [Dataset: Brian Lowney prosecutorial misconduct grievance (2018–2026)](../datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
-* ODC 25-147 companion index (defense counsel): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-* Shared intake/case-authorities analysis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
-* Canonical source list: [Sources & record index](../overview/sources-and-record-index.md)
+* Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
+* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+* Dataset landing page: [Dataset: Brian Lowney prosecutorial misconduct grievance (2018–2026)](https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026)
+* ODC 25-147 companion index (defense counsel): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
+* Shared intake/case-authorities analysis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
+* Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 
 ### Target audience
 
@@ -50,10 +50,10 @@ It is also useful for **civil-rights advocates** and **technical readers** asses
 
 Related starting points:
 
-* [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
-* [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](../2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
-* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
-* [Allegations Against YWCA Board Member Detective Connie Brueckner](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
+* [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+* [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 
 ### Suggested reading order
 
@@ -69,67 +69,67 @@ Related starting points:
 
 #### Shared civil-intake analysis
 
-* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](./odc-25-147-lowney-case-authorities-analysis.md)
+* [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
   * **Summary:** Distinguishes the pending Lowney prosecutorial-misconduct grievance from the rejected Tipp ODC 25-147 defense-counsel complaint and frames both tracks for potential civil counsel and civil-rights advocacy organizations.
   * **What changed at this stage:** Adds a cross-track authorities map for Brady/Giglio, First Amendment retaliation, speech-waiver, and malpractice-intake issues.
 
 #### Primary grievance
 
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](./grievance-to-montana-odc-brian-lowney-4.28.2026.md)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
   * **Summary:** Formal ODC grievance alleging prosecutorial misconduct, Brady violations, abuse of process, and unconstitutional speech waiver in the prosecution of Cause No. DC-18-587.
   * **What changed at this stage:** This filing opens the prosecutorial-accountability track and documents exhaustion of non-judicial remedies prior to civil action.
-* [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](./odc-complaint-lowney-missoula-prosecutors-pdf.md)
+* [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf)
   * **Summary:** PDF archive of the formal ODC grievance permanently stored on Arweave. Contains the full court filing against Deputy County Attorney Brian Lowney and the Missoula County Attorney's Office.
   * **What changed at this stage:** Provides an immutable, verifiable primary source document for the grievance record.
 
 #### ODC disposition and Commission review
 
-* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](./odc-26-145-rejection-brian-lowney-june-9-2026.md)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
   * **Summary:** Public record page for ODC's dismissal letter. ODC dismissed the grievance as time-barred and set a July 9, 2026 deadline for Commission on Practice review.
   * **What changed at this stage:** The matter moved from initial grievance posture to review posture; ODC's stated reason became the Rule 11 limitations issue.
-* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](./request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
   * **Summary:** Expanded review request arguing that ODC's limitations analysis was incomplete and that Montana and federal authority support investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver allegations.
   * **What changed at this stage:** Adds the appellate-style response to ODC's closure and converts the Lowney record into a Commission-review packet.
 
 #### Supporting institutional context
 
-* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](../allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
   * **Summary:** Documents Detective Brueckner's undisclosed YWCA board membership and its implications for investigative integrity.
   * **What changed at this stage:** Establishes the material conflict of interest that underpins the Brady claim in the Lowney grievance.
-* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
+* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
   * **Summary:** Public complaint and victim statements regarding YWCA institutional conduct during the same period.
   * **What changed at this stage:** Frames the YWCA as an institution with a documented pattern of misconduct, contextualizing the protected-speech complaint that became the basis for stalking charges.
-* [Elise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](../elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
+* [Elise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
   * **Summary:** Analysis of the protection-order petition that preceded the criminal charges.
   * **What changed at this stage:** Shows the origin of the "stranger stalking" theory and the municipal-court findings that the subsequent district-court prosecution ignored.
-* [Post-Mortem of MT DOJ Post-Complaint Dismissal (August 2025)](../post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
+* [Post-Mortem of MT DOJ Post-Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
   * **Summary:** Analysis of DOJ dismissal patterns and institutional non-response.
   * **What changed at this stage:** Provides the administrative-exhaustion and institutional-capture framework within which the Lowney grievance operates.
 
 #### Companion ODC file (defense counsel)
 
-* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](./odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
   * **Summary:** Complete index of the malpractice complaint against defense counsel, including the original July 2025 complaint, supplemental submissions, ODC disposition/review materials, May 2026 supplemental evidence, and Tyrone/Eleanor Nuno witness submissions.
   * **What changed at this stage:** Together with the Lowney grievance, forms a dual-sided accountability record for the same underlying prosecution: Lowney is the prosecution-side ethics track, and Tipp is the defense-counsel malpractice track.
 
 #### Parallel federal and state tracks
 
-* [Federal and State Department Complaints](../state-and-federal-complaints/federal-and-state-department-complaints.md)
+* [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
   * **Summary:** Index of parallel complaints filed with DOJ, FBI, and state oversight bodies.
   * **What changed at this stage:** Locates the ODC grievance within the broader administrative-exhaustion strategy.
 
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](../research-reports-legal-advocacy-and-analysis/README.md)
-* [Missoula Police Department](../research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
-* [YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/ywca-of-missoula.md)
-* [Missoula County Prosecutors Office](../research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office.md)
-* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](../research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula.md)
-* [Montana State Institutional Failures](../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
-* [US Legal System Gaps & Analysis](../research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
-* [Multi-Jurisdiction & Cross-State Legal Analysis](../research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
+* [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
+* [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
+* [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
+* [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related
 
 {% include "../.gitbook/includes/related-links-global (1).md" %}
