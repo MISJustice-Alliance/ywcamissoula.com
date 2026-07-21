@@ -102,6 +102,7 @@ Mr Nuno is a prominent telecommunications professional and President of the Paci
 * **2018**: Formal complaint sent to YWCA & Google Review posted
 * **2018**: Home invasion, electronics seizure, and arrest during work meeting
 * **2018-2019**: Multi-jurisdictional legal challenges escalate
+* **2022-2024**: Missoula traffic matter, bench warrant escalation, and bondsman seizure — later traffic-related enforcement, reputational spread, and business-disruption harm
 * **2018-2025**: Ongoing malicious prosecution and civil rights violations
 
 ## II. Institutional coordination and conflict-of-interest theories (as framed in this record)
@@ -200,6 +201,8 @@ Taken together, the constitutional-violation pages present a consistent pattern:
 | Punitive Damages        | $5,000,000      | Institutional conspiracy  |
 | RICO Treble Damages     | $2,290,000      | Pattern of racketeering   |
 | **Total Damages**       | **$11,390,000** | **Conservative estimate** |
+
+The 2022–2024 traffic matter adds a separate, currently unquantified component for business interruption, reputational spread, and bond-related trauma. See [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024) for the incident spine before any revised damages total is published.
 
 ## V. Legal Malpractice: Bryan Tipp's Failures
 

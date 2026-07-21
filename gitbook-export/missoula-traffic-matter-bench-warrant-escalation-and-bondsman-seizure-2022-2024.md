@@ -142,6 +142,10 @@ Useful follow-on records would include:
 ### Related Montana records
 
 * [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
+* [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
+* [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 * [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 

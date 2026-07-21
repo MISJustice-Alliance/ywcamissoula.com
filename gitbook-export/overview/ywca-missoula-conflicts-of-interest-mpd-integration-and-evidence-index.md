@@ -40,6 +40,7 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 * Systemic accountability failure: [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 * First Amendment angle: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 * Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* Montana case record: [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 
 ### Remediation priorities
 

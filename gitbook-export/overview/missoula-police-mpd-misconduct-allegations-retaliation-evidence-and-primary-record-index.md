@@ -43,6 +43,7 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 * Fourth Amendment issues (entry, seizure, digital search): [Fourth Amendment evidence (entry, seizure, and digital search)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/fourth-amendment-evidence-entry-seizure-and-digital-search)
 * Facebook data-dump warrant analysis: [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
 * August 2018 incident: [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
+* 2022-2024 traffic matter escalation: [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 
 ### YWCA integration / conflict-of-interest thread
 

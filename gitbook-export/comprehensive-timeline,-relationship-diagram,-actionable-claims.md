@@ -122,6 +122,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 
 ### 2020-2025: Federal filings and formal grievances
 
+* [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 * [DOJ Civil Rights Division filing (August 2025)](state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/)
 * [FBI report filing (November 2025)](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
 * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
