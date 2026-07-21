@@ -18,7 +18,11 @@ tags:
 
 ### Executive snapshot
 
-This page converts a first-person complaint narrative into a record-first case summary for the Montana case record. The underlying traffic matter is not the main point. The advocacy significance is the apparent escalation: injury after a single-vehicle crash, a later bench warrant, reputational spread in small communities, loss of business and contract access, repeated custodial encounters, and an alleged armed seizure by a private bondsman.
+This page is one Montana Legal Cases entry in a larger record series. It reduces a first-person complaint narrative to a case-series summary focused on sequence, corroboration, and evidentiary value. The underlying traffic matter is not the main point; the record interest lies in the alleged escalation from a single-vehicle crash to a bench warrant, reputational spread in small communities, loss of business and contract access, repeated custodial encounters, and an alleged armed seizure by a private bondsman.
+
+### Series context
+
+Use this page together with the broader Montana index and adjacent case pages. It is written to function as a discrete record node inside the larger Montana Legal Cases cluster rather than as a self-contained narrative essay.
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
@@ -43,7 +47,7 @@ This page converts a first-person complaint narrative into a record-first case s
 * The claimant's reported inability to complete remote court appearances because of PTSD and panic attacks
 * An alleged armed seizure by a bondsman in a Walgreens parking lot before the matter resolved as a minor moving infraction with about $70 in fines
 
-### Claimant factual narrative
+### Case record narrative
 
 #### Accident, injury, and citation context
 
@@ -75,7 +79,7 @@ According to the statement, a bondsman who did not appear to be directly affilia
 
 The narrative further states that a bystander tried to intervene because the encounter appeared to be a kidnapping, and that the bondsman pointed the gun at the bystander and threatened him. The claimant was then taken to Missoula County Jail and brought before a judge within hours. The matter ultimately resolved as a minor moving infraction with roughly $70 in fines.
 
-### Core issues presented
+### Case-series relevance
 
 #### Disproportionate escalation from a minor underlying offense
 
@@ -97,7 +101,7 @@ The most serious allegation involves the bondsman encounter: a firearm, a possib
 
 ### Research and documentation value
 
-This page is not a legal conclusion. It is a structured fact spine meant to make the underlying narrative easier to verify, index, and expand with evidence.
+This page is not a legal conclusion. It is a structured fact spine meant to make the underlying narrative easier to verify, index, and expand with evidence, and to slot cleanly into the larger Montana series.
 
 Useful follow-on records would include:
 
@@ -121,7 +125,7 @@ Useful follow-on records would include:
 | Main harms alleged | Physical injury, reputational harm, access revocation, contract loss, PTSD / panic, and armed custodial trauma |
 | Evidence categories to attach | Medical records, citation and warrant records, jail records, court dockets, school communications, contract documents, witness statements, bond records, and licensing material |
 
-### Related
+### Related Montana records
 
 * [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
