@@ -354,8 +354,8 @@ The malpractice claim against Bryan Tipp remains the most document-intensive and
 
 ### Related analytical sources
 
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 
 ***
