@@ -97,21 +97,21 @@ The narrative further states that a bystander tried to intervene because the enc
 
 #### Disproportionate escalation from a minor underlying offense
 
-The central issue is the apparent mismatch between the underlying conduct and the cumulative response. A matter that allegedly ended with a small fine is described as producing repeated custody events, public stigma, severe physical and emotional trauma, business harm, and an armed private seizure.
+The core record question is whether the enforcement response remained proportionate to the underlying conduct. On the claimant's account, a matter that ultimately resolved as a minor moving infraction nevertheless produced repeated custody events, public stigma, financial disruption, and an armed private seizure.
 
-That disproportion matters for record development because it can change how future counsel evaluates damages, procedure, and institutional responsibility.
+If supported by records, that sequence is relevant not because it proves a single legal theory, but because it helps assess proportionality, procedure, and the extent to which escalating enforcement consequences exceeded the practical gravity of the original traffic matter.
 
 #### Reputational and business harm tied to criminal-label distortion
 
-A second issue is the alleged transformation of a traffic-related warrant matter into community rumor about an assault arrest. If supported by records, this could help explain the access revocation, contract loss, and broader reputational damage.
+A second issue is the alleged conversion of a traffic-related warrant matter into an assault narrative within the local community. If corroborated, that distinction matters. A traffic matter does not carry the same social meaning or collateral consequences as a violent-crime label, and the difference bears directly on the claimant's access to school work, contract renewal, and business continuity.
 
 #### Barriers to meaningful court participation
 
-The claimant says he attempted to appear remotely but could not complete court participation because of PTSD and panic attacks. The record question is whether those barriers were documented and whether the process accommodated them before punitive escalation continued.
+The claimant states that he attempted to appear remotely but could not complete court participation because of PTSD and panic attacks. The relevant record question is whether those barriers were documented, whether accommodation was meaningfully considered, and whether the process nevertheless continued toward harsher consequences without a workable participation path.
 
 #### Private bondsman force and custody concerns
 
-The most serious allegation involves the bondsman encounter: a firearm, a possible fake badge, physical seizure, and threats toward a third party. For research and referral purposes, this portion of the record may warrant scrutiny of licensing, authority, company affiliation, notice practices, and any public- or private-sector ratification of the conduct.
+The most serious allegation remains the private-custody encounter: a firearm, a possible fake badge, physical seizure, and threats toward a third party. At the record level, that sequence raises issues of authority, licensing, notice, identification, and possible ratification. Those questions are distinct from the underlying traffic matter but flow from the same escalation chain.
 
 ### Research and documentation value
 
