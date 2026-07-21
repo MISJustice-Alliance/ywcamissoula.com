@@ -1,18 +1,18 @@
 ---
-title: Research Reports, Legal Advocacy, and Analysis
+title: Research Reports, Legal Advocacy, and Analysis — Overview
 description: >-
-  Landing page for the site’s research-report and legal-advocacy section,
-  with sub-section hubs for MPD, YWCA, prosecutors, institutional
+  Overview page for the site’s research-report and legal-advocacy section,
+  with visible hub pages for MPD, YWCA, prosecutors, institutional
   collusion, state failures, DOJ history, and cross-jurisdiction claims.
 ---
 
-# Research Reports, Legal Advocacy, and Analysis
+# Research Reports, Legal Advocacy, and Analysis — Overview
 
 ### Executive snapshot
 
 This section groups the project’s long-form legal research, advocacy briefs, and theory-mapping pages. Start with the hub pages below, then follow the supporting evidence links inside each hub when you need record-backed context.
 
-### Sub-pages
+### Categories
 
 * [Missoula Police Department](missoula-police-department.md)
 * [YWCA of Missoula](ywca-of-missoula.md)
@@ -21,7 +21,6 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 * [Montana State Institutional Failures](montana-state-institutional-failures.md)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
 * [US Legal System Gaps & Analysis](us-legal-system-gaps-analysis.md)
-  * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md)
 * [Multi-Jurisdiction & Cross-State Legal Analysis](multi-jurisdiction-cross-state-legal-analysis.md)
 
 ### Related
