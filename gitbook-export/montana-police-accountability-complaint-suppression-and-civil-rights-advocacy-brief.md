@@ -202,7 +202,7 @@ That package does not prove a case by itself. It does, however, provide a cohere
 
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](./oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022.md)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](./policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
-* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](./missoula-police-oversight-students-guide-governance-structural-limitations.md)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](./Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](./mpd-civilian-complaint-scorecard-analysis.md)
 
