@@ -99,7 +99,7 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
     * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md)
   * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
 
-### Montana Cases
+### Montana Legal Cases
 
 Case files and evidence tied to Missoula, Montana, including:
 

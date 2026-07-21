@@ -42,7 +42,7 @@
 * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
   * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
   * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-
+## Montana Legal Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
 * [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith (Badge #345)](officer-ethan-smith-complaint-march-2018.md)
