@@ -187,6 +187,12 @@ Related starting points:
   * **Summary:** Reproduces ODC's July 10, 2026 closure response and compares its stated "no new information" rationale with the two exhibit-specific allegations in Supplemental Submission #4. Adds the governing disciplinary rules and carefully limited Montana precedent.
   * **What changed at this stage:** ODC confirmed that the matter remains closed after Commission review and warned against serial submissions; the public record now includes a source-separated analysis of that response.
 
+#### ODC July 30 closure letter analysis
+
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
+  * **Summary:** Analyzes the July 30, 2026 closure letter as a strategy-versus-duty response that narrows the complaint to an outcome-based technicality defense and omits individualized analysis of the conflict, witness, evidence, and diligence allegations.
+  * **What changed at this stage:** Adds the later July 30 closure letter as a distinct agency response and makes it easy to compare against the July 10 letter and Supplemental Submission #4.
+
 #### Clarification request (July 2026)
 
 * [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-clarification-request-july-2026)

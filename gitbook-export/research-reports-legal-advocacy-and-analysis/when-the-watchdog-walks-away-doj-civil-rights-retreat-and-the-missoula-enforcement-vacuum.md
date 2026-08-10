@@ -190,7 +190,7 @@ If the federal auditor has stepped back, the remaining question is whether local
 
 ### B. ODC and MPD complaint intake
 
-**[FACTUAL ALLEGATION]** The project alleges that ODC gatekeeping and MPD’s Office of Professional Standards have treated complaints from institutional partners differently from complaints made by the targets of investigations. Relevant records include [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis), [Structural Failure of Police Accountability in Montana](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST), and the [Connie Brueckner investigative report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report).
+**[FACTUAL ALLEGATION]** The project alleges that ODC gatekeeping and MPD’s Office of Professional Standards have treated complaints from institutional partners differently from complaints made by the targets of investigations. Relevant records include [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis), [Structural Failure of Police Accountability in Montana](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST), and the [Connie Brueckner investigative report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report).
 
 These materials can support requests for records, comparisons of intake outcomes, and investigation of consistency. They do not, without authenticated underlying records and a suitable comparator set, establish intentional discrimination or an official municipal custom.
 
@@ -300,7 +300,7 @@ The archive should continue—carefully labeled, source-linked, and candid about
 
 * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis)
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis)
 * [Structural Failure of Police Accountability in Montana](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 * [DOJ Investigation of Missoula County Institutional Failure (2012–2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
 * [Legal Analysis: YWCA Board Conflicts and Police Integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)

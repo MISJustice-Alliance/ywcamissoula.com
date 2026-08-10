@@ -105,6 +105,7 @@
 * [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](montana-bar-complaints/odc-25-147-clarification-request-july-2026.md)
 * [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 * [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis.md)
 
 ## ODC Lowney Grievance (2026)
 

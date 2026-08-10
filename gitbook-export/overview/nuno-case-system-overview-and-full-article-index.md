@@ -47,7 +47,7 @@ Use these first if you're validating the pattern or building an investigative ro
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)
 * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 
 ### Datasets (for Google discovery)
 
@@ -256,6 +256,7 @@ Use this documentation to:
   * [2018-09-12 ODC 25-147 Complaint Response - Bryan Tipp](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/2018-09-12-odc-25-147-complaint-response-bryan-tipp)
 * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4 (May 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026)
 * [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis)
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
 * [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-clarification-request-july-2026)
 * [Case Overview: MT Bar Complaint ODC No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)

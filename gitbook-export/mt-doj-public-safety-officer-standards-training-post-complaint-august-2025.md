@@ -27,7 +27,7 @@ Related correspondence:
 
 ### Pattern Analysis
 
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how POST's five-year temporal bar and other procedural mechanisms prevent substantive review of continuing-pattern complaints
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how POST's five-year temporal bar and other procedural mechanisms prevent substantive review of continuing-pattern complaints
 
 ## Summary
 

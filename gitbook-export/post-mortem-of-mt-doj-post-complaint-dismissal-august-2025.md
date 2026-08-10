@@ -23,7 +23,7 @@ Related:
 
 * [Original MT DoJ POST complaint (08-12-2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis documenting POST's temporal-bar inversion and the broader pattern of procedural foreclosure across Montana oversight channels
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis) — Systemic analysis documenting POST's temporal-bar inversion and the broader pattern of procedural foreclosure across Montana oversight channels
 
 ## The Fundamental Misunderstanding
 

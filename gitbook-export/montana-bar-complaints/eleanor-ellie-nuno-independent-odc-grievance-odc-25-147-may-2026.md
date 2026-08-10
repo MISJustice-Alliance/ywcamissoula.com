@@ -513,3 +513,9 @@ The following documents are available upon request and can be provided to suppor
 2. **Dr. William D. Stratford Jr. psychiatric letter** dated April 10, 2019
 
 I authorize the Office of Disciplinary Counsel to contact me directly to obtain copies of any of  materials or to arrange interviews regarding the matters set forth in this grievance.
+
+## Related records
+
+- [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+- [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis.md)
+- [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](odc-25-147-july-2026-closure-response-analysis.md)
