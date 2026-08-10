@@ -194,6 +194,16 @@ POST met **none** of these standards in its handling of Mr. Nuno's August 2025 c
 
 This is institutional negligence — a systematic abdication of the accountability function across every level of the oversight hierarchy. It is not a conspiracy. It is an architecture.
 
+### The ODC Parallel: Technical Closure as Accountability Foreclosure
+
+The July 30, 2026 ODC closure letter in ODC File No. 25-147 supplies a useful parallel to POST's own triage logic. Rather than engaging the underlying conduct allegation by allegation, ODC collapsed a concrete grievance into the label of "strategy," then treated the fact of a criminal dismissal with prejudice as sufficient to foreclose a deeper ethics inquiry. In the accompanying analysis, the complainant's specific allegations — conflict screening, witness interviews, the handling of mitigation evidence, and the alleged interference with exculpatory material — are all recast as though they were merely tactical choices that no disciplinary body need parse in detail.
+
+That move matters for a statewide accountability analysis because it shows how a state-level oversight body can preserve the appearance of review while withholding the predicate facts that would allow meaningful challenge. The letter's added claim that counsel "was able to provide explanation" is especially revealing: the agency does not reproduce the explanation, identify the document or interview note that contains it, or explain what independent record supports the conclusion. The result is an evidentiary black box — a closure that says an explanation exists without disclosing enough of it for the complainant, or any outside reviewer, to test.
+
+This is the same structural instinct that appears in POST's handling of continuing-pattern complaints: reduce the matter to a threshold category, preserve the closure, and avoid any obligation to address the underlying allegations in a way that can be checked against the record. The institutional form changes; the accountability effect does not.
+
+Relevant record: [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
+
 ***
 
 ## Part VI: Implications and Next Steps
@@ -207,6 +217,7 @@ The secondary story is the POST pipeline: a paralegal reviewed and closed a mult
 For complementary analyses of MPD oversight data and structural reform requirements, see:
 
 * **[Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis)** — Systemic analysis of how POST, ODC, and MPD OPS structurally prevent substantive review through procedural foreclosure
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
