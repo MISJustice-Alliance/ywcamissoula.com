@@ -44,7 +44,11 @@ That chronology matters. If the case was concluded because the parents finally d
 
 So the real question is not whether some tactical choices existed. It is whether the attorney's overall handling of the matter was competent, diligent, communicative, and loyal enough that a family would not have had to force the conclusion themselves. On that point, the July 30 letter does not engage the record in any meaningful way.
 
-## What the Letter Omits
+## First Amendment rights are not a bargaining chip
+
+The same record set also raises a different but related problem: the alleged trading of First Amendment rights for prosecutorial leniency. Even if someone tries to describe that as a matter of "strategy," the label does not cure the defect. Constitutional rights are not ordinary bargaining chips, and a waiver that is extracted as the price of leniency belongs in an unconstitutional-condition and professional-ethics analysis, not in a casual strategy narrative.
+
+The American Bar Association's Criminal Justice Standards are explicit on this point. Standard 3-5.8 says a prosecutor should not use a civil waiver to avoid a bona fide claim of improper law enforcement actions, and a disposition conditioned on relinquishing rights requires informed consent and disclosure. That is an ethics rule about seeking justice, not merely getting a case closed.
 
 What the letter does not do is equally important. It does not separately analyze the allegations that matter most to the disciplinary question:
 
