@@ -47,7 +47,9 @@ What the letter does not do is equally important. It does not separately analyze
 - the alleged interception of exculpatory character-witness communication;
 - the alleged failure to interview the complainant's parents regarding false statements attributed to them;
 - the alleged refusal to send a conflict-of-interest advocacy letter to the police chief;
-- the alleged 18-month delay and the concern that institutional cooperation was preferred over vigorous advocacy.
+- the alleged 18-month delay and the concern that institutional cooperation was preferred over vigorous advocacy;
+- the deferred-prosecution agreement condition that required removal of protected speech and functioned as a trade of First Amendment rights;
+- the practical effect of Mr. Tipp's negotiation choices, which the request-for-review materials describe as benefiting the prosecution and the YWCA of Missoula more than the client's civil-rights position.
 
 That omission matters because these are not all merely tactical questions. Some are threshold duties of competence, investigation, communication, and conflict analysis that must be satisfied before "strategy" even becomes a meaningful label.
 
@@ -96,6 +98,8 @@ Montana's disciplinary framework does not require a complainant to first obtain 
 
 The July 30 letter never squares with that basic principle. It treats the outcome as dispositive instead of treating the alleged conduct as independently reviewable.
 
+That omission is especially consequential when measured against the November 2025 Request for Review materials, which detail not only the First Amendment waiver embedded in the deferred-prosecution agreement but also the broader extension breakdown: the delay did not materially improve the client's position, but it did protect institutional actors by removing protected speech from public view and preserving the YWCA's preferred narrative.
+
 ## Relationship to the Earlier July 10 Closure Response
 
 This article should be read alongside the earlier July 10, 2026 closure-response analysis and the July 2026 clarification request. The July 10 letter is the earlier agency response; the July 30 letter is the later restatement of the same posture after the complainant asked for clarification.
@@ -116,6 +120,7 @@ The absence of any documentary anchor matters for review. It leaves the complain
 
 - [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](odc-25-147-july-2026-closure-response-analysis.md)
 - [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](odc-25-147-clarification-request-july-2026.md)
+- [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
 - [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
 - [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 - [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
