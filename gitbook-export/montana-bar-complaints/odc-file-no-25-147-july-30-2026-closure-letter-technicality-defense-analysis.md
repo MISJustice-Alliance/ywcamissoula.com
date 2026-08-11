@@ -36,6 +36,14 @@ Under that framing, ODC says that decisions about witnesses, evidence, and defen
 
 The analytical endpoint is familiar: because the criminal case was dismissed with prejudice, the representation is treated as effective enough to foreclose discipline.
 
+## Why the "strategy" frame is too narrow
+
+The record does not support treating this matter as a pure strategy dispute. Tyrone Nuno's May 2026 supporting-witness grievance states that the case "came to an end only after my ex-wife and I directly demanded that it be resolved" and that this was "a family reaching its limits and forcing a conclusion that should have come much sooner." Eleanor Nuno's independent grievance says the same thing in substance: the case ended only after she and Tyrone directly demanded resolution, not because counsel independently produced a successful result.
+
+That chronology matters. If the case was concluded because the parents finally demanded that it stop, then the outcome does not read as the product of a carefully executed defense strategy. It reads as a pressured ending after a prolonged period of perceived passivity, family exhaustion, and unresolved complaints about evidence, witnesses, and conflicts.
+
+So the real question is not whether some tactical choices existed. It is whether the attorney's overall handling of the matter was competent, diligent, communicative, and loyal enough that a family would not have had to force the conclusion themselves. On that point, the July 30 letter does not engage the record in any meaningful way.
+
 ## What the Letter Omits
 
 What the letter does not do is equally important. It does not separately analyze the allegations that matter most to the disciplinary question:
