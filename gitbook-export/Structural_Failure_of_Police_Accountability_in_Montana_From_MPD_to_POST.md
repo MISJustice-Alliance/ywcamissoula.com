@@ -202,7 +202,7 @@ That move matters for a statewide accountability analysis because it shows how a
 
 This is the same structural instinct that appears in POST's handling of continuing-pattern complaints: reduce the matter to a threshold category, preserve the closure, and avoid any obligation to address the underlying allegations in a way that can be checked against the record. The institutional form changes; the accountability effect does not.
 
-Relevant record: [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
+Relevant record: [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis) — now also tracking the DPA speech waiver, the gag-order effect, and the practical appeal barrier.
 
 ***
 

@@ -139,7 +139,7 @@ However, Mr. Tipp's chosen resolution benefitted different parties entirely:
 
 #### The Standard That Applies
 
-See also: [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](../odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis.md)
+See also: [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](../odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis.md) — includes the DPA speech-waiver, gag-order, and appeal-barrier analysis
 
 Montana disciplinary precedent establishes 7-month suspensions for attorneys who:
 

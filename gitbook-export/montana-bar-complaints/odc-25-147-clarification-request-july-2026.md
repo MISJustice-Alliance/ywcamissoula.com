@@ -59,4 +59,4 @@ These public materials are not offered as a substitute for ODC’s direct review
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * [Supplemental Submission #4 (May 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026)
 * [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis)
-* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis) — expanded with the DPA speech-waiver, gag-order, and appeal-barrier analysis

@@ -189,7 +189,7 @@ Related starting points:
 
 #### ODC July 30 closure letter analysis
 
-* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis) — now includes the DPA speech-waiver, gag-order, and appeal-barrier analysis
   * **Summary:** Analyzes the July 30, 2026 closure letter as a strategy-versus-duty response that narrows the complaint to an outcome-based technicality defense and omits individualized analysis of the conflict, witness, evidence, and diligence allegations.
   * **What changed at this stage:** Adds the later July 30 closure letter as a distinct agency response and makes it easy to compare against the July 10 letter and Supplemental Submission #4.
 

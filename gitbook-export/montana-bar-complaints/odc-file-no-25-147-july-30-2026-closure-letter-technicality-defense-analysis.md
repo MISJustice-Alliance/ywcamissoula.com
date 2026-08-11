@@ -94,13 +94,15 @@ A dismissal with prejudice does not retroactively cure:
 - a failure to investigate available exculpatory witnesses;
 - a failure to challenge harmful pretrial conditions;
 - a failure to communicate or advocate on the client's behalf;
-- a delay structure that may have favored institutional comfort over client urgency.
+- a deferred-prosecution agreement that traded away protected First Amendment speech;
+- a gag order or speech restriction that left the complainant unable to publicly defend himself against continuing harassment and defamation;
+- a delay structure that may have favored institutional comfort over client urgency and helped drive downstream business and financial losses.
 
 Montana's disciplinary framework does not require a complainant to first obtain civil damages or a separate civil-rights judgment before ODC can review attorney conduct. Nor does a favorable criminal outcome bar discipline if the conduct itself violated the rules.
 
 The July 30 letter never squares with that basic principle. It treats the outcome as dispositive instead of treating the alleged conduct as independently reviewable.
 
-That omission is especially consequential when measured against the November 2025 Request for Review materials, which detail not only the First Amendment waiver embedded in the deferred-prosecution agreement but also the broader extension breakdown: the delay did not materially improve the client's position, but it did protect institutional actors by removing protected speech from public view and preserving the YWCA's preferred narrative.
+That omission is especially consequential when measured against the November 2025 Request for Review materials, which detail not only the First Amendment waiver embedded in the deferred-prosecution agreement but also the broader extension breakdown: the delay did not materially improve the client's position, but it did protect institutional actors by removing protected speech from public view and preserving the YWCA's preferred narrative. The resulting gag-effect left the complainant unable to defend himself against continuing harassment and defamation, which he alleges contributed to the collapse of his business and losses in the tens of thousands to hundreds of thousands of dollars.
 
 ## Relationship to the Earlier July 10 Closure Response
 
