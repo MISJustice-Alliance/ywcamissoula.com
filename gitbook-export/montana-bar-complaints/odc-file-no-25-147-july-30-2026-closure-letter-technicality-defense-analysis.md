@@ -53,6 +53,8 @@ What the letter does not do is equally important. It does not separately analyze
 
 That omission matters because these are not all merely tactical questions. Some are threshold duties of competence, investigation, communication, and conflict analysis that must be satisfied before "strategy" even becomes a meaningful label.
 
+The hypocrisy is especially stark on the Connie Brueckner conflict. The request-for-review materials make the point that discovering her YWCA board position would have mattered to any competent defense strategy — and that it was one of the easiest facts in the entire file to uncover, because a basic Google search would have surfaced it in minutes. If Mr. Tipp could have found that conflict with minimal diligence and did not do so, then ODC's effort to rebrand the resulting omission as a mere "strategy decision" does not answer the real complaint; it proves the complaint.
+
 ## Rule-by-Rule Analysis
 
 The ODC letter is doctrinally accurate only at a very high level. Yes, lawyers generally control trial tactics while clients control objectives. But the letter stretches that proposition past its useful limit.
