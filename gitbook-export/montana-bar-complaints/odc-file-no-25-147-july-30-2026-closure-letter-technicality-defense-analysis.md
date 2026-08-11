@@ -118,6 +118,8 @@ This is not the same thing as ordinary confidentiality during an active investig
 
 The absence of any documentary anchor matters for review. It leaves the complainant being asked to accept ODC's summary conclusion on trust while being denied the predicate facts that would permit rebuttal. That is incompatible with the function of a closure letter that is supposed to support meaningful appeal or further oversight.
 
+The July 30 letter's appeal language is also misleading in practical terms. Being told that an appeal to the Montana Supreme Court exists is not the same as having the actual ability to stage that appeal. A meaningful Supreme Court appeal requires legal resources, and those resources generally come from counsel; here, the record the article discusses shows that no in-state attorney will take the matter, while finding out-of-state counsel licensed in Montana is a substantial and daunting task. So the letter's statement reads less like a genuine remedial pathway and more like a formalistic notification that ignores the real-world barriers to exercising the right.
+
 ## Related records
 
 - [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](odc-25-147-july-2026-closure-response-analysis.md)
