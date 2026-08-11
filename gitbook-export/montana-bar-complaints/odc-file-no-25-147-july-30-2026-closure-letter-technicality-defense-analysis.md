@@ -50,6 +50,8 @@ The same record set also raises a different but related problem: the alleged tra
 
 The American Bar Association's Criminal Justice Standards are explicit on this point. Standard 3-5.8 says a prosecutor should not use a civil waiver to avoid a bona fide claim of improper law enforcement actions, and a disposition conditioned on relinquishing rights requires informed consent and disclosure. That is an ethics rule about seeking justice, not merely getting a case closed.
 
+The broader point is that when "strategy" is stretched this far, it stops being a principled defense of advocacy choices and becomes an excuse for even the most unethical misconduct.
+
 What the letter does not do is equally important. It does not separately analyze the allegations that matter most to the disciplinary question:
 
 - the alleged conflict involving Detective Connie Brueckner and her YWCA board role;
