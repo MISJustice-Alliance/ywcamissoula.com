@@ -15,7 +15,7 @@ The linked analysis *When the Watchdog Walks Away* applies this framework to the
 
 ### Sub-pages
 
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap)
+* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
 
 ### Supporting evidence

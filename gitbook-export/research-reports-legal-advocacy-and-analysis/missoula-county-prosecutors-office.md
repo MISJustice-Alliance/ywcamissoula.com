@@ -18,7 +18,7 @@ This hub collects the prosecutor-facing analysis pages tied to charging, disclos
 
 ### Supporting evidence
 
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap)
+* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)

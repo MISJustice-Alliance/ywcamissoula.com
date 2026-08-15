@@ -14,7 +14,7 @@ tags:
 
 # When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum
 
-*A companion analysis to [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap) | MISJustice Alliance | July 2026*
+*A companion analysis to [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md) | MISJustice Alliance | July 2026*
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
@@ -299,7 +299,7 @@ The archive should continue—carefully labeled, source-linked, and candid about
 ## Related reading
 
 * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap)
+* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/montana-state-complaints/institutional-willful-blindness-pattern-analysis)
 * [Structural Failure of Police Accountability in Montana](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 * [DOJ Investigation of Missoula County Institutional Failure (2012–2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)

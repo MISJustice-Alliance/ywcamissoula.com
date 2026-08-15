@@ -20,7 +20,7 @@ This hub collects the cross-state pages that treat Washington and Montana as par
 
 * [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/washington-montana-legal-cases-index)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap)
+* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 
 ### Related
 
