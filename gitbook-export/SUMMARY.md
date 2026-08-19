@@ -4,6 +4,7 @@
 
 * [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](README.md)
 * [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
+* [Sworn Declaration of Elvis Nuno — Detailed Summary (notarized Dec 10, 2025)](sworn-declaration-of-elvis-nuno-detailed-summary.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](civil-rights-violations-and-related-claims-2015-2025.md)
 * [Washington/Montana Legal Cases Index](washington-montana-legal-cases-index.md)

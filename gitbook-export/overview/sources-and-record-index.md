@@ -78,6 +78,9 @@ High-signal packets (direct links):
 
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
   * Tags: `declaration` `court-filing` `witness-tampering` `coerced-plea` `washington` `notarized`
+* [Sworn Declaration of Elvis Nuno — Detailed Summary (notarized Dec 10, 2025)](https://www.ywcaofmissoula.com/sworn-declaration-of-elvis-nuno-detailed-summary)
+  * Embedded notarized PDF: [elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf](../.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf)
+  * Tags: `declaration` `court-filing` `criminal-referral` `perjury` `rico` `notarized`
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
   * Tags: `legal-analysis` `postconviction` `plea-withdrawal` `witness-tampering` `washington`
 * [Case summary — criminal referral (2015–2025)](https://cr-2025-002-brief-2_misjusticealliance.arweave.net/)
