@@ -20,13 +20,116 @@ tags:
 
 ## Embedded copy of the notarized declaration (December 10, 2025)
 
-The full notarized declaration is embedded below for inline reading:
+The full 35-page notarized declaration is reproduced inline below, page by page. The original PDF (with selectable text) remains available for download at the end of this section.
 
-<iframe src=".gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf" width="100%" height="900px" style="border: 1px solid #d0d0d0; border-radius: 4px;" title="Notarized sworn declaration of Elvis Nuno (December 10, 2025)"></iframe>
+> Prefer the written summary? [Skip to the Overview](#overview)
 
-If your browser does not render the embedded document, you can open it directly:
+**Page 1**
+![Page 1 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-01.jpg)
 
-📄 [Download the notarized sworn declaration PDF (35 pages)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf)
+**Page 2**
+![Page 2 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-02.jpg)
+
+**Page 3**
+![Page 3 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-03.jpg)
+
+**Page 4**
+![Page 4 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-04.jpg)
+
+**Page 5**
+![Page 5 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-05.jpg)
+
+**Page 6**
+![Page 6 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-06.jpg)
+
+**Page 7**
+![Page 7 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-07.jpg)
+
+**Page 8**
+![Page 8 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-08.jpg)
+
+**Page 9**
+![Page 9 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-09.jpg)
+
+**Page 10**
+![Page 10 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-10.jpg)
+
+**Page 11**
+![Page 11 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-11.jpg)
+
+**Page 12**
+![Page 12 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-12.jpg)
+
+**Page 13**
+![Page 13 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-13.jpg)
+
+**Page 14**
+![Page 14 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-14.jpg)
+
+**Page 15**
+![Page 15 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-15.jpg)
+
+**Page 16**
+![Page 16 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-16.jpg)
+
+**Page 17**
+![Page 17 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-17.jpg)
+
+**Page 18**
+![Page 18 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-18.jpg)
+
+**Page 19**
+![Page 19 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-19.jpg)
+
+**Page 20**
+![Page 20 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-20.jpg)
+
+**Page 21**
+![Page 21 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-21.jpg)
+
+**Page 22**
+![Page 22 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-22.jpg)
+
+**Page 23**
+![Page 23 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-23.jpg)
+
+**Page 24**
+![Page 24 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-24.jpg)
+
+**Page 25**
+![Page 25 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-25.jpg)
+
+**Page 26**
+![Page 26 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-26.jpg)
+
+**Page 27**
+![Page 27 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-27.jpg)
+
+**Page 28**
+![Page 28 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-28.jpg)
+
+**Page 29**
+![Page 29 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-29.jpg)
+
+**Page 30**
+![Page 30 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-30.jpg)
+
+**Page 31**
+![Page 31 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-31.jpg)
+
+**Page 32**
+![Page 32 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-32.jpg)
+
+**Page 33**
+![Page 33 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-33.jpg)
+
+**Page 34**
+![Page 34 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-34.jpg)
+
+**Page 35**
+![Page 35 of the notarized sworn declaration of Elvis Nuno (December 10, 2025)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025-p-35.jpg)
+
+📄 [Download the original notarized sworn declaration PDF (35 pages)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf)
 
 **Document:** *Sworn Declaration of Elvis Ryland Nuno, Under Penalty of Perjury* — submitted in support of criminal referral in **State of Montana v. E'Lise Chard, et al.** Executed **December 10, 2025**, sworn to and subscribed before a notary in Harris County, Texas (electronically signed and notarized online using the Proof platform). Declarant: **Elvis Ryland Nuno**, senior telecommunications engineer and primary developer and coordinating member of MISJustice Alliance.
 
