@@ -93,6 +93,6 @@ Readers who have experienced similar patterns—officers repeatedly contacting f
 
 - [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith (Badge #345)](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-march-2018)
 - [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/mpd-officer-misconduct-ethan-smith-timeline)
-- [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+- [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
 - [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
 - [MPD Civilian Complaint Scorecard & Accountability Analysis](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)

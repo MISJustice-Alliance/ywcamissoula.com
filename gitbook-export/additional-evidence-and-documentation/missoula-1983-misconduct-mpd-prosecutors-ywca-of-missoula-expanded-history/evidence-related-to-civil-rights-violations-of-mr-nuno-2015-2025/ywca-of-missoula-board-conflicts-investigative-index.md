@@ -28,7 +28,7 @@ This page is a jump index for investigating board-level conflict-of-interest and
 ### Key documents (high-signal)
 
 * [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
-* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)

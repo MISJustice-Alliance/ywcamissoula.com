@@ -34,7 +34,7 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 
 ### High-signal YWCA Missoula pages
 
-* Conflicts + allegations summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* Conflicts + allegations summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * Board-level conflicts index: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 * Institutional capture overview: [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * Systemic accountability failure: [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)

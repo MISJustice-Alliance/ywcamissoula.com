@@ -24,7 +24,7 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 * §1983 claims overview (analysis): [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)
 * MPD complaint scorecard analysis: [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
 * Structural accountability failure analysis: [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* Public-facing accountability brief: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* Public-facing accountability brief: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ### Start here
 
@@ -47,10 +47,10 @@ This page is the main router for **Missoula Police Department (MPD)** material. 
 
 ### YWCA integration / conflict-of-interest thread
 
-* YWCA conflict summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* YWCA conflict summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * Board-level conflicts index: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 * Systemic accountability failure analysis: [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* Companion advocacy brief: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* Companion advocacy brief: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
 
 {% hint style="info" %}

@@ -28,7 +28,7 @@ This page is the canonical source list for the project. It separates **primary r
   * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
   * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
   * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-  * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+  * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 {% hint style="info" %}
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
@@ -149,7 +149,7 @@ Start with these hubs. They are designed to point to the underlying source docum
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 #### 3) Missoula systemic history and context
 

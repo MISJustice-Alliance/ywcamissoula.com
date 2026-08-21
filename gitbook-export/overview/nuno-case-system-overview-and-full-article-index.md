@@ -182,7 +182,7 @@ Use this documentation to:
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 </details>
 
 <details>
@@ -190,9 +190,9 @@ Use this documentation to:
 <summary><strong>Montana Cases</strong></summary>
 
 * [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
-* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
-* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
-* [Missoula Charging Documents](https://www.ywcaofmissoula.com/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
+* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
@@ -204,7 +204,7 @@ Use this documentation to:
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 </details>
 
 <details>
@@ -272,7 +272,7 @@ Use this documentation to:
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
 

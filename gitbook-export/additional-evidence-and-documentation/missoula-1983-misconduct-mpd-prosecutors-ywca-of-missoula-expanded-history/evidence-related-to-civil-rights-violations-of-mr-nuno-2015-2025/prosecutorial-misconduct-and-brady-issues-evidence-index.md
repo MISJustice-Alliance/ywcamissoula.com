@@ -36,8 +36,8 @@ Whether either applies is always **fact-specific** and depends on materiality an
 ### Key documents (high-signal)
 
 * [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence)
-* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
-* [Missoula Charging Documents](https://www.ywcaofmissoula.com/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
+* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/civil-rights-violations-and-related-claims-2015-2025)

@@ -99,7 +99,7 @@ The scale of this accountability failure necessitates that the Montana Law and J
 * [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 

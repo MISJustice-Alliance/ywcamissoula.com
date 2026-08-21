@@ -24,7 +24,7 @@ tags:
 
 **Prepared:** May 2026 | *For Investigative and Advocacy Use — Not Legal Advice*
 
-Companion page: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+Companion page: [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ---
 
@@ -222,7 +222,7 @@ For complementary analyses of MPD oversight data and structural reform requireme
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ### For State Legislators
 The CRV Committee's current evidence-gathering window makes this the appropriate moment to present these findings. The specific legislative failure points are:

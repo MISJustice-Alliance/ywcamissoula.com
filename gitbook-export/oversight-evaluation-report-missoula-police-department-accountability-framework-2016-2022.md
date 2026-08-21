@@ -160,7 +160,7 @@ This evaluation concludes that the internal governance of the Missoula Police De
 
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
 * [Dataset: Missoula Police + prosecutors alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-missoula-police-+-prosecutors-alleged-misconduct-2012-present)
 

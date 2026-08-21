@@ -53,7 +53,7 @@ Related starting points:
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
-* [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 
 ### Suggested reading order
 
@@ -96,7 +96,7 @@ Related starting points:
 
 #### Supporting institutional context
 
-* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
   * **Summary:** Documents Detective Brueckner's undisclosed YWCA board membership and its implications for investigative integrity.
   * **What changed at this stage:** Establishes the material conflict of interest that underpins the Brady claim in the Lowney grievance.
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)

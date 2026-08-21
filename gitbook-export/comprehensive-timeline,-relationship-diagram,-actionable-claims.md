@@ -101,11 +101,11 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [YWCA complaint plus $400 donation](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020): [evidence packet](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
 * [YWCA complaint and Google reviews (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 * [E'Lise Chard: protection order filing abuse (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018): [evidence packet](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
-* [Judge Warren rules the YWCA complaint protected First Amendment speech](https://www.ywcaofmissoula.com/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
+* [Judge Warren rules the YWCA complaint protected First Amendment speech](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Detective Smith removed for "obvious impropriety"](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
 * [Detective Connie Brueckner assigned while serving on YWCA board](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
-* [Stalking charges filed and related civil rights violations (2017-2019)](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
-* [Missoula Charging Documents](https://www.ywcaofmissoula.com/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
+* [Stalking charges filed and related civil rights violations (2017-2019)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 
 ### 2018-2020: Escalation and case outcomes (Montana and Washington)
 
@@ -115,8 +115,8 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Harassment from YWCA-associated individuals (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
 * [Missoula PD home invasion, warrantless arrest, and false imprisonment (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 * [Facebook account data warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
-* [Prosecution delays full case dismissal](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp) ([ruling](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/))
-* [Montana case dismissal](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp) ([ruling](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/))
+* [Prosecution delays full case dismissal](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp) ([ruling](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/))
+* [Montana case dismissal](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp) ([ruling](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/))
 * [Edmonds PD witness intimidation and obstruction allegations](https://www.ywcaofmissoula.com/2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit)
 * [Washington case coerced plea deals](https://www.ywcaofmissoula.com/2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit)
 
@@ -143,7 +143,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [YWCA board (including Detective Connie Brueckner)](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
 * [YWCA staff (E'Lise Chard, Rebecca Pettit)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
-* [Prosecutors](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Prosecutors](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
 
 See also:
 
@@ -172,7 +172,7 @@ See also:
 * [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
 * [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/washington-montana-legal-cases-index)
 * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
-* [Allegations Against YWCA of Missoula and Detective Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [Allegations Against YWCA of Missoula and Detective Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [Legal analysis: YWCA of Missoula, board conflicts, and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
 * [Seattle OPA complaint post-mortem / legal analysis](https://www.ywcaofmissoula.com/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
 * [Full analysis of Fourteenth Amendment equal protection and due process violations (2015-2025)](https://www.ywcaofmissoula.com/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)

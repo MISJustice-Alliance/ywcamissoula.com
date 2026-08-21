@@ -161,7 +161,7 @@ If you need the paper trail from filing to reply, start here:
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ## Start here
 
