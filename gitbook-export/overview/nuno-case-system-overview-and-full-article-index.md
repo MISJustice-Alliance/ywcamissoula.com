@@ -191,7 +191,7 @@ Use this documentation to:
 
 * [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
 * [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
-* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)

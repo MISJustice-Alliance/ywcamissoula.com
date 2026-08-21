@@ -119,7 +119,7 @@ These entries are organized as case records. Each page captures a discrete Monta
 * [YWCA Brueckner conflict: allegations summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
-* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)

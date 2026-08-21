@@ -253,7 +253,7 @@ These are issue labels used for research and cross-referencing, not legal advice
 ### Related pages
 
 * [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
-* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 * [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 

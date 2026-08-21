@@ -382,7 +382,7 @@ Montana case pages should rank for **event + year + county** queries.
 * High-signal pages:
   * [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
   * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
-  * [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+  * [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 
 ***
 

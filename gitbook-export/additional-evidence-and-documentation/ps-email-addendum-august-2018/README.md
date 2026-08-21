@@ -48,4 +48,4 @@ For related materials, see:
 - [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 - [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 - [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
-- [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+- [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
