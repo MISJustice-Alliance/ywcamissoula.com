@@ -37,6 +37,8 @@ This hub collects Bryan Tipp malpractice **allegations** and the linked primary 
 * Initial complaint: [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july)
 * Tipp response: [Bryan Tipp Re: ODC File No. 25-147 (September, 23 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo)
 * ODC ruling: [MT Bar Complaint ODC No. 25-147: ODC Ruling (November 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025)
+* July 2026 closure record: [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis)
+* July 30, 2026 closure analysis: [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis) — strategy-versus-duty framing, rule-by-rule MRPC mapping, ABA Standard 3-5.8, and the evidentiary black-box / appeal-barrier analysis
 
 ### CR-2025-003 published dossier (canonical packet links)
 

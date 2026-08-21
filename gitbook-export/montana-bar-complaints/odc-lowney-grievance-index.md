@@ -72,6 +72,9 @@ Related starting points:
 * [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
   * **Summary:** Distinguishes the pending Lowney prosecutorial-misconduct grievance from the rejected Tipp ODC 25-147 defense-counsel complaint and frames both tracks for potential civil counsel and civil-rights advocacy organizations.
   * **What changed at this stage:** Adds a cross-track authorities map for Brady/Giglio, First Amendment retaliation, speech-waiver, and malpractice-intake issues.
+* [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
+  * **Summary:** Documents how ODC collapsed the Tipp complaint into an outcome-based "strategy" defense, withheld the underlying explanation record, and cited an appeal path that is practically inaccessible; includes the DPA speech-waiver, gag-order, and appeal-barrier analysis shared with the Lowney track.
+  * **What changed at this stage:** Adds the July 30 closure letter as the latest agency response and gives the Lowney track a directly linked evidentiary-black-box companion for the speech-waiver and institutional-opacity analysis.
 
 #### Primary grievance
 
