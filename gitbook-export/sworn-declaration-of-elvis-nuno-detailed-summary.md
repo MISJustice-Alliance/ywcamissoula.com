@@ -20,6 +20,12 @@ tags:
 
 ## Embedded copy of the notarized declaration (December 10, 2025)
 
+The full notarized declaration is embedded below for inline reading:
+
+<iframe src=".gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf" width="100%" height="900px" style="border: 1px solid #d0d0d0; border-radius: 4px;" title="Notarized sworn declaration of Elvis Nuno (December 10, 2025)"></iframe>
+
+If your browser does not render the embedded document, you can open it directly:
+
 📄 [Download the notarized sworn declaration PDF (35 pages)](.gitbook/assets/elvis-nuno-sworn-declaration-final-notarized-12-10-2025.pdf)
 
 **Document:** *Sworn Declaration of Elvis Ryland Nuno, Under Penalty of Perjury* — submitted in support of criminal referral in **State of Montana v. E'Lise Chard, et al.** Executed **December 10, 2025**, sworn to and subscribed before a notary in Harris County, Texas (electronically signed and notarized online using the Proof platform). Declarant: **Elvis Ryland Nuno**, senior telecommunications engineer and primary developer and coordinating member of MISJustice Alliance.
