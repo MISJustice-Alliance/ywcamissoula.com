@@ -43,7 +43,6 @@
 * [Multi-Jurisdiction & Cross-State Legal Analysis](research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis.md)
   * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation.md)
   * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](intentional-infliction-of-extreme-psychological-trauma-2015-2025.md)
-  * [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community.md)
 ## Montana Legal Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
@@ -57,6 +56,7 @@
 * [June 2018: E'Lise Chard protection order petition (Missoula County, MT) - alleged abuse of process](elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018.md)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](fishing-expedition-via-facebook-account-data-dump-search-warrant-2018.md)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
+* [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community.md)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
