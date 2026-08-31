@@ -20,6 +20,8 @@ description: >-
 
 This page is a navigable case file index for **Montana Office of Disciplinary Counsel (ODC) File No. 25-147**, concerning attorney **Bryan Tipp**. It organizes the original complaint, supplemental submissions, respondent materials, ODC disposition, request-for-review materials, May 2026 reconsideration/supporting witness filings, and related Lowney/prosecution materials so readers can verify how the record developed over time.
 
+A visual timeline of the underlying record — pre-representation background, the criminal prosecution, the case-deferral and post-dismissal losses, and the ODC disciplinary proceedings themselves — is available on the [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account) page. A combined chronology cross-referencing this file, the P.S. email chain, and the Seattle/Edmonds police-report comparison is available at [ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison).
+
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
@@ -212,6 +214,12 @@ Related starting points:
 * [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
   * **Summary:** Independent complaint and supporting witness statement from Elvis Nuno's mother. Documents a prior 1990s attorney-client relationship revealing a pattern of unwillingness to challenge law enforcement, failure to interview the client-mother as a witness to fabricated police statements, pressure tactics directed at family members, and direct corroboration of all allegations in ODC File No. 25-147.
   * **What changed at this stage:** Adds independent complainant status, pattern-and-practice evidence spanning thirty years, and firsthand witness testimony rebutting fabricated mental-health statements in charging documents.
+
+#### Cross-matter chronology, PS email index, and police-report comparison
+
+* [ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison)
+  * **Summary:** A neutral, source-attributed master chronology spanning the Montana ODC 25-147 record, the August 14, 2018 P.S. email forwarding chain (discovery document 2018-37193), the Officer Ethan Smith removal and Detective Brueckner/YWCA board connection, and a side-by-side comparison of Seattle PD reports GO#2015-421345 and GO#2015-429912.
+  * **What changed at this stage:** Consolidates dates, actors, and record status (official record vs. party allegation vs. oversight disposition) from every prior filing into one indexed table set, and adds the first published side-by-side comparison of the two underlying Seattle PD report versions.
 
 #### External dossier pointer
 

@@ -85,6 +85,7 @@
 
 * [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis.md)
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+* [ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison](montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison.md)
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
   * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/README.md)
@@ -194,3 +195,4 @@
 ## Reference
 
 * [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)
+* [Research Tooling: CourtListener Case-Law API, MCP Server, and Webhooks](reference/courtlistener-legal-research-tooling-api-mcp-and-webhooks.md)

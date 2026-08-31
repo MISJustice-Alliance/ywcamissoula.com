@@ -53,6 +53,10 @@ Confirm the governing rules against the actual MRPC text and applicable case law
 * **Communication**: MRPC 1.4
 * **Limitations periods**: varies by claim and accrual theory (confirm per claim)
 
+### Visual timeline (2015–2025)
+
+![The Nuno-Tipp Timeline: Legal Malpractice and Disciplinary Proceedings (2015-2025)](./.gitbook/assets/nuno-tipp-malpractice-timeline.jpeg)
+
 ### Timeline of alleged missed civil deadlines
 
 | Incident                       | Accrual Date | SOL Deadline | Result                 |

@@ -150,6 +150,12 @@ See also:
 * [YWCA of Missoula: a captured system operating through coordinated institutional failures](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * [YWCA of Missoula's role in First Amendment violations (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 
+## Institutional power-loop diagram
+
+The diagram below maps the alleged "core circular power loop" connecting YWCA governance, YWCA staff, Missoula Police Department investigators, and the Missoula City Attorney/County Attorney's office, together with the outer-ring oversight and referral nodes (Montana POST Council, Montana DOJ/Attorney General, Missoula Mayor/City Governance, and the King County/Edmonds jurisdiction). It is presented as advocacy analysis, not an adjudicated finding.
+
+![Institutional relationship and power-loop diagram — Nuno case](./.gitbook/assets/nuno-case-institutional-relationship-diagram.jpeg)
+
 ## Expanded diagram
 
 {% embed url="https://cr-2024-002-evidence-5_misjusticealliance.arweave.net" %}

@@ -54,6 +54,10 @@ The case was transferred from Officer Ethan Smith (removed for obvious conflicts
 * Enterprise liability for coordinated institutional corruption
 * Interstate commerce impact through federal funding and business destruction
 
+![YWCA Missoula pattern of racketeering activity (2012–2025): timeline of predicate acts across eight violation categories](./.gitbook/assets/ywca-missoula-racketeering-pattern-timeline.jpeg)
+
+The chart above plots the eight predicate-act categories referenced in this analysis — federal investigation, confidentiality breach, civil rights, financial fraud, defamation, obstruction, institutional coordination, and enterprise activity — against the years in which the underlying conduct is alleged to have occurred or continued. It is a pattern-mapping visualization prepared for advocacy purposes and does not represent a judicial or prosecutorial finding of racketeering.
+
 ### Civil Rights Conspiracy (42 U.S.C. Section 1985)
 
 * Coordinated deprivation of constitutional rights under color of law
