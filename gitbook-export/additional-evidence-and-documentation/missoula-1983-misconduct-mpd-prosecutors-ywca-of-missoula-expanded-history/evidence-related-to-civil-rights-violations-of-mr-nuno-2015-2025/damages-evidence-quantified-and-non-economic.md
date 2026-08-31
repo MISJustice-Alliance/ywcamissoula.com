@@ -4,7 +4,7 @@
 
 This page is a sub-index for damages evidence: quantified economic loss plus non-economic harms (reputation, employability, emotional distress). Dollar figures referenced here are **claimed** and used as a model for organizing supporting documents.
 
-Treat any totals as part of the site-wide claimed-vs-conservative split model; the claimed side **assumes liability is proven** and requires admissible proof.
+Treat any totals as part of the site-wide claimed-vs-conservative split model: the claimed side assumes liability is proven, and the conservative side is the documentable floor.
 
 {% include "../../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 

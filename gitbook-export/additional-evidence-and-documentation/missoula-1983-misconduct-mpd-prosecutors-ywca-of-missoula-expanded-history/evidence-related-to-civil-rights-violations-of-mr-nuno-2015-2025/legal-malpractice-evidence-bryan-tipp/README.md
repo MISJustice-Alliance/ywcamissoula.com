@@ -44,7 +44,7 @@ This page is a sub-index for evidence themes relevant to alleged legal malpracti
 
 These numbers are a **claimed orientation model** aligned to the site-wide claimed-vs-conservative split model.
 
-Treat the claimed side as **assumes liability is proven** and requires admissible proof.
+Treat them as part of the site-wide claimed-vs-conservative split model: the claimed side assumes liability is proven, and the conservative side is the documentable floor.
 
 | Expired claim        | Typical accrual window | Lost recovery (order-of-magnitude) |
 | -------------------- | ---------------------- | ---------------------------------- |

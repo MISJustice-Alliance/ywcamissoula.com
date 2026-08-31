@@ -316,7 +316,7 @@ Target page: [Missoula §1983 misconduct: civil rights violations and related cl
 * Add a **one-screen** “Claim index” near the top.
 * Replace “Estimated Total Damages” language with:
   * “damages estimates used in this analysis”
-  * “assumes liability is proven”
+  * “site-wide claimed-vs-conservative split model”
 * Move “Institutional reform requirements” to a **separate page** (or at least below the fold).
 
 **Fourteenth Amendment analysis**
