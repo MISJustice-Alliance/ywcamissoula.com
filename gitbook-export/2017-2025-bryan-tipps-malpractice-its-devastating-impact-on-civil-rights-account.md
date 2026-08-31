@@ -19,7 +19,7 @@ Quick hub: [Bryan Tipp](https://www.ywcaofmissoula.com/overview/bryan-tipp-malpr
 
 ### Executive snapshot
 
-This page analyzes potential legal-malpractice theories tied to Bryan Tipp’s representation (2017–2025). It focuses on alleged missed limitation periods and alleged failures to advise on civil-rights and tort options. It is a claims-and-damages model, not a disciplinary finding. Use the **Verify first** links to confirm dates, filings, and what was communicated.
+This page analyzes potential legal-malpractice theories tied to Bryan Tipp’s representation (2017–2025). It focuses on alleged missed limitation periods and alleged failures to advise on civil-rights and tort options. It is a claims-and-damages model, not a disciplinary finding. The broader site-wide Nuno case damages model now separates claimed and conservative figures and includes the second-migration component. Use the **Verify first** links to confirm dates, filings, and what was communicated.
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
@@ -36,7 +36,7 @@ This page analyzes potential legal-malpractice theories tied to Bryan Tipp’s r
 
 * **Jurisdiction:** Montana (with Washington context where it affects accrual and damages)
 * **Core question:** whether advice and omissions alleged in filings could satisfy malpractice elements (duty, breach, causation, damages)
-* **Practical output:** a structured checklist of missed-deadline theories and a damages model (**assumes liability is proven**)
+* **Practical output:** a structured checklist of missed-deadline theories and a damages model (claimed; assumes liability)
 
 ### Key supporting analysis
 

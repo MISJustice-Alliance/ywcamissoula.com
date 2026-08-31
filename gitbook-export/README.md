@@ -180,18 +180,24 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 
 ## Nuno case: damages model (claimed; assumes liability)
 
-This is a damages model specific to Mr. Nuno’s **claimed** damages.
+This section now separates the original claimed damages from a conservative floor and adds the second-migration harms documented in the relocation memo.
 
-It is included as an analysis aid and **assumes liability is proven**.
+| Category | Claimed (assumes full liability) | Conservative (documentable floor) | Notes |
+| --- | --- | --- | --- |
+| Lost Contract | $1,050,000 | $1,050,000 | Original 7-year lost-contract baseline |
+| Career Damage / reduced earning capacity | $1,050,000 | $525,000 | Conservative floor uses a reduced earnings assumption |
+| Civil Rights Violations (constitutional) | $2,000,000 | $500,000 | Advocacy framing vs. conservative compensatory floor |
+| Punitive Damages | $5,000,000 | $0 | Excluded from conservative floor absent liability finding |
+| RICO Treble Damages | $2,290,000 | $0 | Excluded conservatively; predicate/proof not adjudicated |
+| Legal malpractice — barred claims (Tipp) | $6,400,000–$8,400,000 | $3,440,000 | Uses the malpractice page's documented-loss floor |
+| Second migration — economic sabotage | $1,050,000 | $300,000 | Applies original lost-contract logic to second displacement period |
+| Second migration — relocation/housing/safety costs | $150,000 | $40,000 | Direct relocation and safety costs |
+| Second migration — emotional distress / loss of community | $1,000,000 | $150,000 | Compounding harm from second displacement |
+| Second migration — international relocation premium (provisional) | $500,000 | $75,000 | Only if the record confirms departure from the U.S. entirely |
+| 2022–2024 traffic matter | Unquantified on-site | Unquantified on-site | Still pending site publication |
+| **Revised total** | **$20.49M–$22.49M** | **$6.08M** | Claimed total includes second-migration categories |
 
-| Category                | Amount          |
-| ----------------------- | --------------- |
-| Lost Contract           | $1,050,000      |
-| Career Damage           | $1,050,000      |
-| Civil Rights Violations | $2,000,000      |
-| Punitive Damages        | $5,000,000      |
-| RICO Treble Damages     | $2,290,000      |
-| **Total**               | **$11,390,000** |
+The site should present this as a split model, not a single blended "conservative estimate." See also the malpractice slice on [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account) and the relocation/tolling analysis in [Nuno Case Study: Documented Barriers and Tolling Arguments](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/nuno-case-study-tolling-arguments).
 
 ***
 

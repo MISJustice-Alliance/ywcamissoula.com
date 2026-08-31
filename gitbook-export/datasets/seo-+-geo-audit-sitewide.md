@@ -335,7 +335,7 @@ Target page: [Full Analysis of Fourteenth Amendment Equal Protection and Due Pro
 Target page: [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 
 * Fix the header numbering (it jumps from III to VI).
-* Split “damages model” into a clearly labeled subsection.
+* Split “damages model” into a clearly labeled claimed-vs-conservative subsection.
 * Add a “Verify first” link to the **case file index**:
   * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 
