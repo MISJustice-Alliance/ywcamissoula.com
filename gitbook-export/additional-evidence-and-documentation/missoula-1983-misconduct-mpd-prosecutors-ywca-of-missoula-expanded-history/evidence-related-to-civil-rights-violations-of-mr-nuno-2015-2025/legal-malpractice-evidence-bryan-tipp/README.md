@@ -42,9 +42,9 @@ This page is a sub-index for evidence themes relevant to alleged legal malpracti
 
 ### High-level malpractice damages snapshot (illustrative)
 
-These numbers are a **claimed orientation model**.
+These numbers are a **claimed orientation model** aligned to the site-wide claimed-vs-conservative split model.
 
-Treat them as **assumes liability is proven** and requires admissible proof.
+Treat the claimed side as **assumes liability is proven** and requires admissible proof.
 
 | Expired claim        | Typical accrual window | Lost recovery (order-of-magnitude) |
 | -------------------- | ---------------------- | ---------------------------------- |

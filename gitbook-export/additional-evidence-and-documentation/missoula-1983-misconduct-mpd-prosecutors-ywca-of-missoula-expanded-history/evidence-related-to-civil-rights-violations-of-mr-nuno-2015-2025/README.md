@@ -27,7 +27,7 @@ It groups high-signal records and packet links used across this site to support 
 
 Any dollar figures referenced in this evidence map are **claimed** and used for orientation.
 
-They should be treated as a model that **assumes liability is proven** and requires admissible proof.
+Treat them as part of the site-wide claimed-vs-conservative split model: the claimed side **assumes liability is proven** and requires admissible proof.
 
 ### Narrative + theory entry points (optional)
 
