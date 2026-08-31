@@ -210,28 +210,44 @@ If you want one GitBook page per file later, say so and I’ll split them out.
 
 <summary>YWCA / harassment / defamation pattern evidence</summary>
 
+#### YWCA email complaint witness statement
+
 * **Nuno-PS-Witness-Statement-YWCA-Email-Complaint.pdf**
-  * Link: [Open](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
+  * Link: [Open](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-email-complaint-witness-statement)
   * Synopsis: Witness statement emailed to YWCA describing Nuno’s character and alleging harassment by E’Lise Chard.
   * Tags: `witness-statement` `correspondence` `harassment` `misconduct` `civil-rights` `final`
+
+#### E-Mail correspondence with Bryan Tipp Dec 2020
+
 * **E-Mail-Bryan-Tipp-Dec-2020.pdf**
-  * Link: [Open](https://cr-2024-002-evidence-15_misjusticealliance.arweave.net/)
+  * Link: [Open](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-dec-2020)
   * Synopsis: Email to attorney Bryan Tipp requesting assistance re: alleged defamation/harassment and referral to CID due to perceived MPD conflict.
   * Tags: `correspondence` `court-filing` `misconduct` `defamation` `civil-rights` `final`
+
+#### E-Mail correspondence with Bryan Tipp Jan 2021
+
 * **E-Mail-Bryan-Tipp-Jan-2021.pdf**
-  * Link: [Open](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
+  * Link: [Open](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-jan-2021)
   * Synopsis: Email chain discussing motion/dismissal status and ongoing harassment/defamation allegations.
   * Tags: `correspondence` `court-filing` `misconduct` `harassment` `defamation` `final` `exhibit`
+#### YWCA complaint and public exhibits
+
 * **Nuno-YWCA-Complaint.jpg**
-  * Link: [Open](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
+  * Link: [Open](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-complaint-and-public-exhibits)
   * Synopsis: Complaint to YWCA of Missoula alleging harassment and misconduct by E’Lise Chard and Rebecca Pettit.
   * Tags: `complaint` `agency-complaint` `harassment` `misconduct` `final`
+
+#### YWCA financial statements
+
 * **ywca-missoula-consolidated-financial-statements-years-2023-2024.pdf**
-  * Link: [Open](https://cr-2025-002-evidence-10_misjusticealliance.arweave.net/)
+  * Link: [Open](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-financial-statements)
   * Synopsis: Audited consolidated financial statements for YWCA Missoula and title holding entity (FY 2023–2024).
   * Tags: `financial-record` `report` `certified` `fraud`
+
+#### Tyleen Root harassment screenshot compilation
+
 * **tyleen-root-harassment.pdf**
-  * Link: [Open](https://cr-2025-002-evidence-18_misjusticealliance.arweave.net/)
+  * Link: [Open](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#tyleen-root-harassment-screenshot-compilation)
   * Synopsis: Screenshot compilation alleging a multi-year harassment and defamation campaign by a YWCA associate.
   * Tags: `evidence` `harassment` `screenshot-compilation` `social-media` `defamation` `witness-statement` `pattern-of-conduct`
 * **nuno-ywca-google-review01.jpeg**

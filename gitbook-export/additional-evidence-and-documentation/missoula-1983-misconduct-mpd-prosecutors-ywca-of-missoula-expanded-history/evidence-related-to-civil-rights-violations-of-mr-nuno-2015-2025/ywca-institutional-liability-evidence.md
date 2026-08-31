@@ -32,7 +32,7 @@ CR-2025-001 notice records:
 
 Useful external record:
 
-* [Suppression of character witness email contradicting E’Lise Chard narrative](https://cr-2025-002-evidence-17_misjusticealliance.arweave.net/)
+* [Suppression of character witness email contradicting E’Lise Chard narrative](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-email-complaint-witness-statement)
 
 ### Meadowlark shelter evictions (Oct 2021, third-party reporting)
 

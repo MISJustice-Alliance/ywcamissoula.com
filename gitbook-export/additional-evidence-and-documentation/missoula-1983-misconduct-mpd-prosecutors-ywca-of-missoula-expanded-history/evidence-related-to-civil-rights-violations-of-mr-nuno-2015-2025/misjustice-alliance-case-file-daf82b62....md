@@ -134,18 +134,18 @@ This page is a stable internal index for the published external case file **daf8
 * **E-Mail-Bryan-Tipp-Dec-2020.pdf**
   * Synopsis: Email to attorney Bryan Tipp requesting assistance re: alleged defamation/harassment and perceived MPD conflict of interest; asks for formal referral to CID.
   * Tags: `correspondence` `court-filing` `misconduct` `defamation` `civil-rights` `final`
-  * Link: [https://cr-2024-002-evidence-15\_misjusticealliance.arweave.net/](https://cr-2024-002-evidence-15_misjusticealliance.arweave.net/)
+  * Link: [https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-dec-2020](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-dec-2020)
 * **E-Mail-Bryan-Tipp-Jan-2021.pdf**
   * Synopsis: Email chain discussing dismissal status and ongoing harassment/defamation allegations.
   * Tags: `correspondence` `court-filing` `misconduct` `harassment` `defamation` `final` `exhibit`
-  * Link: [https://cr-2025-002-evidence-11\_misjusticealliance.arweave.net/](https://cr-2025-002-evidence-11_misjusticealliance.arweave.net/)
+  * Link: [https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-jan-2021](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-jan-2021)
 
 ### YWCA-related documents and public exhibits
 
 * **Nuno-YWCA-Complaint.jpg**
   * Synopsis: Complaint to YWCA of Missoula alleging harassment and misconduct by E’Lise Chard and Rebecca Pettit.
   * Tags: `complaint` `agency-complaint` `harassment` `misconduct` `final`
-  * Link: [https://cr-2024-002-evidence-16\_misjusticealliance.arweave.net/](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
+  * Link: [https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-complaint-and-public-exhibits](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-complaint-and-public-exhibits)
 * **nuno-ywca-google-review01.jpeg**
   * Synopsis: Google review by Elvis Nuno describing alleged harassment and institutional protection of perpetrators.
   * Tags: `correspondence` `agency-complaint` `harassment` `misconduct` `abuse` `final`
@@ -158,7 +158,7 @@ This page is a stable internal index for the published external case file **daf8
 * **ywca-missoula-consolidated-financial-statements-years-2023-2024.pdf**
   * Synopsis: Audited consolidated financial statements for YWCA Missoula and title holding entity (FY 2023–2024).
   * Tags: `financial-record` `report` `certified` `fraud`
-  * Link: [https://cr-2025-002-evidence-10\_misjusticealliance.arweave.net/](https://cr-2025-002-evidence-10_misjusticealliance.arweave.net/)
+  * Link: [https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-financial-statements](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-financial-statements)
 
 ***
 

@@ -40,7 +40,7 @@ Even if present in a record, redact unless clearly public and necessary.
 
 External packet:
 
-* [Employment interference documentation and client contact records](https://cr-2025-002-evidence-18_misjusticealliance.arweave.net/)
+* [Employment interference documentation and client contact records](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#tyleen-root-harassment-screenshot-compilation)
 
 #### Technical indicators
 
@@ -75,7 +75,7 @@ The included screenshots/messages contain references that are argued to connect 
 
 When these incidents were reported, no action was taken.
 
-{% embed url="https://cr-2025-002-evidence-18_misjusticealliance.arweave.net" %}
+{% embed url="https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#tyleen-root-harassment-screenshot-compilation" %}
 
 ### Appendix B: Google review content (quoted)
 
