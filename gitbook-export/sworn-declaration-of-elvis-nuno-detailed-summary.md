@@ -229,8 +229,8 @@ Every criminal charge against Mr. Nuno in both states was ultimately dismissed �
 ## X. Complete judicial vindication in Montana and Washington
 
 - **Montana:** All felony and misdemeanor stalking charges dismissed **with prejudice** after the State failed to produce evidence despite extensive access to his devices, communications, and digital records.
-- **Washington:** The 2015–2016 Seattle harassment/cyberstalking case dismissed **with prejudice** in August 2016 — the court found his online communications were protected First Amendment speech, not criminal threats or stalking.
-- Dismissals with prejudice reflect judicial determinations that no evidence of criminal conduct existed and charges should not be refiled.
+- **Washington:** The 2015–2016 Seattle harassment/cyberstalking case (Seattle Municipal Court Case No. 613225) was dismissed **with prejudice** on **August 23, 2016** — the stated reason was insufficient proof (lack of evidence). [Dismissal order](.gitbook/assets/seattle-case-613225-dismissal.png).
+- Dismissals with prejudice mean the matters were closed permanently: the stated basis was lack of evidence / insufficient proof, and the charges could not be refiled.
 
 ---
 
