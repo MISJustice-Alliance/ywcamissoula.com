@@ -76,7 +76,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Arrest and excessive bail](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations)
 * [Patricia Fulton representation begins](https://www.ywcaofmissoula.com/wa-state-bar-complaint-patricia-fulton-2016): Bar complaint and [legal analysis](https://www.ywcaofmissoula.com/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
 * [Coerced Edmonds plea entry](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
-* [Seattle case dismissed](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations) ([ruling](.gitbook/assets/seattle-case-613225-dismissal.png))
+* [Seattle case dismissed — August 23, 2016, with prejudice (lack of evidence)](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations) ([dismissal order](.gitbook/assets/seattle-case-613225-dismissal.png))
 * [Seattle OPA complaint (2016OPA-1167)](https://www.ywcaofmissoula.com/seattle-opa-complaint-2016opa-1167-2016)
 
 ### 2016-2017: Appeals and professional complaints (Washington)
@@ -90,7 +90,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Plea withdrawal denied by Edmonds Municipal Court](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
 * [Mazone law firm retained for appeal](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
 * [Funds exhausted during appeal attempts](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
-* [Forced relocation from Washington due to safety concerns](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
+* [Forced relocation from Washington due to safety concerns](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti) (first displacement; see [Forced to Move Twice](https://www.ywcaofmissoula.com/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community))
 
 ### 2017-2018: Montana involvement begins (Missoula)
 
@@ -133,7 +133,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Structural Failure of Police Accountability: MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
 * [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
-* [Forced relocation from Montana due to safety concerns](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
+* [Forced relocation from Montana due to safety concerns](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti) (second displacement, July 2026; see [Forced to Move Twice](https://www.ywcaofmissoula.com/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community))
 * [Ongoing civil rights advocacy and documentation](https://www.ywcaofmissoula.com)
 
 ## Relationship diagram

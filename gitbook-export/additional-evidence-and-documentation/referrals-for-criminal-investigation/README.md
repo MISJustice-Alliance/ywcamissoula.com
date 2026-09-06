@@ -25,7 +25,7 @@ This page serves as the routing index for criminal-investigation referral materi
 | Cluster | Primary report section | Review posture |
 | --- | --- | --- |
 | November 2015 Edmonds emergency/SWAT response | False emergency reporting and false statements | Strong investigative lead; requires 911, CAD, dispatch, and officer-report verification |
-| December 2015 Seattle Police reports | False statements, court-related statements, and documented contradictions | Strong investigative lead; requires complete SPD files and SMC 613225 exhibits |
+| December 2015 Seattle Police reports | False statements, court-related statements, and documented contradictions | Strong investigative lead; requires complete SPD files and SMC 613225 exhibits ([dismissal order](../../.gitbook/assets/seattle-case-613225-dismissal.png)) |
 | August 2018 Montana arrest and detention | Interstate coordination, false extradition narrative, and "lost in jail" detention | Expanded June 2026; requires interagency records, jail booking/release files, and extradition/warrant verification |
 | 2019 custody-threat allegation | Witness intimidation and witness tampering | Serious but direct role evidence remains a key gap |
 | Professional-credential and institutional-access theory | Professional profile and jurisdictional analysis | Relevant to knowledge, foreseeability, credibility, and risk assessment; not a standalone criminal element |

@@ -109,6 +109,7 @@ Case files and evidence tied to Missoula, Montana, including:
 * Stalking charges and prosecutorial misconduct
 * Protection order abuse
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
+* [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](https://www.ywcaofmissoula.com/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 * [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 

@@ -155,6 +155,7 @@ Start with these hubs. They are designed to point to the underlying source docum
 
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
+* [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](https://www.ywcaofmissoula.com/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community)
 
 #### 4) Evidence maps (by theme)
 
