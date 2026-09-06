@@ -36,7 +36,7 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 * [Seattle PD written statement re: incident #2016-348587 (2016)](https://cr-2025-002-evidence-12_misjusticealliance.arweave.net/)
 * [Edmonds court: declaration of ineffective assistance (2016)](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/)
-* [Seattle Municipal Court #613225: dismissal order (2016)](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net/)
+* [Seattle Municipal Court #613225: dismissal order (2016)](.gitbook/assets/seattle-case-613225-dismissal.png)
 * [Complaint re: MPD Officer Ethan Smith (March 2018)](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 * [E'Lise Chard / YWCA of Missoula: Chard harassment complaint & Nuno character reference (August 2018)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-email-complaint-witness-statement)

@@ -131,7 +131,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Synopsis: Court order dismissing State of Montana v. Elvis Ryland Nuno with prejudice.
   * Tags: `order` `court-filing` `misconduct` `final`
 * **Seattle-Case-613225-Dismissal.png**
-  * Link: [Open](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net/)
+  * Link: [Open](../../../.gitbook/assets/seattle-case-613225-dismissal.png)
   * Synopsis: Motion & order dismissing Seattle Municipal Court case with prejudice for insufficient proof.
   * Tags: `motion` `order` `court-filing` `final` `redacted`
 

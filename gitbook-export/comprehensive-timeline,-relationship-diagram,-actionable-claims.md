@@ -76,7 +76,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Arrest and excessive bail](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations)
 * [Patricia Fulton representation begins](https://www.ywcaofmissoula.com/wa-state-bar-complaint-patricia-fulton-2016): Bar complaint and [legal analysis](https://www.ywcaofmissoula.com/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
 * [Coerced Edmonds plea entry](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
-* [Seattle case dismissed](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations) ([ruling](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net))
+* [Seattle case dismissed](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations) ([ruling](.gitbook/assets/seattle-case-613225-dismissal.png))
 * [Seattle OPA complaint (2016OPA-1167)](https://www.ywcaofmissoula.com/seattle-opa-complaint-2016opa-1167-2016)
 
 ### 2016-2017: Appeals and professional complaints (Washington)

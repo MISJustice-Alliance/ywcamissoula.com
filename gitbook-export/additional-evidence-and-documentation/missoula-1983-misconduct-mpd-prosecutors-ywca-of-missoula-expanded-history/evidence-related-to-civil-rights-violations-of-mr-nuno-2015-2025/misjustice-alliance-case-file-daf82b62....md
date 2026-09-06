@@ -95,7 +95,7 @@ This page is a stable internal index for the published external case file **daf8
 * **Seattle-Case-613225-Dismissal.png**
   * Synopsis: Motion and order dismissing Seattle Municipal Court case with prejudice due to insufficient proof.
   * Tags: `motion` `order` `court-filing` `final` `redacted`
-  * Link: [https://cr-2024-002-ruling-6\_misjusticealliance.arweave.net/](https://cr-2024-002-ruling-6_misjusticealliance.arweave.net/)
+  * Link: [Seattle-Case-613225-Dismissal.png (in-repo)](../../../.gitbook/assets/seattle-case-613225-dismissal.png)
 * **Missoula-Case-66-Court-Order-Dismissal.pdf**
   * Synopsis: Montana 4th Judicial District Court order dismissing State of Montana v. Elvis Ryland Nuno with prejudice.
   * Tags: `order` `court-filing` `misconduct` `final`
