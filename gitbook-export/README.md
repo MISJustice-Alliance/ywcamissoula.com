@@ -1,10 +1,12 @@
 ---
-title: Missoula law enforcement, prosecutors, and YWCA misconduct (2012–present)
+title: Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)
 description: >-
-  Public record-first documentation and research guide centered on the Nuno case
-  as the evidentiary spine for alleged misconduct, civil-rights claims,
-  complaint filings, official responses, and institutional redress pathways
-  involving YWCA Missoula, MPD, prosecutors, and state/federal institutions.
+  Record-first research and public documentation of the community- and
+  state-level legal-system ecosystem — the Nuno case (2015–2025) serving as
+  one evidentiary spine among many — covering alleged misconduct, civil-rights
+  claims, complaint filings, official responses, and institutional redress
+  pathways involving YWCA Missoula, MPD, prosecutors, and state/federal
+  institutions.
 tags:
   - Missoula
   - Montana
@@ -19,7 +21,11 @@ tags:
 
 ### Executive snapshot
 
-This site is both a **record-first** research guide and a living public record built to serve people already harmed and those who might be targeted next. It is designed for legal researchers, journalists, civil rights advocates, civil rights attorneys, and individuals trying to navigate the legal system during and directly after being wrongly targeted, charged, prosecuted, or pushed toward coerced plea outcomes in Missoula and adjacent jurisdictions. The Nuno case (2015–2025) is the evidentiary spine that ties together events, filings, complaint responses, institutional actors, and the downstream human and legal costs, while also functioning as a structured dataset for pattern-of-practice analysis and future litigation. By documenting these harms in a transparent, verifiable format, the site aims to create a durable public record for similarly situated victims, support collective justice through fair recompense for innocent victims, and press for structural reforms and accountability for those responsible for civil misconduct and potential criminal actions.
+This site is a **record-first** research project and living public record examining the Missoula law-enforcement and victim-advocacy ecosystem — the community- and state-level legal-system structure that determines whether reports of institutional misconduct are investigated or quietly closed. The **research materials** provide the macro view: how this ecosystem is designed to preempt investigation into cases that necessitate accountability, and how its layered bureaucratic structure functions as a firewall protecting civil and public institutions from victim and public reporting on misconduct that has become endemic.
+
+The **Nuno case (2015–2025)** is one of many such cases. It serves here as an evidentiary spine — a documented, verifiable thread through events, filings, complaint responses, institutional actors, and the downstream human and legal costs — but it is not the subject of the research. It is the worked example: a structured dataset for pattern-of-practice analysis demonstrating how the same channels, non-responses, and institutional protections recur across cases, most of which never generate a public record at all.
+
+The site is built to serve people already harmed and those who might be targeted next — legal researchers, journalists, civil rights advocates and attorneys, and individuals navigating the legal system while wrongly targeted, charged, prosecuted, or pushed toward coerced plea outcomes in Missoula and adjacent jurisdictions. By documenting these harms in a transparent, verifiable format, the site aims to create a durable public record for similarly situated victims, support collective justice through fair recompense for innocent victims, and press for structural reforms and accountability for those responsible for civil misconduct and potential criminal actions.
 
 The page maps the institutions involved in law enforcement, prosecution, oversight, and public-facing victim-advocacy work — including MPD, county and state prosecutors, Montana DOJ and POST channels, the courts, the DOJ/FBI civil-rights pipeline, and YWCA of Missoula where the record alleges conflict-of-interest and coordination concerns.
 
