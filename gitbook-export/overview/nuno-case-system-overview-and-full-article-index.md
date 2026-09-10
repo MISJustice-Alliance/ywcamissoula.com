@@ -47,7 +47,7 @@ Use these first if you're validating the pattern or building an investigative ro
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 * [Evidence of Civil Rights Violations, Misconduct, YWCA RICO Predicates, et al](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)
 * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 
 ### Datasets (for Google discovery)
 
@@ -179,10 +179,10 @@ Use this documentation to:
 * [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](https://www.ywcaofmissoula.com/legal-analysis-1983-claims-ywca-mpd-2012-2025)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
-* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/missoula-police-oversight-students-guide-governance-structural-limitations)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 </details>
 
 <details>
@@ -190,9 +190,9 @@ Use this documentation to:
 <summary><strong>Montana Cases</strong></summary>
 
 * [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
-* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
-* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
-* [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
+* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [Missoula Charging Documents](https://www.ywcaofmissoula.com/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
 * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
@@ -201,10 +201,10 @@ Use this documentation to:
 * [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
-* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/missoula-police-oversight-students-guide-governance-structural-limitations)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 </details>
 
 <details>
@@ -269,10 +269,10 @@ Use this documentation to:
 <summary><strong>Montana State Complaints</strong></summary>
 
 * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
-* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)](https://www.ywcaofmissoula.com/oversight-evaluation-report-missoula-police-department-accountability-framework-2016-2022)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
+* [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/missoula-police-oversight-students-guide-governance-structural-limitations)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
 

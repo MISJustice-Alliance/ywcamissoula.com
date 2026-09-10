@@ -49,7 +49,7 @@ Start with the **Verify first** links, then use the hubs and datasets below.
 * [YWCA Missoula](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 * [Bryan Tipp](https://www.ywcaofmissoula.com/overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index)
 * [Missoula Police](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
-* [Institutional Willful Blindness: Pattern Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
+* [Institutional Willful Blindness: Pattern Analysis](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 
 ### Institutional map
 
@@ -137,11 +137,11 @@ Records from Seattle and Edmonds, Washington proceedings:
 
 **Key research reports (ecosystem-level analysis):** these reports supply the macro view of the ecosystem described in the executive snapshot — how oversight channels, complaint routing, and bureaucratic structure operate to preempt investigation and insulate institutions:
 
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
+* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
 * [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis](https://www.ywcaofmissoula.com/mpd-civilian-complaint-scorecard-analysis)
-* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
+* [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
 * [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](https://www.ywcaofmissoula.com/the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation)
 * [YWCA of Missoula: a captured system overview](https://www.ywcaofmissoula.com/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap)
@@ -181,7 +181,7 @@ If you need the paper trail from filing to reply, start here:
 * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
-* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
+* [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 ## Start here
 
