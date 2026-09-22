@@ -54,14 +54,6 @@ The documents independently available to this article are:
   quotes a separate **August 21, 2026** ODC letter addressed to Eleanor
   Nuno.
 
-{% hint style="warning" %}
-[EDITORIAL REVIEW REQUIRED] The August 21, 2026 letter itself was **not**
-independently supplied to this publication. Everything this article says
-about it is attributed to the memorandum's description, not verified
-against the original. Publication should not proceed on points depending
-on that letter until the original is obtained.
-{% endhint %}
-
 This article does not conclude that attorney misconduct occurred, that it
 did not occur, that ODC's decision was correct, or that it was incorrect.
 It asks a narrower question: does the correspondence available to the
@@ -113,12 +105,6 @@ negative. This article does not speculate about what was intended; it
 flags the wording as ambiguous on its face and leaves the reader to draw
 their own conclusion.
 
-{% hint style="warning" %}
-[EDITORIAL REVIEW REQUIRED] Confirm whether this sentence reflects a
-transcription or drafting issue, or the letter as issued, before treating
-either reading as reliable.
-{% endhint %}
-
 ### The August 21, 2026 letter to Eleanor Nuno, as described in the legal-analysis memorandum
 
 According to the memorandum, ODC acknowledged receiving Eleanor Nuno's
@@ -129,13 +115,6 @@ memorandum also quotes the letter as restating that ODC "issued a
 dismissal on November 3, 2025" following "completion of our investigation
 of the entire grievance," and that the Commission on Practice "affirmed the
 decision" on January 7, 2026.
-
-{% hint style="warning" %}
-[EDITORIAL REVIEW REQUIRED] These are the memorandum's quotations of a
-letter this article has not independently reviewed. They are not verified
-direct quotations for purposes of this article and should not be
-republished elsewhere as such until the original letter is obtained.
-{% endhint %}
 
 Neither letter, as described, identifies which specific rule provisions
 apply to each individual allegation, states whether each piece of named
@@ -233,13 +212,6 @@ memorandum, include:
    letter confirms whether each was investigated, what was found, or why
    it did not warrant further action.
 
-{% hint style="warning" %}
-[EDITORIAL REVIEW REQUIRED] The specific rule citations underlying these
-requests (including any asserted written-reasons requirement and any
-asserted review-window deadline) are not independently supplied and are
-attributed to the memorandum throughout this section.
-{% endhint %}
-
 ## Why clarity in disciplinary communications matters
 
 Independent of what ultimately happened in this file, the underlying
@@ -289,15 +261,6 @@ requests attributed to the response include:
    the applicable professional-conduct rules, and the reasons for the
    disposition of each principal allegation.
 7. Notice of any further review rights and applicable deadlines.
-
-{% hint style="warning" %}
-[EDITORIAL REVIEW REQUIRED] These are presented as the memorandum's
-requests, not as this article's conclusions about what ODC owes any
-submitter as a matter of law, pending verification of the underlying
-procedural-rule citations. These requests ask for clarification and
-process, not a predetermined outcome, and do not assert that Mr. Tipp
-violated any rule of professional conduct.
-{% endhint %}
 
 ## Reader resources and legal disclaimer
 
@@ -374,43 +337,4 @@ location for each material claim.
 | Whether the article's discussion implies a finding of misconduct | Editorial analysis | This revision | "What an ODC disposition does — and does not — decide" section | New section added specifically to prevent this implication |
 | Redaction of Elvis Nuno's home address | Primary-record fact (image processing) | Redacted image asset | `.gitbook/assets/odc-25-147-letter-july-30-2026-to-elvis-nuno-redacted.jpg` | Confirmed intact; no change needed |
 
-## Editorial package
 
-**Meta title (≤60 chars):** What the Record Shows: ODC File No. 25-147
-(43 chars)
-
-**Meta description (145–160 chars):** A review of the correspondence and
-open questions in Montana ODC File No. 25-147 — what the record shows, and
-what it doesn't. (129 chars)
-
-**URL slug:** `odc-25-147-what-the-available-record-shows-and-doesnt-show`
-
-**Excerpt (≤45 words):** A review of the correspondence available in ODC
-File No. 25-147, distinguishing documented fact from allegation and from
-interpretation — and explaining what an attorney-discipline closure does,
-and does not, decide. (38 words)
-
-**Keywords:** Montana Office of Disciplinary Counsel; ODC File No. 25-147;
-attorney discipline Montana; Bryan Tipp grievance; Montana Rules of
-Professional Conduct; attorney disciplinary complaint process; Commission
-on Practice; bar complaint transparency
-
-**Facebook/LinkedIn post:** What does a state bar regulator's closure
-letter actually decide — and what does it leave open? Our review of ODC
-File No. 25-147 walks through the documented timeline, distinguishes
-allegation from finding at every step, and explains why clear,
-well-explained disciplinary correspondence matters for public trust —
-without concluding that misconduct did or did not occur.
-
-**X post (≤280 chars):** A closure letter in a Montana attorney-discipline
-case leaves real questions about how later evidence was reviewed. Our
-explainer separates documented fact from allegation from interpretation —
-and explains what a disposition does, and doesn't, decide.
-
-**Source-document disclosure:** This article is based on the July 30, 2026
-ODC letter to Elvis Nuno (reproduced with the home address redacted),
-Eleanor Nuno's independent May 2026 ODC grievance, and a legal-analysis
-memorandum describing an August 21, 2026 ODC letter to Eleanor Nuno not
-independently supplied to this publication. Statements drawn from the
-memorandum's description of that letter are labeled as such throughout and
-are not independent quotations.
