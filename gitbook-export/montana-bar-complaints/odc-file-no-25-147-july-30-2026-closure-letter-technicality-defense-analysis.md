@@ -4,7 +4,11 @@ description: >-
   Analysis of the Montana Office of Disciplinary Counsel's July 30, 2026 closure
   letter in ODC File No. 25-147, with emphasis on the strategy-versus-duty
   framing, omitted allegations, and the relationship to the July 10 closure
-  response and Supplemental Submission #4.
+  response and Supplemental Submission #4. Also incorporates the companion
+  August 21, 2026 letter to Eleanor Nuno (as described in a legal-analysis
+  memorandum), the letter's verbatim appeal language, and additional
+  evidentiary-threshold and grievance-processing questions raised in the
+  public-facing explainer article.
 tags:
   - Montana Bar Complaints
   - ODC File No. 25-147
@@ -135,6 +139,29 @@ This is not the same thing as ordinary confidentiality during an active investig
 The absence of any documentary anchor matters for review. It leaves the complainant being asked to accept ODC's summary conclusion on trust while being denied the predicate facts that would permit rebuttal. That is incompatible with the function of a closure letter that is supposed to support meaningful appeal or further oversight.
 
 The July 30 letter's appeal language is also misleading in practical terms. Being told that an appeal to the Montana Supreme Court exists is not the same as having the actual ability to stage that appeal. A meaningful Supreme Court appeal requires legal resources, and those resources generally come from counsel; here, the record the article discusses shows that no in-state attorney will take the matter, while finding out-of-state counsel licensed in Montana is a substantial and daunting task. So the letter's statement reads less like a genuine remedial pathway and more like a formalistic notification that ignores the real-world barriers to exercising the right.
+
+## The Appeal Language, Quoted Verbatim
+
+The July 30 letter's closing paragraph, reproduced here exactly as printed, illustrates the same lack of precision that runs through the rest of the letter:
+
+> "As noted in ODC's letter dated July 10, 2026, you requested review of our dismissal by the Commission on Practice where they affirmed ODC's decision. You were notified of your ability to appeal to the Supreme Court, who has the ultimate decision in attorney discipline, but our records indicate that you did pursue such an appeal."
+
+Read literally, "but... did pursue" does not fit the contrastive function of "but," which would ordinarily precede a negative. This analysis does not speculate about what was intended and reproduces the sentence without correction, consistent with the practice of quoting source documents verbatim even where the wording is internally ambiguous on its face. Whatever the letter meant to convey, the imprecision compounds the practical appeal-access barrier discussed above: a formalistic notice of a right that cannot even be described accurately in the letter itself is not the same as a meaningful remedial pathway.
+
+## The Companion August 21, 2026 Letter to Eleanor Nuno
+
+The July 30 letter analyzed above was addressed to Elvis Nuno. A separate, related letter addressed to Eleanor ("Ellie") Nuno and dated August 21, 2026 is known to this record only through a legal-analysis memorandum's description and quotation, not through an independently supplied original. According to the memorandum, ODC acknowledged receiving Eleanor Nuno's May 2026 grievance but stated that it was placed into her son's existing file rather than opened as a separate grievance, and that "after considering the information, it did not change our analysis of this matter." The memorandum also quotes the letter as restating that ODC "issued a dismissal on November 3, 2025" following "completion of our investigation of the entire grievance," and that the Commission on Practice "affirmed the decision" on January 7, 2026.
+
+Read together with the July 30 letter to Elvis Nuno, the August 21 letter repeats the same closure logic in a different register: rather than engaging Eleanor Nuno's specific factual account as an independent witness, it treats her submission as additional information folded into an already-closed file. Neither letter, as described, identifies which specific rule provisions apply to each individual allegation, states whether each piece of named evidence was reviewed, or explains what "did not change our analysis" means in relation to any one item.
+
+## Additional Open Questions Raised in the Public-Facing Explainer
+
+A companion public-facing explainer article, prepared from the same underlying record, raises two additional process questions that are not analyzed above and that neither the July 30 nor the August 21 letter resolves:
+
+- **Was the correct evidentiary threshold applied at the intake stage?** The legal-analysis memorandum argues that the applicable disciplinary procedures call for distinguishing a screening-stage "if true" standard from the clear-and-convincing standard used in a formal disciplinary proceeding, and asks ODC to clarify which standard governed the screening decision here. The memorandum does not argue that the submitted material currently proves a violation by any particular standard; it asks whether the correct threshold was applied before a matter is closed without further investigation.
+- **How was Eleanor Nuno's independent grievance actually processed?** The record states her submission was placed into her son's existing file rather than opened as a separate grievance, but does not state what authority or policy permitted that, whether she was treated as a grievant with independent standing, or whether a preliminary review specific to her submission occurred.
+
+These are procedural and governance questions, not claims that any particular outcome was legally required, and are presented here as open questions rather than as established facts. See the public-facing explainer article, linked below, for the full discussion, its Chronology Table, and its Claims-to-Sources Table.
 
 ## Related records
 
