@@ -196,4 +196,5 @@
 ## Reference
 
 * [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)
+* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](reference/transparency-and-public-understanding-attorney-discipline.md)
 * [Research Tooling: CourtListener Case-Law API, MCP Server, and Webhooks](reference/courtlistener-legal-research-tooling-api-mcp-and-webhooks.md)
