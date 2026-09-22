@@ -45,6 +45,7 @@ A visual timeline of the underlying record — pre-representation background, th
 * May 2026 supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
 * May 2026 independent grievance/supporting submission: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
 * Public-facing explainer: [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
+* General transparency research report: [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/reference/transparency-and-public-understanding-attorney-discipline)
 
 ### Target audience
 
@@ -83,6 +84,7 @@ Related starting points:
 8. Read Tyrone Nuno's and Eleanor Nuno's May 2026 submissions for independent corroboration, witness-failure allegations, Smith-removal evidence, family-pressure evidence, and fabricated-statement allegations.
 9. Read the July 10 closure-response analysis, then the technicality-defense analysis of the July 30 closure letter, to see how ODC restated the same "strategy" closure and withheld the underlying explanation record.
 10. Read the public-facing explainer article for a plain-language summary of the whole record, written for a general audience and intended for publication.
+11. Read the general transparency research report for a broader, anonymized policy discussion of disciplinary-closure communication that situates this file's record in a wider access-to-justice context.
 
 ### Evolution at a glance
 
@@ -101,6 +103,7 @@ Related starting points:
 | May 2026 Tyrone Nuno submission | Supporting witness grievance | Added firsthand corroboration that Officer Ethan Smith allegedly harassed family members, was removed after Tyrone's complaint, and that Tipp never interviewed Tyrone or used that evidence. **No ODC response has been received as of this record.** | Directly connects the Tipp record to MPD investigator misconduct, witness neglect, and the failure to investigate the Smith-to-Brueckner transition. |
 | May 2026 Eleanor Nuno submission | Independent grievance and supporting witness statement | Added independent complainant status, former-client pattern evidence, denial of fabricated mental-health statements attributed to her, and corroboration of family-pressure tactics. **No ODC response has been received as of this record.** | Expands ODC review beyond Tipp's representation of Elvis Nuno into Eleanor Nuno's own grievance and strengthens the link between defense-counsel malpractice, MPD charging statements, and witness-fabrication allegations. |
 | Public-facing explainer article | "What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review" | Converts the accumulated legal analysis (July 30, 2026 closure letter to Elvis Nuno and the analysis of the August 21, 2026 letter to Eleanor Nuno) into a plain-language, survivor-centered article for public publication on ywcaofmissoula.com, with the redacted letter image embedded. | Serves as the reader-facing entry point that sits after Eleanor Nuno's independent grievance and summarizes the whole ODC 25-147 record's significance for a general audience. |
+| General transparency research report | "When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems" | Adds a fully anonymized, record-first policy report examining closure-letter clarity, supplemental-evidence handling, and non-client submissions across attorney-disciplinary systems generally, illustrated with an anonymized case study rather than this file's specific facts. | Provides the general-education and public-policy companion to this case-specific index, without naming any party or file number, positioned in the site's Reference section. |
 
 ### Article index
 
@@ -223,6 +226,12 @@ Related starting points:
 * [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
   * **Summary:** A plain-language, survivor-centered public explainer written for ywcaofmissoula.com, drawn from the July 30, 2026 ODC letter to Elvis Nuno (reproduced with the home address redacted) and the legal analysis of the related August 21, 2026 letter to Eleanor Nuno. Distinguishes allegation from ODC finding from author concern throughout, quotes ambiguous source language verbatim, and closes with measured, specific requests for clarification and further review.
   * **What changed at this stage:** Converts the accumulated attorney-style analysis of this file into a public-audience article intended for direct publication, positioned to run immediately after Eleanor Nuno's independent grievance in the reading order.
+
+#### General transparency research report
+
+* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems](https://www.ywcaofmissoula.com/reference/transparency-and-public-understanding-attorney-discipline)
+  * **Summary:** A separate, fully anonymized public-interest research report examining what complainants and the public should be able to understand from disciplinary closure correspondence generally — including cases involving later-submitted supplemental information or a non-client family member or witness. It uses an anonymized illustrative case study, not this file's specific facts, and does not conclude that any attorney or agency acted improperly.
+  * **What changed at this stage:** Adds a general-education, policy-oriented companion piece that situates the case-specific record in this index within broader transparency and access-to-justice questions in attorney-disciplinary systems.
 
 #### Cross-matter chronology, PS email index, and police-report comparison
 
