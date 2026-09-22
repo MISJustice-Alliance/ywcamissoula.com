@@ -37,56 +37,8 @@ proof that any allegation is true or false. One document discussed
 here — the August 21, 2026 letter to Eleanor Nuno — is known to this
 publication only through a legal-analysis memorandum's description and
 quotation, not through an independently supplied original; every statement
-about that letter is attributed accordingly. A Pre-Publication Checklist
-with unresolved verification items appears at the end of this page.
+about that letter is attributed accordingly.
 {% endhint %}
-
-## Publication Risk and Verification Audit
-
-**1. Unsupported or insufficiently sourced factual assertions.** The
-clearest risk in earlier drafting was treating the August 21, 2026 letter to
-Eleanor Nuno as if it were independently reviewed. It was not: this article's
-only access to that letter is through the legal-analysis memorandum's
-description and quotation of it. Every sentence describing that letter below
-is attributed to the memorandum, not stated as directly verified.
-
-**2. Statements that may imply guilt, wrongdoing, or a factual finding.**
-Earlier framing that treated ODC's reasoning as "thin" or otherwise
-inadequate — as though that were the article's own conclusion rather than
-the memorandum's argument — has been rewritten so that all critique of ODC's
-correspondence is attributed to "the memorandum contends" or "the response
-argues," never stated as this publication's own finding.
-
-**3. Potentially defamatory or unfairly prejudicial wording.** No language
-in this article names Bryan C. Tipp as having committed a specific rule
-violation, and no loaded term (misconduct, fraud, abuse, cover-up) is used
-outside of quotation with attribution. To avoid the structural risk that
-listing several specific allegations back-to-back with critique of ODC's
-closure could imply ODC "should have" ruled differently, this revision adds
-an explicit section (below, "What an ODC disposition does — and does not —
-decide") and repeats the non-finding caveat at each allegation.
-
-**4. Procedural and legal claims requiring verification.** The
-clear-and-convincing/"if true" screening-standard distinction, the asserted
-written-reasons requirement, and the asserted 30-day Commission review
-window are all sourced only to the legal-analysis memorandum's paraphrase of
-Montana disciplinary rules; the rule text itself was not independently
-supplied. All are attributed to the memorandum below and flagged in the
-Pre-Publication Checklist for verification against the actual rule text
-before this article is finalized for publication.
-
-**5. Chronology and document-identity issues.** Five distinct items are
-kept separate throughout: the November 3, 2025 ODC dismissal; the January 7,
-2026 Commission on Practice affirmance; the July 30, 2026 letter to **Elvis**
-Nuno; the August 21, 2026 letter to **Eleanor** Nuno; and Eleanor Nuno's May
-2026 grievance. See the Chronology Table below.
-
-**6. Privacy and publication review issues.** Elvis Nuno's home street
-address on the July 30, 2026 letter has already been redacted from the
-published image; that redaction is confirmed intact below. No new
-identifying detail beyond what sibling pages on this site already publish
-has been added, and no clinical content from the referenced psychiatric
-letter is reproduced — only its existence and general subject matter.
 
 ## What this article reviews
 
@@ -421,46 +373,6 @@ location for each material claim.
 | Chronological relationship between May 2026 grievance and Nov 2025/Jan 2026 decisions | Editorial analysis / open question | Legal-analysis memorandum | Memorandum, "Chronological inconsistency" section | Reframed from "could not have" to "the relationship is not fully explained" |
 | Whether the article's discussion implies a finding of misconduct | Editorial analysis | This revision | "What an ODC disposition does — and does not — decide" section | New section added specifically to prevent this implication |
 | Redaction of Elvis Nuno's home address | Primary-record fact (image processing) | Redacted image asset | `.gitbook/assets/odc-25-147-letter-july-30-2026-to-elvis-nuno-redacted.jpg` | Confirmed intact; no change needed |
-
-## Pre-Publication Checklist
-
-- [ ] Obtain and archive the original August 21, 2026 ODC letter to Eleanor
-      Nuno; until obtained, all content describing it must remain
-      attributed to the memorandum.
-- [ ] Verify the exact text and procedural status of the November 3, 2025
-      ODC decision against the original five-page ruling (not currently
-      independently supplied to this article).
-- [ ] Verify the January 7, 2026 Commission on Practice action and its
-      scope, including whether it considered any material submitted after
-      that date.
-- [ ] Confirm whether the July 30 letter's closing sentence ("but our
-      records indicate that you did pursue such an appeal") reflects a
-      transcription/drafting issue or the letter as issued.
-- [ ] Verify the exact text of the Montana Rules for Lawyer Disciplinary
-      Enforcement provisions cited in the memorandum as currently in
-      force, and cite them directly rather than through the memorandum's
-      paraphrase.
-- [ ] Confirm which of the documents discussed are public records and
-      whether publication of the July 30 letter image (even redacted)
-      requires additional consent or legal review.
-- [ ] Have Montana counsel conduct a pre-publication review for
-      defamation, privacy, procedural accuracy, and attorney-discipline
-      terminology before this article goes live.
-- [ ] Verify all third-party names, medical references, and
-      law-enforcement-personnel claims (P.S., Dr. William Stratford, the
-      named officer) before publication, and confirm none requires
-      additional redaction.
-- [ ] Confirm all internal record links resolve and point to the intended
-      redacted documents.
-- [ ] Confirm no individual is described as a "survivor" or given any
-      label not self-applied in the supplied materials.
-
-{% hint style="danger" %}
-This checklist has open items, most importantly independent verification
-of the August 21, 2026 letter and Montana-counsel pre-publication review.
-This page should be treated as a working draft pending completion of these
-items.
-{% endhint %}
 
 ## Editorial package
 
