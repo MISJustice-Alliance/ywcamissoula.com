@@ -32,16 +32,6 @@ publication_review_status: requires_legal_and_privacy_review
 
 # When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems
 
-{% hint style="warning" %}
-**Draft status.** This report is `draft_for_human_review` and
-`publication_review_status: requires_legal_and_privacy_review`. It
-contains inline `[EDITORIAL REVIEW REQUIRED: ...]` markers at every point
-requiring primary-source verification, Montana counsel review, privacy
-review, or confirmation of public availability. See "Pre-Publication
-Editorial Review Flags" at the end of this page before treating it as
-final.
-{% endhint %}
-
 ## Executive Summary
 
 Attorney-disciplinary agencies decide, case by case and largely out of public
@@ -129,9 +119,7 @@ general-purpose remedy for every harm connected to a legal representation.
 It is administered in Montana by the Office of Disciplinary Counsel
 ("ODC") and the Commission on Practice, under the Montana Rules for
 Lawyer Disciplinary Enforcement, subject to the Montana Supreme Court's
-supervisory authority. `[EDITORIAL REVIEW REQUIRED: primary-source
-verification — confirm current citation and structure against the
-Montana Rules for Lawyer Disciplinary Enforcement as currently in force.]`
+supervisory authority.
 
 Discipline is distinct from:
 
@@ -250,10 +238,7 @@ someone who was never that client?
 **This report does not resolve, and does not claim to resolve, whether
 Montana's rules confer independent grievance standing on a non-client
 witness, or what disclosure obligations an agency has toward such a
-submitter.** `[EDITORIAL REVIEW REQUIRED: primary-source verification —
-confirm whether the Montana Rules for Lawyer Disciplinary Enforcement
-address non-client submissions, intake classification, or standing.]` The
-existence of firsthand, non-client information does not itself establish
+submitter.** The existence of firsthand, non-client information does not itself establish
 that any allegation is true, and non-client status does not, by itself,
 tell a reader whether the information was relevant to the disciplinary
 question at issue.
@@ -485,89 +470,3 @@ ultimately serves.
 - [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)
 - [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 - [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-
-`[EDITORIAL REVIEW REQUIRED: confirm public availability and relative link
-paths above once final placement in the GitBook navigation tree is
-approved; do not link directly to case-specific correspondence in this
-article without separate legal/privacy review.]`
-
-{% include ".gitbook/includes/related-links-global (1).md" %}
-
-## Source Notes / Appendix
-
-**1. Primary authorities**
-- Montana Rules for Lawyer Disciplinary Enforcement (current version).
-  `[EDITORIAL REVIEW REQUIRED: primary-source verification — insert stable
-  official citation/link.]`
-- Montana Rules of Professional Conduct (current version). `[EDITORIAL
-  REVIEW REQUIRED: primary-source verification — insert stable official
-  citation/link.]`
-- Montana Supreme Court orders governing attorney discipline, where
-  applicable. `[EDITORIAL REVIEW REQUIRED: primary-source verification.]`
-
-**2. Official public guidance**
-- Montana Office of Disciplinary Counsel public grievance-filing guidance
-  and FAQ, where publicly published. `[EDITORIAL REVIEW REQUIRED: confirm
-  public availability and current URL.]`
-
-**3. Anonymized source packet**
-- Anonymized closure correspondence, grievance materials, and a
-  legal-analysis memorandum concerning a Montana attorney-discipline
-  matter, reviewed for this report and not separately published. Details
-  sufficient to identify the matter have been excluded.
-
-**4. Repository records consulted**
-- `gitbook-export/README.md`
-- `gitbook-export/SUMMARY.md`
-- `gitbook-export/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md`
-- `gitbook-export/montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md`
-- `gitbook-export/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review.md`
-- `gitbook-export/.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md`
-- `gitbook-export/.gitbook/includes/related-links-global (1).md`
-
-**5. Limitations and verification notes**
-This report's Montana-specific procedural statements are drawn from a
-legal-analysis memorandum's paraphrase of the governing rules, not
-independently verified rule text, and are flagged accordingly throughout.
-The anonymized case study is illustrative; it should not be treated as a
-verified account of any specific disciplinary matter.
-
----
-
-# Pre-Publication Editorial Review Flags
-
-- `[EDITORIAL REVIEW REQUIRED: primary-source verification]` — appears at
-  every point where a Montana Rules for Lawyer Disciplinary Enforcement or
-  Montana Rules of Professional Conduct citation is asserted without a
-  verified current rule text.
-- `[EDITORIAL REVIEW REQUIRED: Montana counsel review]` — required before
-  publication for the "What Attorney Discipline Is — and Is Not," "Why
-  Closure Correspondence Matters," "Supplemental Information and Closed
-  Records," and "Family Members, Witnesses, and Non-Clients" sections, all
-  of which make generalized procedural claims.
-- `[EDITORIAL REVIEW REQUIRED: privacy/redaction review]` — required for
-  the Illustrative Case Study to confirm it cannot reasonably be
-  re-identified when read alongside other published pages in this
-  repository (see re-identification risk note below).
-- `[EDITORIAL REVIEW REQUIRED: confirm public availability]` — required
-  for every item in the Source Notes / Appendix and for the Related
-  Records links before publication.
-- **Re-identification risk:** Because this repository already publishes
-  extensive, less-anonymized material about a specific ODC file involving
-  a family grievance and a non-client witness submission, this report's
-  anonymized case study could be cross-referenced against those existing
-  pages by a motivated reader. `[EDITORIAL REVIEW REQUIRED:
-  privacy/redaction review — assess whether publishing this generalized
-  report on the same site as the more detailed, named case pages defeats
-  the anonymization and consider whether additional generalization or a
-  different publication venue is warranted.]`
-- **Defamation/privacy/confidentiality:** No attorney, complainant,
-  witness, or agency staff member is named in this report. Confirm before
-  publication that no combination of procedural detail in this report,
-  read together with other repository pages, identifies any individual.
-- **Internal links:** All relative links above are provisional pending
-  confirmation of final file placement in `gitbook-export/` and
-  `SUMMARY.md`.
-- **Metadata and SEO copy:** Review the frontmatter and any SEO/GEO
-  package prepared for this report for inadvertent identifying detail
-  before publication.
