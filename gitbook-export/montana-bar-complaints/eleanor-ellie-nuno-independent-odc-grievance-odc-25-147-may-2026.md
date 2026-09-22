@@ -516,6 +516,7 @@ I authorize the Office of Disciplinary Counsel to contact me directly to obtain 
 
 ## Related records
 
-- [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+- [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+- [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review.md) — public-facing explainer article
 - [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis.md)
 - [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](odc-25-147-july-2026-closure-response-analysis.md)

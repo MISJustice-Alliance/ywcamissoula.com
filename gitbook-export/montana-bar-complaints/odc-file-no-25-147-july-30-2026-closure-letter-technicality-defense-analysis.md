@@ -142,6 +142,7 @@ The July 30 letter's appeal language is also misleading in practical terms. Bein
 - [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](odc-25-147-clarification-request-july-2026.md)
 - [RE: GRIEVANCE AGAINST BRYAN C. TIPP REQUEST FOR REVIEW](mt-bar-complaint-odc-25-147-right-to-request-review-november-2025/re-grievance-against-bryan-c.-tipp-request-for-review.md)
 - [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
+- [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review.md) — public-facing explainer article
 - [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 - [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 

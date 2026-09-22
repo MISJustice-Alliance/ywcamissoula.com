@@ -44,6 +44,7 @@ A visual timeline of the underlying record — pre-representation background, th
 * July 2026 clarification request: [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-clarification-request-july-2026)
 * May 2026 supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
 * May 2026 independent grievance/supporting submission: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
+* Public-facing explainer: [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
 
 ### Target audience
 
@@ -81,6 +82,7 @@ Related starting points:
 7. Read Supplemental Submission #4 for the newly located P.S. email and Stratford psychiatric-letter evidence.
 8. Read Tyrone Nuno's and Eleanor Nuno's May 2026 submissions for independent corroboration, witness-failure allegations, Smith-removal evidence, family-pressure evidence, and fabricated-statement allegations.
 9. Read the July 10 closure-response analysis, then the technicality-defense analysis of the July 30 closure letter, to see how ODC restated the same "strategy" closure and withheld the underlying explanation record.
+10. Read the public-facing explainer article for a plain-language summary of the whole record, written for a general audience and intended for publication.
 
 ### Evolution at a glance
 
@@ -98,6 +100,7 @@ Related starting points:
 | July 30, 2026 closure letter | Final ODC closure letter analyzing the complainant's follow-up email | Added the technicality-defense analysis documenting that ODC collapsed discrete allegations into an outcome-based "strategy" label, asserted counsel "was able to provide explanation" without disclosing the record, and framed an appeal that is practically inaccessible. | Turns the closure sequence into a documented evidentiary black box: rule-by-rule MRPC mapping, ABA Criminal Justice Standard 3-5.8, the family-forced conclusion chronology, and the appeal barrier all remain on the record for review. |
 | May 2026 Tyrone Nuno submission | Supporting witness grievance | Added firsthand corroboration that Officer Ethan Smith allegedly harassed family members, was removed after Tyrone's complaint, and that Tipp never interviewed Tyrone or used that evidence. **No ODC response has been received as of this record.** | Directly connects the Tipp record to MPD investigator misconduct, witness neglect, and the failure to investigate the Smith-to-Brueckner transition. |
 | May 2026 Eleanor Nuno submission | Independent grievance and supporting witness statement | Added independent complainant status, former-client pattern evidence, denial of fabricated mental-health statements attributed to her, and corroboration of family-pressure tactics. **No ODC response has been received as of this record.** | Expands ODC review beyond Tipp's representation of Elvis Nuno into Eleanor Nuno's own grievance and strengthens the link between defense-counsel malpractice, MPD charging statements, and witness-fabrication allegations. |
+| Public-facing explainer article | "What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review" | Converts the accumulated legal analysis (July 30, 2026 closure letter to Elvis Nuno and the analysis of the August 21, 2026 letter to Eleanor Nuno) into a plain-language, survivor-centered article for public publication on ywcaofmissoula.com, with the redacted letter image embedded. | Serves as the reader-facing entry point that sits after Eleanor Nuno's independent grievance and summarizes the whole ODC 25-147 record's significance for a general audience. |
 
 ### Article index
 
@@ -214,6 +217,12 @@ Related starting points:
 * [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
   * **Summary:** Independent complaint and supporting witness statement from Elvis Nuno's mother. Documents a prior 1990s attorney-client relationship revealing a pattern of unwillingness to challenge law enforcement, failure to interview the client-mother as a witness to fabricated police statements, pressure tactics directed at family members, and direct corroboration of all allegations in ODC File No. 25-147.
   * **What changed at this stage:** Adds independent complainant status, pattern-and-practice evidence spanning thirty years, and firsthand witness testimony rebutting fabricated mental-health statements in charging documents.
+
+#### Public-facing explainer article
+
+* [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
+  * **Summary:** A plain-language, survivor-centered public explainer written for ywcaofmissoula.com, drawn from the July 30, 2026 ODC letter to Elvis Nuno (reproduced with the home address redacted) and the legal analysis of the related August 21, 2026 letter to Eleanor Nuno. Distinguishes allegation from ODC finding from author concern throughout, quotes ambiguous source language verbatim, and closes with measured, specific requests for clarification and further review.
+  * **What changed at this stage:** Converts the accumulated attorney-style analysis of this file into a public-audience article intended for direct publication, positioned to run immediately after Eleanor Nuno's independent grievance in the reading order.
 
 #### Cross-matter chronology, PS email index, and police-report comparison
 

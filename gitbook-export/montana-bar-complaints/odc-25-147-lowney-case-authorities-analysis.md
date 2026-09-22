@@ -61,6 +61,7 @@ The attached intake brief is useful, but several statements required adjustment 
 * P.S. / Stratford evidence supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026)
 * Supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
 * Independent/supporting witness grievance: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
+* Public explainer: [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
 
 #### Lowney / prosecutorial-misconduct track
 
