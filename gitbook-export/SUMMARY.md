@@ -35,6 +35,7 @@
 * [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
   * [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
   * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](institutional-willful-blindness-pattern-analysis.md)
+  * [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](transparency-and-public-understanding-attorney-discipline.md)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
   * [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 * [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
@@ -196,5 +197,4 @@
 ## Reference
 
 * [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)
-* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](reference/transparency-and-public-understanding-attorney-discipline.md)
 * [Research Tooling: CourtListener Case-Law API, MCP Server, and Webhooks](reference/courtlistener-legal-research-tooling-api-mcp-and-webhooks.md)

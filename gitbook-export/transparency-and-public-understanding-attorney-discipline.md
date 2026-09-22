@@ -28,7 +28,7 @@ document_type: public-interest research report
 publication_review_status: requires_legal_and_privacy_review
 ---
 
-{% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
+{% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 # When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems
 
@@ -478,19 +478,20 @@ ultimately serves.
 
 ## Related Records and Further Reading
 
-- [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](../montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
-- [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](../montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
-- [Sources & record index](../overview/sources-and-record-index.md)
-- [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](../institutional-willful-blindness-pattern-analysis.md)
-- [Glossary (doctrines, agencies, entities)](../reference/glossary-doctrines-agencies-entities.md)
-- [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](../datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
+- [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
+- [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
+- [Sources & record index](overview/sources-and-record-index.md)
+- [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](institutional-willful-blindness-pattern-analysis.md)
+- [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)
+- [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
+- [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
 
 `[EDITORIAL REVIEW REQUIRED: confirm public availability and relative link
 paths above once final placement in the GitBook navigation tree is
 approved; do not link directly to case-specific correspondence in this
 article without separate legal/privacy review.]`
 
-{% include "../.gitbook/includes/related-links-global (1).md" %}
+{% include ".gitbook/includes/related-links-global (1).md" %}
 
 ## Source Notes / Appendix
 

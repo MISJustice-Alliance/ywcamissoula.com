@@ -170,7 +170,7 @@ Montana attorney-discipline intake and investigation office.
 See also:
 
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
-* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/reference/transparency-and-public-understanding-attorney-discipline) — general, anonymized research report on disciplinary transparency
+* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/transparency-and-public-understanding-attorney-discipline) — general, anonymized research report on disciplinary transparency
 
 #### Washington State Bar Association (WSBA)
 
