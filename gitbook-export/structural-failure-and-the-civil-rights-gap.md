@@ -318,6 +318,8 @@ Montana also lacks the deep civil-rights and legal-aid ecosystem found in larger
 
 For most members of the public — especially the people most likely to suffer civil-rights abuse — that means the challenge is not merely "finding a lawyer." It is finding a lawyer who can get enough of the underlying record, fast enough, to decide whether representation is even economically possible. In Montana, that threshold is often the real gatekeeper. And once it closes, even the strongest case can become functionally unrepresentable.
 
+A related repository report, [When "Strategy" Ends the Inquiry: Investigative Review of ODC File No. 25-147 and the Documented Difficulty Securing Counsel](research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md), documents a concrete instance of this counsel-supply problem: a February 6, 2026 written declination from a Montana attorney who stated his firm was not qualified to handle legal-malpractice claims arising from criminal defense and independently predicted that the complainant would have difficulty locating Montana counsel for such a claim.
+
 ***
 
 ## Conclusion

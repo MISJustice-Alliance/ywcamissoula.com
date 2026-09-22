@@ -171,6 +171,7 @@ These are procedural and governance questions, not claims that any particular ou
 - [Eleanor ("Ellie") Nuno Independent ODC Grievance — ODC File No. 25-147 (May 2026)](eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md)
 - [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review.md) — public-facing explainer article
 - [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](../transparency-and-public-understanding-attorney-discipline.md) — general, anonymized research report on disciplinary transparency
+- [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](../research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md) — investigative review of the "strategy" rationale and a documented representation-gap problem
 - [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 - [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147 (May 2026)](tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md)
 

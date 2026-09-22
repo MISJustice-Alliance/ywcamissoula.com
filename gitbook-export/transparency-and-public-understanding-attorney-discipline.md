@@ -470,3 +470,4 @@ ultimately serves.
 - [Glossary (doctrines, agencies, entities)](reference/glossary-doctrines-agencies-entities.md)
 - [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 - [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
+- [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md) — investigative review of the "strategy" rationale and a documented representation-gap problem

@@ -17,6 +17,7 @@ The linked analysis *When the Watchdog Walks Away* applies this framework to the
 
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
+* [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis) — investigative review of the ODC 25-147 "strategy" rationale and a documented Montana representation-gap problem
 
 ### Supporting evidence
 
