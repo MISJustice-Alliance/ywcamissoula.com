@@ -448,6 +448,49 @@ demands or claims of an existing legal duty:
 - Expanded public legal-education resources explaining the scope and
   limits of professional-discipline systems.
 
+## Comparative Professional-Ethics Authority on Waiver-Conditioned Dispositions
+
+A recurring, generalizable question in disciplinary and criminal-process oversight is whether a plea, sentencing, or non-prosecution agreement may condition its benefit on the defendant giving up a future claim against the very actors negotiating the agreement — defense counsel or the prosecution. This section surveys the national and state professional-ethics authority on that question, as distinct comparative material relevant to understanding disciplinary review generally, not as an assertion that any specific waiver occurred in any specific matter discussed elsewhere on this site.
+
+### The national policy: ABA Resolution 113E
+
+In August 2013, the American Bar Association's House of Delegates adopted Resolution 113E. It states ABA policy opposing plea or sentencing agreements that require a criminal defendant to waive post-conviction claims involving ineffective assistance of counsel, prosecutorial misconduct, or destruction of evidence — unless the waiver rests on identified, past conduct specifically described in the agreement or court record. The ABA also urged courts to reject agreements containing such waivers where that narrow exception does not apply.
+
+Resolution 113E is national policy, not binding law and not a disciplinary rule enforceable on its own. It does not prohibit every waiver made during plea bargaining — defendants routinely and validly waive trial-related rights as part of a knowing and voluntary plea. Its target is narrower: a prospective release that would insulate defense counsel or the prosecution from later accountability for their own conduct in that same case. That structure creates a direct professional-conflict concern, because defense counsel would be advising a client on whether to give up a future claim against that same lawyer, while a prosecutor might be seeking release from claims arising from the prosecutor's own conduct.
+
+A careful, non-overstated formulation of the policy, suitable for citation in a bar complaint, court filing, or professional correspondence, is:
+
+> In 2013, the American Bar Association adopted House of Delegates Resolution 113E, a national policy opposing plea or sentencing agreements that require a defendant to waive post-conviction claims of ineffective assistance of counsel, prosecutorial misconduct, or destruction of evidence, absent narrow circumstances involving specifically identified past conduct. The ABA also urged courts to reject agreements containing such waivers. Although the Resolution is not binding law, it is persuasive national professional guidance reflecting the principle that prosecutorial concessions should not be conditioned on broad waivers that immunize counsel or the government from accountability for constitutional or professional misconduct.
+
+### Stronger state-level ethics authority
+
+Because Resolution 113E is persuasive rather than binding, state bar ethics opinions and state supreme-court rules governing attorneys actually licensed in that jurisdiction carry more direct regulatory force. Several state authorities go beyond the ABA's national resolution and expressly condemn waiver-conditioned dispositions:
+
+| Jurisdiction | Authority | Holding |
+|---|---|---|
+| Florida | Bar Ethics Opinion 12-1 | A criminal defense lawyer has an unwaivable conflict of interest when advising a client on an offer requiring waiver of ineffective-assistance and prosecutorial-misconduct claims; a prosecutor may not make such an offer. |
+| New York | State Bar Association Ethics Opinion 1098 | A prosecutor may not ethically require, as a routine plea condition, a waiver of ineffective-assistance claims; the opinion cites ABA Model Rule 3.8(h)'s instruction that prosecutors refrain from seeking such waivers as a disposition condition. |
+| North Carolina | State Bar RPC 129 | Prosecutors and defense lawyers may negotiate some appellate or post-conviction waivers, but not waivers of claims based on ineffective assistance of counsel or prosecutorial misconduct. |
+| Virginia | Legal Ethics Opinion 1857 | It is unethical for a defense lawyer to advise acceptance of an ineffective-assistance waiver, and unethical for a prosecutor to offer one intended to obtain that waiver; the opinion reasons the term induces an ethical violation and presents a conflict. |
+| Kentucky | Kentucky Bar Association advisory opinion, affirmed by the Kentucky Supreme Court | Plea bargains conditioned on ineffective-assistance waivers conflict with the prosecutor's role as a "minister of justice." |
+
+**Montana-specific authority has not yet been identified for this question.** This report does not currently know of a Montana ethics opinion, disciplinary rule, or state supreme-court decision addressing waiver-conditioned plea or non-prosecution terms directly. That is flagged here as an open research item, not as an indication that no such authority exists.
+
+### Distinguishing waiver of legal claims from waiver of speech rights
+
+Resolution 113E and the state opinions above address waivers of ineffective-assistance, prosecutorial-misconduct, and evidence-destruction claims specifically. They are not, on their own terms, authority governing a separate and distinct category: a plea, sentencing, or non-prosecution term that instead requires a defendant to give up First Amendment speech rights — for example, removing a public complaint, review, or statement, or agreeing to a period of silence about a matter. Resolution 113E is relevant to that fact pattern only by analogy, not as controlling or directly on-point authority. Where a disposition term touches a speech right rather than a post-conviction legal claim, the more directly applicable frameworks are:
+
+- the unconstitutional-conditions doctrine, which holds the government cannot condition a benefit on surrender of a constitutionally protected right (*Perry v. Sindermann*, 408 U.S. 593 (1972) and successors);
+- First Amendment retaliation doctrine, where an adverse action follows protected speech or petitioning activity;
+- the professional-conflict rules governing a defense attorney's duty to place the client's interests first in advising on any waiver;
+- a prosecutor's "minister of justice" duties under ABA Model Rule 3.8 and its state analogues;
+- any applicable state anti-SLAPP or consumer-review-protection statute; and
+- the specific jurisdiction's own rules of professional conduct and ethics opinions.
+
+### Why this belongs in a report about complaint-handling transparency
+
+A disciplinary agency evaluating a grievance that touches a waiver-conditioned disposition is applying a body of comparative professional-ethics authority that is not uniform across jurisdictions and that draws real distinctions — between claim-waivers and speech-waivers, between national policy and binding state rule, between an isolated tactical choice and a structural conflict. A closure letter that resolves such a grievance under a general "strategy" label, without identifying which of these frameworks it considered or rejected, leaves a complainant unable to tell whether the agency engaged with this body of authority at all. That is the same transparency gap this report describes elsewhere in the context of undefined terms and unexplained closures — applied here to one specific, recurring substantive question rather than to the closure process in general.
+
 ## Conclusion
 
 Clarity is not the same as a guarantee that discipline will result. A
@@ -471,3 +514,5 @@ ultimately serves.
 - [Dataset: Brian Lowney ODC grievance and legal analysis (April 2026)](datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026.md)
 - [Montana State Institutional Failures](research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
 - [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md) — investigative review of the "strategy" rationale and a documented representation-gap problem
+- [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis.md) — applies the ABA Resolution 113E and state ethics-opinion survey above to the "strategy" closure rationale in a specific case chronology
+- [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](institutional-willful-blindness-pattern-analysis.md) — discusses Resolution 113E in the context of the unconstitutional-conditions doctrine and a specific alleged speech-waiver term
