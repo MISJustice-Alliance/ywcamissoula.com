@@ -99,10 +99,18 @@ exactly as printed:
 > records indicate that you did pursue such an appeal."
 
 This sentence is reproduced exactly as printed, without correction, because
-it is the letter's own language. Read literally, "but... did pursue" does
-not fit the contrastive function of "but," which would ordinarily precede a
-negative. This article does not speculate about what was intended; it
-flags the wording as ambiguous on its face and leaves the reader to draw
+it is the letter's own language. Direct image review of this and the July 10,
+2026 letter (conducted 2026-09-24) confirms both letters print this sentence
+identically, verbatim, with no "not" in either. Per the complainant's own
+account, the sentence is accurate as printed: he did submit a request for
+Montana Supreme Court review of ODC's disposition. What ODC has not
+disclosed, in this letter, the July 10 letter, or any other document
+currently in this record, is that appeal's docket number, its pending or
+decided status, or its disposition — so while the wording itself is no
+longer in doubt, whether File No. 25-147 remains open in a parallel Montana
+Supreme Court review track, notwithstanding ODC's repeated "this matter
+remains closed" language, is an open procedural question this article does
+not resolve and leaves the reader to draw
 their own conclusion.
 
 ### The August 21, 2026 letter to Eleanor Nuno, as described in the legal-analysis memorandum
