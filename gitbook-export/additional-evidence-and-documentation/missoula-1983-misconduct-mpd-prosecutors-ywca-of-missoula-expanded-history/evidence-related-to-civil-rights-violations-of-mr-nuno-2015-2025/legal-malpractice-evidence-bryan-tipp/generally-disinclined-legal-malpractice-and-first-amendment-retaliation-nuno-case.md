@@ -23,7 +23,7 @@ This document heavily references official correspondence between Bryan Tipp and 
 
 ## Introduction
 
-**Issue:** Bryan Tipp's legal malpractice in failing to preserve approximately **$6.4–8.4 million in viable civil rights claims** despite explicit documentation that: (1) he acknowledged in writing to Prosecutor Brian Lowney that E'Lise Chard's harassment constituted infringement on Mr. Nuno's First Amendment rights; (2) he was aware of ongoing harassment and sabotage by E'Lise Chard and associates; and (3) he remained "generally disinclined" to provide civil advisory services, referrals, or institutional conflict documentation that Mr. Nuno repeatedly requested.
+**Issue:** Bryan Tipp's legal malpractice in failing to preserve approximately **$6.4–8.4 million in viable civil rights claims** despite explicit documentation that: (1) he acknowledged in writing to Prosecutor Brian Lowney that E'Lise Chard's harassment constituted infringement on Mr. Nuno's First Amendment rights; (2) he was aware of ongoing harassment and sabotage by E'Lise Chard and associates — including a documented January 2021 correspondence addressing E'Lise's recruitment of YWCA client Tyleen Root to run a coordinated defamation and business-sabotage campaign against Nuno; and (3) he remained "generally disinclined" to provide civil advisory services, referrals, or institutional conflict documentation that Mr. Nuno repeatedly requested — refusing both the referral letter to MPD and any form of civil representation despite full, contemporaneous knowledge of the economic destruction underway. Read together, this pattern amounts to complete abandonment of the client on the two fronts (criminal-adjacent referral and civil remedy) where representation was most urgently needed.
 
 **Time Period:** July 2018–January 2021 (representation); October 2020–January 2021 (critical email correspondence and refusals); Discovery: June 2025.
 
@@ -86,6 +86,20 @@ He further documents:
 2. **E'Lise Chard's retaliatory motive** (found speech "objectionable")
 3. **Ongoing harassment campaign** (public online comments)
 4. **Material economic harm** (organizational consternation, career damage)
+
+#### A-1. Awareness Extended Into January 2021: The Tyleen Root Business-Sabotage Campaign
+
+Tipp's knowledge of ongoing, escalating harassment did not end with the December 23, 2020 letter — it continued into the final days of the representation itself. A documented **January 2021 email correspondence between Nuno and Tipp** exists in the case file addressing the Tyleen Root harassment campaign specifically: E'Lise Chard's recruitment of a YWCA client to run a coordinated defamation and business-sabotage operation against Nuno, including a public Facebook post on the page of his IT nonprofit calling him "a stalker and a woman beater" — precisely the kind of economic and reputational destruction Tipp's own December 23 letter to Lowney had already acknowledged as flowing from E'Lise's retaliation. This places Tipp's knowledge of the harassment campaign at the literal end of the attorney-client relationship, not merely at its outset: he was contemporaneously informed, in writing, that the retaliation he had already characterized as a First Amendment violation to the prosecuting attorney was actively metastasizing into third-party-recruited economic sabotage of his client's livelihood — and he still took no action.
+
+#### A-2. Complete Abandonment: Refusing Both the Referral Letter and Civil Representation
+
+The combination of (1) Tipp's acknowledged, written knowledge that E'Lise Chard's retaliation constituted a First Amendment violation causing "great consternation" and economic harm, (2) his contemporaneous January 2021 knowledge that the harassment had escalated into a coordinated third-party business-sabotage campaign (Tyleen Root), and (3) his flat, unexplained refusal — "I am generally disinclined" — to provide **either** of the two remedies Nuno requested, is not merely a series of discrete rule breaches. Read together, it describes complete abandonment of the client at the exact moment abandonment caused the most harm:
+
+* **He would not write the referral letter.** Nuno asked for a formal letter to the Missoula Police Chief documenting the institutional conflict and requesting referral to the state Criminal Investigation Division — a request Tipp could have granted, declined with a written explanation, or granted through referral to another attorney. He did none of the three; he simply declined, with no explanation and no alternative offered.
+* **He would not provide or arrange civil representation.** Despite personally documenting, in writing, a First Amendment violation and quantifiable economic harm exceeding $1 million, and despite being informed weeks later of an active third-party sabotage campaign against the same client, Tipp neither pursued civil remedies himself nor referred Nuno to civil counsel with any urgency, deadline warning, or referral mechanism.
+* **He knew the harm was ongoing and worsening, and did nothing on either front.** This was not a single missed deadline or a single unreturned call — it was sustained, informed inaction across both the criminal-adjacent referral Nuno asked for and the civil representation Nuno's mounting losses required, continuing through the literal final weeks of the representation.
+
+A criminal defense attorney is not obligated to personally litigate every parallel civil claim his client might have. But an attorney who (a) has personally documented in writing that his client is the victim of a constitutional violation causing quantifiable economic harm, (b) is then informed that the underlying harassment has escalated into an active third-party sabotage campaign, and (c) responds to both the criminal-referral request and the civil-representation need with the same unexplained, unreferred refusal, has not merely breached a duty of communication or diligence in the technical sense captured by Rules 1.3 and 1.4 below — he has left his client with no functioning legal representation on either front, at the precise moment the client's need for it was most acute and best documented. That is abandonment, not a scope dispute.
 
 #### B. The "Generally Disinclined" Response (Dec 23, 2020 Email)
 
@@ -478,9 +492,11 @@ Nuno has already filed **June 1, 2025 Complaint** with Montana Office of Discipl
 Bryan Tipp's malpractice is **structural and multi-layered:**
 
 1. **Acknowledgment without remedy:** Tipp explicitly recognized (in Dec 23 letter to Lowney) that E'Lise Chard's harassment constituted First Amendment infringement, yet refused Nuno's request for institutional conflict documentation.
-2. **Timing catastrophe:** Tipp's 77-day delay in responding (Oct 15 → Dec 23) allowed November 1, 2020 SOL expiration for 1983 retaliation claim to pass unaddressed.
-3. **Institutional capture:** "Generally disinclined" posture suggests Tipp prioritized harmonious relationships with local prosecutors and institutions over zealous advocacy for client's civil rights preservation.
-4. **Compound breach:** Failures in investigation (Brueckner conflict), advisory (SOL warnings), and exit (termination advisement) constitute pattern, not isolated negligence.
+2. **Knowledge extended to the sabotage campaign, and still no action:** A January 2021 email correspondence shows Tipp was informed of the Tyleen Root business-sabotage campaign — the harassment he had already documented as constitutionally violative was actively escalating into third-party-recruited economic destruction — during the final weeks of representation, and he still took no action on either the referral or civil fronts.
+3. **Timing catastrophe:** Tipp's 77-day delay in responding (Oct 15 → Dec 23) allowed November 1, 2020 SOL expiration for 1983 retaliation claim to pass unaddressed.
+4. **Institutional capture:** "Generally disinclined" posture suggests Tipp prioritized harmonious relationships with local prosecutors and institutions over zealous advocacy for client's civil rights preservation.
+5. **Compound breach:** Failures in investigation (Brueckner conflict), advisory (SOL warnings), and exit (termination advisement) constitute pattern, not isolated negligence.
+6. **Complete abandonment:** Refusing both requested remedies — the MPD referral letter and any form of civil representation or referral — while possessing full, contemporaneous, written knowledge of both the constitutional violation and its escalating economic consequences, is not a scope dispute or a series of discrete technical breaches. It is complete abandonment of the client at the exact point abandonment caused the most harm.
 
 #### Quantified Harm
 
