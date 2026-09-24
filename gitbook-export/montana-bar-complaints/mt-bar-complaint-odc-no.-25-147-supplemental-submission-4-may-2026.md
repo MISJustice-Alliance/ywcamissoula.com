@@ -135,9 +135,11 @@ Dr. Stratford's letter documented the following clinical findings:
 
 * **Most critically for present purposes**: "He has been so anxious that I believe a trip to Washington for legal proceedings would be more than disconcerting and potentially unraveling to him. I would hope that some time could pass, perhaps several months, before he would be expected to go to court, if at all, in Washington state. **At this point, I do not believe he can be expected to do that, from an emotional standpoint, without serious risk of regression and worsening of his condition.**"
 
-## **B. The GPS Monitoring Surveillance Architecture: Objective Reality Matching Dr. Stratford's Clinical Findings**
+## **B. The GPS Monitoring Surveillance Architecture: Objective Reality, Not Paranoid Ideation — the "Symptom" Was an Accurate Report**
 
-Dr. Stratford's letter documented that Mr. Nuno "believes he is being consistently watched"—a symptom the letter framed within an anxiety disorder diagnosis. However, the pretrial conditions imposed in the Montana case demonstrate that this perception corresponded to objective surveillance realities rather than paranoid ideation.
+> **Editorial note:** Dr. Stratford's underlying clinical letter uses the term "paranoid ideation" as a diagnostic descriptor. This site's own analysis, developed after review of the full discovery record, is that the surveillance was real, multi-modal, and in significant part predated the charges themselves — meaning Mr. Nuno's reported sense of being watched was an accurate account of his actual circumstances, not a distorted perception. The clinical language is preserved verbatim below where quoted directly from the letter; the analysis that follows treats "consistently watched" as literal fact, corroborated by the discovery record, not as a symptom requiring separate validation.
+
+Dr. Stratford's letter documented that Mr. Nuno "believes he is being consistently watched"—a symptom the letter framed within an anxiety disorder diagnosis. The pretrial conditions imposed in the Montana case, together with pre-charge physical surveillance of both of Mr. Nuno's parents' homes, demonstrate that this was an accurate report of objective surveillance realities.
 
 ### **1\. 24/7 GPS Tracking Plus County-Level Geographic Confinement**
 
