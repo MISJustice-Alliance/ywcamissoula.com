@@ -60,9 +60,9 @@ Use these pages for the claimed injury story: emotional distress, economic loss,
 
 ## 4. Harm to friends and family
 
-* [Officer Ethan Smith Complaint Analysis — March 2018](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-analysis-march-2018)
-* [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/mpd-officer-misconduct-ethan-smith-timeline)
-* [Officer Ethan Smith Complaint — March 2018](https://www.ywcaofmissoula.com/officer-ethan-smith-complaint-march-2018)
+* [Officer Ethan Smith Complaint Analysis — March 2018](https://www.ywcaofmissoula.com/montana-legal-cases/officer-ethan-smith-complaint-analysis-march-2018)
+* [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/montana-legal-cases/mpd-officer-misconduct-ethan-smith-timeline)
+* [Officer Ethan Smith Complaint — March 2018](https://www.ywcaofmissoula.com/montana-legal-cases/officer-ethan-smith-complaint-march-2018)
 
 These pages help show how contact with family members, repeated outreach, and pressure on uninvolved relatives became part of the harm pattern.
 

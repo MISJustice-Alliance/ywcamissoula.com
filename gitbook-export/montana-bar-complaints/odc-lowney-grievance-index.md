@@ -53,7 +53,7 @@ Related starting points:
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
-* [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 
 ### Suggested reading order
 
@@ -96,13 +96,13 @@ Related starting points:
 
 #### Supporting institutional context
 
-* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
   * **Summary:** Documents Detective Brueckner's undisclosed YWCA board membership and its implications for investigative integrity.
   * **What changed at this stage:** Establishes the material conflict of interest that underpins the Brady claim in the Lowney grievance.
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
   * **Summary:** Public complaint and victim statements regarding YWCA institutional conduct during the same period.
   * **What changed at this stage:** Frames the YWCA as an institution with a documented pattern of misconduct, contextualizing the protected-speech complaint that became the basis for stalking charges.
-* [Elise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
+* [Elise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
   * **Summary:** Analysis of the protection-order petition that preceded the criminal charges.
   * **What changed at this stage:** Shows the origin of the "stranger stalking" theory and the municipal-court findings that the subsequent district-court prosecution ignored.
 * [Post-Mortem of MT DOJ Post-Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/montana-state-complaints/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)

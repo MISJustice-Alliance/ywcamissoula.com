@@ -45,7 +45,7 @@ A visual timeline of the underlying record — pre-representation background, th
 * May 2026 supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
 * May 2026 independent grievance/supporting submission: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
 * Public-facing explainer: [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
-* General transparency research report: [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/transparency-and-public-understanding-attorney-discipline)
+* General transparency research report: [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/transparency-and-public-understanding-attorney-discipline)
 * Representation-gap investigative report: [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis)
 
 ### Target audience
@@ -232,7 +232,7 @@ Related starting points:
 
 #### General transparency research report
 
-* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems](https://www.ywcaofmissoula.com/transparency-and-public-understanding-attorney-discipline)
+* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/transparency-and-public-understanding-attorney-discipline)
   * **Summary:** A separate, fully anonymized public-interest research report examining what complainants and the public should be able to understand from disciplinary closure correspondence generally — including cases involving later-submitted supplemental information or a non-client family member or witness. It uses an anonymized illustrative case study, not this file's specific facts, and does not conclude that any attorney or agency acted improperly.
   * **What changed at this stage:** Adds a general-education, policy-oriented companion piece that situates the case-specific record in this index within broader transparency and access-to-justice questions in attorney-disciplinary systems.
 

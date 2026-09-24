@@ -62,7 +62,7 @@ The attached intake brief is useful, but several statements required adjustment 
 * Supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance — ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
 * Independent/supporting witness grievance: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
 * Public explainer: [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
-* General transparency research report: [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/transparency-and-public-understanding-attorney-discipline)
+* General transparency research report: [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/transparency-and-public-understanding-attorney-discipline)
 
 #### Lowney / prosecutorial-misconduct track
 

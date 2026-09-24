@@ -14,8 +14,8 @@ This hub groups the YWCA-focused reports about governance conflicts, police inte
 ### Sub-pages
 
 * [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
-* [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
-* [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](https://www.ywcaofmissoula.com/legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co)
+* [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
+* [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co)
 * [YWCA of Missoula conflict of interest: board conflicts, police integration, and remediation priorities](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
 
 ### Supporting evidence

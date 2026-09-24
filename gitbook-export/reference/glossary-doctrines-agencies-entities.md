@@ -170,7 +170,7 @@ Montana attorney-discipline intake and investigation office.
 See also:
 
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
-* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/transparency-and-public-understanding-attorney-discipline) — general, anonymized research report on disciplinary transparency
+* [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/transparency-and-public-understanding-attorney-discipline) — general, anonymized research report on disciplinary transparency
 
 #### Washington State Bar Association (WSBA)
 
@@ -178,7 +178,7 @@ Washington’s lawyer licensing and discipline system.
 
 See also:
 
-* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/wa-state-bar-complaint-patricia-fulton-2016)
+* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016)
 
 #### Washington Department of Health (DOH)
 
@@ -186,7 +186,7 @@ Washington agency that oversees health-professional licensing and investigations
 
 See also:
 
-* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
+* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
 
 #### Seattle Office of Police Accountability (OPA)
 
@@ -194,7 +194,7 @@ Seattle’s police oversight intake and investigation office.
 
 See also:
 
-* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/seattle-opa-complaint-2016opa-1167-2016)
+* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
 
 ### Recurring entities (named in this record)
 
@@ -237,7 +237,7 @@ An entity referenced in connection with Missoula safe-house / victim-services re
 
 See also:
 
-* [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
+* [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
 
 #### Brian Lowney
 
@@ -254,7 +254,7 @@ An individual referenced in connection with YWCA-associated harassment allegatio
 
 See also:
 
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/montana-legal-cases/threats-malicious-harassment-from-ywca-associates-2020-2022)
 
 ### Related
 

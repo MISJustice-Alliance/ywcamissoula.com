@@ -32,7 +32,7 @@ Key supporting items:
 
 ### Facebook “all data” warrant as a fishing expedition
 
-Pair this page with: [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
+Pair this page with: [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/montana-legal-cases/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
 
 Key supporting items:
 

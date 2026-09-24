@@ -191,8 +191,8 @@ The case presents compelling claims under § 1983 for fabrication of evidence, f
 ### Related
 
 - [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
-- [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
-- [2015-2016 Seattle Case & Related Civil Rights Violations](https://www.ywcaofmissoula.com/2015-2016-seattle-case-related-civil-rights-violations)
+- [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/washington-cases/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
+- [2015-2016 Seattle Case & Related Civil Rights Violations](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations)
 - [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index)
 - [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 - [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)

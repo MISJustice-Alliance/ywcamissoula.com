@@ -139,13 +139,13 @@ It is also a direct parallel to the Nuno case record. That record repeatedly cen
 For the closest YWCA-specific parallels in this documentation, see:
 
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/montana-legal-cases/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/montana-legal-cases/threats-malicious-harassment-from-ywca-associates-2020-2022)
 
 **Concrete citation list (YWCA parallels)**
 
 Use these when you want “show me the artifact,” not just narrative.
 
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/montana-legal-cases/threats-malicious-harassment-from-ywca-associates-2020-2022)
   * [Harassment screenshot compilation (Tyleen Root)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#tyleen-root-harassment-screenshot-compilation)
   * [YWCA email complaint + witness statement](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-email-complaint-witness-statement)
   * [E-Mail correspondence w/ Bryan Tipp (Jan 2021)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-jan-2021)

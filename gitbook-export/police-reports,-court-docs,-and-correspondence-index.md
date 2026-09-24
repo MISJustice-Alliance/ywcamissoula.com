@@ -43,7 +43,7 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 * [E-Mail correspondence w/ Bryan Tipp (Dec 2020 / Jan 2021)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-jan-2021)
 * [Missoula stalking case: dismissal with prejudice (2020)](https://cr-2024-002-ruling-5_misjusticealliance.arweave.net/)
 * [Missoula stalking case: dismissal delay letter (Dec 2020)](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
-* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
+* [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/montana-legal-cases/threats-malicious-harassment-from-ywca-associates-2020-2022)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 * [MT DoJ Civil Rights Division Filing - 658793-SKB (August 2025)](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025)
 * [FBI Report Filing - Pattern of Cross-Jurisdictional Civil Rights Violations (November 2025)](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti)
@@ -59,10 +59,10 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 
 ## Washington State Department Complaints
 
-* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/wa-state-bar-complaint-patricia-fulton-2016)
-* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
-* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/seattle-opa-complaint-2016opa-1167-2016)
-* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation (Nov 2025)](https://www.ywcaofmissoula.com/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici)
+* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016)
+* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
+* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
+* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation (Nov 2025)](https://www.ywcaofmissoula.com/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici)
 
 ## Montana State Department Complaints
 

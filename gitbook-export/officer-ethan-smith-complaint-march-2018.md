@@ -69,7 +69,7 @@ Within the **MPD Officer Misconduct** series, this document:
 
 ## Related Archive Entries
 
-- [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/mpd-officer-misconduct-ethan-smith-timeline)
+- [MPD Officer Misconduct: Ethan Smith Timeline](https://www.ywcaofmissoula.com/montana-legal-cases/mpd-officer-misconduct-ethan-smith-timeline)
 - [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
 - [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
 - [MPD Civilian Complaint Scorecard & Accountability Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis)

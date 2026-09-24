@@ -131,10 +131,10 @@ This page is an index of complaint filings and published complaint packets acros
 
 ### Washington state complaints
 
-* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/wa-state-bar-complaint-patricia-fulton-2016)
-* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
-* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/seattle-opa-complaint-2016opa-1167-2016)
-* [Motion to seal/redact Miranda evaluation (Nov 2025)](https://www.ywcaofmissoula.com/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici)
+* [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016)
+* [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
+* [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
+* [Motion to seal/redact Miranda evaluation (Nov 2025)](https://www.ywcaofmissoula.com/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici)
 
 ### Montana state complaints
 
