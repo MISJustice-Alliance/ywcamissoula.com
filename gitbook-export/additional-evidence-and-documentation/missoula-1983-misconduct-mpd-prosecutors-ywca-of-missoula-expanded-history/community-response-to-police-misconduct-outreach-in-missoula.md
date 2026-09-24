@@ -138,7 +138,7 @@ It is also a direct parallel to the Nuno case record. That record repeatedly cen
 
 For the closest YWCA-specific parallels in this documentation, see:
 
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/montana-legal-cases/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](https://www.ywcaofmissoula.com/threats-malicious-harassment-from-ywca-associates-2020-2022)
 
 **Concrete citation list (YWCA parallels)**
@@ -161,7 +161,7 @@ Use these when you want “show me the artifact,” not just narrative.
 
 If you need the closest “mechanism match” narrative to the Reddit quote (complaint → no action → ratification / escalation), use:
 
-* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
+* [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/montana-legal-cases/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 
 In other words, even on a thread where hostility and skepticism are overrepresented, **there is non-trivial corroboration**: five people publicly came forward, and two more reached out privately.
 

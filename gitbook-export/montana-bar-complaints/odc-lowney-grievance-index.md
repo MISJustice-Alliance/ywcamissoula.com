@@ -51,7 +51,7 @@ It is also useful for **civil-rights advocates** and **technical readers** asses
 Related starting points:
 
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
-* [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
 * [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 
@@ -105,7 +105,7 @@ Related starting points:
 * [Elise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
   * **Summary:** Analysis of the protection-order petition that preceded the criminal charges.
   * **What changed at this stage:** Shows the origin of the "stranger stalking" theory and the municipal-court findings that the subsequent district-court prosecution ignored.
-* [Post-Mortem of MT DOJ Post-Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
+* [Post-Mortem of MT DOJ Post-Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/montana-state-complaints/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
   * **Summary:** Analysis of DOJ dismissal patterns and institutional non-response.
   * **What changed at this stage:** Provides the administrative-exhaustion and institutional-capture framework within which the Lowney grievance operates.
 

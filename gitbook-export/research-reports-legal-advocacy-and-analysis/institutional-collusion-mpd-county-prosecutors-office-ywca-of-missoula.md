@@ -14,7 +14,7 @@ This hub pulls together the pages that treat the Missoula record as an ecosystem
 ### Sub-pages
 
 * [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](https://www.ywcaofmissoula.com/SYNTHESIS-1983-Claims-YWCA-MPD-2012-2025)
-* [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](https://www.ywcaofmissoula.com/the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation)
+* [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula/the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation)
 
 ### Supporting evidence
 
@@ -22,7 +22,7 @@ This hub pulls together the pages that treat the Missoula record as an ecosystem
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
 * [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
-* [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
+* [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 
 ### Related
 

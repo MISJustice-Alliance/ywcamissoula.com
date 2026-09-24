@@ -20,7 +20,7 @@ description: >-
 
 This page is a navigable case file index for **Montana Office of Disciplinary Counsel (ODC) File No. 25-147**, concerning attorney **Bryan Tipp**. It organizes the original complaint, supplemental submissions, respondent materials, ODC disposition, request-for-review materials, May 2026 reconsideration/supporting witness filings, and related Lowney/prosecution materials so readers can verify how the record developed over time.
 
-A visual timeline of the underlying record — pre-representation background, the criminal prosecution, the case-deferral and post-dismissal losses, and the ODC disciplinary proceedings themselves — is available on the [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account) page. A combined chronology cross-referencing this file, the P.S. email chain, and the Seattle/Edmonds police-report comparison is available at [ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison). That combined chronology now also integrates the August 23, 2016 Seattle Municipal Court #613225 dismissal order, the 2022–2024 Missoula traffic-matter and bondsman-seizure record, and the 2017 and July 2026 forced-displacement events (sources SRC-12 through SRC-17).
+A visual timeline of the underlying record — pre-representation background, the criminal prosecution, the case-deferral and post-dismissal losses, and the ODC disciplinary proceedings themselves — is available on the [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account) page. A combined chronology cross-referencing this file, the P.S. email chain, and the Seattle/Edmonds police-report comparison is available at [ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison). That combined chronology now also integrates the August 23, 2016 Seattle Municipal Court #613225 dismissal order, the 2022–2024 Missoula traffic-matter and bondsman-seizure record, and the 2017 and July 2026 forced-displacement events (sources SRC-12 through SRC-17).
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
@@ -28,7 +28,7 @@ A visual timeline of the underlying record — pre-representation background, th
 
 * External dossier portal (canonical public entry): https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06
 * Dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](https://www.ywcaofmissoula.com/datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025)
-* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* Malpractice analysis (context): [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * Internal case file mirror: [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
 
@@ -70,7 +70,7 @@ It is also useful for **civil-rights advocates** and **technical readers** asses
 Related starting points:
 
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
-* [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
+* [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case)
 
 ### Suggested reading order

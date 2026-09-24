@@ -122,7 +122,7 @@ What is not verified:
 
 ### 7.1 2025 self-published complaint materials
 
-A 2025 complaint packet and related pages on ywcaofmissoula.com allege a “pattern of civil rights violations, conflicts of interest, and abuse of power” involving Brueckner and MPD, and some of those materials repeat the claim that she was a YWCA board member. The board-membership premise is now partially verified for 2022–2023 via the GSAFAC filing, but the specific allegations of investigative misconduct or retaliation remain unverified in primary sources. I treat the advocacy-site materials as allegations only. [YWCA-related complaint page](https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
+A 2025 complaint packet and related pages on ywcaofmissoula.com allege a “pattern of civil rights violations, conflicts of interest, and abuse of power” involving Brueckner and MPD, and some of those materials repeat the claim that she was a YWCA board member. The board-membership premise is now partially verified for 2022–2023 via the GSAFAC filing, but the specific allegations of investigative misconduct or retaliation remain unverified in primary sources. I treat the advocacy-site materials as allegations only. [YWCA-related complaint page](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 
 ### 7.2 What I did not find
 
