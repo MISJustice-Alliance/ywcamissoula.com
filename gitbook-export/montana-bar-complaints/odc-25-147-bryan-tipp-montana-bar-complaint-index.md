@@ -46,7 +46,7 @@ A visual timeline of the underlying record — pre-representation background, th
 * May 2026 independent grievance/supporting submission: [Eleanor ("Ellie") Nuno Independent ODC Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026)
 * Public-facing explainer: [What the ODC's Ruling in File No. 25-147 Means — and Why the Response Warrants Further Review](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review)
 * General transparency research report: [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](https://www.ywcaofmissoula.com/transparency-and-public-understanding-attorney-discipline)
-* Representation-gap investigative report: [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis)
+* Representation-gap investigative report: [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis)
 
 ### Target audience
 
@@ -238,7 +238,7 @@ Related starting points:
 
 #### Representation-gap investigative report
 
-* [When "Strategy" Ends the Inquiry: Investigative Review of ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis)
+* [When "Strategy" Ends the Inquiry: Investigative Review of ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis)
   * **Summary:** Compares the allegations and exhibits in this file against the reasoning visible in ODC's published correspondence, analyzes the "strategy" rationale in the July 10 and July 30, 2026 closure letters, and adds a February 6, 2026 attorney-outreach record documenting one Montana lawyer's declination for lack of qualification and a perceived scarcity of Montana plaintiff-side legal-malpractice counsel.
   * **What changed at this stage:** Connects the case-specific ODC 25-147 record to a broader Montana representation-gap and access-to-justice analysis, published in the Research Reports, Legal Advocacy, and Analysis section.
 
