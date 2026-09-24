@@ -140,11 +140,12 @@ The petition is described as containing statements like “Elvis blames me for �
 
 Court transcripts at the protection order hearing are asserted to show the following:
 
-* Judge Sam Warren asked E’Lise Chard **twice** whether Mr. Nuno made any attempt to contact her other than the **two emails requesting cessation of harassment**.
-* E’Lise Chard answered **“no”** both times.
+* Judge Sam Warren asked E’Lise Chard **twice** whether Mr. Nuno made any attempt to contact her other than the **three emails requesting cessation of harassment** (of himself and his family).
+* E’Lise Chard answered **“no”** both times — confirming, on the record and under oath, that no contact of any kind (physical or digital) had occurred beyond those three emails.
+* Mr. Nuno did not contest the petition. He told the court on the record that he was fine with the order of protection being entered, because he did not want any contact with E'Lise Chard and had none to lose by consenting to it. His stated position and Chard's own sworn testimony aligned on the operative fact: no contact had occurred, and none was sought going forward.
 * Those answers are asserted to contradict her June 12, 2018 written narrative alleging broader “contact” and threat-related conduct.
 
-**Why this matters:** This contradiction is asserted to support impeachment and a perjury analysis. It is also asserted to undermine probable-cause style reliance on the written narrative when no corroborating evidence exists.
+**Why this matters:** This contradiction is asserted to support impeachment and a perjury analysis. It is also asserted to undermine probable-cause style reliance on the written narrative when no corroborating evidence exists. It matters for a second, independent reason: Mr. Nuno's own consent to the order — motivated by his stated desire for no contact — combined with Chard's sworn confirmation that no contact had occurred, together describe a matter that both parties treated as resolved at the June 2018 hearing. Mr. Nuno believed his non-opposition and stated position would put the matter to rest. Instead, the same undisputed hearing record was later recast as the evidentiary basis for felony stalking charges filed months afterward — an inversion of a record that, read on its own terms, shows the opposite of a stalking pattern: an accused who wanted no contact, consented to an order guaranteeing none, and whose accuser agreed under oath that none had occurred.
 
 #### Categories of demonstrably false statements alleged
 
