@@ -106,7 +106,7 @@ Seattle's Office of Police Accountability publishes monthly newsletters addressi
 
 ### Featured open letter
 
-* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve) — first-person letter on alleged debt, written warrant transparency, the missing psychological evaluation, and safe access to court
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) — first-person letter on alleged debt, written warrant transparency, the missing psychological evaluation, and safe access to court
 
 ### Executive snapshot
 

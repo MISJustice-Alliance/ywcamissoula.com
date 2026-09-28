@@ -69,7 +69,7 @@
 ## Washington Cases
 
 * [Washington Legal Cases Index](washington-legal-cases-index.md)
-* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve.md) — featured open letter on alleged debt, warrant transparency, and safe access to court
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](open-letter-to-washington-unpaid-debt-unserved-purpose.md) — featured open letter on alleged debt, warrant transparency, purpose, and safe access to court
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)

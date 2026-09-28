@@ -256,7 +256,7 @@ In this second sense, debt is not a balance on a ledger. It is the system's stan
 
 This kind of debt has no stated principal. It has no amortization schedule. It cannot be paid off, because the amount is never fixed in advance and the obligation can be redefined after every payment. Each act of compliance becomes evidence that more compliance can be demanded. The debt grows precisely because it is being serviced.
 
-I am not speaking abstractly. I have been told that I may "owe" six months in jail after completing the evaluation, house arrest, and treatment that were required of me. The [Open Letter to Washington](/washington-cases/open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve) examines that claimed debt in detail and asks the only questions that matter: what exactly is owed, and what would further punishment actually accomplish?
+I am not speaking abstractly. I have been told that I may "owe" six months in jail after completing the evaluation, house arrest, and treatment that were required of me. The [Open Letter to Washington](/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) examines that claimed debt in detail and asks the only questions that matter: what exactly is owed, and what would further punishment actually accomplish?
 
 A debt that cannot be discharged by any defined act is not a debt. It is a permanent relationship of subordination dressed in accounting language.
 
@@ -398,6 +398,6 @@ Until it does, the question remains:
 
 * [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process) — the companion open letter on inaccessible remedies and safe access to court
 * [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — the jurisdiction-specific letter on grievance-system failures and independent review
-* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](/washington-cases/open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve) — the jurisdiction-specific letter on alleged debt, warrants, and safe court access
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) — the jurisdiction-specific letter on alleged debt, warrants, and safe court access
 * [Sworn Declaration of Elvis Nuno — detailed summary](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) — primary-record declaration underlying the account
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/structural-failure-and-the-civil-rights-gap) — structural companion analysis of the remedy gap

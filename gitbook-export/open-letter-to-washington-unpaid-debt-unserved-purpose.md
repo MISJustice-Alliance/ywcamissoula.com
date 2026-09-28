@@ -1,7 +1,6 @@
 ---
 title: >-
-  Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying
-  It Solve?
+  Open Letter to Washington: Unpaid Debt, Unserved Purpose
 description: >-
   A first-person open letter to Washington courts and institutions asking what
   unresolved obligation the system claims remains — financial, custodial, or
@@ -18,7 +17,7 @@ tags:
 
 # Open Letter to Washington
 
-## What Debt Have I Not Paid, and What Will Paying It Solve?
+## Unpaid Debt, Unserved Purpose
 
 *Elvis Nuno — MISJustice Alliance | September 28, 2026*
 

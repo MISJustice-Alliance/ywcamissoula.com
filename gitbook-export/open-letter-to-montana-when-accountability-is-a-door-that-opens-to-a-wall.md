@@ -216,7 +216,7 @@ A system that cannot answer that question is not yet accountable.
 ### Related records
 
 * [The Human Cost of an Unaccountable System](/overview/the-human-cost-of-an-unaccountable-system) — the cross-jurisdiction companion letter on cumulative harm and the absence of any restoration process
-* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](/washington-cases/open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve) — the jurisdiction-specific letter on alleged debt, warrants, and safe court access
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) — the jurisdiction-specific letter on alleged debt, warrants, and safe court access
 * [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process) — the companion open letter on inaccessible remedies
 * [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis) — investigative review of a one-word closure rationale of the kind this letter describes
 * [Montana Legal Cases](/montana-legal-cases) — the Montana case index
