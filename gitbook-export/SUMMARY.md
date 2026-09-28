@@ -3,6 +3,7 @@
 ## Overview
 
 * [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](README.md)
+* [The Human Cost of an Unaccountable System: What Is Lost When No One Takes Responsibility for Repair?](the-human-cost-of-an-unaccountable-system.md) — featured open letter on the cumulative human cost of systems that process but do not repair
 * [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
 * [Sworn Declaration of Elvis Nuno — Detailed Summary (notarized Dec 10, 2025)](sworn-declaration-of-elvis-nuno-detailed-summary.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](comprehensive-timeline,-relationship-diagram,-actionable-claims.md)
@@ -49,6 +50,7 @@
 ## Montana Legal Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall.md) — featured open letter on grievance-system failures, independent review, and protected petitioning
 * [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith (Badge #345)](officer-ethan-smith-complaint-march-2018.md)
 * [MPD Officer Misconduct: Ethan Smith Timeline](mpd-officer-misconduct-ethan-smith-timeline.md)
 * [Officer Ethan Smith Complaint Analysis — March 2018](officer-ethan-smith-complaint-analysis-march-2018.md)
@@ -67,6 +69,7 @@
 ## Washington Cases
 
 * [Washington Legal Cases Index](washington-legal-cases-index.md)
+* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve.md) — featured open letter on alleged debt, warrant transparency, and safe access to court
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)

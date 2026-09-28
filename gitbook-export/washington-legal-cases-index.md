@@ -104,6 +104,10 @@ Seattle's Office of Police Accountability publishes monthly newsletters addressi
 
 # Washington Legal Cases Index
 
+### Featured open letter
+
+* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve) — first-person letter on alleged debt, written warrant transparency, the missing psychological evaluation, and safe access to court
+
 ### Executive snapshot
 
 This page is the Washington index for case analysis and linked primary records, with emphasis on Seattle and Edmonds proceedings. Use it to pivot from a proceeding into the relevant Washington-focused page, then into the underlying filings, orders, and complaint packets.

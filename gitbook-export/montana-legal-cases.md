@@ -99,6 +99,10 @@ The U.S. Supreme Court declined to grant qualified immunity to Michigan officer 
 
 # Montana Legal Cases
 
+### Featured open letter
+
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](https://www.ywcaofmissoula.com/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — first-person letter on grievance-system failures, the need for independent review, and the absence of a whole-of-record restoration process
+
 ### Executive snapshot
 
 This page is the Montana index for case analysis and linked primary records, with emphasis on Missoula events tied into the Nuno record. Use it to pivot from an incident or filing into the relevant Montana-focused page, then into the underlying record packets and court documents.

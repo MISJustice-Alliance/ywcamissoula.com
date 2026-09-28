@@ -238,6 +238,9 @@ It has to be something a person can actually reach.
 
 ### Related records
 
+* [The Human Cost of an Unaccountable System](/overview/the-human-cost-of-an-unaccountable-system) — companion open letter on the cumulative human cost of systems that process but do not repair
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — jurisdiction-specific letter on grievance-system failures and independent review
+* [Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying It Solve?](/washington-cases/open-letter-to-washington-what-debt-have-i-not-paid-and-what-will-paying-it-solve) — jurisdiction-specific letter on alleged debt, warrants, and safe court access
 * [Sworn Declaration of Elvis Nuno — detailed summary](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) — the declaration referenced above, including the Edmonds Municipal Court coerced-plea account
 * [Edmonds Case (2015–2017)](/washington-cases/edmonds-case-2015-2017) — the underlying Washington case file
 * [Motion to seal/redact the Miranda evaluation (Nov 2025)](/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici) — the Edmonds filing concerning the psychological evaluation

@@ -50,6 +50,7 @@ Start with the **Verify first** links, then use the hubs and datasets below.
 * [Bryan Tipp](https://www.ywcaofmissoula.com/overview/bryan-tipp-malpractice-allegations-missed-1983-deadlines-and-source-index)
 * [Missoula Police](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
 * [Institutional Willful Blindness: Pattern Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
+* [The Human Cost of an Unaccountable System](https://www.ywcaofmissoula.com/overview/the-human-cost-of-an-unaccountable-system) — Featured open letter: what is lost when no institution takes responsibility for repair
 
 ### Institutional map
 
