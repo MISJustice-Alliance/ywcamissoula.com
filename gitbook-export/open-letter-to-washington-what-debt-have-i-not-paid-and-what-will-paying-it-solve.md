@@ -3,11 +3,10 @@ title: >-
   Open Letter to Washington: What Debt Have I Not Paid, and What Will Paying
   It Solve?
 description: >-
-  A first-person open letter to Washington courts and institutions requesting
-  a written case-specific accounting of every alleged financial obligation,
-  written warrant transparency, a safe process for seeking review without
-  risking detention, and a documented search for a missing psychological
-  evaluation.
+  A first-person open letter to Washington courts and institutions asking what
+  unresolved obligation the system claims remains — financial, custodial, or
+  symbolic — what legitimate public purpose further punishment would serve,
+  and how a person can seek review safely without risking detention.
 tags:
   - Open Letter
   - Washington
@@ -29,7 +28,15 @@ tags:
 
 To Washington courts, court administrators, public defenders, records custodians, elected officials, legal-service providers, and the public:
 
-I am writing to ask for clear written answers to questions that should not require a person to risk detention in order to ask them.
+I am writing because I need clear answers about what Washington believes I still owe.
+
+I do not mean only money. I mean fees, warrants, alleged compliance obligations, unresolved conditions, and what I have been told may be six months in jail.
+
+I have already complied with requirements I understood to be part of resolving these matters: a psychological evaluation, house arrest, and treatment. These were not minor conditions. They carried substantial financial, emotional, professional, and psychological costs.
+
+Yet instead of finality, I have encountered the prospect of escalating demands.
+
+I am therefore asking Washington: what is the purpose of continuing to punish someone who has already complied with the conditions imposed, who has attempted to rebuild, and whose incarceration would endanger an elderly dependent parent and further destroy the stability the system claims to want people to achieve?
 
 For years, I traveled back and forth in connection with Washington legal matters at substantial financial, emotional, and psychological cost.
 
@@ -49,51 +56,110 @@ But I have not received a clear written accounting of what I allegedly owe, why 
 
 That is why I am asking Washington to answer two basic questions.
 
-## First Question: What Debt Have I Not Paid?
+## First Question: What Do I Still Owe?
 
-I am asking for a clear, written, case-specific accounting of every alleged financial obligation connected to me.
+When I ask, "What debt have I not paid?" I am not asking only about money.
 
-Not a vague reference to "fees."
+I am asking what Washington and Edmonds believe I still owe after years of legal demands, compliance requirements, expense, travel, fear, and disruption.
 
-Not an instruction to "take care of it."
+I have been told that I may "owe" six months in jail.
 
-Not a requirement that I appear in person at the risk of arrest before I can learn what the alleged obligation is.
+I have also been told that unresolved warrants may exist, including what I was told was a felony warrant, and that fees may be involved. I have not received a complete written explanation identifying the precise case status, the legal basis for every alleged obligation, the warrant basis, the fee amount, or what action would finally resolve the matter.
 
-I am asking for answers in plain language:
+But the larger question is this:
 
-- What debt or financial obligation is alleged to exist?
-- Which court, agency, clerk, collection entity, or other institution claims it is owed?
-- What case number is associated with it?
-- What order, judgment, sentence, condition, or event created it?
-- Is it a fine, court cost, collection balance, surcharge, restitution amount, bail-related amount, missed-appearance consequence, probation-related obligation, or another category?
-- What was the original amount?
-- What fees, interest, penalties, assessments, or collection costs were added?
-- What payments have been credited?
-- What is the present balance?
-- Is the alleged obligation connected to an active warrant, a hold, a suspension, a collections referral, or another legal restriction?
-- What procedure exists to challenge an inaccurate balance, request a hearing, seek remission, request a payment plan, or demonstrate inability to pay?
+> **What is it that I am said to owe, and what would further punishment actually accomplish?**
 
-Most importantly:
+My understanding is that I already completed requirements that the system imposed on me, including a psychological evaluation, home detention or house arrest, and treatment. I complied with these demands at substantial personal and financial cost.
 
-> **What will paying the alleged debt actually solve?**
+The evaluation was not merely burdensome. I experienced it as deeply invasive and extraordinarily expensive—both literally, in the financial cost imposed on me, and figuratively, in the cost to my dignity, privacy, mental wellbeing, work, and ability to rebuild my life.
 
-Will payment recall a warrant?
+I completed the evaluation.
 
-Will it close a case?
+I completed the house arrest.
 
-Will it satisfy a judgment?
+I obtained the treatment I was told to obtain.
 
-Will it remove an arrest risk?
+Yet the demands did not end.
 
-Will it terminate a hold?
+Instead, they appear to have escalated.
 
-Will it restore a legal status?
+Now I am told that I may still "owe" six months in jail.
 
-Or will it merely pay one administrative balance while leaving the underlying legal problem unresolved?
+For what?
 
-These are not complicated questions. They are the minimum information necessary for a person to understand how to comply with the law.
+If the purpose is rehabilitation, how does jail rehabilitate someone who has already completed the evaluation, restrictions, and treatment that were required?
 
-No court should be able to impose a financial obligation, maintain a warrant, or restrict liberty while refusing to provide a written explanation of the obligation and the legal consequence of payment.
+If the purpose is deterrence, what exactly is being deterred years later, after the person has complied with the ordered conditions and attempted to move forward?
+
+If the purpose is punishment, what is the proportional and intelligible basis for adding more punishment after a person believed the matter had been resolved?
+
+If the purpose is public safety, what specific risk would six months of incarceration reduce?
+
+If the purpose is protection, whom would it protect, and from what present, documented danger?
+
+If the purpose is to protect Danielle, what evidence-based purpose would my incarceration serve now—particularly after years of separation, compliance, and efforts to avoid further contact or escalation?
+
+And if the purpose is simply that the system must continue because it has already begun, then that is not justice. That is momentum.
+
+> I am not asking only what money I allegedly owe. I am asking what debt the system claims I still owe after years of compliance.
+>
+> I completed the evaluation I was required to obtain. I completed the house arrest I was required to complete. I sought the treatment I was told to seek. Each requirement imposed financial, professional, emotional, and psychological costs.
+>
+> Yet I am now told that I may still "owe" six months in jail.
+>
+> For what?
+>
+> What would six months in jail repair?
+>
+> What would it rehabilitate?
+>
+> What danger would it prevent?
+>
+> What future harm would it deter?
+>
+> What person would it protect?
+>
+> What public interest would it serve?
+>
+> Would it make society safer to remove a person from work, family care, housing, medical responsibilities, and the ordinary obligations of life?
+>
+> Would it make my future brighter to leave my elderly father without vital care, forfeit my ability to work, and suspend every responsibility that I have struggled to preserve?
+>
+> Would it protect Danielle—or merely extend an old legal conflict that has already consumed years of everyone's lives?
+>
+> If the answer is that I "owe" jail because the system says I do, then the system must explain why. Punishment without a present, intelligible purpose is not accountability. It is inertia.
+
+### The human cost of "owing" jail
+
+Six months in jail is not an abstract condition on a file.
+
+It means leaving an elderly father without vital care and support.
+
+It means leaving a household without its primary caretaker.
+
+It means potentially losing a career and professional stability that have already been severely damaged by years of legal disruption.
+
+It means suspending the practical responsibilities that make life possible: income, housing, medical needs, transportation, bills, family care, and the care of animals who depend on me.
+
+It means placing a person in a position where "compliance" could create catastrophic harm outside the jail walls.
+
+No court should be able to reduce those consequences to an administrative checkbox.
+
+Before demanding further incarceration, the system should be required to answer:
+
+- What exact legal obligation remains unsatisfied?
+- What order imposed the alleged six-month custody obligation?
+- What court has authority over it?
+- What case number controls it?
+- What compliance has already been completed?
+- What evidence shows incarceration is necessary now?
+- What less restrictive alternative has been considered?
+- What public-safety, rehabilitation, deterrence, accountability, or victim-protection objective would incarceration actually serve?
+- What will happen to dependent family members if the person is taken into custody?
+- What is the final, documented path to resolution?
+
+A system should not be allowed to say, "You owe jail," without explaining what that means, why it is necessary, and how it serves any legitimate purpose beyond continuing the punishment cycle.
 
 ## Second Question: How Can I Seek Review Safely?
 
@@ -213,25 +279,44 @@ I request:
 7. **A clear path to finality.**
    Identify what actions, if any, are necessary to resolve every remaining Washington matter fully and permanently.
 
+### Questions I request answered in writing
+
+> I request a written answer to the following:
+>
+> 1. What exact legal debt or obligation does the court claim remains unpaid or unsatisfied?
+> 2. Is the claimed debt financial, custodial, treatment-related, probation-related, warrant-related, or some combination?
+> 3. What specific order, judgment, sentence, docket entry, or violation finding created the obligation?
+> 4. Which completed requirements has the court credited, including evaluation, home detention, treatment, fees, or other conditions?
+> 5. What legal and factual basis supports any claim that I "owe" six months in jail?
+> 6. Is that six months a sentence, suspended sentence, warrant condition, probation consequence, contempt-related sanction, or another form of custody?
+> 7. What current objective would custody serve: rehabilitation, deterrence, public safety, punishment, victim protection, or something else?
+> 8. What evidence supports that objective today?
+> 9. What less restrictive alternatives have been considered?
+> 10. What procedure exists to seek review, modification, recall, quashing of warrants, credit for compliance, or a safe hearing before risking immediate detention?
+> 11. What accommodation process is available for a person with essential caregiving responsibilities for an elderly parent?
+> 12. What precise steps would produce true finality, with no additional hidden obligations or later escalations?
+
 ## Closing
 
-I am asking Washington to answer questions that should have simple, written answers.
+I am asking Washington to identify what it believes I still owe.
 
-> **What debt have I not paid?**
+If the answer is money, identify the amount, the case, the order, the reason, and what payment will resolve.
 
-Identify it. Explain it. Show the case number, order, amount, legal basis, warrant connection, and what payment would resolve.
+If the answer is custody, identify the authority, the legal basis, the uncredited compliance, the current purpose, the evidence of necessity, and the path to review.
 
-> **How can I safely seek review?**
+If the answer is that I "owe" six months in jail, then explain what six months in jail would accomplish.
 
-Provide a procedure that allows a person to obtain records, challenge inaccuracies, understand warrant status, and be heard before risking detention.
+Explain how it would rehabilitate someone who has already completed evaluation, home detention, and treatment.
 
-> **Where is the evaluation?**
+Explain how it would make the public safer.
 
-Locate it, produce it, or provide a documented accounting of its custody, use, filing status, retention, and disposition.
+Explain how it would protect anyone.
 
-A court system cannot call itself accessible if a person must risk incarceration merely to learn why a warrant exists or what a court claims they owe.
+Explain why the system's answer to years of compliance, financial loss, and attempted rebuilding is to demand more.
 
-Due process must mean more than "appear, surrender, and hope someone explains later."
+And explain how I can seek those answers without being placed in custody before I am heard.
+
+Justice requires more than a demand for compliance. It requires a reason.
 
 ***
 
