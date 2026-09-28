@@ -23,11 +23,24 @@ tags:
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
+> ### Reading this record
+> This article distinguishes among:
+> - **Verified record:** primary documents, orders, dockets, correspondence, or official records.
+> - **Firsthand account:** what the author personally experienced, observed, paid, requested, or was told.
+> - **Allegation or dispute:** a contested claim not presented as finally adjudicated.
+> - **Unresolved question:** a matter requiring records, explanation, or independent review.
+
 ***
 
 To Washington courts, court administrators, public defenders, records custodians, elected officials, legal-service providers, and the public:
 
 I am writing because I need clear answers about what Washington believes I still owe.
+
+> ### Record-status note
+> - I **completed** certain requirements as I understand them, including evaluation, home detention/house arrest, and treatment.
+> - I was **told** that I may owe six months in jail and that warrants may exist, including what I was told was a felony warrant.
+> - I have **not received written verification** identifying the current basis, status, or complete path to resolution.
+> - This letter requests that documentation and an opportunity for safe review.
 
 I do not mean only money. I mean fees, warrants, alleged compliance obligations, unresolved conditions, and what I have been told may be six months in jail.
 
@@ -89,22 +102,6 @@ Now I am told that I may still "owe" six months in jail.
 >
 > Whatever label is used—protection, compliance, rehabilitation, deterrence, or public safety—the state must explain why it continues to demand more from me and what evidence shows that further punishment serves a legitimate purpose now.
 
-For what?
-
-If the purpose is rehabilitation, how does jail rehabilitate someone who has already completed the evaluation, restrictions, and treatment that were required?
-
-If the purpose is deterrence, what exactly is being deterred years later, after the person has complied with the ordered conditions and attempted to move forward?
-
-If the purpose is punishment, what is the proportional and intelligible basis for adding more punishment after a person believed the matter had been resolved?
-
-If the purpose is public safety, what specific risk would six months of incarceration reduce?
-
-If the purpose is protection, whom would it protect, and from what present, documented danger?
-
-If the purpose is to protect Danielle, what evidence-based purpose would my incarceration serve now—particularly after years of separation, compliance, and efforts to avoid further contact or escalation?
-
-And if the purpose is simply that the system must continue because it has already begun, then that is not justice. That is momentum.
-
 > I am not asking only what money I allegedly owe. I am asking what debt the system claims I still owe after years of compliance.
 >
 > I completed the evaluation I was required to obtain. I completed the house arrest I was required to complete. I sought the treatment I was told to seek. Each requirement imposed financial, professional, emotional, and psychological costs.
@@ -141,7 +138,9 @@ The Washington matter should not be understood only as a routine effort to prote
 
 I contend that, rather than seeking protection from a genuine threat, she used the legal system to reverse the roles of victim and offender—to portray herself as the person in danger and me as the person who required control, punishment, and monitoring.
 
-This resembles what researchers and advocates call **DARVO**: deny, attack, and reverse victim and offender. The concept describes a pattern in which a person confronted about alleged wrongdoing denies it, attacks the other person's credibility, and assumes the victim role while identifying the original complainant as the offender. I offer that term only as a descriptive framework for the questions I am asking — not as a substitute for evidence, and not as a claim that any person's private motive has already been adjudicated. [Freyd, "Deny, Attack, and Reverse Victim and Offender" — Journal of Aggression, Maltreatment & Trauma (2020)](https://www.tandfonline.com/doi/full/10.1080/10926771.2020.1774695)
+From my perspective, the legal process transformed my effort to leave a situation I experienced as escalating and abusive into a narrative in which I was treated as the danger. I dispute that reversal and request disclosure of the independently verified evidence, contradictory evidence considered, written findings, and current safety rationale supporting each escalation.
+
+*Terminology note: Some advocates use "DARVO" — deny, attack, and reverse victim and offender — to describe a role-reversal dynamic. [Freyd, "Deny, Attack, and Reverse Victim and Offender" — Journal of Aggression, Maltreatment & Trauma (2020)](https://www.tandfonline.com/doi/full/10.1080/10926771.2020.1774695) The requests in this letter do not depend on that label; they rest on the specific evidence, procedures, and current justification for continued restrictions.*
 
 I am not asking the public to accept that conclusion merely because I state it. I am asking Washington institutions to explain the evidence-based reasoning behind their actions.
 
@@ -158,7 +157,7 @@ If a vague report, a telephone call, or an untested allegation can mobilize exte
 
 The power of the state is extraordinary. It can send armed officers, initiate prosecutions, compel evaluations, impose monitoring, restrict travel, require treatment, assess costs, issue warrants, and deprive a person of liberty.
 
-Because that power is extraordinary, the standard for using it must be more than a vague report, an unexamined narrative, or an institutional assumption that the person reporting danger must automatically be the victim and the person accused must automatically be the threat.
+Because that power is extraordinary, when it is used to impose escalating restrictions, the public should be able to identify the independently corroborated evidence, the contradictory information considered, the decision-maker, and the written findings supporting each step.
 
 A legal system should protect people who face genuine danger. It should also protect people from being harmed when allegations are not independently tested, when relevant context is ignored, or when the state's response becomes disproportionate to the evidence and continues long after its claimed purpose is unclear.
 
@@ -311,6 +310,8 @@ I request:
 7. **A clear path to finality.**
    Identify what actions, if any, are necessary to resolve every remaining Washington matter fully and permanently.
 
+"A clear path to finality" means a written case-status statement listing every open or closed matter, every active warrant or hold, every uncredited or completed requirement, every balance, every required action, the deadline for each action, and written confirmation when no further obligation remains.
+
 ### Questions I request answered in writing
 
 > I request a written answer to the following:
@@ -386,3 +387,7 @@ Justice requires more than a demand for compliance. It requires a reason.
 * [Edmonds Case (2015–2017)](/washington-cases/edmonds-case-2015-2017) — the underlying Washington case file
 * [Motion to seal/redact the Miranda evaluation (Nov 2025)](/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici) — the Edmonds filing concerning the psychological evaluation
 * [Washington Legal Cases Index](/washington-cases) — the Washington case index
+
+***
+
+> **Corrections and record updates:** This page may be updated as primary records, court materials, agency responses, or verified documentation become available. Material corrections will be identified in a dated update log.

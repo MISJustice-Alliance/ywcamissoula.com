@@ -22,6 +22,13 @@ tags:
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
+> ### Reading this record
+> This article distinguishes among:
+> - **Verified record:** primary documents, orders, dockets, correspondence, or official records.
+> - **Firsthand account:** what the author personally experienced, observed, paid, requested, or was told.
+> - **Allegation or dispute:** a contested claim not presented as finally adjudicated.
+> - **Unresolved question:** a matter requiring records, explanation, or independent review.
+
 ***
 
 To Montana's public institutions, legal community, civil-rights advocates, elected officials, journalists, and the people who believe there must be a meaningful way to seek accountability:
@@ -148,13 +155,15 @@ A person should be able to write a complaint, report misconduct, request an inve
 
 That principle matters most when the complaint is directed toward powerful institutions: law enforcement, prosecutors, courts, attorneys, government-connected organizations, or public-facing nonprofits.
 
-The question is not whether every complaint is beyond scrutiny. The question is whether institutions distinguish protected petitioning, criticism, and reporting from conduct that genuinely threatens or endangers others.
+The question is not whether all speech is immune from scrutiny. The question is whether an institution can identify the specific words, conduct, evidence, and legal standard that distinguish protected petitioning and criticism from a genuine, independently supported threat.
 
 When a person believes that criticism, complaints, or requests for accountability have been mischaracterized, used against them, or met with escalating legal pressure, there must be a credible independent mechanism to review that concern.
 
 No institution should be permitted to investigate itself in secret, close the matter without explanation, and then treat the person who complained as the problem.
 
 ## The Questions Montana Must Answer
+
+**This letter seeks a response from the institutions that receive, investigate, prosecute, adjudicate, regulate, or close complaints involving public power in Montana.** Each institution need not answer every question. But no institution should close, transfer, or decline a complaint without identifying its authority, the scope of its review, the material reviewed, and the office—if any—that has authority to address the remaining issue.
 
 I ask Montana institutions to answer the following questions publicly and in writing:
 
@@ -175,6 +184,17 @@ I ask Montana institutions to answer the following questions publicly and in wri
 
 6. **Where is the restoration process?**
    When years of fragmented procedures have damaged a person's ability to work, care for family, maintain housing, pursue opportunity, or rebuild, what institution is responsible for looking at the cumulative impact and providing a path toward correction?
+
+A restoration process need not reopen every historical matter; it should at minimum provide coordinated records review, written explanation, correction of demonstrable errors, referral to an independent authority where appropriate, and identification of any lawful remedy still available.
+
+**At minimum, a meaningful written response should identify:**
+
+1. The complaint or submission reviewed.
+2. The decision-maker and office with authority.
+3. The records, witnesses, and materials considered.
+4. The factual and legal standard applied.
+5. The issues accepted, rejected, or left unresolved.
+6. The correction, appeal, referral, or independent-review pathway still available.
 
 ## What Accountability Should Look Like
 
@@ -220,3 +240,7 @@ A system that cannot answer that question is not yet accountable.
 * [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process) — the companion open letter on inaccessible remedies
 * [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis) — investigative review of a one-word closure rationale of the kind this letter describes
 * [Montana Legal Cases](/montana-legal-cases) — the Montana case index
+
+***
+
+> **Corrections and record updates:** This page may be updated as primary records, court materials, agency responses, or verified documentation become available. Material corrections will be identified in a dated update log.
