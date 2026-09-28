@@ -86,6 +86,10 @@ Instead, they appear to have escalated.
 
 Now I am told that I may still "owe" six months in jail.
 
+> The demand for further custody cannot be separated from the origin and trajectory of the underlying narrative. I contend that the system accepted and escalated a story that began when I attempted to leave an abusive and unstable situation, and that it then placed state power behind that story without adequately testing its factual foundation.
+>
+> Whatever label is used—protection, compliance, rehabilitation, deterrence, or public safety—the state must explain why it continues to demand more from me and what evidence shows that further punishment serves a legitimate purpose now.
+
 For what?
 
 If the purpose is rehabilitation, how does jail rehabilitate someone who has already completed the evaluation, restrictions, and treatment that were required?
@@ -130,7 +134,36 @@ And if the purpose is simply that the system must continue because it has alread
 >
 > If the answer is that I "owe" jail because the system says I do, then the system must explain why. Punishment without a present, intelligible purpose is not accountability. It is inertia.
 
-### The human cost of "owing" jail
+## Protection, Power, and the Question of Purpose
+
+There is a deeper question beneath the claim that I still "owe" further punishment.
+
+The Washington matter should not be understood only as a routine effort to protect another person. From my perspective, it began after I asked Danielle to leave my home because her conduct had become escalating, frightening, and abusive.
+
+I contend that, rather than seeking protection from a genuine threat, she used the legal system to reverse the roles of victim and offender—to portray herself as the person in danger and me as the person who required control, punishment, and monitoring.
+
+This resembles what researchers and advocates call **DARVO**: deny, attack, and reverse victim and offender. The concept describes a pattern in which a person confronted about alleged wrongdoing denies it, attacks the other person's credibility, and assumes the victim role while identifying the original complainant as the offender. I offer that term only as a descriptive framework for the questions I am asking — not as a substitute for evidence, and not as a claim that any person's private motive has already been adjudicated. [Freyd, "Deny, Attack, and Reverse Victim and Offender" — Journal of Aggression, Maltreatment & Trauma (2020)](https://www.tandfonline.com/doi/full/10.1080/10926771.2020.1774695)
+
+I am not asking the public to accept that conclusion merely because I state it. I am asking Washington institutions to explain the evidence-based reasoning behind their actions.
+
+If a vague report, a telephone call, or an untested allegation can mobilize extensive law-enforcement resources, initiate court proceedings, impose evaluations, require house arrest, mandate treatment, generate fees, produce warrants, and now lead to a claim that I "owe" months in jail, then the system must be able to answer basic questions:
+
+- What independently verified evidence supported each escalation?
+- What allegations were corroborated, and by whom?
+- What exculpatory or contradictory evidence was reviewed?
+- What evidence showed a present threat, rather than a past interpersonal conflict or disputed account?
+- What proportionality analysis was performed before imposing increasingly severe restrictions?
+- What review occurred after I complied with prior requirements?
+- What present safety purpose would further incarceration serve?
+- What safeguards prevented the legal process from being used as a mechanism of ongoing control?
+
+The power of the state is extraordinary. It can send armed officers, initiate prosecutions, compel evaluations, impose monitoring, restrict travel, require treatment, assess costs, issue warrants, and deprive a person of liberty.
+
+Because that power is extraordinary, the standard for using it must be more than a vague report, an unexamined narrative, or an institutional assumption that the person reporting danger must automatically be the victim and the person accused must automatically be the threat.
+
+A legal system should protect people who face genuine danger. It should also protect people from being harmed when allegations are not independently tested, when relevant context is ignored, or when the state's response becomes disproportionate to the evidence and continues long after its claimed purpose is unclear.
+
+## The human cost of "owing" jail
 
 Six months in jail is not an abstract condition on a file.
 
@@ -295,6 +328,31 @@ I request:
 > 10. What procedure exists to seek review, modification, recall, quashing of warrants, credit for compliance, or a safe hearing before risking immediate detention?
 > 11. What accommodation process is available for a person with essential caregiving responsibilities for an elderly parent?
 > 12. What precise steps would produce true finality, with no additional hidden obligations or later escalations?
+
+### Further questions on evidence, proportionality, and safeguards
+
+**Evidence and escalation**
+
+- What evidence, beyond the initial report or complaint, was independently verified before each escalation?
+- What contradictory evidence, prior history, communications, witness information, or context was reviewed?
+- What evidence showed that I presented a current threat at the time each restriction, evaluation, condition, warrant, or proposed custody period was imposed?
+- Which decision-maker authorized each stage of escalation, and what written findings supported it?
+- Did any institution assess whether legal process was being used to continue interpersonal control rather than address a present safety risk?
+
+**Proportionality and purpose**
+
+- Why were evaluation, house arrest, treatment, financial obligations, and possible custody considered necessary?
+- What completion credit was given for the requirements I already completed?
+- What present rehabilitative purpose would incarceration now serve?
+- What documented public-safety purpose would jail serve now?
+- What less restrictive alternatives were considered and rejected?
+- What evidence supports the conclusion that additional custody would improve safety for Danielle or anyone else?
+
+**Institutional safeguards**
+
+- What safeguards exist to prevent a person from using police reports, protection processes, or court procedures as an instrument of ongoing coercion against a former partner?
+- What independent review is available when the accused person contends that they were subjected to abuse and that the legal system has reversed the victim/offender roles?
+- What process exists to reassess restrictions that may have been warranted at one moment but have become purposeless, disproportionate, or destructive years later?
 
 ## Closing
 
