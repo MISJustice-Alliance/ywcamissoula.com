@@ -98,16 +98,8 @@ Instead, they appear to have escalated.
 
 Now I am told that I may still "owe" six months in jail.
 
-> The demand for further custody cannot be separated from the origin and trajectory of the underlying narrative. I contend that the system accepted and escalated a story that began when I attempted to leave an abusive and unstable situation, and that it then placed state power behind that story without adequately testing its factual foundation.
->
-> Whatever label is used—protection, compliance, rehabilitation, deterrence, or public safety—the state must explain why it continues to demand more from me and what evidence shows that further punishment serves a legitimate purpose now.
+Whatever label is used—protection, compliance, rehabilitation, deterrence, or public safety—the state must explain why it continues to demand more from me and what evidence shows that further punishment serves a legitimate purpose now.
 
-> I am not asking only what money I allegedly owe. I am asking what debt the system claims I still owe after years of compliance.
->
-> I completed the evaluation I was required to obtain. I completed the house arrest I was required to complete. I sought the treatment I was told to seek. Each requirement imposed financial, professional, emotional, and psychological costs.
->
-> Yet I am now told that I may still "owe" six months in jail.
->
 > For what?
 >
 > What would six months in jail repair?
