@@ -31,7 +31,7 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 
 * Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 * [Seattle PD written statement re: incident #2016-348587 (2016)](https://cr-2025-002-evidence-12_misjusticealliance.arweave.net/)
@@ -62,7 +62,7 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 * [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
-* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation (Nov 2025)](https://www.ywcaofmissoula.com/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici)
+* [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 
 ## Montana State Department Complaints
 

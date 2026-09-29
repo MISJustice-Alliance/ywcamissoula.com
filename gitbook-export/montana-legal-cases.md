@@ -101,7 +101,7 @@ The U.S. Supreme Court declined to grant qualified immunity to Michigan officer 
 
 ### Featured open letter
 
-* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](https://www.ywcaofmissoula.com/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — first-person letter on grievance-system failures, the need for independent review, and the absence of a whole-of-record restoration process
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall.md) — first-person letter on grievance-system failures, the need for independent review, and the absence of a whole-of-record restoration process
 
 ### Executive snapshot
 

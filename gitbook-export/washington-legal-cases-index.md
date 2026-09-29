@@ -98,7 +98,7 @@ Seattle's Office of Police Accountability publishes monthly newsletters addressi
 
 **Open Research Items**
 - Status of Patricia Fulton WA State Bar complaint: [unverified] dormant/no new public orders found as of May 27, 2026
-- SPD 2015–2017 case patterns: see existing analysis at [Edmonds Case](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+- SPD 2015–2017 case patterns: see existing analysis at [Edmonds Case](washington-cases/edmonds-case-2015-2017.md)
 
 <!-- /AUTO_UPDATE -->
 
@@ -106,7 +106,7 @@ Seattle's Office of Police Accountability publishes monthly newsletters addressi
 
 ### Featured open letter
 
-* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) — first-person letter on alleged debt, written warrant transparency, the missing psychological evaluation, and safe access to court
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](open-letter-to-washington-unpaid-debt-unserved-purpose.md) — first-person letter on alleged debt, written warrant transparency, the missing psychological evaluation, and safe access to court
 
 ### Executive snapshot
 
@@ -124,7 +124,7 @@ This page is the Washington index for case analysis and linked primary records, 
 ### High-signal Washington entry points
 
 * [2015-2016 Seattle Case & Related Civil Rights Violations](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations)
-* [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](https://www.ywcaofmissoula.com/2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d)

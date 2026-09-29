@@ -228,7 +228,7 @@ MisJustice Alliance internal case-file index pages updated for Priority 0:
 
 Montana + Washington case index pages updated for Priority 0:
 
-* ✅ [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
+* ✅ [Montana Legal Cases](../montana-legal-cases.md)
 * ✅ [Washington Legal Cases Index](https://www.ywcaofmissoula.com/washington-cases/washington-legal-cases-index)
 
 Discipline + evidence router pages updated for Priority 0:
@@ -378,7 +378,7 @@ Montana case pages should rank for **event + year + county** queries.
 
 #### Quick link targets
 
-* Montana hub: [Montana Legal Cases](https://www.ywcaofmissoula.com/montana-legal-cases)
+* Montana hub: [Montana Legal Cases](../montana-legal-cases.md)
 * High-signal pages:
   * [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
   * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/montana-legal-cases/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)

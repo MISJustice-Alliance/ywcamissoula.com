@@ -56,7 +56,7 @@ I attended proceedings, attempted to comply with demands, sought legal assistanc
 
 At a certain point, I entered a plea under circumstances that I experienced as coercive. I did not experience that outcome as justice, vindication, or a full examination of the facts. I understood it as a tragic resolution—but a resolution nonetheless. I believed it ended the ordeal.
 
-The available project record includes a [declaration](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) concerning an Edmonds Municipal Court case in which I alleged that, at a March 23, 2016 confirmation hearing, I was presented with a choice between pleading guilty to Assault 4 DV and being taken into Snohomish County Jail. The declaration also alleges inadequate investigation and failure to review related Seattle materials. Those are serious claims that should be evaluated against the actual hearing record, plea materials, court docket, and [case file](/washington-cases/edmonds-case-2015-2017).
+The available project record includes a [declaration](sworn-declaration-of-elvis-nuno-detailed-summary.md) concerning an Edmonds Municipal Court case in which I alleged that, at a March 23, 2016 confirmation hearing, I was presented with a choice between pleading guilty to Assault 4 DV and being taken into Snohomish County Jail. The declaration also alleges inadequate investigation and failure to review related Seattle materials. Those are serious claims that should be evaluated against the actual hearing record, plea materials, court docket, and [case file](washington-cases/edmonds-case-2015-2017.md).
 
 Years later, I personally returned to Edmonds court to raise concerns regarding what I contend was an unauthorized disclosure of protected health information connected to a psychological evaluation.
 
@@ -372,13 +372,13 @@ Justice requires more than a demand for compliance. It requires a reason.
 
 ### Related records
 
-* [The Human Cost of an Unaccountable System](/overview/the-human-cost-of-an-unaccountable-system) — the cross-jurisdiction companion letter on cumulative harm and the absence of any restoration process
-* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — the jurisdiction-specific letter on grievance-system failures and independent review
-* [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process) — the companion open letter on inaccessible remedies
-* [Sworn Declaration of Elvis Nuno — detailed summary](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) — the declaration referenced above, including the Edmonds plea-pressure account
-* [Edmonds Case (2015–2017)](/washington-cases/edmonds-case-2015-2017) — the underlying Washington case file
-* [Motion to seal/redact the Miranda evaluation (Nov 2025)](/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici) — the Edmonds filing concerning the psychological evaluation
-* [Washington Legal Cases Index](/washington-cases) — the Washington case index
+* [The Human Cost of an Unaccountable System](the-human-cost-of-an-unaccountable-system.md) — the cross-jurisdiction companion letter on cumulative harm and the absence of any restoration process
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall.md) — the jurisdiction-specific letter on grievance-system failures and independent review
+* [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process.md) — the companion open letter on inaccessible remedies
+* [Sworn Declaration of Elvis Nuno — detailed summary](sworn-declaration-of-elvis-nuno-detailed-summary.md) — the declaration referenced above, including the Edmonds plea-pressure account
+* [Edmonds Case (2015–2017)](washington-cases/edmonds-case-2015-2017.md) — the underlying Washington case file
+* [Motion to seal/redact the Miranda evaluation (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md) — the Edmonds filing concerning the psychological evaluation
+* [Washington Legal Cases Index](washington-legal-cases-index.md) — the Washington case index
 
 ***
 

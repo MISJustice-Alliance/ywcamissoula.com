@@ -71,11 +71,11 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 
 ### 2015-2016: Edmonds and Seattle proceedings (Washington)
 
-* [Edmonds case begins](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [Edmonds case begins](washington-cases/edmonds-case-2015-2017.md)
 * [Seattle case begins](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations)
 * [Arrest and excessive bail](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations)
 * [Patricia Fulton representation begins](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016): Bar complaint and [legal analysis](https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
-* [Coerced Edmonds plea entry](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
+* [Coerced Edmonds plea entry](washington-cases/edmonds-case-2015-2017.md) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
 * [Seattle case dismissed — August 23, 2016, with prejudice (lack of evidence)](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations) ([dismissal order](.gitbook/assets/seattle-case-613225-dismissal.png))
 * [Seattle OPA complaint (2016OPA-1167)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
 
@@ -85,17 +85,17 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [Legal analysis of Bar complaint (In re Patricia Fulton)](https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
 * [WA Department of Health complaint against Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
 * [Dr. Marta Miranda misconduct analysis and strategic implications](https://www.ywcaofmissoula.com/2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d)
-* [Motion to withdraw plea submitted to Edmonds court](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017) ([evidence](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/))
+* [Motion to withdraw plea submitted to Edmonds court](washington-cases/edmonds-case-2015-2017.md) ([evidence](https://cr-2025-002-evidence-9_misjusticealliance.arweave.net/))
 * [Ineffective assistance of counsel and plea withdrawal (WA)](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
-* [Plea withdrawal denied by Edmonds Municipal Court](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
-* [Mazone law firm retained for appeal](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
-* [Funds exhausted during appeal attempts](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [Plea withdrawal denied by Edmonds Municipal Court](washington-cases/edmonds-case-2015-2017.md) (see also [plea withdrawal and IAC analysis](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st))
+* [Mazone law firm retained for appeal](washington-cases/edmonds-case-2015-2017.md)
+* [Funds exhausted during appeal attempts](washington-cases/edmonds-case-2015-2017.md)
 * [Forced relocation from Washington due to safety concerns](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-doj-civil-rights-division-filing-658793-skb-august-2025/fbi-report-filing-pattern-of-cross-jurisdictional-civil-rights-violations-insti) (first displacement; see [Forced to Move Twice](https://www.ywcaofmissoula.com/montana-legal-cases/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community))
 
 ### 2017-2018: Montana involvement begins (Missoula)
 
-* [Relocation to Montana](https://www.ywcaofmissoula.com/montana-legal-cases)
-* [WA appeal of Edmonds decision denied by Superior Court](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [Relocation to Montana](montana-legal-cases.md)
+* [WA appeal of Edmonds decision denied by Superior Court](washington-cases/edmonds-case-2015-2017.md)
 * [YWCA of Missoula involvement begins](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020): complaint record and [board conflict analysis](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
 * [Parents file complaint re: Detective Smith harassment](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025) ([complaint packet](https://cr-2025-002-complaint-16_misjusticealliance.arweave.net/))
 * [YWCA complaint plus $400 donation](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020): [evidence packet](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
@@ -175,7 +175,7 @@ The diagram below maps the alleged "core circular power loop" connecting YWCA go
 ## Related topics (quick links)
 
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
-* [Edmonds Case (2015-2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
+* [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index)
 * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
 * [Allegations Against YWCA of Missoula and Detective Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)

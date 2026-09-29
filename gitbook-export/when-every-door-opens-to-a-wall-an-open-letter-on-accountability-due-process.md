@@ -114,7 +114,7 @@ There comes a point at which a person is no longer making a free choice between 
 
 In my case, I entered a plea under circumstances that I experienced as coercive. I understood it as a tragic resolution—not justice, not vindication, and not a full acknowledgment of what I believed had happened—but a resolution nonetheless. I believed it ended the ordeal.
 
-The project record includes a [declaration describing an Edmonds Municipal Court hearing](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) at which I alleged that my attorney presented a choice between pleading guilty to Assault 4 DV and being taken into Snohomish County Jail. That account should be evaluated against the underlying hearing record, plea documents, and [Edmonds case file](/washington-cases/edmonds-case-2015-2017); however, it reflects the coercive reality I experienced at the time.
+The project record includes a [declaration describing an Edmonds Municipal Court hearing](sworn-declaration-of-elvis-nuno-detailed-summary.md) at which I alleged that my attorney presented a choice between pleading guilty to Assault 4 DV and being taken into Snohomish County Jail. That account should be evaluated against the underlying hearing record, plea documents, and [Edmonds case file](washington-cases/edmonds-case-2015-2017.md); however, it reflects the coercive reality I experienced at the time.
 
 I believed that the matter was over.
 
@@ -151,7 +151,7 @@ Without that information, "just appear and deal with it" is not a neutral instru
 
 There is another unresolved issue that illustrates the larger problem.
 
-When I filed my [motion in Edmonds](/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici), my understanding was that the judge stated he could not locate the psychological evaluation at all in the court file. I have also sought assistance from the Edmonds public-defender office in trying to locate it. So far, those efforts have not produced the evaluation or a clear explanation of where it is, whether it was ever filed, who possessed it, who transmitted it, whether it was maintained under seal or in a confidential repository, or what became of it.
+When I filed my [motion in Edmonds](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md), my understanding was that the judge stated he could not locate the psychological evaluation at all in the court file. I have also sought assistance from the Edmonds public-defender office in trying to locate it. So far, those efforts have not produced the evaluation or a clear explanation of where it is, whether it was ever filed, who possessed it, who transmitted it, whether it was maintained under seal or in a confidential repository, or what became of it.
 
 I do not know why it cannot be found.
 
@@ -238,11 +238,11 @@ It has to be something a person can actually reach.
 
 ### Related records
 
-* [The Human Cost of an Unaccountable System](/overview/the-human-cost-of-an-unaccountable-system) — companion open letter on the cumulative human cost of systems that process but do not repair
-* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — jurisdiction-specific letter on grievance-system failures and independent review
-* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) — jurisdiction-specific letter on alleged debt, warrants, and safe court access
-* [Sworn Declaration of Elvis Nuno — detailed summary](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) — the declaration referenced above, including the Edmonds Municipal Court coerced-plea account
-* [Edmonds Case (2015–2017)](/washington-cases/edmonds-case-2015-2017) — the underlying Washington case file
-* [Motion to seal/redact the Miranda evaluation (Nov 2025)](/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici) — the Edmonds filing concerning the psychological evaluation
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/structural-failure-and-the-civil-rights-gap) — companion structural analysis of why formal remedies so often fail in practice
-* [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis) — investigative review of a one-word closure rationale of the kind this letter describes
+* [The Human Cost of an Unaccountable System](the-human-cost-of-an-unaccountable-system.md) — companion open letter on the cumulative human cost of systems that process but do not repair
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall.md) — jurisdiction-specific letter on grievance-system failures and independent review
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](open-letter-to-washington-unpaid-debt-unserved-purpose.md) — jurisdiction-specific letter on alleged debt, warrants, and safe court access
+* [Sworn Declaration of Elvis Nuno — detailed summary](sworn-declaration-of-elvis-nuno-detailed-summary.md) — the declaration referenced above, including the Edmonds Municipal Court coerced-plea account
+* [Edmonds Case (2015–2017)](washington-cases/edmonds-case-2015-2017.md) — the underlying Washington case file
+* [Motion to seal/redact the Miranda evaluation (Nov 2025)](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md) — the Edmonds filing concerning the psychological evaluation
+* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](structural-failure-and-the-civil-rights-gap.md) — companion structural analysis of why formal remedies so often fail in practice
+* [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md) — investigative review of a one-word closure rationale of the kind this letter describes

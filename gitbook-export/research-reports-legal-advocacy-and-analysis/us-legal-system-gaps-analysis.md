@@ -17,7 +17,7 @@ The linked analysis *When the Watchdog Walks Away* applies this framework to the
 
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
-* [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis) — investigative review of the ODC 25-147 "strategy" rationale and a documented Montana representation-gap problem
+* [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](./when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md) — investigative review of the ODC 25-147 "strategy" rationale and a documented Montana representation-gap problem
 * [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](../when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process.md) — first-person open letter on inaccessible remedies, unexplained warrant exposure, missing court records, and safe access to court
 
 ### Supporting evidence
