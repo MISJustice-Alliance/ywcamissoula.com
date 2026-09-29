@@ -265,13 +265,31 @@ In this second sense, debt is not a balance on a ledger. It is the system's stan
 
 This kind of debt has no stated principal. It has no amortization schedule. It cannot be paid off, because the amount is never fixed in advance and the obligation can be redefined after every payment. Each act of compliance becomes evidence that more compliance can be demanded. The debt grows precisely because it is being serviced.
 
-I am not speaking abstractly. I have been told that I may "owe" six months in jail after completing the evaluation, house arrest, and treatment that were required of me. The [Open Letter to Washington](/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) examines that claimed debt in detail and asks the only questions that matter: what exactly is owed, and what would further punishment actually accomplish?
+I am not speaking abstractly. I have been told that I may "owe" six months in jail after completing the evaluation, house arrest, and treatment that were required of me. The [Open Letter to Washington](open-letter-to-washington-unpaid-debt-unserved-purpose.md) examines that claimed debt in detail and asks the only questions that matter: what exactly is owed, and what would further punishment actually accomplish?
 
 When an obligation cannot be explained in a fixed amount, tied to a defined order, credited for completed compliance, or discharged through a stated process, it can function less like an ordinary debt and more like an indefinite condition of subjection.
 
 When the state uses the language of debt to describe a person's obligations but cannot state the amount, the terms, or the date of final payment, the word is doing a different kind of work. It converts the person's continued subjection into something that sounds like ordinary bookkeeping.
 
 It is not bookkeeping. It is the claim that the system may keep taking — time, money, mobility, stability, dignity — for as long as it chooses, and call the taking "what you owe."
+
+## The Cost to Family
+
+The effects of unresolved legal demands do not stop at the courthouse door.
+
+They reach into homes.
+
+They affect the people who depend on the person caught in the system.
+
+In my own life, unresolved court matters, travel requirements, warrants, and the risk of detention carry consequences for my elderly father, who depends in meaningful ways on my availability and care. Sudden travel, forced absence, or unexpected custody could leave him without support at a time when that support may be vital.
+
+That is not a minor inconvenience. It is a serious human risk.
+
+A system that tells someone to "appear in person" without first explaining the alleged obligation, warrant status, available procedure, or possibility of safe accommodation may be requiring a person to choose between due process and family care.
+
+No one should have to make that choice simply to obtain records, ask a court a question, clarify an alleged debt, or seek review of a potentially defective process.
+
+Courts and agencies should have workable procedures for remote hearings, scheduled warrant review, counsel-assisted appearances, documented caregiving accommodations, temporary stays, and clear written communication before detention or forced travel creates preventable harm.
 
 ## The Question of Restoration
 
@@ -337,24 +355,6 @@ The result is a system that is prolific at punishment and barren at repair — o
 
 Until the missing half is built, "justice" will remain a word that describes what the system does to people, not what it does for them.
 
-## The Cost to Family
-
-The effects of unresolved legal demands do not stop at the courthouse door.
-
-They reach into homes.
-
-They affect the people who depend on the person caught in the system.
-
-In my own life, unresolved court matters, travel requirements, warrants, and the risk of detention carry consequences for my elderly father, who depends in meaningful ways on my availability and care. Sudden travel, forced absence, or unexpected custody could leave him without support at a time when that support may be vital.
-
-That is not a minor inconvenience. It is a serious human risk.
-
-A system that tells someone to "appear in person" without first explaining the alleged obligation, warrant status, available procedure, or possibility of safe accommodation may be requiring a person to choose between due process and family care.
-
-No one should have to make that choice simply to obtain records, ask a court a question, clarify an alleged debt, or seek review of a potentially defective process.
-
-Courts and agencies should have workable procedures for remote hearings, scheduled warrant review, counsel-assisted appearances, documented caregiving accommodations, temporary stays, and clear written communication before detention or forced travel creates preventable harm.
-
 ## Repair Must Be Part of Justice
 
 Justice cannot mean only identifying violations, issuing orders, collecting fees, or resolving cases on paper.
@@ -411,11 +411,11 @@ Until it does, the question remains:
 
 ### Related records
 
-* [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process) — the companion open letter on inaccessible remedies and safe access to court
-* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](/montana-legal-cases/open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall) — the jurisdiction-specific letter on grievance-system failures and independent review
-* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose) — the jurisdiction-specific letter on alleged debt, warrants, and safe court access
-* [Sworn Declaration of Elvis Nuno — detailed summary](/overview/sworn-declaration-of-elvis-nuno-detailed-summary) — primary-record declaration underlying the account
-* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/structural-failure-and-the-civil-rights-gap) — structural companion analysis of the remedy gap
+* [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process.md) — the companion open letter on inaccessible remedies and safe access to court
+* [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall.md) — the jurisdiction-specific letter on grievance-system failures and independent review
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](open-letter-to-washington-unpaid-debt-unserved-purpose.md) — the jurisdiction-specific letter on alleged debt, warrants, and safe court access
+* [Sworn Declaration of Elvis Nuno — detailed summary](sworn-declaration-of-elvis-nuno-detailed-summary.md) — primary-record declaration underlying the account
+* [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](structural-failure-and-the-civil-rights-gap.md) — structural companion analysis of the remedy gap
 
 ***
 
