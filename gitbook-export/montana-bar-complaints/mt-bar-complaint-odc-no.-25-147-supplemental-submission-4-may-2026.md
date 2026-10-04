@@ -1,3 +1,9 @@
+---
+title: "ODC No. 25-147 Supplemental Submission 4 (May 2026)"
+description: >-
+  Supplemental submission 4 in ODC File No. 25-147 before the Montana Office of Disciplinary Counsel, with the July 2026 ODC closure response cross-referenced.
+---
+
 BEFORE THE OFFICE OF DISCIPLINARY COUNSELSTATE BAR OF MONTANA
 
 {% hint style="info" %}

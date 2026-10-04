@@ -1,3 +1,9 @@
+---
+title: "Federal and State Department Complaints"
+description: >-
+  Record-first index of federal and state department complaints in the Nuno record: DOJ Civil Rights Division, Montana agencies, and accountability correspondence.
+---
+
 <!-- AUTO_UPDATE: 20260529-0235 -->
 
 ---

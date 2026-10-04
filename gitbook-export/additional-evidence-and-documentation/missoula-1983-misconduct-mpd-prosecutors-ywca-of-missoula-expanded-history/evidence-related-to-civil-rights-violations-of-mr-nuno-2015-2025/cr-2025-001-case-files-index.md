@@ -1,7 +1,7 @@
 ---
 title: CR-2025-001 — Case files index
 description: >-
-  Index of CR-2025-001 filings, exhibits, and published packets.
+  Index of CR-2025-001 filings, exhibits, and published packets in the Nuno record, with primary-document links and cross-references to related case files.
 ---
 
 

@@ -1,3 +1,9 @@
+---
+title: "First Amendment Retaliation Evidence — Protected Speech"
+description: >-
+  Sub-index of First Amendment retaliation evidence themes: protected speech or petitioning activity followed by alleged enforcement escalation, with links to complaint artifacts.
+---
+
 # First Amendment retaliation evidence (protected speech → escalation)
 
 ### Executive snapshot

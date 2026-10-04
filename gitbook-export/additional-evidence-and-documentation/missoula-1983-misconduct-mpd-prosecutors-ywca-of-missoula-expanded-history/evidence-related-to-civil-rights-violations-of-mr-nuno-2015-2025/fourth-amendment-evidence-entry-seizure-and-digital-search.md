@@ -1,3 +1,9 @@
+---
+title: "Fourth Amendment Evidence — Entry, Seizure, Digital Search"
+description: >-
+  Sub-index of Fourth Amendment evidence themes in the Nuno record: alleged unlawful entry, seizure and detention, and overbroad digital search, with links to underlying artifacts.
+---
+
 # Fourth Amendment evidence (entry, seizure, and digital search)
 
 ### Executive snapshot

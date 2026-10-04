@@ -1,3 +1,9 @@
+---
+title: "YWCA Institutional Liability Evidence"
+description: >-
+  Sub-index of evidence themes relevant to potential YWCA of Missoula institutional-liability theories: notice, ratification, and state-action or joint-action indicators.
+---
+
 # YWCA institutional liability evidence
 
 ### Executive snapshot

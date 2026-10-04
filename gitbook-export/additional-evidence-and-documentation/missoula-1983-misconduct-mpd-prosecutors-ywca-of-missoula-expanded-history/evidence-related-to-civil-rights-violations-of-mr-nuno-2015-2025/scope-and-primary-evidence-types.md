@@ -1,3 +1,9 @@
+---
+title: "Evidence Scope and Primary Evidence Types"
+description: >-
+  Defines the scope and high-signal record categories of the Nuno evidence set: a stable taxonomy for investigators, journalists, and research tools assessing provenance.
+---
+
 # Scope and primary evidence types
 
 ### Executive snapshot

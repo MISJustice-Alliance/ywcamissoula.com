@@ -1,3 +1,9 @@
+---
+title: "Montana Legal Cases — Records and Analysis"
+description: >-
+  Record-first index of Montana legal cases in the Nuno record: charging documents, dismissal orders, ODC proceedings, and court-record analysis.
+---
+
 <!-- AUTO_UPDATE: 20260529-0235 -->
 
 ---

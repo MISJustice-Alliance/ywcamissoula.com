@@ -1,3 +1,9 @@
+---
+title: "Damages Evidence — Quantified and Non-Economic"
+description: >-
+  Sub-index of damages evidence: quantified economic loss and non-economic harms. Dollar figures are claimed organizing models, not adjudicated findings.
+---
+
 # Damages evidence (quantified and non-economic)
 
 ### Executive snapshot

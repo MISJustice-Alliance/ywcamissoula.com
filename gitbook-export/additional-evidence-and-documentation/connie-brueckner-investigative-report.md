@@ -1,3 +1,9 @@
+---
+title: "Connie Brueckner Investigative Research Report"
+description: >-
+  Investigative research report on Missoula Police Detective Connie Brueckner and the alleged YWCA Missoula board role, separating verified facts, allegations, and open questions.
+---
+
 # Investigative Research Report: Connie Brueckner
 ## Missoula Police Department detective; alleged YWCA Missoula board member
 

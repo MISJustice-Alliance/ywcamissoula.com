@@ -1,3 +1,9 @@
+---
+title: "§ 1983 Claims Synthesis — YWCA and MPD"
+description: >-
+  Cross-validated synthesis of § 1983 claims analysis covering YWCA of Missoula and MPD (2012–2025): research-pipeline output plus independent review.
+---
+
 # Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)
 
 **Research Pipeline Output + Independent Cross-Validation**

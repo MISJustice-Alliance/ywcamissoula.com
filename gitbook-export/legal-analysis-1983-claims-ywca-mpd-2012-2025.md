@@ -1,3 +1,9 @@
+---
+title: "§ 1983 Claims: YWCA Missoula and MPD (2012–2025)"
+description: >-
+  Legal analysis of 42 U.S.C. § 1983 claims involving YWCA of Missoula and the Missoula Police Department: constitutional theories, malicious prosecution, and damages.
+---
+
 <!-- AUTO_UPDATE: 20260529-0235 -->
 
 ---

@@ -1,3 +1,9 @@
+---
+title: "YWCA Complaints and Google Reviews (2018–2020)"
+description: >-
+  Record-first compilation of YWCA of Missoula complaints and public reviews (2018–2020), with institutional context and links to primary records.
+---
+
 <!-- AUTO_UPDATE: 20260529-0235 -->
 
 ---

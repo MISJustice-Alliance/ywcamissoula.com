@@ -1,3 +1,9 @@
+---
+title: "Prosecutorial Misconduct and Brady/Giglio Evidence"
+description: >-
+  Maps evidence themes relevant to alleged prosecutorial misconduct, Brady/Giglio disclosure obligations, and malicious-prosecution elements in the Nuno record.
+---
+
 # Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence
 
 ### Executive snapshot

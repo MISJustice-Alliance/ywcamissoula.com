@@ -1,3 +1,9 @@
+---
+title: "Ongoing Harassment and RICO Predicate Framing"
+description: >-
+  Sub-index of alleged ongoing harassment (2019–2025+) and pattern framing in the Nuno record; materials require direct verification before any racketeering theory is assessed.
+---
+
 # Ongoing harassment and RICO predicate framing
 
 ### Executive snapshot
