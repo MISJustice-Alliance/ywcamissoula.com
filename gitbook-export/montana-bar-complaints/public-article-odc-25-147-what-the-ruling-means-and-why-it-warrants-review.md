@@ -104,14 +104,13 @@ it is the letter's own language. Direct image review of this and the July 10,
 identically, verbatim, with no "not" in either. Per the complainant's own
 account, the sentence is accurate as printed: he did submit a request for
 Montana Supreme Court review of ODC's disposition. What ODC has not
-disclosed, in this letter, the July 10 letter, or any other document
-currently in this record, is that appeal's docket number, its pending or
-decided status, or its disposition — so while the wording itself is no
-longer in doubt, whether File No. 25-147 remains open in a parallel Montana
-Supreme Court review track, notwithstanding ODC's repeated "this matter
-remains closed" language, is an open procedural question this article does
-not resolve and leaves the reader to draw
-their own conclusion.
+disclosed in either July letter is the appeal's procedural status. A later
+[September 23, 2026 Commission letter](odc-25-147-september-23-2026-supreme-court-transmittal.md)
+now confirms that the Commission received Nuno's August 13 appeal letter and
+transmitted it, with ODC's original file, to Chief Justice Cory Swanson and
+the Montana Supreme Court pursuant to Rule 14. The transmittal does not say
+that the Court granted discretionary review, assigned a public docket number,
+or decided the merits.
 
 ### The August 21, 2026 letter to Eleanor Nuno, as described in the legal-analysis memorandum
 
@@ -344,5 +343,4 @@ location for each material claim.
 | Chronological relationship between May 2026 grievance and Nov 2025/Jan 2026 decisions | Editorial analysis / open question | Legal-analysis memorandum | Memorandum, "Chronological inconsistency" section | Reframed from "could not have" to "the relationship is not fully explained" |
 | Whether the article's discussion implies a finding of misconduct | Editorial analysis | This revision | "What an ODC disposition does — and does not — decide" section | New section added specifically to prevent this implication |
 | Redaction of Elvis Nuno's home address | Primary-record fact (image processing) | Redacted image asset | `.gitbook/assets/odc-25-147-letter-july-30-2026-to-elvis-nuno-redacted.jpg` | Confirmed intact; no change needed |
-
 
