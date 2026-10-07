@@ -3,8 +3,8 @@ title: >-
   Dr. Marta Miranda Malpractice Summary (2016)
 description: >-
   Case Profile: Elvis Nuno v. Dr. Marta J.L. Miranda, Psy.D. & Multiple
-  Institutional Defendants Total Estimated Damages: $6.4-8.4 Million
-  Current...
+  Institutional Defendants. Evidence-status summary of disputed evaluation,
+  limitations, causation, and damages issues.
 tags:
   - Legal Analysis
   - Medical Malpractice
@@ -18,17 +18,19 @@ tags:
 
 ## Case Overview
 
-**Case Profile**: Elvis Nuno v. Dr. Marta J.L. Miranda, Psy.D. & Multiple Institutional Defendants **Total Estimated Damages**: $6.4-8.4 Million **Current Status**: Active legal malpractice claim viable through 2028; federal civil rights violations ongoing **Unique Legal Opportunity**: Audio-recorded evidence of fabricated forensic psychology evaluation
+**Case profile:** Elvis Nuno v. Dr. Marta J.L. Miranda, Psy.D., and other potential defendants. Mr. Nuno disputes the accuracy and use of a 2016 psychological evaluation and reports possessing session recordings. The present record does not establish liability, a viable filing deadline, or an aggregate damages amount. Each potential claim requires forum-specific accrual, discovery, repose, causation, and evidentiary analysis.
+
+**Research current through October 6, 2026.**
 
 ## Strategic Legal Opportunities
 
-### 1. Federal Civil Rights Claims - High Recovery Potential
+### 1. Federal civil-rights theories — legally contingent
 
 **42 U.S.C. Section 1983 - Civil Rights Under Color of Law**
 
 * **Due Process Violations**: Fabricated evidence corrupted judicial proceedings
 * **Equal Protection**: Discriminatory treatment in domestic violence context
-* **Damages**: $2-4 million potential recovery
+* **Damages status:** Not yet quantifiable. The record must identify the state actor, actionable use of the evaluation, favorable-termination or *Heck* issues where applicable, timely accrual, causation, and nonduplicative injury.
 
 **Evidence Available**:
 
@@ -36,13 +38,13 @@ tags:
 * Family member affidavits confirming misrepresentation
 * Treating therapist professional disagreement
 
-### 2. Legal Malpractice Claims - Immediate Viability
+### 2. Legal-malpractice theories — deadline requires record review
 
-**Bryan Tipp Malpractice (Viable Through 2028)**
+**Bryan Tipp malpractice allegations**
 
 * Failure to challenge fabricated psychological evaluation
-* Statute of limitations advice causing $6.4-8.4M in forfeited claims
-* **Damages**: $6.4-8.4 million in time-barred civil rights claims
+* Alleged failure to give accurate, claim-specific limitations advice
+* **Damages status:** Not yet quantifiable. Montana's three-year discovery period and ten-year repose period under Mont. Code Ann. § 27-2-206 must be applied omission-by-omission; recovery also requires expert-supported breach and suit-within-a-suit proof of the underlying claim.
 
 ## Evidence Package - Immediately Available
 

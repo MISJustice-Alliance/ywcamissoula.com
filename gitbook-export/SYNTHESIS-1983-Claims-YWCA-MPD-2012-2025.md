@@ -6,6 +6,8 @@ description: >-
 
 # Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)
 
+**Research current through October 6, 2026 for the limitations and damages revisions below.**
+
 **Research Pipeline Output + Independent Cross-Validation**
 - **Run ID**: `rc-20260511-172949-ca2089`
 - **Generated**: 2026-05-11
@@ -136,19 +138,21 @@ This document is the refined synthesis output of the AutoResearchClaw research p
 
 **Key Cases**: *Wallace v. Kato* (2007); Montana Code Annotated § 27-2-204
 
-**MISJustice Cross-Validation — CRITICAL ⚠️**: This cluster is the most procedurally acute issue in the Nuno matter. Attorney Bryan Tipp's failure to advise Nuno of approaching SOL deadlines resulted in the expiration of an estimated $6.4–8.4 million in viable civil claims. Key deadlines that expired during Tipp's representation include:
+**MISJustice Cross-Validation — PROCEDURALLY ACUTE:** The materials allege that counsel failed to provide timely, claim-specific limitations advice. That allegation does not establish that every underlying claim was viable, expired during counsel's engagement, or had a particular value. Certified dockets, engagement records, and act-specific accrual analysis are required:
 
-| Incident | Underlying Claim | SOL Deadline | Status |
-|----------|-----------------|--------------|--------|
-| 2015 Edmonds SWAT | § 1983 Excessive Force | Oct. 2018 | Expired — Tipp not yet retained |
-| 2016 False DV Arrest (WA) | § 1983 False Arrest | Mar. 2019 | Expired during Tipp representation |
-| 2017 YWCA Complaint — Retaliatory Charges | § 1983 First Amendment Retaliation | Nov. 2020 | Expired during Tipp representation |
-| 2018 Warrantless Entry/Jailing | § 1983 False Imprisonment | Aug. 2021 | Expired near end of Tipp representation |
+| Incident | Potential theory | Accrual and deadline issue | Present assessment |
+|----------|------------------|----------------------------|--------------------|
+| 2015 Edmonds police response | Federal or Washington police-liability theory | Washington event; precise act, injury, forum, and applicable state period must be established | No deadline published; Tipp reportedly was not yet retained |
+| 2016 Washington arrest / plea | Federal or Washington theory | Requires exact arrest date, plea record, favorable-termination and *Heck* analysis | Material limitations and merits issues unresolved |
+| 2017–2018 YWCA complaint and Montana proceedings | Retaliation, search, arrest, detention, or prosecution-based theories | Discrete acts generally accrue separately; prosecution-based claims may follow favorable-termination rules | Analyze each act and defendant; do not use one global deadline |
+| 2018–2019 Montana searches / detention / dismissal | Fourth Amendment or prosecution-based theories | Search and seizure claims generally accrue when the act occurs; certified dismissal dates may matter to other theories | Old discrete acts face substantial limitations defenses |
 
-**Viable tolling arguments** that a licensed attorney should urgently evaluate:
-- **Continuing violations doctrine** — if the same actors (Chard sisters, Brueckner) perpetuated misconduct into the 2023–2025 window, claims tied to ongoing conduct may still be timely
-- **Fraudulent concealment tolling** — fabricated police reports may toll accrual if Nuno could not reasonably have known of the constitutional nature of the violations
-- **Legal malpractice claim against Tipp** — Montana's 3-year discovery rule for malpractice actions (discovered ~2025) keeps a Tipp malpractice claim alive through approximately 2028
+**Arguments requiring claim-specific review:**
+- **Fresh accrual** may exist for a new, independently actionable 2023–2026 act; later harm from an older completed act does not itself restart limitations.
+- **Statutory discovery or concealment** under Mont. Code Ann. § 27-2-102(3) requires proof of a self-concealing injury or defendant action preventing discovery, plus facts supporting diligence.
+- **Legal malpractice** is governed by Mont. Code Ann. § 27-2-206's three-year discovery period and ten-year repose period, applied separately to each alleged act, error, or omission. No safe 2028 deadline or damages value can be published from the present record.
+
+See [Nuno Case Study: Documented Barriers and Tolling Arguments](additional-evidence-and-documentation/nuno-case-study-tolling-arguments.md).
 
 ---
 

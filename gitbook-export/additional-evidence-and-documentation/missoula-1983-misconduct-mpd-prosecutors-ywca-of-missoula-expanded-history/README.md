@@ -9,6 +9,8 @@ description: >-
 
 # Missoula §1983 misconduct: MPD, prosecutors, YWCA of Missoula (Expanded history)
 
+**Research current through October 6, 2026 for the limitations and damages revisions below.**
+
 ### Introduction & Case Summary
 
 The civil rights violations documented in the case of Elvis Ryland Nuno represent not an isolated incident but rather a manifestation of deeply entrenched institutional corruption within Missoula, Montana's law enforcement, prosecutorial, and victim advocacy systems. This report expands the evidentiary record to encompass systematic patterns of abuse affecting multiple victims across more than a decade, revealing coordinated misconduct by the **YWCA of Missoula**, **Missoula Police Department (MPD)**, and Missoula County Attorney's Office that preceded, paralleled, and followed Mr. Nuno's experience. The navigation structure on this page emphasizes both evidence routing and the structural remediation priorities now used across the YWCA-facing index pages.
@@ -511,7 +513,7 @@ Mr. Nuno's case implicates:
 
 **First Amendment**: Retaliation for filing YWCA complaint (protected petition activity) **Fourth Amendment**: Warrantless home invasion, mass electronic seizure, arrests without probable cause **Fifth Amendment**: Due process violations through conflict-infected investigation **Fourteenth Amendment**: Equal protection and due process through systematic bias
 
-Total documented damages: **$11.4 million** including punitive damages and RICO treble damages.
+The public record does not presently support a single documented damages total. Contract, earning-capacity, emotional-distress, relocation, punitive, statutory, fee, cost, and interest categories must be calculated separately and tied to a timely claim and legally responsible defendant.
 
 #### C. Legal Malpractice Enabling Statute Expiration
 
@@ -520,9 +522,9 @@ Attorney Bryan Tipp's representation from 2017-2022 involved systematic failures
 1. **Advised against civil claims** to "give the matter time"
 2. **Ignored ongoing harassment** (2020-2022) causing St. Regis contract loss
 3. **Failed to identify** obvious conflicts (Brueckner's YWCA Board service)
-4. **Allowed statute of limitations** to expire on 42 U.S.C. § 1983 claims (3-year), defamation claims (3-year MCA 27-2-204), IIED claims (3-year)
+4. **Allegedly failed to provide claim-specific limitations advice.** Montana generally borrows a three-year personal-injury period for § 1983 claims, while Mont. Code Ann. § 27-2-204(3) generally supplies a two-year period for libel and slander; accrual and tolling still require claim-specific analysis.
 
-Tipp's conduct violated Montana Rules of Professional Conduct 1.1 (Competence), 1.3 (Diligence), 1.4 (Communication), and 1.7 (Conflict of Interest). Estimated lost civil claims: **$6.4-8.4 million**.\[^1\_32]
+The project alleges that Tipp's conduct implicated Montana Rules of Professional Conduct 1.1 (competence), 1.3 (diligence), 1.4 (communication), and 1.7 (conflict of interest). Those rules do not themselves establish civil liability. A malpractice damages figure requires expert-supported breach, omission-specific timeliness, and suit-within-a-suit proof; no aggregate amount is treated as verified here.\[^1\_32]
 
 ***
 

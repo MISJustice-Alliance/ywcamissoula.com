@@ -208,7 +208,7 @@ Every criminal charge against Mr. Nuno in both states was ultimately dismissed �
 - **Alleged weaponization:** leveraging YWCA's reputation to lend credibility to E'Lise's allegations; suppressing the Witness PS exculpatory letter; protecting YWCA from accountability by prosecuting the complainant; using dual institutional weight to obtain the fraudulent warrant; and shutting down internal YWCA accountability by framing the complainant as the criminal.
 - **Recusal required but withheld:** Under law-enforcement ethics and Montana POST standards, Brueckner should have recused from any investigation involving YWCA employees or complaints against YWCA. Instead she concealed the board membership from all parties — a matter of public record (IRS Form 990 filings on ProPublica).
 - **Conduct characterized as:** fraud upon the court; *Brady* violation; deprivation of rights under color of law (18 U.S.C. § 242); conspiracy against rights (§ 241); POST professional misconduct; abuse of authority.
-- **Discovery only in 2025:** Mr. Nuno learned of the YWCA conflict in 2025 while researching the case — over six years of concealment — supporting **equitable tolling** of the statute of limitations for federal civil rights claims.
+- **Reported discovery in 2025:** Mr. Nuno states that he learned of the alleged YWCA conflict while researching the case. That date may support a tolling argument, but it does not establish tolling by itself. A court would require claim-specific proof of concealment or prevention of discovery, reasonable diligence, and the governing accrual and tolling rules.
 
 ---
 
@@ -236,8 +236,12 @@ Every criminal charge against Mr. Nuno in both states was ultimately dismissed �
 
 ## XI. Damages resulting from the Chards' conduct
 
-- **Economic:** Estimated **$6.4–$8.4 million** in past and future earnings lost (contracts, employment, reputational damage, forced relocation).
-- **Non-economic:** Severe emotional distress with symptoms consistent with PTSD, chronic anxiety, sleep disturbance, and social isolation — compounded by the 2015–2025 duration and multi-jurisdictional scope.
+The declaration alleges economic and non-economic harm, but the public record does not presently support an aggregate valuation.
+
+- **Economic:** Claimed contract, employment, reputational, and relocation losses require dated contracts, tax and earnings records, adverse-action evidence, mitigation evidence, and separate ledgers for the Washington-to-Montana and Montana-to-Mexico moves.
+- **Non-economic:** The declaration reports severe emotional distress, chronic anxiety, sleep disturbance, and social isolation. Diagnosis, causation, duration, and valuation remain subject to medical evidence and fact-finder review.
+
+These categories must be tied to particular acts and legally responsible defendants and must not duplicate the same loss across tort, civil-rights, malpractice, and relocation theories. See [Nuno Case Study: Documented Barriers and Tolling Arguments](additional-evidence-and-documentation/nuno-case-study-tolling-arguments.md).
 
 ---
 

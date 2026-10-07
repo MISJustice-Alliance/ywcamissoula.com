@@ -52,7 +52,16 @@ Despite recognizing and arguing the constitutional violations, Tipp simultaneous
 
 ## Expired Claims Due to Tipp's Negligence
 
-Total loss from Tipp's negligence regarding the Facebook warrant alone exceeds **$1.4 million**.
+This page argues that Tipp's advice may have impaired potential claims arising from the Facebook warrant. That theory requires proof that a claim was legally viable, would have produced a collectible recovery, and was lost through actionable negligence; the cited material does not support a fixed lost-claim value.
+
+| Claimed component | Evidence and source date | Calculation / legal condition | Supported amount | Status |
+| ----------------- | ------------------------ | ----------------------------- | ---------------- | ------ |
+| Lost value of a potential civil-rights claim | Warrant and motion-to-dismiss materials described on this page; exact filing dates and complete records should be cited | Case-within-a-case proof of liability, defenses, damages, limitations, and collectibility | Not yet quantifiable | Contingent / disputed |
+| Privacy and emotional-distress harm from the data search | No damages-specific medical, economic, or valuation source is cited here | Admissible proof of injury caused by the search, separated from other alleged conduct | Not yet quantifiable | Disputed |
+| Fees and costs attributable to the warrant issue | No invoice or payment ledger is cited here | Actual paid or incurred expense allocated to this issue | Not yet quantifiable | Not yet quantifiable |
+| Punitive damages | No liability or punitive-damages finding is cited | Availability and required proof depend on the surviving claim and defendant | No fixed amount stated | Contingent |
+
+These components must not be added to broader prosecution or career-loss models unless the same injury has been removed from those models.
 
 ### Related
 

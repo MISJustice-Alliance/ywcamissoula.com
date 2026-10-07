@@ -34,7 +34,7 @@ This page analyzes a First Amendment retaliation / petition-for-redress theory i
 
 This legal analysis evaluates potential institutional liability theories tied to alleged First Amendment retaliation after complaints.
 
-Damages numbers referenced here should be treated as asserted and should be validated against the underlying records and any admissible damages documentation.
+Any damages theory on this page is advocacy, not a finding. A recoverable amount requires claim-specific proof of liability, state action where required, causation, admissibility, and damages attributable to each defendant.
 
 ## I. Institutional Framework and Legal Foundation
 
@@ -53,13 +53,17 @@ Mr. Nuno's formal 2017 complaint to the YWCA President constituted core petition
 
 ## VIII. Damages and Economic Impact
 
-| Category           | Amount         | Connection to YWCA Violations                      |
-| ------------------ | -------------- | -------------------------------------------------- |
-| Lost IT Career     | $2,100,000     | Harassment campaign began following YWCA complaint |
-| Contract Losses    | $680,000       | Professional defamation by YWCA affiliates         |
-| Legal Fees         | $387,000       | Defense against YWCA-coordinated false charges     |
-| Medical Costs      | $148,000       | Complex PTSD treatment from ongoing harassment     |
-| **Total Economic** | **$3,315,000** | Direct result of YWCA's failure to act             |
+The existing record does not support assigning an aggregate amount to the YWCA or treating temporal sequence as proof of causation. The proposed evidence ledger is:
+
+| Claim / defendant theory | Category and asserted legal basis | Evidence and source date | Calculation / time period | Supported amount | Status |
+| ------------------------ | --------------------------------- | ------------------------ | ------------------------- | ---------------- | ------ |
+| First Amendment retaliation / YWCA state-action theory | Lost employment or earning capacity allegedly caused by retaliation | 2017 complaint; Aug. 2018 complaint and character-reference packet linked above; no earnings ledger is cited here | Compare actual net earnings with a supported but-for path, subtracting replacement income and avoiding duplication with individual contract claims | Not yet quantifiable | Contingent / disputed |
+| Same theory | Identified contract losses | The page alleges professional harm but cites no contract, termination notice, or client communication tying a loss to YWCA conduct | Contract-by-contract net loss and date | Not yet quantifiable | Not yet quantifiable |
+| Same theory and any viable state-law theory | Defense fees or other out-of-pocket costs | Complaint packets are linked above; invoices, proof of payment, and allocation among actors or proceedings are not | Actual paid or incurred expense attributable to actionable conduct | Not yet quantifiable | Contingent / disputed |
+| Same theory and any viable state-law theory | Medical or psychological expense and emotional distress | No treatment bills or admissible causation opinion are cited on this page | Actual expense by date; non-economic harm assessed separately by the factfinder | Not yet quantifiable | Contingent / disputed |
+| Any claim permitting exemplary relief | Punitive damages | No liability finding or punitive-damages evidentiary record is cited here | Only after proof of the governing elements and any applicable limits | No fixed amount stated | Contingent |
+
+No subtotal or total should be published until the source records establish the loss, the legally responsible party, the relevant period, offsets, and non-overlapping calculation method.
 
 ### Related
 

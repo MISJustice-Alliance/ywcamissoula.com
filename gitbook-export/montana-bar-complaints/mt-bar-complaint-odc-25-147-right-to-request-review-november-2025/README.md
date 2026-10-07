@@ -17,6 +17,10 @@ tags:
 
 {% include "../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
 
+{% hint style="warning" %}
+**Publication note:** The damages figures and timeliness conclusions summarized below are allegations preserved from a historical submission; they have not been independently verified or adjudicated. See the current [limitations and tolling analysis](../../additional-evidence-and-documentation/nuno-case-study-tolling-arguments.md).
+{% endhint %}
+
 ## BEFORE THE OFFICE OF DISCIPLINARY COUNSEL
 
 ## COMMISSION ON PRACTICE

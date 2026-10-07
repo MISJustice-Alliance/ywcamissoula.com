@@ -24,6 +24,8 @@ This page maps potential **42 U.S.C. § 1983** and related civil-rights theories
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
+**Research current through October 6, 2026.**
+
 ### Verify first (primary artifacts)
 
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
@@ -193,16 +195,17 @@ Taken together, the constitutional-violation pages present a consistent pattern:
 
 ## IV. Economic Damages and Professional Destruction
 
-| Category                | Amount          | Basis                     |
-| ----------------------- | --------------- | ------------------------- |
-| Lost Contract           | $1,050,000      | 7 years x $150,000        |
-| Career Damage           | $1,050,000      | Reduced earning capacity  |
-| Civil Rights Violations | $2,000,000      | Constitutional violations |
-| Punitive Damages        | $5,000,000      | Institutional conspiracy  |
-| RICO Treble Damages     | $2,290,000      | Pattern of racketeering   |
-| **Total Damages**       | **$11,390,000** | **Conservative estimate** |
+The current public record does not support a single damages total. Each category requires a source-backed calculation tied to a timely claim and a legally responsible defendant.
 
-The 2022–2024 traffic matter adds a separate, currently unquantified component for business interruption, reputational spread, and bond-related trauma. See [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024) for the incident spine before any revised damages total is published.
+| Category | Required evidence and calculation | Amount / status | Overlap and legal limits |
+| --- | --- | --- | --- |
+| Contract and income loss | Executed contracts, invoices, tax records, client communications, mitigation, avoided costs, and a defined loss period | Not yet quantifiable; disputed | Do not repeat the same earnings loss as career, malpractice, civil-rights, or relocation damages |
+| Reduced earning capacity | Historical earnings, vocational or economic analysis, health evidence where relevant, and mitigation | Not yet quantifiable; estimated and disputed | Separate past lost income from future capacity |
+| Direct civil-rights injury | Claim-specific incident, medical, detention, property, and causation records | Not yet quantifiable; contingent on liability and timeliness | Avoid duplicating economic and emotional-distress components |
+| First and second relocations | Separate dated ledgers for Washington → Montana and Montana → Mexico, including housing, travel, safety, business, and caregiving records | Not yet quantifiable; alleged | “Constructive exile” is advocacy language, not a separate claim; allocate only incremental move-related loss |
+| Punitive, statutory, fees, costs, and interest | Claim-specific authority, culpability proof, billing/cost records, judgment date, and applicable cap or exclusion | Not yet quantifiable; legally contingent | Municipal punitive damages are unavailable under § 1983; do not include trebling or punitive relief in compensatory loss |
+
+The 2022–2024 traffic matter may add a separate, currently unquantified component for business interruption, reputational spread, and bond-related trauma. See [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024) and the canonical [damages evidence ledger](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic).
 
 ## V. Legal Malpractice: Bryan Tipp's Failures
 

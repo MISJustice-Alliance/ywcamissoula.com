@@ -200,26 +200,23 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 * [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * [Deployment lint root cause note](https://www.ywcaofmissoula.com/site-operations/deployment-lint-root-cause)
 
-## Nuno case: damages model (claimed; assumes liability)
+## Nuno case: damages evidence status
 
-This section now separates the original claimed damages from a conservative floor and adds the second-migration harms documented in the relocation memo.
+The public record does not presently support a reliable aggregate damages total. The table below separates categories and identifies the proof needed before an amount can be published. It assumes neither liability nor recoverability and is designed to prevent double counting.
 
-| Category | Claimed (assumes full liability) | Conservative (documentable floor) | Notes |
-| --- | --- | --- | --- |
-| Lost Contract | $1,050,000 | $1,050,000 | Original 7-year lost-contract baseline |
-| Career Damage / reduced earning capacity | $1,050,000 | $525,000 | Conservative floor uses a reduced earnings assumption |
-| Civil Rights Violations (constitutional) | $2,000,000 | $500,000 | Advocacy framing vs. conservative compensatory floor |
-| Punitive Damages | $5,000,000 | $0 | Excluded from conservative floor absent liability finding |
-| RICO Treble Damages | $2,290,000 | $0 | Excluded conservatively; predicate/proof not adjudicated |
-| Legal malpractice — barred claims (Tipp) | $6,400,000–$8,400,000 | $3,440,000 | Uses the malpractice page's documented-loss floor |
-| Second migration — economic sabotage | $1,050,000 | $300,000 | Applies original lost-contract logic to second displacement period |
-| Second migration — relocation/housing/safety costs | $150,000 | $40,000 | Direct relocation and safety costs |
-| Second migration — emotional distress / loss of community | $1,000,000 | $150,000 | Compounding harm from second displacement |
-| Second migration — international relocation premium (provisional) | $500,000 | $75,000 | Only if the record confirms departure from the U.S. entirely |
-| 2022–2024 traffic matter | Unquantified on-site | Unquantified on-site | Still pending site publication |
-| **Revised total** | **$20.49M–$22.49M** | **$6.08M** | Claimed total includes second-migration categories |
+| Claim / potential defendant | Category and legal basis | Evidence and source date | Calculation / period | Supported amount or range | Caps, exclusions, offsets, and overlap | Status |
+| --- | --- | --- | --- | --- | --- | --- |
+| Contract or business-interference theories / defendant to be identified by act | Lost contract, income, or earning capacity | Executed contracts, invoices, tax records, client communications, and mitigation records are required | Claim-specific loss period; gross revenue must be reduced by avoided costs and other mitigation | Not yet quantifiable from the public record | Do not duplicate the same earnings loss under tort, constitutional, malpractice, or relocation theories | Estimated and disputed |
+| Federal civil-rights theories / each alleged state actor | Compensatory injury under 42 U.S.C. § 1983 | Claim-specific incident records, dispositions, medical evidence, and causation proof are required | Each independently timely act must be valued separately | Not yet quantifiable | Municipal punitive damages are unavailable under *City of Newport v. Fact Concerts, Inc.*, 453 U.S. 247, 271 (1981); other immunities and causation defenses may apply | Legally contingent and disputed |
+| Legal-malpractice theory / Bryan Tipp | Loss caused by a provable act, error, or omission | Complete client file, engagement scope, expert opinion, underlying-case records, and suit-within-a-suit proof are required | Omission-by-omission; exclude losses not caused by counsel and amounts barred by repose | Not yet quantifiable | No automatic recovery of the value asserted in an underlying claim; avoid overlap with direct civil-rights damages | Contingent and disputed |
+| Washington → Montana relocation / responsible defendant to be proved | First-move direct and consequential losses | Dated travel, housing, storage, employment, medical, and contemporaneous causation records are required | Separate ledger for the reported 2017 move | Not yet quantifiable | Relocation is a damages theory, not automatic proof that earlier claims are timely | Alleged; not yet quantified |
+| Montana → Mexico relocation / responsible defendant to be proved | Second-move direct costs, business disruption, safety costs, emotional harm, and caregiving effects | Dated threat and call records; travel, housing, storage, immigration, business, medical, and caregiving records from 2026 are required | Separate ledger beginning with the reported July 2026 move; subtract unrelated or overlapping losses | Not yet quantifiable | “Constructive exile” is advocacy language, not a standalone cause of action; do not reuse first-move or general business-loss figures | Alleged; not yet quantified |
+| Any claim supporting punitive relief | Punitive damages | Clear-and-convincing claim-specific proof and defendant financial information would be required | Only after liability and statutory eligibility are established | Not yet quantifiable | Montana's cap, where applicable, is the lesser of $10 million or 3% of the defendant's net worth. Mont. Code Ann. § 27-1-220(3) (2025) | Legally contingent |
+| Any claim supporting fees, costs, or interest | Statutory fees, taxable costs, and pre- or postjudgment interest | Billing records, taxable-cost records, judgment date, and a claim-specific fee or interest statute are required | Calculate separately after the legal basis and relevant dates are established | Not yet quantifiable | Never include the same fee, cost, or interest item in compensatory damages | Contingent |
 
-The site should present this as a split model, not a single blended "conservative estimate." See also the malpractice slice on [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account) and the relocation/tolling analysis in [Nuno Case Study: Documented Barriers and Tolling Arguments](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/nuno-case-study-tolling-arguments).
+See the detailed evidence ledger at [Damages Evidence: Quantified and Non-Economic](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic), the two-move analysis at [Forced to Move Twice](https://www.ywcaofmissoula.com/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community), the malpractice analysis at [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account), and the limitations analysis at [Nuno Case Study: Documented Barriers and Tolling Arguments](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/nuno-case-study-tolling-arguments).
+
+**Research current through October 6, 2026.**
 
 ***
 

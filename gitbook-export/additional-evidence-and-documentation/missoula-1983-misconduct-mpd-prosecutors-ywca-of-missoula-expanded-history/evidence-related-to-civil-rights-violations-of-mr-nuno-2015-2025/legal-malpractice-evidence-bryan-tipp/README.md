@@ -40,19 +40,21 @@ This page is a sub-index for evidence themes relevant to alleged legal malpracti
 * Contract loss documentation (including St. Regis impacts).
 * Notes indicating civil action was declined despite documented causation.
 
-### High-level malpractice damages snapshot (illustrative)
+### High-level malpractice damages evidence snapshot
 
-These numbers are a **claimed orientation model** aligned to the site-wide claimed-vs-conservative split model.
+The cited materials do not presently support fixed lost-recovery amounts. Each alleged omission must be tied to a viable underlying claim, a claim-specific accrual and tolling analysis, suit-within-a-suit causation, and nonduplicative proof of value.
 
-Treat them as part of the site-wide claimed-vs-conservative split model: the claimed side assumes liability is proven, and the conservative side is the documentable floor.
+| Underlying matter | Limitation/accrual work still required | Damages evidence required | Status |
+| --- | --- | --- | --- |
+| 2015 Edmonds SWAT incident | Establish Washington claim, parties, accrual, tolling, and forum rules | Medical, economic, and underlying-claim valuation evidence | Alleged; not yet quantifiable |
+| 2016 false-arrest allegation | Establish detention/legal-process dates, governing jurisdiction, defendants, and tolling | Custody, medical, wage, and underlying-liability records | Alleged; disputed |
+| 2017–2018 Missoula events | Analyze each retaliation, seizure, due-process, defamation, and malicious-prosecution theory separately | Pleadings, dismissal order, communications, defenses, collectibility, and expert valuation | Mixed documented/alleged facts; contingent |
+| Facebook-warrant allegation | Verify warrant, execution, injury, defendants, and accrual | Warrant record, seized-material evidence, resulting loss, and causation | Not yet quantifiable |
+| Punitive damages, interest, fees, and costs | Identify a claim-specific legal basis; do not apply a multiplier | Judgment-dependent inputs and documented expenditures | Legally contingent |
 
-| Expired claim        | Typical accrual window | Lost recovery (order-of-magnitude) |
-| -------------------- | ---------------------- | ---------------------------------- |
-| 2015 SWAT incident   | 2015–2016              | $500,000+                          |
-| 2016 false arrest    | 2016                   | $300,000+                          |
-| 2017–2018 violations | 2017–2018              | $800,000+                          |
-| Facebook warrant     | 2018                   | $400,000+                          |
-| **Total**            |                        | **$2.0M+**                         |
+No total is stated because the available figures have not been reconciled to admissible source records, claim overlap, offsets, defenses, or collectibility.
+
+_Research current through October 6, 2026. This index describes allegations and advocacy, not judicial findings._
 
 ***
 

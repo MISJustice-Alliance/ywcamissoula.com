@@ -27,19 +27,19 @@ This page summarizes a damages theory for severe emotional distress (including P
 * Damages evidence router: [Damages evidence (quantified and non-economic)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic)
 * Case packet index (44 files): https://doc11\_evidentiary\_documentation\_misjusticealliance.arweave.net/
 
-The record cited across this site is used to support a damages theory for severe emotional distress. The claimed impacts include complex PTSD, agoraphobia, and withdrawal from civic participation. Any reference to typical award ranges is **context**, not a prediction.
-
-Validate against jurisdiction, comparator cases, and admissible proof.
+The record cited across this site is used to support a damages theory for severe emotional distress. The claimed impacts include complex PTSD, agoraphobia, and withdrawal from civic participation. Those are asserted effects, not findings, and must be tied to admissible medical and causation evidence.
 
 ## I. Legal Framework for Psychological Trauma
 
 ### Compensatory Damages for Emotional Distress
 
-| Severity Level | Typical Range          | Characteristics                              |
-| -------------- | ---------------------- | -------------------------------------------- |
-| Mild           | $5,000-$10,000         | Temporary anxiety, sleep disturbance         |
-| Moderate       | $15,000-$75,000        | Therapy required, medication                 |
-| **Severe**     | **$100,000-$500,000+** | **PTSD, major depression, permanent damage** |
+No generic award range is used here. The value of emotional-distress damages is fact- and jurisdiction-specific and cannot be inferred from a severity label alone.
+
+| Alleged harm | Evidence and source date | Proof still required | Supported amount | Status |
+| ------------ | ------------------------ | -------------------- | ---------------- | ------ |
+| Psychological effects associated with GPS monitoring and the prosecutions | Dr. Stratford psychiatric letter dated Apr. 10, 2019, linked above | Authentication, complete clinical context, causation, duration, treatment history, and admissibility | Not yet quantifiable | Documented report; causation and amount disputed |
+| Agoraphobia, withdrawal, and chilling of civic participation | Timeline and site narrative; no dated clinical source is cited here for each asserted effect | Event-specific testimony, contemporaneous records, alternative-cause analysis, and duration | Not yet quantifiable | Alleged / disputed |
+| Treatment expense | No bills, insurance statements, or payment ledger are cited on this page | Paid or incurred expense by date, offsets, and causal allocation | Not yet quantifiable | Not yet quantifiable |
 
 ## II. The Chilling Effect Doctrine
 
@@ -51,22 +51,24 @@ Mr. Nuno's documented conditions directly manifest this chilling effect:
 
 ## III. Career Destruction and Economic Devastation
 
-| Loss Category           | Amount       | Legal Significance     |
-| ----------------------- | ------------ | ---------------------- |
-| IT Career               | $1,500,000+  | Direct economic injury |
-| Professional Reputation | Incalculable | Unemployability        |
-| Relocation Costs        | $50,000+     | Forced migrations      |
+| Loss category | Evidence and calculation needed | Supported amount | Status |
+| ------------- | ------------------------------- | ---------------- | ------ |
+| IT employment or earning capacity | Contracts, tax and earnings records, employment history, labor-market evidence, mitigation, and a defined loss period | Not yet quantifiable | Estimated / disputed |
+| Professional reputation and employability | Identified lost opportunities, dated client or employer communications, and proof linking each loss to actionable conduct | Not yet quantifiable | Disputed |
+| Relocation expense | Receipts, move dates, reason for each move, offsets, and causal allocation | Not yet quantifiable | Not yet quantifiable |
 
 ## VII. Damages Calculation Framework
 
-| Component          | Estimated Value   |
-| ------------------ | ----------------- |
-| Economic Loss      | $1.5M+            |
-| Emotional Distress | $500,000+         |
-| Multiplier (5x)    | $7.5M total       |
-| Punitive           | $2-5M             |
-| Family Damages     | $500,000+         |
-| **Total Exposure** | **$10-15M range** |
+| Component | Calculation / legal condition | Supported amount | Status |
+| --------- | ----------------------------- | ---------------- | ------ |
+| Past economic loss | Source-supported net losses through a defined cutoff, less mitigation and offsets | Not yet quantifiable | Calculated only after records are assembled |
+| Future earning capacity | Expert-supported but-for earnings less expected actual earnings, discounted as required | Not yet quantifiable | Estimated / contingent |
+| Emotional distress | Factfinder assessment based on admissible evidence; no automatic multiplier | No fixed amount stated | Contingent / disputed |
+| Family-member loss | Separate claimant, cause of action, standing, and non-duplicative injury must be established | No fixed amount stated | Contingent |
+| Punitive damages | Available only if authorized for the particular claim and defendant and the required mental state is proven; constitutional and statutory limits may apply | No fixed amount stated | Contingent |
+| Fees, costs, and interest | Must be kept separate and supported by a fee-shifting rule, taxable-cost rule, or applicable interest authority | Not yet quantifiable | Contingent |
+
+No multiplier or aggregate exposure figure is supported by the materials cited on this page. Economic, non-economic, punitive, fee, cost, and interest components should remain separate to prevent double counting.
 
 ### Related
 

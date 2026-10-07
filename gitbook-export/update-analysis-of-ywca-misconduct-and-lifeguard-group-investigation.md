@@ -94,13 +94,17 @@ The same structural remedy themes used elsewhere in the YWCA pages apply here: i
 
 ### Enhanced Damages Analysis
 
-Total estimated damages: **$11,400,000** including:
+The cited materials do not support an aggregate damages figure or a defendant-specific allocation. The following categories are theories requiring further proof:
 
-* Lost Career: $2,100,000
-* Contract Loss: $300,000
-* Civil Rights: $2,000,000
-* Punitive: $5,000,000
-* RICO Treble: $2,000,000
+| Claim / defendant theory | Category / legal basis | Evidence and source date | Calculation / time period | Supported amount | Status |
+| ------------------------ | ---------------------- | ------------------------ | ------------------------- | ---------------- | ------ |
+| Section 1983 or related constitutional theory against a legally responsible actor | Past or future earnings and identified contract loss | The page describes a $150,000 annual IT contract allegedly lost after arrest; no contract, termination communication, earnings history, or mitigation record is cited here | Net loss for the supported contract term and any separately supported future period | Not yet quantifiable | Estimated / disputed |
+| Section 1983 or viable state-law theory | Compensatory non-economic injury | CR-2025-001 packet and timeline linked above; no damages-specific valuation source is cited | Factfinder assessment based on admissible, causally linked injury evidence | No fixed amount stated | Contingent / disputed |
+| Any claim authorizing punitive damages | Punitive damages | No liability or punitive finding is cited | Defendant-specific proof of the governing mental-state requirement and application of legal limits | No fixed amount stated | Contingent |
+| Civil RICO, if standing, predicate acts, causation, and injury to business or property are proven | Statutory trebling of qualifying compensatory loss | No transaction-level RICO loss calculation is cited here | Trebling applies only to qualifying, non-duplicative injury after liability; it is not an additional assumed lump sum | Not yet quantifiable | Contingent / disputed |
+| Any fee-shifting claim | Attorney fees and taxable costs | No invoice, payment ledger, or fee application is cited here | Reasonable recoverable fees and taxable costs kept outside compensatory damages | Not yet quantifiable | Contingent |
+
+Loss of career, individual contracts, compensatory civil-rights injury, punitive relief, statutory enhancement, fees, costs, and interest must be calculated separately. Overlapping earnings and contract losses cannot be counted twice, and any statutory trebling must be applied only as authorized to a qualifying base amount.
 
 ## Conclusion
 
