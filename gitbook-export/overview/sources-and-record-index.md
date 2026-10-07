@@ -34,6 +34,14 @@ This page is the canonical source list for the project. It separates **primary r
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
 {% endhint %}
 
+### P.S. email: primary exhibit and focused analyses
+
+The August 14, 2018 email and its forwarding chain are available as a [discovery exhibit PDF](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf). The [P.S. email hub](../additional-evidence-and-documentation/ps-email-addendum-august-2018/README.md) distinguishes the exhibit from the questions it raises:
+
+* [YWCA complaint handling and retaliation concerns](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-addendum-public.md) — routing of a complaint about an employee into investigative channels.
+* [Malicious-prosecution concerns](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-malicious-prosecution-addendum-public.md) — the relevance and limits of favorable information in the prosecution record.
+* [Brian Lowney prosecution record](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-brian-lowney-addendum-public.md) — documented recipients and unresolved questions about personal knowledge and review.
+
 ### Dataset landing pages (SEO)
 
 These are crawlable “one URL per record set” hubs:

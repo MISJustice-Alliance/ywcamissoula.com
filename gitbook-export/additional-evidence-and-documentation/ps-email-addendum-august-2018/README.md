@@ -21,7 +21,7 @@ The exhibit and its accompanying addenda raise public-accountability questions a
 
 ## The Exhibit
 
-* [Discovery Exhibit: P.S. Email to YWCA (August 14, 2018) — PDF](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf)
+* [Discovery Exhibit: P.S. Email to YWCA (August 14, 2018) — PDF](../../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf)
 
   Scanned discovery document showing the original email to `ywca@ywcaofmissoula.org` and the forwarding chain to Detective Arianna Adams and Kim Harvey.
 

@@ -19,6 +19,8 @@ This version is revised for publication on a public evidentiary site and keeps t
 
 ## What the Exhibit Shows
 
+Read the [August 14, 2018 P.S. email and forwarding chain (discovery exhibit PDF)](../../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf) alongside the [dated chronology and source register](../../montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison.md). This addendum focuses on what the forwarding record establishes about recipients and what remains unproved about an individual prosecutor's knowledge or decisions. The [P.S. email evidence hub](README.md) collects the exhibit and the other analyses.
+
 The discovery exhibit shows that P.S. sent an email to YWCA's general address on August 14, 2018 complaining about E'Lise Chard's conduct toward Elvis Nuno and describing Elvis as kind, generous, respectful, and non-abusive. The same exhibit shows E'Lise Chard forwarding that email to Detective Arianna Adams and Kim Harvey with the note: "Here is an email to the YWCA, about me, on Elvis' behalf. Not sure if you want this, since it's purportedly not from Elvis, but I figured I'd send it anyway."
 
 Kim Harvey then forwarded the chain to Arianna Adams on August 23, 2018, preserving it inside a county or prosecution-adjacent record stream. On the face of the document, that means favorable and contradictory information did not remain only inside YWCA; it moved into channels connected to the criminal case.

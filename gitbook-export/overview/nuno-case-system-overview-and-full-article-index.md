@@ -156,7 +156,18 @@ Use this documentation to:
 * [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
 * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
-* [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum) — Source-annotated analysis of DOJ's 2025 pattern-or-practice retreat and the resulting Missoula accountability gap
+* [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum) — Source-annotated analysis of DOJ's 2025 pattern-or-practice retreat and the resulting Missoula accountability gap
+
+### P.S. email: evidence and distinct analytical questions
+
+The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documentation/ps-email-addendum-august-2018/README.md) provides the discovery exhibit and distinguishes these questions:
+
+* [YWCA complaint handling and retaliation concerns](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-addendum-public.md) — how an employee complaint entered investigative channels.
+* [Malicious-prosecution concerns](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-ywca-retaliation-malicious-prosecution-addendum-public.md) — the relevance of favorable information and the limits of what this exhibit establishes.
+* [Brian Lowney prosecution record](../additional-evidence-and-documentation/ps-email-addendum-august-2018/ps-brian-lowney-addendum-public.md) — documented forwarding recipients and unresolved questions about review and personal knowledge.
+
+### Cross-state analysis
+
 * [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related
 
