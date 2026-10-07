@@ -262,7 +262,7 @@ The source materials support documenting a present, consequential set of barrier
 * [Comprehensive timeline, relationship diagram, and actionable claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Washington legal cases index](https://www.ywcaofmissoula.com/washington-cases/washington-legal-cases-index)
 * [Edmonds case (2015–2017)](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017)
-* [Home invasion, warrantless arrest, false imprisonment, and Missoula County Jail account](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
+* [Home invasion, warrantless arrest, false imprisonment, and Missoula County Jail account](https://www.ywcaofmissoula.com/montana-legal-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j)
 
 ## Research note
 

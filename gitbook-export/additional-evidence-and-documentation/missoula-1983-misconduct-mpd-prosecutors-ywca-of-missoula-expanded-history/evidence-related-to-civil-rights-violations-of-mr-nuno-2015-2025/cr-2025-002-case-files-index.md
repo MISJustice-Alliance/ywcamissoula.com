@@ -24,7 +24,7 @@ This page is a stable internal index to the **CR-2025-002** document set publish
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)

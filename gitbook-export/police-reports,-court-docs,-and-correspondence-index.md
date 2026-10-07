@@ -78,7 +78,7 @@ If you add a “link pending” item, try to attach a stable Arweave URL or an i
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)

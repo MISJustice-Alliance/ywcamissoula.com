@@ -28,7 +28,7 @@ This page is a sub-index for Fourth Amendment evidence themes: alleged unlawful 
 
 ### August 2018 warrantless home entry and detention
 
-Pair this page with: [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j)
+Pair this page with: [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j)
 
 Key supporting items:
 

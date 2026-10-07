@@ -95,7 +95,7 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
 
 ### Research Reports, Legal Advocacy, and Analysis
 
-* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
   * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
   * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
   * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
@@ -139,7 +139,7 @@ Records from Seattle and Edmonds, Washington proceedings:
 **Key research reports (ecosystem-level analysis):** these reports supply the macro view of the ecosystem described in the executive snapshot — how oversight channels, complaint routing, and bureaucratic structure operate to preempt investigation and insulate institutions:
 
 * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how Montana oversight channels structurally prevent substantive review
-* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/structural_failure_of_police_accountability_in_montana_from_mpd_to_post)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)

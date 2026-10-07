@@ -129,13 +129,13 @@ This page is the Washington index for case analysis and linked primary records, 
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](https://www.ywcaofmissoula.com/2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d)
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/washington-cases/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
-* [2020 WA cases: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/2020-wa-cases,-witness-tampering,-coerced-pleas,-and-the-impossible-catch-22-sit)
+* [2020 WA cases: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/2020-wa-cases-witness-tampering-coerced-pleas-and-the-impossible-catch-22-sit)
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)

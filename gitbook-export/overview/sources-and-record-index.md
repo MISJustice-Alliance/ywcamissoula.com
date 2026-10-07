@@ -27,7 +27,7 @@ This page is the canonical source list for the project. It separates **primary r
   * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
   * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
   * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis)
-  * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+  * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/structural_failure_of_police_accountability_in_montana_from_mpd_to_post)
   * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 {% hint style="info" %}
@@ -156,7 +156,7 @@ Start with these hubs. They are designed to point to the underlying source docum
 
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis)
-* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST)
+* [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/structural_failure_of_police_accountability_in_montana_from_mpd_to_post)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 
 #### 3) Missoula systemic history and context
@@ -242,7 +242,7 @@ Key external bibliography packet:
 ### Research Reports, Legal Advocacy, and Analysis
 
 
-* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis)
+* [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)

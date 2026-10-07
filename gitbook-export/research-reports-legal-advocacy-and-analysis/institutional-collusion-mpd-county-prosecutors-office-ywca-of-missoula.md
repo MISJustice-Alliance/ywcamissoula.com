@@ -13,7 +13,7 @@ This hub pulls together the pages that treat the Missoula record as an ecosystem
 
 ### Sub-pages
 
-* [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](https://www.ywcaofmissoula.com/SYNTHESIS-1983-Claims-YWCA-MPD-2012-2025)
+* [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office/synthesis-1983-claims-ywca-mpd-2012-2025)
 * [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula/the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation)
 
 ### Supporting evidence
