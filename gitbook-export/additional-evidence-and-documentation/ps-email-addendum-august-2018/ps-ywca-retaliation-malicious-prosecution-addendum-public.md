@@ -22,7 +22,7 @@ Review the [August 14, 2018 P.S. email and forwarding chain (discovery exhibit P
 
 The discovery record shows that P.S. emailed YWCA's general inbox on August 14, 2018 under the subject line "Attn: Regarding conduct of employee E'Lise Chard." The email described Elvis Nuno as kind, respectful, generous, and non-abusive, stated that E'Lise Chard had been causing harassment and trouble for Elvis and his family, and asked YWCA to address what was "really going on."
 
-The same record shows that nineteen minutes later E'Lise Chard forwarded that message to Detective Arianna Adams and Kim Harvey, stating: "Here is an email to the YWCA, about me, on Elvis' behalf. Not sure if you want this, since it's purportedly not from Elvis, but I figured I'd send it anyway." Kim Harvey later forwarded the chain again to Arianna Adams on August 23, 2018, preserving the message inside a law-enforcement or victim-services record stream.
+The same record displays a forward from E'Lise Chard's YWCA account to Arianna Adams and Kim Harvey at 9:34 p.m., approximately nineteen minutes after the original message's 9:15:28 p.m. timestamp. Chard wrote: "Here is an email to the YWCA, about me, on Elvis' behalf. Not sure if you want this, since it's purportedly not from Elvis, but I figured I'd send it anyway." Kim Harvey later forwarded the same embedded chain to Arianna Adams on August 23, 2018, providing an additional internally consistent confirmation of the sequence. The rendered exhibit does not include native transport headers.
 
 ## Why It Matters to the Public Record
 

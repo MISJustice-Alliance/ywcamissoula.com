@@ -10,7 +10,7 @@ description: >-
 
 ## Overview
 
-This section documents a critical discovery exhibit: an August 14, 2018 email sent by a third party (anonymized as **P.S.**) to the YWCA of Missoula general inbox, criticizing employee E'Lise Chard's conduct and supporting Elvis Nuno. Rather than being handled as an internal personnel complaint, the email was forwarded by E'Lise Chard herself into police and victim-services channels within nineteen minutes of receipt.
+This section documents a critical discovery exhibit: an August 14, 2018 email sent by a third party (anonymized as **P.S.**) to the YWCA of Missoula general inbox, criticizing employee E'Lise Chard's conduct and supporting Elvis Nuno. The displayed chain shows a forward from E'Lise Chard's YWCA account to a municipal recipient and a county crime-victim advocate approximately nineteen minutes later. The available record does not show whether the message was also logged or reviewed internally.
 
 The exhibit and its accompanying addenda raise public-accountability questions about:
 
@@ -24,6 +24,10 @@ The exhibit and its accompanying addenda raise public-accountability questions a
 * [Discovery Exhibit: P.S. Email to YWCA (August 14, 2018) — PDF](../../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf)
 
   Scanned discovery document showing the original email to `ywca@ywcaofmissoula.org` and the forwarding chain to Detective Arianna Adams and Kim Harvey.
+
+* [MISJustice Alliance request for independent YWCA board review (October 7, 2026) — PDF](../../.gitbook/assets/ywca-inquiry-about-ps-email-2026-10-07.pdf)
+
+  Sent-message record documenting a request to thirteen listed board addresses for the underlying headers, routing records, governing policies, board-notification evidence, and an independent review.
 
 ## Analytical Addenda
 

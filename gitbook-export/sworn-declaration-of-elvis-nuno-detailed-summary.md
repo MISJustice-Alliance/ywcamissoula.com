@@ -175,7 +175,7 @@ Every criminal charge against Mr. Nuno in both states was ultimately dismissed �
 - **October 12, 2025:** MISJustice Alliance (on behalf of Mr. Nuno and other victims) sent a formal legal notice requesting response on systemic issues, possible criminal conduct, and conflicts of interest — including Detective Connie Brueckner's simultaneous role as law enforcement officer and YWCA board member; retaliation patterns; misuse of confidential client information (including documented HIPAA violations); funding practices prioritizing crisis metrics; and the Board's conflict-management and complaint-handling protocols.
 - **December 5, 2025:** A comprehensive second notice to YWCA leadership, copied to senior YWCA staff and key Missoula city/county officials (Mayor, Police Chief, County Attorney), documenting: how E'Lise Chard imported and amplified Danielle's discredited Washington accusations; recruitment of subordinate Rebecca Pettit and liaison Officer Ethan Smith; repeated baseless arrests and harassment; recruitment of YWCA client Tyleen Root for online harassment and defamation; MPD's refusal to intervene (alleged joint state-private conspiracy); and YWCA's institutional indifference.
 - The December notice detailed federal causes of action: § 1983 (First, Fourth, Fourteenth Amendments), § 1985 conspiracy, state tort defamation/IIED, and civil/criminal RICO (18 U.S.C. § 1962).
-- **As of the declaration (60+ days after the first notice; 1+ month after the second): YWCA provided no response whatsoever** — no acknowledgment, investigation, or corrective action. The declaration argues this establishes consciousness of institutional guilt, deliberate indifference supporting *Monell* liability, and the futility of internal remedies.
+- **As of the declaration on December 10, 2025:** the declaration reports that YWCA had provided no response to either notice—approximately 59 days after the October 12 notice and five days after the December 5 notice. That establishes the declarant's account of nonresponse through December 10, not an affirmative refusal. The declaration separately argues that institutional inferences should be drawn from the reported nonresponse; those inferences are advocacy positions rather than established findings.
 
 ---
 
@@ -204,8 +204,8 @@ Every criminal charge against Mr. Nuno in both states was ultimately dismissed �
 
 ## VII. Detective Connie Brueckner: weaponizing institutional conflicts
 
-- **Dual roles:** YWCA Board member (with fiduciary duty to the organization, insider knowledge of the June 3, 2018 complaint, awareness of the suppressed Aug 14, 2018 character-reference letter from Witness PS) **and** Missoula PD detective (authority to seek warrants, present evidence, coordinate with prosecutors).
-- **Alleged weaponization:** leveraging YWCA's reputation to lend credibility to E'Lise's allegations; suppressing the Witness PS exculpatory letter; protecting YWCA from accountability by prosecuting the complainant; using dual institutional weight to obtain the fraudulent warrant; and shutting down internal YWCA accountability by framing the complainant as the criminal.
+- **Dual-role allegation:** The declaration alleges that Brueckner served as a YWCA Board member while working as a Missoula police detective. The available P.S. exhibit does not establish that Brueckner knew of or reviewed the August 14, 2018 message; that question requires board, email, and case-file records.
+- **Alleged weaponization:** The declaration alleges that Brueckner leveraged YWCA's reputation, suppressed the P.S. character-reference letter, protected YWCA from accountability, and used dual institutional weight in the warrant process. These are the declaration's allegations, not findings established by the P.S. exhibit.
 - **Recusal required but withheld:** Under law-enforcement ethics and Montana POST standards, Brueckner should have recused from any investigation involving YWCA employees or complaints against YWCA. Instead she concealed the board membership from all parties — a matter of public record (IRS Form 990 filings on ProPublica).
 - **Conduct characterized as:** fraud upon the court; *Brady* violation; deprivation of rights under color of law (18 U.S.C. § 242); conspiracy against rights (§ 241); POST professional misconduct; abuse of authority.
 - **Reported discovery in 2025:** Mr. Nuno states that he learned of the alleged YWCA conflict while researching the case. That date may support a tolling argument, but it does not establish tolling by itself. A court would require claim-specific proof of concealment or prevention of discovery, reasonable diligence, and the governing accrual and tolling rules.
@@ -222,7 +222,7 @@ Every criminal charge against Mr. Nuno in both states was ultimately dismissed �
 ## IX. Suppression of exculpatory evidence by YWCA and Det. Brueckner
 
 - **August 14, 2018:** A mutual acquaintance ("Witness PS") provided a written character reference on Mr. Nuno's behalf to YWCA, describing his non-violent nature and the implausibility of E'Lise's claims — including his having sheltered a pregnant homeless woman at no cost in 2016.
-- The declaration alleges YWCA and Detective Brueckner **suppressed this evidence**, never disclosing it to Mr. Nuno, his counsel, or the court — a *Brady* violation and evidence of institutional corruption and conspiracy to protect E'Lise.
+- The declaration alleges that YWCA and Detective Brueckner **suppressed this evidence** and failed to disclose it to Mr. Nuno, his counsel, or the court. The P.S. exhibit itself establishes the displayed forwarding chain but does not establish Brueckner's receipt, knowledge, disclosure obligations, or any *Brady* violation.
 
 ---
 
