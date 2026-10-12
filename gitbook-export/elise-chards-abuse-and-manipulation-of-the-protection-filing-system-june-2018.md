@@ -35,7 +35,9 @@ Jurisdiction: **Montana (Missoula County)**.
 
 * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 * [E’Lise Chard petition for order of protection (06-2018)](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
+* [E’Lise Chard petition for temporary order of protection, dated June 12, 2018 (2-page PDF, site copy)](.gitbook/assets/elise-chard-petition-order-of-protection-2018-06-12.pdf)
 * [YWCA complaint letter to YWCA Missoula leadership (06-2018)](https://4lsdab3ewlxq2wmdvchfyal5xbalnl6kxbo2i5o2mhtorvkrcfva.arweave.net/4uQwB2Sy7w1Zg6iOXAF9uEC2r8q4XaR12mHm6NVREWo)
+* [Police case 2018-24904 discovery copy — YWCA letters dated June 3, 2018, envelopes postmarked June 6 and stamped received June 7, and the $400 cashier's check](.gitbook/assets/case-2018-24904-ywca-letters-envelopes-cashiers-check.pdf)
 * [Exculpatory character witness statement sent to YWCA (alleged suppression)](https://ujc7y6rmhoezlugqun4rdagh5qlfdyymnc5aqmvfgtaouvxgw5xq.arweave.net/okX8eiw7iZXQ0KN5EYDH7BZR4wxouggypTTA6lbmt28)
 * [Dataset: E’Lise Michelle Chard / Hall alleged criminal actions (2015–2025)](https://www.ywcaofmissoula.com/datasets/dataset-elise-michelle-chard-hall-alleged-criminal-actions-2015-2025)
 

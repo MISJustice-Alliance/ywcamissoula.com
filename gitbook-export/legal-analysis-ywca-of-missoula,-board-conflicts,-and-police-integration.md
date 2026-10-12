@@ -35,6 +35,15 @@ This page maps a conflict-of-interest theory: YWCA of Missoula governance and op
 * CR-2025-001 key packet (dossier): https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * Primary citations hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+* Board roster: [YWCA Missoula audited financial statements, years ended June 30, 2024 and 2023](.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf) — the "Organization" page lists Connie Brueckner on the YWCA Missoula Board of Directors (auditors' report dated March 19, 2025; unmodified opinion; no findings or questioned costs reported).
+
+### Public government records on Missoula's coordinated victim-services system
+
+These City of Missoula and Missoula County documents describe how victim advocacy, police, and prosecutors are organized to work together. They show the structure of the system. They do not show misconduct by any person or organization.
+
+* [Relationship Violence Services presentation (May 2018)](.gitbook/assets/missoula-relationship-violence-services-presentation-2018-05.pdf) — describes JUST Response as "Missoula's Coordinated Response to sexual violence, relationship violence, and child abuse," whose members "include Missoula's criminal justice system and social services agencies"; lists criminal advocates assigned to MPD, the City Attorney's Office, and an office abbreviated "MSCO"; and lists "YWCA Missoula - Planet Kids Supervised Visitation and Safe Exchange Center" and "YWCA Missoula - Pathways Program" among the department's community partners.
+* [Relationship Violence Services FY2021 city budget request](.gitbook/assets/missoula-rvs-fy2021-city-budget-request.pdf) — requests continued advocacy services "for the City Attorney's Office and Missoula Police Department" and states that the Crime Victim Advocate Program serves clients in partnership with the City Attorney's Office, County Attorney's Office, MPD, and Sheriff's Office.
+* [Missoula County Community Justice Department FY2023 city budget request](.gitbook/assets/missoula-community-justice-fy2023-city-budget-request.pdf) — records that in FY2020 the county merged Relationship Violence Services and the Criminal Justice Services Division into the Community Justice Department, and describes the same cross-agency advocate model.
 
 ### What this page tries to answer
 

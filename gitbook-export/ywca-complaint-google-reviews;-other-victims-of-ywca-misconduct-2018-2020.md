@@ -116,6 +116,13 @@ Primary artifacts (external):
 * Coordinated retaliation immediately followed receipt of complaints
 * Additional Google Review's were posted [\[1\]](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/) [\[2\]](https://cr-2025-002-evidence-7_misjusticealliance.arweave.net/), triggering escalating retaliation.
 
+### 2025 MISJustice Alliance notices to YWCA leadership
+
+* [First notice — October 12, 2025](.gitbook/assets/misjustice-alliance-ywca-first-notice-2025-10-12.pdf). Sent to four YWCA Missoula addresses (Jen Euell, Julie Maturen, Becky Margolis, Patty Murphy) and addressed to the Board of Directors. Requests a formal comment on governance conflicts, law-enforcement involvement in YWCA governance (naming Detective Connie Brueckner), complaint handling, and independent review, and asks the Board to confirm in writing if no statement will be made.
+* [Second notice — December 5, 2025](.gitbook/assets/misjustice-alliance-ywca-second-notice-2025-12-05.pdf). Sent to YWCA leadership and copied to the Missoula Mayor's office address, the Missoula Police Department contact address, and other City of Missoula and Missoula County addresses. Sets out the Chard–Pettit–Smith–Root allegations, the August 14, 2018 character-witness email (name redacted), the Brueckner dual-role and Brady concerns, and three requested actions, including written confirmation within 21 days.
+
+These notices are advocacy correspondence. They record what was alleged and requested, and when; they are not findings.
+
 ## Google Review Documentation
 
 Public reviews from 2018-2020 reveal consistent patterns:
