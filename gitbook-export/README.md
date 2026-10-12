@@ -96,6 +96,7 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
 ### Research Reports, Legal Advocacy, and Analysis
 
 * [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
+  * [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/collective-civil-rights-litigation-class-action-rico-missoula)
   * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
   * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
   * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)

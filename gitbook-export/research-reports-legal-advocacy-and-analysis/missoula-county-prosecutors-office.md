@@ -13,6 +13,7 @@ This hub collects the prosecutor-facing analysis pages tied to charging, disclos
 
 ### Sub-pages
 
+* [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](collective-civil-rights-litigation-class-action-rico-missoula.md)
 * [§ 1983 Claims — YWCA Missoula & MPD (2012–2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office/legal-analysis-1983-claims-ywca-mpd-2012-2025)
 * [SYNTHESIS: §1983 Claims — YWCA & MPD (2012–2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office/synthesis-1983-claims-ywca-mpd-2012-2025)
 

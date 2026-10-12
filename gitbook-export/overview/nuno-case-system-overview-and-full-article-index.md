@@ -149,6 +149,7 @@ Use this documentation to:
 
 
 * [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
+* [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/collective-civil-rights-litigation-class-action-rico-missoula)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
@@ -177,6 +178,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 
 <summary><strong>Legal Analysis</strong></summary>
 
+* [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/collective-civil-rights-litigation-class-action-rico-missoula)
 * [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
 * [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)

@@ -13,6 +13,7 @@ This hub groups the YWCA-focused reports about governance conflicts, police inte
 
 ### Sub-pages
 
+* [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](collective-civil-rights-litigation-class-action-rico-missoula.md)
 * [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
 * [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co)

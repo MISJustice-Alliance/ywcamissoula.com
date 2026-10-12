@@ -12,6 +12,10 @@ description: >-
 
 This section groups the project’s long-form legal research, advocacy briefs, and theory-mapping pages. Start with the hub pages below, then follow the supporting evidence links inside each hub when you need record-backed context.
 
+### Featured report
+
+* [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](collective-civil-rights-litigation-class-action-rico-missoula.md) — Record-first analysis of coordinated § 1983 litigation, a narrow Rule 23 class, and the evidentiary threshold for civil RICO.
+
 ### Categories
 
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
