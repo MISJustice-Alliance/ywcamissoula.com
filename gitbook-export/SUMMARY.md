@@ -18,6 +18,7 @@
 ## Research Reports, Legal Advocacy, and Analysis
 
 * [Research Reports, Legal Advocacy, and Analysis — Overview](research-reports-legal-advocacy-and-analysis/README.md)
+* [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](research-reports-legal-advocacy-and-analysis/collective-civil-rights-litigation-class-action-rico-missoula.md)
 * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
   * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](missoula-police-oversight-students-guide-governance-structural-limitations.md)
   * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping.md)
