@@ -141,6 +141,8 @@ Useful follow-on records would include:
 
 ### Related Montana records
 
+* [Max Moss request for comment on the St. Regis contract and Elvis Nuno's business departure](max-moss-centric-is-st-regis-contract-and-elvis-nuno-business-departure-request-for-comment.md)
+* [St. Regis School and Derek Larson request for comment on access restrictions and the 2024 IT contract](st-regis-school-derek-larson-access-restrictions-and-2024-it-contract-request-for-comment.md)
 * [Montana Legal Cases](montana-legal-cases.md)
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)

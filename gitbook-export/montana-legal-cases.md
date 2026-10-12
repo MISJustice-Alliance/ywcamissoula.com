@@ -133,6 +133,8 @@ These entries are organized as case records. Each page captures a discrete Monta
 * [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](https://www.ywcaofmissoula.com/montana-legal-cases/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
+  * [Max Moss request for comment on the St. Regis contract and Elvis Nuno's business departure](max-moss-centric-is-st-regis-contract-and-elvis-nuno-business-departure-request-for-comment.md)
+  * [St. Regis School and Derek Larson request for comment on access restrictions and the 2024 IT contract](st-regis-school-derek-larson-access-restrictions-and-2024-it-contract-request-for-comment.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/montana-state-complaints/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)

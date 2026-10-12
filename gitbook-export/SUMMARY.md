@@ -63,6 +63,8 @@
 * [Threats & Malicious Harassment From YWCA Associates (2020-2022)](threats-malicious-harassment-from-ywca-associates-2020-2022.md)
 * [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community.md)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024.md)
+  * [Max Moss request for comment on the St Regis contract and Elvis Nuno business departure](max-moss-centric-is-st-regis-contract-and-elvis-nuno-business-departure-request-for-comment.md)
+  * [St Regis School and Derek Larson request for comment on access restrictions and the 2024 IT contract](st-regis-school-derek-larson-access-restrictions-and-2024-it-contract-request-for-comment.md)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025.md)
 * [Bryan Tipp malpractice (2017–2025)](2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account.md)
 
