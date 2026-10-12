@@ -1,2 +1,5 @@
 .DS_Store
 .seo-cache/
+.claude/
+.omc/
+.serena/
