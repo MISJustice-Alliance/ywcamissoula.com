@@ -164,6 +164,9 @@ Start with these hubs. They are designed to point to the underlying source docum
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 * [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](https://www.ywcaofmissoula.com/montana-legal-cases/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community)
+* [Nuno Case Study: Documented Barriers and Tolling Arguments](../additional-evidence-and-documentation/nuno-case-study-tolling-arguments.md) — updated October 12, 2026 with the DPA evidence-preservation analysis, 2024 St. Regis contract and business-separation timeline, Montana and Washington tolling precedent, authority matrix, and missing-evidence priorities
+* [Max Moss request for comment on the St. Regis contract and Elvis Nuno business departure](../max-moss-centric-is-st-regis-contract-and-elvis-nuno-business-departure-request-for-comment.md)
+* [St. Regis School and Derek Larson request for comment on access restrictions and the 2024 IT contract](../st-regis-school-derek-larson-access-restrictions-and-2024-it-contract-request-for-comment.md)
 
 #### 4) Evidence maps (by theme)
 
@@ -175,6 +178,16 @@ Start with these hubs. They are designed to point to the underlying source docum
 #### 5) Research tooling
 
 * [Research Tooling: CourtListener Case-Law API, MCP Server, and Webhooks](https://www.ywcaofmissoula.com/reference/courtlistener-legal-research-tooling-api-mcp-and-webhooks) — technical reference for verifying case-law and docket citations
+
+Key tolling and delayed-discovery authorities used in the Nuno case study:
+
+* [*Blackburn v. Blue Mountain Women's Clinic*, 286 Mont. 60, 951 P.2d 1 (1997)](https://law.justia.com/cases/montana/supreme-court/1997/61c5832d-faa1-4f4e-ab8d-4c76194b355c.html) — self-concealing nondisclosure under Mont. Code Ann. § 27-2-102(3)(a)
+* [*Estate of Watkins v. Hedman, Hileman & Lacosta*, 2004 MT 143](https://caselaw.findlaw.com/court/mt-supreme-court/1033613.html) — malpractice discovery, damages accrual, and fiduciary silence
+* [*Watkins Trust v. Lacosta*, 2004 MT 144](https://law.justia.com/cases/montana/supreme-court/2004/ea1682bd-3f27-445a-af97-4c5221f00bf0.html) — complex professional error and equitable-estoppel elements
+* [*Knight v. City of Missoula*, 252 Mont. 232, 827 P.2d 1270 (1992)](https://law.justia.com/cases/montana/supreme-court/1992/11bb1d12-2b8a-47a5-a88a-861df116c561.html) — fraudulent-concealment principle and evidentiary limit
+* [*Board of Regents v. Tomanio*, 446 U.S. 478 (1980)](https://supreme.justia.com/cases/federal/us/446/478/) — borrowing state limitations and coordinate tolling rules for § 1983
+* [*Fowler v. Guerin*, 200 Wash. 2d 110, 515 P.3d 502 (2022)](https://www.courts.wa.gov/opinions/pdf/1000693.pdf) — Washington civil equitable-tolling predicates
+* [*Kittinger v. Boeing Co.*, 21 Wash. App. 484, 585 P.2d 812 (1978)](https://www.casemine.com/judgement/us/591493ccadd7b049345b0e17) — discovery rule for confidential business libel
 
 Key external bibliography packet:
 
