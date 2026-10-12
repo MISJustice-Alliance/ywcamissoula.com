@@ -100,10 +100,11 @@ This document compiles evidence from formal complaints and public reviews docume
 
 ## Formal Complaints Filed
 
-### [2017 Complaint to YWCA President](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
+### [2018 Complaint to YWCA President](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
 
 Primary artifacts (external):
 
+* [Police case 2018-24904 discovery copy — signed letters to the YWCA President (Deirdre Flaherty) and Vice President (Cindy Nesselroad), both envelopes, and the $400 cashier's check (letters dated June 3, 2018; check dated June 4; postmarked June 6; YWCA received June 7)](.gitbook/assets/case-2018-24904-ywca-letters-envelopes-cashiers-check.pdf)
 * [YWCA complaint packet (image)](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
 * [Google review 01](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/)
 * [Google review 02](https://cr-2025-002-evidence-7_misjusticealliance.arweave.net/)
