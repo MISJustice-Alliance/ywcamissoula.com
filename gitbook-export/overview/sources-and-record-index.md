@@ -188,6 +188,11 @@ Key tolling and delayed-discovery authorities used in the Nuno case study:
 * [*Board of Regents v. Tomanio*, 446 U.S. 478 (1980)](https://supreme.justia.com/cases/federal/us/446/478/) — borrowing state limitations and coordinate tolling rules for § 1983
 * [*Fowler v. Guerin*, 200 Wash. 2d 110, 515 P.3d 502 (2022)](https://www.courts.wa.gov/opinions/pdf/1000693.pdf) — Washington civil equitable-tolling predicates
 * [*Kittinger v. Boeing Co.*, 21 Wash. App. 484, 585 P.2d 812 (1978)](https://www.casemine.com/judgement/us/591493ccadd7b049345b0e17) — discovery rule for confidential business libel
+* [Mont. Code Ann. § 27-34-102](https://mca.legmt.gov/bills/mca/title_0270/chapter_0340/part_0010/section_0020/0270-0340-0010-0020.html) and [2025 Montana House Bill 292, enrolled as Chapter 250](https://archive.legmt.gov/content/Sessions/69th/Contractor_index/CH0250.pdf) — Montana UPEPA's civil-action scope, prospective applicability, and protected-participation categories
+* [*Hartman v. Moore*, 547 U.S. 250 (2006)](https://supreme.justia.com/cases/federal/us/547/250/) — retaliatory-prosecution causation and absence-of-probable-cause requirement
+* [*Wallace v. Kato*, 549 U.S. 384 (2007)](https://supreme.justia.com/cases/federal/us/549/384/) — accrual of false-arrest claims and filing-and-stay procedure during related criminal proceedings
+* [*McDonough v. Smith*, 588 U.S. 109 (2019)](https://supreme.justia.com/cases/federal/us/588/18-485/) — favorable-termination accrual for prosecution-dependent fabricated-evidence claims
+* [*Thompson v. Clark*, 596 U.S. 36 (2022)](https://supreme.justia.com/cases/federal/us/596/20-659/) — favorable termination for Fourth Amendment malicious-prosecution claims
 
 Key external bibliography packet:
 
