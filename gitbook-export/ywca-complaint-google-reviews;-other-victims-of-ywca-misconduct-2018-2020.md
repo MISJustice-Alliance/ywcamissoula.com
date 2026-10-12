@@ -105,6 +105,7 @@ This document compiles evidence from formal complaints and public reviews docume
 Primary artifacts (external):
 
 * [Police case 2018-24904 discovery copy — signed letters to the YWCA President (Deirdre Flaherty) and Vice President (Cindy Nesselroad), both envelopes, and the $400 cashier's check (letters dated June 3, 2018; check dated June 4; postmarked June 6; YWCA received June 7)](.gitbook/assets/case-2018-24904-ywca-letters-envelopes-cashiers-check.pdf)
+* [Reprint for personal records (dated June 14, 2018; home address and phone number redacted)](.gitbook/assets/ywca-complaint-letter-reprint-2018-06-14-personal-records.jpg)
 * [YWCA complaint packet (image)](https://cr-2024-002-evidence-16_misjusticealliance.arweave.net/)
 * [Google review 01](https://cr-2025-002-evidence-19_misjusticealliance.arweave.net/)
 * [Google review 02](https://cr-2025-002-evidence-7_misjusticealliance.arweave.net/)
@@ -122,6 +123,13 @@ Primary artifacts (external):
 * [Second notice — December 5, 2025](.gitbook/assets/misjustice-alliance-ywca-second-notice-2025-12-05.pdf). Sent to YWCA leadership and copied to the Missoula Mayor's office address, the Missoula Police Department contact address, and other City of Missoula and Missoula County addresses. Sets out the Chard–Pettit–Smith–Root allegations, the August 14, 2018 character-witness email (name redacted), the Brueckner dual-role and Brady concerns, and three requested actions, including written confirmation within 21 days.
 
 These notices are advocacy correspondence. They record what was alleged and requested, and when; they are not findings.
+
+### Client posts about shelter policy (Missoula Mutual Aid Community, Facebook)
+
+* [Anonymous post: "ATTN: YWCA PARTICIPANTS"](.gitbook/assets/missoula-mutual-aid-ywca-shelter-policy-post.jpg) — a post in the Missoula Mutual Aid Community Facebook group criticizing YWCA shelter re-entry rules, staff favoritism, training, and treatment of families. The screenshot shows the date as "March 25" with no year.
+* [Comments on the post (commenter names and photos redacted)](.gitbook/assets/missoula-mutual-aid-ywca-shelter-policy-comments.jpg) — commenters describe favoritism, discrimination, and being forced out. One current resident writes that "it's not the worst place you can be." A group admin notes that "these grievances are not new."
+
+These are unverified public posts. They describe shelter-policy and treatment complaints; they do not document a HIPAA disclosure.
 
 ## Google Review Documentation
 

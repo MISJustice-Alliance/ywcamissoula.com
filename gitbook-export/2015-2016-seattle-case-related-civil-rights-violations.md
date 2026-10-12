@@ -34,6 +34,10 @@ On **August 23, 2016**, Seattle Municipal Court Case No. 613225 (City of Seattle
 
 Source-packet records further state that a subpoena of Danielle Chard's phone and text records produced by the prosecution showed **bi-directional communication** during the period in which she claimed "cyber stalking and harassment" — evidence of voluntary contact and dialogue, with no evidence of threats of any kind. (Source packet: Declaration §§ VIII–IX; Prosecutor Cover Letter § IV, per the [Criminal Investigation Referral — Danielle Chard Bemis](additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-danielle-chard-bemis.md).)
 
+## Written statement to Seattle PD (October 3, 2016)
+
+* [Mr. Nuno's written statement for Seattle PD incident #2016-348587 (5 pages)](.gitbook/assets/seattle-pd-written-statement-incident-2016-348587.pdf) — his point-by-point response to Seattle police reports GO# 2015-421345, 2015-429912, and 2016-148053. It quotes Edmonds report #2016-00009660 as finding no order violation, and describes the $75,000 bail set on the 2016 report. This is his account; the statements in it about other people are his allegations.
+
 ## Detailed Analysis
 
 For the full constitutional analysis of police report fabrication and related Fourth Amendment violations in this case, see:

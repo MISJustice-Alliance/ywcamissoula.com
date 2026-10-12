@@ -20,6 +20,11 @@ tags:
 
 [\[PDF: Copy of Official Notarized Document Submitted to the MT DoJ POST Department on August 12th, 2025\]](https://cr-2025-002-complaint-11_misjusticealliance.arweave.net/)
 
+Complaint form (site copy; home address and phone number redacted):
+
+* [Page 1 — complainant, officer, and incident information](.gitbook/assets/mt-post-complaint-form-2025-08-12-page-1.jpg)
+* [Page 2 — statement of complaint, certification, and notarization (August 12, 2025)](.gitbook/assets/mt-post-complaint-form-2025-08-12-page-2.jpg)
+
 Related correspondence:
 
 * [POST email chain / escalation (Aug 2025)](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)

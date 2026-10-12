@@ -131,6 +131,7 @@
 
 ## Montana State Complaints
 
+* [Complaint to the Missoula Mayor's Office (July 29, 2020)](missoula-mayors-office-complaint-july-2020.md)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](post-mortem-of-mt-doj-post-complaint-dismissal-august-2025.md)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief.md)
