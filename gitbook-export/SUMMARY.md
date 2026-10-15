@@ -73,6 +73,7 @@
 
 * [Washington Legal Cases Index](washington-legal-cases-index.md)
 * [Open Letter to Washington: Unpaid Debt, Unserved Purpose](open-letter-to-washington-unpaid-debt-unserved-purpose.md) — featured open letter on alleged debt, warrant transparency, purpose, and safe access to court
+* [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
