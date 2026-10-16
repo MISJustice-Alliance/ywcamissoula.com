@@ -139,7 +139,7 @@ The full 35-page notarized declaration is reproduced inline below, page by page.
 
 The declaration is a 35-page, notarized account of what Mr. Nuno describes as a multi-year, multi-jurisdictional pattern of false accusations, perjury, criminal defamation, retaliatory prosecution, and institutional corruption involving E'Lise Chard and Danielle Chard, with alleged assistance from YWCA Missoula employees, Missoula Police Department officers (Officer Ethan Smith, Detective Connie Brueckner), and law enforcement and prosecutorial actors in Washington State and Montana between 2015 and 2025. It requests that state and federal authorities open or expand criminal investigations into perjury, criminal defamation, witness intimidation, suppression of exculpatory evidence, conflicts of interest, and conspiracy to violate civil rights (18 U.S.C. § 241).
 
-Every criminal charge against Mr. Nuno in both states was ultimately dismissed — in Montana and Washington, with prejudice.
+With the exception of the noted coerced pleas, all criminal matters have been dismissed with prejudice.
 
 ---
 
