@@ -259,7 +259,23 @@ CrRLJ 7.6 supplies procedural protections for probation modification or revocati
 
 ## His father’s safety deserves an answer
 
-Walls’s statement that Mr. Nuno “can not use his father as his excuse” does not answer the caregiving concern raised by counsel. Mr. Nuno reports …798 tokens truncated…er, cost terms, permissible absences, emergency caregiving arrangements, and objective completion proof.
+Walls’s statement that Mr. Nuno “can not use his father as his excuse” does not answer the caregiving concern raised by counsel. Mr. Nuno reports vital responsibility for an elderly father recovering from spinal surgery. His concern is that unexpected travel or detention could interrupt necessary support and expose his father to real danger. Calling that concern an excuse substitutes a judgment about Mr. Nuno’s motives for an assessment of the consequences to a dependent person.[^1][^36]
+
+The open letter describes how unresolved Washington matters affect daily life: uncertainty about detention, travel costs, repeated searches for old records, difficulty obtaining clear answers, threats to professional stability, and an inability to plan around family responsibilities. These burdens compound one another. A caregiver cannot reliably arrange replacement care without knowing when he must travel, how long he may be absent, or whether a scheduled appearance may result in custody. Although the letter also mentions household responsibilities, including a cat, its central concern is the safety of an elderly parent who depends on assistance.[^36]
+
+**The relevant question is how compliance can be arranged without an avoidable interruption in essential care.** A redacted medical statement and a focused caregiving declaration could explain the father’s limitations, Mr. Nuno’s actual duties, available alternatives, and the time needed to arrange safe coverage. That would give the court a concrete basis for considering remote review, a scheduled appearance, reasonable preparation time, and emergency caregiving provisions in any proposed home-monitoring arrangement. Medical disclosure should be limited to what is necessary to assess those requests.
+
+There is already a procedural starting point. In January, Walls expressed no objection to a Zoom appearance after counsel raised the father’s spinal surgery and other travel constraints. CrRLJ 7.6(c) expressly contemplates physical or remote participation in probation modification or revocation hearings and gives the court discretion to permit appearance through counsel. These provisions support seeking a specific ruling on how this matter can be heard; an earlier lack of prosecutorial objection does not itself authorize an appearance or resolve an outside warrant.[^1][^35]
+
+The court should therefore identify the appearance required, the issues to be decided, the possible custody consequences, and any arrangements it can lawfully approve before travel occurs. Any outside warrant requires coordination with its issuing court. Caregiving does not automatically cancel an enforceable obligation, but neither does that obligation answer a request for a practicable way to comply. Dismissing the father as an “excuse” leaves the central safety question unresolved: **what procedure will address the case while allowing necessary care to continue?**
+
+## What a definite resolution should contain
+
+Before additional agreed performance begins, counsel should seek:
+
+1. The cause number, operative orders, alleged violations, and accounting of accepted prior compliance.
+2. Whether 60 days of EHM is an existing balance, a substitute for jail, or a proposed modification, with the calculation stated.
+3. An approved provider, cost terms, permissible absences, emergency caregiving arrangements, and objective completion proof.
 4. The exact treatment documents required, privacy protections, and acceptable replacement evidence for missing historical records.
 5. Identification and documentation of each outside warrant, acknowledgment of prior inquiries, and specific further actions within Mr. Nuno’s control.
 6. The City’s express commitment to seek or support a stated disposition resolving all enumerated and known allegations.
