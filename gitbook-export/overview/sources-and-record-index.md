@@ -262,6 +262,10 @@ Key external bibliography packet:
 
 ### Research Reports, Legal Advocacy, and Analysis
 
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](../open-letter-to-washington-unpaid-debt-unserved-purpose.md)
+* [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](../a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md) — analysis of the September 2019 plea, alleged coercion, the missing evaluation, caregiving, and definite resolution terms
+
+
 
 * [Research Reports, Legal Advocacy, and Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)

@@ -123,6 +123,10 @@ Case files and evidence tied to Missoula, Montana, including:
 
 ### Washington Cases
 
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](open-letter-to-washington-unpaid-debt-unserved-purpose.md)
+* [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md) — analysis of the September 2019 plea, alleged coercion, the missing evaluation, caregiving, and definite resolution terms
+
+
 Records from Seattle and Edmonds, Washington proceedings:
 
 * 2015-2016 Seattle case

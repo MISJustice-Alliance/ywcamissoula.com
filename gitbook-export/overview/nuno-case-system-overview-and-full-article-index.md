@@ -224,6 +224,10 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 
 <summary><strong>Washington Cases</strong></summary>
 
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](../open-letter-to-washington-unpaid-debt-unserved-purpose.md)
+* [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](../a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md) — analysis of the September 2019 plea, alleged coercion, the missing evaluation, caregiving, and definite resolution terms
+
+
 * [Washington Legal Cases Index](https://www.ywcaofmissoula.com/washington-cases/washington-legal-cases-index)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations)
 * [2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington State](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)

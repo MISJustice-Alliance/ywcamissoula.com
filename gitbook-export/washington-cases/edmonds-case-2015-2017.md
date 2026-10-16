@@ -21,6 +21,10 @@ Use this page as the jump-off point for Edmonds-related records. This includes t
 
 ### Key documents and analysis
 
+* [Open Letter to Washington: Unpaid Debt, Unserved Purpose](../open-letter-to-washington-unpaid-debt-unserved-purpose.md)
+* [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](../a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md) — analysis of the September 2019 plea, alleged coercion, the missing evaluation, caregiving, and definite resolution terms
+
+
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](../.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
 * [2015-2017 Ineffective Assistance of Counsel and Plea Withdrawal in Washington State](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
