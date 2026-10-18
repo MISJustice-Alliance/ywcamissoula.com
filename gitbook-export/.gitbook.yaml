@@ -1,0 +1,21 @@
+# GitBook Git Sync content configuration (project directory: gitbook-export/)
+# root/structure keep GitBook defaults; this file exists for section-level redirects.
+# GitBook resolves its automatic page-move redirects FIRST; these entries only
+# apply to paths that no longer resolve to a page.
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md
+
+redirects:
+  # Case-file pages renamed from "....md" (canonical URLs previously ended in a literal "...")
+  additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...: additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2.md
+  additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...: additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62.md
+  montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...: montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7.md
+
+  # Legacy Notion-export URLs (served from the apex domain before the GitBook migration).
+  # Effective once the apex ywcaofmissoula.com -> www.ywcaofmissoula.com redirect is fixed in Cloudflare.
+  Civil-Rights-Violations-and-Related-Claims-2015-2025-22dca07db8498090b82eddb661890956: civil-rights-violations-and-related-claims-2015-2025.md
+  MT-DoJ-POST-Correspondence-E-Mail-Chain-August-2025-265ca07db849807baf80eba3f953d2db: mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md
+  MT-ACLU-Correspondence-August-2025-25dca07db84980d0ac9ac5924ab05900: police-reports,-court-docs,-and-correspondence-index.md

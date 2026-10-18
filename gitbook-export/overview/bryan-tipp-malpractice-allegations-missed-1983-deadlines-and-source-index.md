@@ -42,7 +42,7 @@ This hub collects Bryan Tipp malpractice **allegations** and the linked primary 
 
 ### CR-2025-003 published dossier (canonical packet links)
 
-* Internal index: [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...)
+* Internal index: [MisJustice Alliance case file: 2df48ac7](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7)
 * External portal: [https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06](https://misjusticealliance.org/cases/2df48ac7-423e-498d-bc79-e58e63233d06)
 
 Core filings (external):
