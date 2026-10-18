@@ -8,6 +8,9 @@ description: >-
 
 # Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index
 
+> **About this page:** This short jump index covers the prosecutorial track: alleged prosecutorial misconduct, Brady/Giglio disclosure issues, and the related Lowney grievance and abuse-of-process material. Use it to reach the detailed evidence page for each theme. The full evidence map for the same themes is on the prosecutorial misconduct evidence page.
+
+
 ### Executive snapshot
 
 This page is a jump index for evidence themes involving alleged **prosecutorial misconduct**, **Brady / Giglio disclosure** issues, and the companion **Lowney ODC grievance / abuse-of-process** track in the Nuno record.

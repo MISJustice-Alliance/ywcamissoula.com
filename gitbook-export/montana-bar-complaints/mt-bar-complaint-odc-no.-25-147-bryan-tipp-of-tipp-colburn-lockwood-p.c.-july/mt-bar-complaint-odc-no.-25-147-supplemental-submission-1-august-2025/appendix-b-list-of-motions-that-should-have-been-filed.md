@@ -10,6 +10,9 @@ description: >-
 
 # Appendix B: List of Motions That Should Have Been Filed
 
+> **About this page:** Appendix B of a Montana bar complaint against attorney Bryan Tipp lists, by time window, the categories of motions the complainant states should have been filed in the underlying criminal case. The list reflects the complainant's position on counsel's conduct, not a ruling on whether any motion would have succeeded. Read it with Appendix D, which covers claims and timing.
+
+
 {% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
 
 #### **SUMMARY**

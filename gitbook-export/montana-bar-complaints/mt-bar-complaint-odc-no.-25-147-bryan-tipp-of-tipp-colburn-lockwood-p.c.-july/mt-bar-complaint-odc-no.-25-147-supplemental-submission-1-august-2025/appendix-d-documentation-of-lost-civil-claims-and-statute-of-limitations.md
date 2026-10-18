@@ -10,6 +10,9 @@ description: >-
 
 # Appendix D: Documentation of Lost Civil Claims and Statute of Limitations
 
+> **About this page:** Appendix D of the same Montana bar complaint sets out the complainant's account of lost civil claims and statute-of-limitations timing, the financial impact the complainant attributes to counsel's conduct, and the current status of that harm. The figures and conclusions are the complainant's allegations, not findings. Unlike Appendix B, which lists motions, this appendix addresses claims and damages.
+
+
 {% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
 
 {% hint style="warning" %}

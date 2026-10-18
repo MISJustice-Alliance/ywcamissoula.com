@@ -7,6 +7,9 @@ description: >-
 
 # CR-2025-002 — Case files index
 
+> **About this page:** This is a stable index of the CR-2025-002 document set published by MisJustice Alliance, with most links pointing to external packet URLs intended for citation. It is organized by the packet itself, so use it to find a document in the packet. The topic pages explain what the documents are offered to show.
+
+
 ### Executive snapshot
 
 This page is a stable internal index to the **CR-2025-002** document set published by MisJustice Alliance. It is designed to be a canonical link target from analysis pages, timelines, and evidence maps. Most links are external packet URLs (Arweave gateways) intended to be stable for citation.

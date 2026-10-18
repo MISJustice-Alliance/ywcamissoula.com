@@ -110,6 +110,9 @@ No new Montana Supreme Court attorney discipline orders found in publicly availa
 
 # Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)
 
+> **About this page:** This is a legal analysis of 42 U.S.C. § 1983 claims in the YWCA Missoula and Missoula Police Department record, 2012 to 2025, covering the same subject as the synthesis page. Compared with the synthesis, it adds a recent-developments section and a remediation lens. Use it for the dated updates; use the synthesis for the overall structure.
+
+
 Quick hub: [Missoula Police](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index) · [YWCA conflicts](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 
 ### Executive snapshot

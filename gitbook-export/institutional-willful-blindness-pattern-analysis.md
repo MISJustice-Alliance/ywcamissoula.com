@@ -18,6 +18,9 @@ tags:
 
 # Institutional Willful Blindness: A Pattern Analysis of Complaint-Suppression Across Missoula's Oversight Architecture
 
+> **About this page:** This pattern analysis looks at how complaints were handled across Missoula's oversight bodies, including the attorney-discipline channel (ODC-25-147 and ODC-26-145). It sets out what each agency received and how the page characterizes each response. It is the longest analysis in this section.
+
+
 {% hint style="info" %}
 Companion federal-enforcement analysis: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum).
 {% endhint %}

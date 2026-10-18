@@ -11,6 +11,9 @@ description: >-
 
 # MT Bar Complaint ODC No. 25-147: Supplemental Submission #3 (September, 2025)
 
+> **About this page:** This is Supplemental Submission #3 (September 2025) to Montana bar complaint ODC No. 25-147. It addresses an alleged password-coercion incident, alleged pressure by counsel, legal and ethical analysis, and damages, and it connects these to the broader pattern described in the complaint. Its contents are the complainant's allegations.
+
+
 {% include "../../../.gitbook/includes/odc-25-147-related-misjustice-alliance-case-file.md" %}
 
 **Montana Bar Association Office of Disciplinary Counsel**

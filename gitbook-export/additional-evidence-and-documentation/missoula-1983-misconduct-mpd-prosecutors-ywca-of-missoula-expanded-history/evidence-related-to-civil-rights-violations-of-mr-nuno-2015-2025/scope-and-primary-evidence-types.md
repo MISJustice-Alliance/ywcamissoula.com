@@ -6,6 +6,9 @@ description: >-
 
 # Scope and primary evidence types
 
+> **About this page:** This page defines the scope of the evidence set and the categories of high-signal records used across the evidence map. It is written as a taxonomy for reviewers judging reliability and provenance. Read it before the topic pages to see the criteria applied to them.
+
+
 ### Executive snapshot
 
 This page defines the scope of the evidence set and the “high-signal” record categories used throughout the evidence map. It is intended as a stable taxonomy for investigators, journalists, and LLM-based research tools when assessing reliability and provenance.

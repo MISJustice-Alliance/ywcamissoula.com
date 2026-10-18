@@ -337,3 +337,10 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
     * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 </details>
+
+## Analysis and index pages
+
+* [CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula](../additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-ywca-of-missoula.md)
+* [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence index](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-and-brady-issues-evidence-index.md)
+* [MPD retaliation and escalation after complaints (evidence index)](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/mpd-retaliation-and-escalation-after-complaints-evidence-index.md)
+* [Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)](../SYNTHESIS-1983-Claims-YWCA-MPD-2012-2025.md)

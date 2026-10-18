@@ -10,6 +10,9 @@ description: >-
 
 # Public Addendum: P.S. Email and Malicious Prosecution Concerns
 
+> **About this page:** This public addendum covers the same August 14, 2018 email, focused on the malicious-prosecution concerns raised by the criminal case against Elvis Nuno. It sets out the public questions the exhibit raises and what the addendum does not claim. It differs from the retaliation addendum, which focuses on how YWCA handled complaints.
+
+
 ## Overview
 
 This public addendum explains why the August 14, 2018 P.S. email and forwarding chain matter to the public record concerning the criminal case against Elvis Nuno and the broader concerns about how complaints were handled once they reached YWCA and law-enforcement channels. The narrow public point is that a third-party message favorable to Elvis Nuno and critical of E'Lise Chard appears in discovery as having been redirected into police and victim-services channels rather than appearing, on the current record, to trigger neutral review or visible corrective action.

@@ -22,6 +22,9 @@ tags:
 
 # Oversight Evaluation Report: Missoula Police Department Accountability Framework (2016–2022)
 
+> **About this page:** This evaluation covers the Missoula Police Department accountability framework from 2016 to 2022. It benchmarks complaint trends and disposition data, examines the use-of-force reporting question, reviews oversight structures from local to state level, and sets out remediation pathways and policy recommendations. It is the page to use for MPD complaint and disposition figures.
+
+
 **MISJustice Alliance | Accountability Research Division**
 
 **Prepared:** May 2026 | *For Investigative and Advocacy Use — Not Legal Advice*

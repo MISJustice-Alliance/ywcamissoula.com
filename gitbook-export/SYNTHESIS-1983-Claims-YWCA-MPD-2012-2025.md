@@ -6,6 +6,9 @@ description: >-
 
 # Legal Analysis of 42 U.S.C. § 1983 Claims — YWCA Missoula & Missoula Police Department (2012–2025)
 
+> **About this page:** This synthesis organizes 42 U.S.C. § 1983 claims arising from the YWCA Missoula and Missoula Police Department record, 2012 to 2025, into five doctrinal clusters, and lists research gaps and prioritized next steps. The page describes its method as an AI-assisted research pipeline cross-checked against the case record, so citations should be verified before reliance. The longer working analysis is linked from the overview index.
+
+
 **Research current through October 6, 2026 for the limitations and damages revisions below.**
 
 **Research Pipeline Output + Independent Cross-Validation**

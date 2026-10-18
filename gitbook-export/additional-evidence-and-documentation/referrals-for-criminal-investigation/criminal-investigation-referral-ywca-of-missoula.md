@@ -9,6 +9,9 @@ description: >-
 
 # CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula
 
+> **About this page:** This referral-style analysis groups the alleged conduct connected to YWCA of Missoula into categories, lists the statutes and referral channels a complaint could involve, and sets out jurisdiction notes and remediation priorities. It presents these as allegations for review, not as findings that any offense occurred. Unlike the evidence indexes, it is organized around the referral question rather than around source documents.
+
+
 {% include "../../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ## Non-advice and evidentiary-use note

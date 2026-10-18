@@ -6,6 +6,9 @@ description: >-
 
 # Damages evidence (quantified and non-economic)
 
+> **About this page:** This sub-index covers damages evidence, including economic losses and non-economic harms such as reputational harm, lost employability, and emotional distress. It does not state an aggregate recovery. Each figure needs a dated source, an identified claim and defendant, a defined calculation period, and an account of causation and offsets before it can be relied on.
+
+
 ### Executive snapshot
 
 This page is a sub-index for damages evidence: economic loss plus non-economic harms (reputation, employability, and emotional distress). It does not state an aggregate recovery. Each amount must be tied to a dated source, a viable claim and defendant, a defined calculation period, causation, mitigation, offsets, and rules preventing double counting.

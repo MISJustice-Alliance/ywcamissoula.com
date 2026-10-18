@@ -8,6 +8,9 @@ description: >-
 
 # MPD retaliation and escalation after complaints (evidence index)
 
+> **About this page:** This sub-index covers alleged retaliation and escalation by the Missoula Police Department after complaints, as framed in the Nuno record. It links the primary artifacts and incident pages on that theme. It addresses the post-complaint response, while the Fourth Amendment and harassment indexes cover other themes.
+
+
 ### Executive snapshot
 
 This page is a sub-index for evidence themes involving alleged **retaliation and escalation after complaints** by Missoula Police Department (MPD), as framed in the Nuno record. Use it to jump directly into the primary artifacts and the incident pages that collect the underlying documents.

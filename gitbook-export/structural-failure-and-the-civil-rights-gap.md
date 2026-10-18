@@ -18,6 +18,9 @@ tags:
 
 # The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation
 
+> **About this page:** This analysis addresses the structural barriers to securing legal representation for § 1983 claims in Missoula-area cases. It covers the economics of the representation market, rural legal deserts, the gap between criminal and civil knowledge, institutional conflicts, and information failures across jurisdictions. Read it for the representation-gap argument; the case-specific record is in the evidence pages.
+
+
 {% hint style="info" %}
 Companion report: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum).
 First-person companion piece: [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process.md).

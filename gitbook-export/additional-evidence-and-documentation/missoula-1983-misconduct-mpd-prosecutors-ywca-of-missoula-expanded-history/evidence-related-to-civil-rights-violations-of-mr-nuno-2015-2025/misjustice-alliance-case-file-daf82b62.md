@@ -8,6 +8,9 @@ description: >-
 
 # MisJustice Alliance case file: daf82b62
 
+> **About this page:** This is a stable internal index for the published external case file daf82b62 (CR-2025-002). It mirrors the packet's key links so analysis pages can cite a single internal URL. Use it to reach the packet's main documents.
+
+
 ### Executive snapshot
 
 This page is a stable internal index for the published external case file **daf82b62** (CR-2025-002). It mirrors key packet links so analysis pages can reference a single internal URL while still pointing to stable external artifacts.

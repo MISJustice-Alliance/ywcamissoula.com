@@ -8,7 +8,7 @@ description: >-
 
 ### Executive snapshot
 
-This page is an evidence map.
+> **About this page:** This is the top-level evidence map for the civil-rights and misconduct record. It links the topic pages (prosecutorial conduct, Fourth Amendment, retaliation, damages, and harassment), the CR-2025 case-file indexes, and the Bryan Tipp evidence folder. Start here when you need to find the right evidence page.
 
 It groups high-signal records and packet links used across this site to support civil-rights and misconduct theories tied to the Nuno record (Washington + Montana). Use it to jump from a claim type (e.g., Fourth Amendment search/seizure) into the most relevant primary artifacts and sub-index pages.
 

@@ -11,6 +11,9 @@ description: >-
 
 # Public Addendum: P.S. Email, YWCA Complaint Handling, and Retaliation Concerns
 
+> **About this page:** This public addendum covers the August 14, 2018 email and its forwarding chain, focused on how YWCA handled complaints and the retaliation concerns that followed. It explains why the exhibit matters to the public record and what the addendum does not claim. It differs from the malicious-prosecution addendum, which focuses on the criminal case.
+
+
 ## Overview
 
 This public addendum explains why the August 14, 2018 P.S. email and its forwarding chain matter to the public record concerning YWCA complaint handling and the escalation that followed Elvis Nuno's complaints about YWCA-linked conduct. The core public-interest point is narrow: a third-party complaint sent to YWCA's general inbox about employee conduct appears in discovery as having been forwarded by the accused employee into police and victim-services channels rather than appearing, on the available record, to remain in an internal grievance process.

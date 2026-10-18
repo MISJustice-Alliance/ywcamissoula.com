@@ -7,6 +7,9 @@ description: >-
 
 # Legal malpractice evidence (Bryan Tipp)
 
+> **About this page:** This sub-index covers evidence themes relevant to alleged legal malpractice involving Bryan Tipp: what was known, what advice was given, and how that maps to statute-of-limitations exposure and damages theories. It directs readers to the primary ODC filings and key correspondence to check first. For the full narrative on the same subject, use the linked analysis page.
+
+
 ### Executive snapshot
 
 This page is a sub-index for evidence themes relevant to alleged legal malpractice involving Bryan Tipp: what was known, what advice was given, and how that maps to statute-of-limitations exposure and downstream damages theories. Use it to jump into primary filings (ODC packets) and key correspondence.

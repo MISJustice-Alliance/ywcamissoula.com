@@ -6,6 +6,9 @@ description: >-
 
 # Ongoing harassment and RICO predicate framing
 
+> **About this page:** This sub-index collects evidence of alleged ongoing harassment from 2019 onward, along with the 'pattern' framing used to organize it under RICO predicate-act analysis. It does not, by itself, establish that a pattern exists; it gathers the records a reader would need to evaluate that framing. The focus here is harassment over time, while the retaliation index covers the response after complaints.
+
+
 ### Executive snapshot
 
 This page is a sub-index for evidence themes involving alleged ongoing harassment (2019–2025+) and “pattern” framing.

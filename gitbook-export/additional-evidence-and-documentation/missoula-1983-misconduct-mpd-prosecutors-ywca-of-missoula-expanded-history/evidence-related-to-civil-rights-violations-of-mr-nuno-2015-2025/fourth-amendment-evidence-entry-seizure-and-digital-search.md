@@ -6,6 +6,9 @@ description: >-
 
 # Fourth Amendment evidence (entry, seizure, and digital search)
 
+> **About this page:** This sub-index covers Fourth Amendment evidence themes: alleged unlawful entry, seizure or detention, and overbroad digital search. It points to the highest-signal artifacts and to the incident pages that hold the underlying documents. It is a navigation index, not a legal analysis of those questions.
+
+
 ### Executive snapshot
 
 This page is a sub-index for Fourth Amendment evidence themes: alleged unlawful entry, seizure/detention, and overbroad digital search. Use it to jump into the highest-signal artifacts and the deeper incident pages that collect the underlying documents.

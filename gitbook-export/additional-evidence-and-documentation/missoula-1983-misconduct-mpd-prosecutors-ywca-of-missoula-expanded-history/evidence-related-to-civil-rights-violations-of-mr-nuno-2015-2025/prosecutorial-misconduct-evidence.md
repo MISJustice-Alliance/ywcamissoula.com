@@ -6,6 +6,9 @@ description: >-
 
 # Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence
 
+> **About this page:** This evidence map covers the prosecutorial track: alleged misconduct, Brady/Giglio disclosure duties, and the malicious-prosecution and abuse-of-process elements. It maps the evidence themes to those elements. For a shorter list of links on the same themes, use the prosecutorial misconduct index.
+
+
 ### Executive snapshot
 
 This page maps evidence themes relevant to alleged prosecutorial misconduct, Brady/Giglio disclosure obligations, and malicious-prosecution / abuse-of-process elements.

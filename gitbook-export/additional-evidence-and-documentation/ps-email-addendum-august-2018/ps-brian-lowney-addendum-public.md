@@ -11,6 +11,9 @@ description: >-
 
 # Public Addendum: P.S. Email and Questions About the Brian Lowney Prosecution Record
 
+> **About this page:** This public addendum explains why an August 14, 2018 third-party email and its forwarding chain matter to the public record about the Missoula prosecution and the role of prosecutor Brian Lowney. It sets out what the exhibit shows and states what the addendum does not claim. Unlike the evidence indexes, it is written for general readers rather than as a list of sources.
+
+
 ## Overview
 
 This public addendum explains why the August 14, 2018 P.S. email and its forwarding chain matter to the public record concerning the Missoula prosecution and the role of prosecutor Brian Lowney within that broader case environment. The narrow public-interest point is that a third-party message favorable to Elvis Nuno and critical of E'Lise Chard appears to have entered prosecution-adjacent channels while the criminal matter continued.

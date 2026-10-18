@@ -17,6 +17,9 @@ tags:
 
 # FBI referral request (Nov 2025)
 
+> **About this page:** This is the FBI referral request dated November 2025. It states the author's allegations of institutional corruption, cross-jurisdictional coordination, constitutional violations, and RICO-related conduct, and it requests a federal investigation. Its contents are allegations submitted to a federal agency, not findings.
+
+
 **Case Reference:** DoJ Report Number 658793-SKB **Submitted by:** Mr Nuno **Date:** November 15, 2025
 
 ## Summary
