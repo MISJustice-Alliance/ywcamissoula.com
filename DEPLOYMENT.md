@@ -6,7 +6,8 @@ GitBook Git Sync publishes only `gitbook-export/` (configured by `gitbook-export
 
 | Concern | Owner | Where to change it | Notes |
 | --- | --- | --- | --- |
-| Page content, titles, descriptions | Repository | `gitbook-export/**/*.md` frontmatter `title`, `description` | GitBook renders `title` as the page heading and `<title>`. |
+| Page title (`<title>` and H1) | Repository | `gitbook-export/SUMMARY.md` link text | Verified live: GitBook publishes the nav label. Frontmatter `title` and the page's own `#` heading do not change the published title. |
+| Page description | Repository | `gitbook-export/**/*.md` frontmatter `description` | Used as `<meta name="description">` and Open Graph description. |
 | Navigation and published URLs | Repository + GitBook | `gitbook-export/SUMMARY.md` | URLs follow GitBook group/parent slugs, not file paths. Use the live `sitemap-pages.xml` as the source of a page's URL. |
 | Redirects for removed paths | Repository | `gitbook-export/.gitbook.yaml` `redirects:` | GitBook serves these as HTTP 307. Applies only to paths that no longer resolve. |
 | Automatic page-move redirects | GitBook | GitBook UI (moving pages) | HTTP 307. |
