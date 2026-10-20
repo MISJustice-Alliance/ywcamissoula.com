@@ -16,11 +16,16 @@ GitBook Git Sync publishes only `gitbook-export/` (configured by `gitbook-export
 | `sitemap.xml`, `sitemap-pages.xml` | GitBook | Generated from published pages | Do not add a custom sitemap. |
 | Canonical URLs, `meta robots`, Open Graph | GitBook | GitBook site settings (custom domain, indexing, social preview) | Self-referencing canonical on every page. |
 | `llms.txt`, `llms-full.txt`, Markdown page variants | GitBook | Generated | AI user agents, `Accept: text/markdown`, and `.md` URLs get Markdown. |
-| Structured data (JSON-LD) | Nobody (not deployed) | Would need GitBook custom code / an integration | A fenced JSON block in Markdown is visible text, not structured data. |
+| Structured data (JSON-LD) | Cloudflare Worker (edge) | `cloudflare/structured-data-worker/` (config, code, README) | Injected at Cloudflare's edge into GitBook's HTML, on an allowlist of exact paths. Not stored in GitBook Markdown; a fenced JSON block in Markdown is visible text, not structured data. Every JSON-LD fact must come from visible page content. Takes effect only after the Worker is deployed and its route is bound. |
+| Fixed root text files (site-verification keys) | Cloudflare Worker (edge) | `staticTextFiles` in `cloudflare/structured-data-worker/config/schema-routes.json` | GitBook cannot serve arbitrary root files. |
 | Bot and WAF rules | Cloudflare | Cloudflare → Security | See the runbook in `SEO_GEO_AEO_FINDINGS.md` §7. |
 | Data files `data/*.csv` | Repository only | `data/` | Not published. See `data/README.md`. |
 
 Archived (never deployed, kept for history): `ARCHIVE/robots.txt`, `ARCHIVE/sitemap.xml`, `ARCHIVE/llms.txt`, `ARCHIVE/llms-full.txt`, `ARCHIVE/entities.json`.
+
+## Structured data at the edge
+
+GitBook owns the content, navigation, rendered output, and canonical metadata. The Worker in `cloudflare/structured-data-worker/` owns route-specific JSON-LD only. The page content is the source of truth for every JSON-LD fact; if a page changes, the schema follows the rendered page (breadcrumbs and H1 are read from it) or the allowlist must be updated. See `cloudflare/structured-data-worker/README.md` for enabled types, deployment, checks, and rollback.
 
 ## Checks
 

@@ -1,0 +1,16 @@
+{
+  "name": "ywcaofmissoula-structured-data-worker",
+  "private": true,
+  "type": "module",
+  "description": "Injects route-specific JSON-LD into GitBook-rendered HTML at the Cloudflare edge.",
+  "scripts": {
+    "test": "vitest run",
+    "dev": "wrangler dev",
+    "build-breadcrumb-routes": "node scripts/build-breadcrumb-routes.mjs"
+  },
+  "devDependencies": {
+    "@cloudflare/vitest-plugin": "^1.4.5",
+    "vitest": "^4.1.12",
+    "wrangler": "^4.151.2"
+  }
+}
