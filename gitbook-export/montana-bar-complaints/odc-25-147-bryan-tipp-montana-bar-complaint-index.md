@@ -8,6 +8,16 @@ description: >-
 
 # ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
 
+### Short answer: procedural history and current status
+
+**Question:** What happened to the Montana bar complaint against attorney Bryan Tipp (ODC File No. 25-147)?
+
+**Answer:** The complaint was filed with the Montana Office of Disciplinary Counsel (ODC) in July 2025. It alleges legal malpractice and professional-duty failures by Bryan Tipp as criminal defense counsel.
+
+* **Decided:** ODC [dismissed the complaint on November 3, 2025](../.gitbook/assets/11-03-2025-ODC_25-147_Complaint-Dismissal-Bryan-Tipp-REDACTED.pdf). The Commission on Practice affirmed the dismissal on January 7, 2026. ODC letters dated July 10 and July 30, 2026 state that the matter remains closed.
+* **Pending:** a [September 23, 2026 Commission letter](../.gitbook/assets/odc-25-147-commission-on-practice-letter-september-23-2026.jpeg) states that the complainant's appeal letter and ODC's file were sent to the Montana Supreme Court under Rule 14. Review under Rule 14 is discretionary.
+* **Unresolved:** no Supreme Court order, docket number, or decision is in this record. An ODC dismissal is a decision not to proceed with discipline; it is not a court judgment on the malpractice allegations. See [What the Available Record Shows — and Doesn't Show](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review).
+
 ## Current status and case evolution
 
 **Current posture:** ODC dismissed File No. 25-147 on November 3, 2025, and the Commission on Practice affirmed the dismissal on January 7, 2026. A September 23, 2026 Commission letter now confirms that the Commission received Elvis R. Nuno's August 13, 2026 appeal letter and transmitted it, together with ODC's original file, to Chief Justice Cory Swanson and the Montana Supreme Court under Rule 14. The letter does not establish that the Court granted discretionary review, assigned a public docket number, reached the merits, or altered the dismissal. See the [September 23, 2026 transmittal analysis](odc-25-147-september-23-2026-supreme-court-transmittal.md).

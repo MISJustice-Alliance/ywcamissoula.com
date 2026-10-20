@@ -1,13 +1,24 @@
 ---
 title: "Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index"
 description: >-
-  Primary record index for Missoula Police (MPD): misconduct allegations,
-  retaliation evidence, and primary, with filings, correspondence, and cited
-  sources.
+  Index of misconduct and retaliation allegations about the Missoula Police
+  Department (MPD), with the complaints, agency responses, and other primary
+  records behind them.
 ---
 
 
 # Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index
+
+### Short answer: what allegations and records this collection contains
+
+**Question:** What complaints about Missoula Police are documented here, and what happened to them?
+
+**Answer:** This hub covers the Missoula Police Department (Missoula, Montana), mainly 2018 to 2025.
+
+* **Complaints on record:** the [March 2018 complaint about Officer Ethan Smith](../.gitbook/assets/Officer_Ethan_Smith_Complaint-March-2018.pdf); the [July 29, 2020 complaint to the Missoula Mayor's Office](../.gitbook/assets/missoula-mayor-complaint-2020-07-29.pdf); and the [August 12, 2025 complaint to Montana POST](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025).
+* **Agency responses on record:** POST correspondence about that complaint ([June 2, 2026 response](../.gitbook/assets/POST-Response-06.02.2026.pdf); [June 4, 2026 email correspondence](../.gitbook/assets/POST-Final-Correspondance.pdf)).
+* **Alleged (not adjudicated):** retaliation after complaints, warrantless entry and arrest (August 2018), an overbroad Facebook search warrant (2018), and false reporting. See the topic links below.
+* **Unresolved:** this hub links no court or agency decision that finds MPD officers responsible for the conduct alleged here. Department-wide complaint statistics come from third-party data; the [scorecard analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis) explains an open question about whether "16%" is a rate or a count.
 
 ### Executive snapshot
 

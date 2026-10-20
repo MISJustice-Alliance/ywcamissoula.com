@@ -14,6 +14,17 @@ tags:
 
 # Nuno case system overview and full article index
 
+### Short answer: what this collection covers and where to start
+
+**Question:** What does this site document, and where should a new reader start?
+
+**Answer:** The site documents one person's record, the Nuno case, across Missoula, Montana and Seattle/Edmonds, Washington from 2015 to 2025, with filings that continue into 2026. It collects police reports, court records, agency complaints and responses, and correspondence. It also publishes the publisher's analysis of those records. The records involve Missoula Police (MPD), Missoula County prosecutors, YWCA of Missoula, defense counsel, and state and federal oversight bodies.
+
+* **Records:** police reports, court orders, filed complaints, and agency letters. Start at the [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index).
+* **Events in date order:** [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims).
+* **Allegations and analysis:** the article index below. These pages are the publisher's claims and arguments, not court findings.
+* **How to read labels and who publishes the site:** [About this site](https://www.ywcaofmissoula.com/overview/about-this-site-publisher-and-corrections).
+
 ### Executive snapshot
 
 This page is the canonical **site map** for the Nuno case record (2015–2025) and its related articles. Use it to navigate by claim type, jurisdiction, and record set, with the Nuno case as the primary evidence spine. It links into the timeline, primary-record indexes, and dataset landing pages used for search and citations.

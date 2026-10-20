@@ -8,6 +8,20 @@ description: >-
 
 # Sources & record index
 
+### Short answer: which materials are primary records, and how to verify them
+
+**Question:** Which items on this site are primary records, and how can a reader check a statement against them?
+
+**Answer:** A primary record is a document as its author created it: a police report, court order, filed complaint, declaration, agency letter, or email exhibit. The [Primary records](#primary-records-record-index) section below lists them. Most are files stored on this site; some are published case files hosted by MISJustice Alliance. The [Bibliography](#bibliography-secondary-public-sources) lists secondary sources, such as news reports and public data.
+
+To verify a statement:
+
+1. Find the record that the page cites, and open the file itself, not a summary of it.
+2. Check the issuer, the date, and the record type (complaint, response, order, or exhibit).
+3. Compare the exact wording with the statement. A complaint shows what was alleged. Only an order or a decision shows what an authority decided.
+
+Examples: [ODC dismissal of File No. 25-147 (November 3, 2025)](../.gitbook/assets/11-03-2025-ODC_25-147_Complaint-Dismissal-Bryan-Tipp-REDACTED.pdf) is an agency decision. The [Officer Ethan Smith complaint (March 2018)](../.gitbook/assets/Officer_Ethan_Smith_Complaint-March-2018.pdf) is a complaint. Record-type definitions: [About this site](https://www.ywcaofmissoula.com/overview/about-this-site-publisher-and-corrections).
+
 ### Executive snapshot
 
 This page is the canonical source list for the project. It separates **primary records** (filings, packets, correspondence, reports) from a **bibliography** of secondary/public sources. Use it to verify any claim by linking the exact underlying artifact.
