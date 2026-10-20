@@ -191,7 +191,7 @@ I did not locate:
 - MTPR: https://www.mtpr.org/montana-news/2016-05-25/increasing-respect-for-sexual-assault-victims-in-missoula
 
 ### Allegation-only / advocacy sources
-- YWCA-related complaint page: https://www.ywcaofmissoula.com/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025
+- YWCA-related complaint page: https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025
 - Other self-published YWCA/MISJustice pages reviewed as allegations only
 
 *End of report.*

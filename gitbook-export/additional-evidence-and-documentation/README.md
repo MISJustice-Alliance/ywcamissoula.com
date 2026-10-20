@@ -1,7 +1,9 @@
 ---
-title: 
+title: Additional Evidence & Documentation — Overview
 description: >-
-  Record-first hub for , with primary evidence links and related analysis.
+  Section overview for additional evidence and documentation, with dated May
+  2026 status notes on the MisJustice Alliance Arweave evidence archive and the
+  CR-2025-001 case files.
 ---
 
 <!-- AUTO_UPDATE: 20260529-0235 -->
