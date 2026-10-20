@@ -15,7 +15,7 @@ redirects:
   montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7...: montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/misjustice-alliance-case-file-2df48ac7.md
 
   # Legacy Notion-export URLs (served from the apex domain before the GitBook migration).
-  # Effective once the apex ywcaofmissoula.com -> www.ywcaofmissoula.com redirect is fixed in Cloudflare.
+  # The apex ywcaofmissoula.com -> www.ywcaofmissoula.com redirect (Cloudflare, 301, path kept) feeds these.
   Civil-Rights-Violations-and-Related-Claims-2015-2025-22dca07db8498090b82eddb661890956: civil-rights-violations-and-related-claims-2015-2025.md
   MT-DoJ-POST-Correspondence-E-Mail-Chain-August-2025-265ca07db849807baf80eba3f953d2db: mt-doj-public-safety-officer-standards-training-post-complaint-august-2025.md
   MT-ACLU-Correspondence-August-2025-25dca07db84980d0ac9ac5924ab05900: police-reports,-court-docs,-and-correspondence-index.md
