@@ -72,8 +72,28 @@ User-agent matrix (`/`, `/sitemap-pages.xml`, `/overview/sources-and-record-inde
 - **Confirmed:** the zone runs Cloudflare JavaScript detections (the `jsd/main.js` injection). That injection is used by Bot Fight Mode / Super Bot Fight Mode / Bot Management. Bot Fight Mode cannot be bypassed by custom rules and can challenge some automated clients. **Likely** source of intermittent 403s for non-verified automated clients such as the input audit's fetcher.
 - **Confirmed:** robots rules and observed edge behavior agree at this time — robots allows all, and the edge served all tested routes.
 - **Confirmed:** sitemap and HTML routes behave the same for all tested user agents.
-- **Unverified:** WAF custom rules, rate limits, geo rules, and how verified bots (Googlebot, Bingbot, OAI-SearchBot, PerplexityBot, ClaudeBot) are treated from their real IP ranges.
+- **Unverified:** WAF custom rules, rate limits, and geo rules (not in the event export).
 - **Recommendation:** do not add user-agent allow rules. If Security Events show challenges against verified bots, use Cloudflare's "Verified Bots" category (`cf.client.bot` / `cf.verified_bot_category`) in a skip rule, not a user-agent match.
+
+### 3a. Cloudflare firewall events, 2026-10-19 11:28Z – 2026-10-20 07:11Z (owner export)
+
+Source: owner's Security Events export, 500 events (`sampleInterval` 1 for 499 rows). 500 is likely an export cap, so counts are lower bounds.
+
+| Action (source) | Events | Who |
+| --- | --- | --- |
+| `managed_challenge` (Bot Fight Mode) | 433 | 243 empty-UA requests from 4 Microsoft IPs probing `.php` paths (scanners); **158 PerplexityBot**; 14 python-requests and other tools |
+| `link_maze_injected` (AI Labyrinth) | 66 | Scrapers on hosting ASNs (Omegatech, VPS Dedicated, Scaleway, Google Cloud, Palo Alto scanner) |
+| `block` (managed WAF rule) | 1 | One request from a hosting ASN |
+
+- **Confirmed: Bot Fight Mode challenges the real PerplexityBot.** All 158 PerplexityBot events came from 12 IPs inside Perplexity's published ranges (`https://www.perplexity.com/perplexitybot.json`, `creationTime` 2025-02-07). Paths: 147 pages, 11 `.md`. `robots.txt` and its `Content-Signal` line allow this crawler; the edge does not. Robots rules and edge rules disagree for Perplexity.
+- **Confirmed: no event for Googlebot, Bingbot, OAI-SearchBot, GPTBot, ChatGPT-User, ClaudeBot, or Applebot** in the export window. These crawlers were not challenged or blocked in that window (within the 500-event limit).
+- **Context (third-party reporting):** Cloudflare removed PerplexityBot from its Verified Bots list in August 2025, alleging robots.txt violations and undeclared IPs; Perplexity disputes this. So a "verified bots: allow" setting does not exempt it. (Search Engine Journal; Decrypt; accessed 2026-10-20.)
+- **Cloudflare docs (updated 2026-08-03):** Bot Fight Mode "cannot be bypassed or skipped" by WAF custom rules or Page Rules; it does not trigger when an **IP Access rule** matches first. Super Bot Fight Mode (Pro and above) supports Skip rules.
+- **Owner decision:** to let Perplexity search index the site, add IP Access rules (Allow) for the 8 prefixes in `perplexitybot.json`, and recheck that list periodically. Otherwise accept that Perplexity cannot crawl the site. Do not turn off Bot Fight Mode: it also stops the scanner traffic above.
+
+### 3b. Google Search Console (owner report, 2026-10-20)
+
+Owner reports that live URL tests in Search Console return no errors. Indexing status, sitemap status, and Google-selected canonicals were not reported and remain **unverified** here.
 
 ## 4. Content and metadata audit (169 pages in `SUMMARY.md`)
 
@@ -83,7 +103,7 @@ User-agent matrix (`/`, `/sitemap-pages.xml`, `/overview/sources-and-record-inde
 | Missing title | 0. The published title is the `SUMMARY.md` label (confirmed live); all 169 labels are present. Frontmatter `title` is not used by GitBook; 68 pages have one that differs from the label. |
 | Missing / broken description | 0 missing; 2 broken templates served live: evidence README (`Record-first hub for , with…`) and MPD hub (`…and primary, with…`). |
 | Duplicate titles / descriptions | 1 duplicate published title: the ODC 25-147 July 2025 section README and its child page both use "MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)". 0 duplicate descriptions. |
-| Footnotes not published | Confirmed live after PR #8: GitBook drops Markdown footnotes (`[^n]` markers and `[^n]:` definitions). About 103 of 110 citations on 4 pages were not visible in HTML or in the `.md` variant. Fixed on branch `fix-footnotes-visible-notes`: markers became `[n]` links to a numbered notes list under the existing sources heading (a new `## Notes` heading on the ODC timeline page). The validator now warns on footnote syntax. Still open: `additional-evidence-and-documentation/missoula-1983-misconduct-…/README.md` lines 520 and 527 contain the escaped marker `\[^1\_32]`, apparently left from an AI-research export, and the source it referred to is not in the file. Owner decision: find the source or remove the marker. |
+| Footnotes not published | Confirmed live after PR #8: GitBook drops Markdown footnotes (`[^n]` markers and `[^n]:` definitions). About 103 of 110 citations on 4 pages were not visible in HTML or in the `.md` variant. Fixed on branch `fix-footnotes-visible-notes`: markers became `[n]` links to a numbered notes list under the existing sources heading (a new `## Notes` heading on the ODC timeline page). The validator now warns on footnote syntax. Also fixed (branch `fix-orphan-citation-marker`): `additional-evidence-and-documentation/missoula-1983-misconduct-…/README.md` lines 520 and 527 had the escaped marker `\[^1\_32]` (added 2026-01-21 in GitBook editor commit `8ba7bed`; no source exists in the repository). By owner decision it is replaced with links to the existing ODC 25-147 index and the Bryan Tipp malpractice page. The original source is still unknown. |
 | Thin / process content | `additional-evidence-and-documentation/README.md` (section overview) contains only automation status logs ("Brave search rate limited", "Next scheduled crawl"). Owner review: replace with a real section introduction or remove the logs. |
 | H1 anomalies | 5 pages: `mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026.md` (10 H1s — document sections use `#`); `tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026.md` (2 H1s); `eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md` (0 H1, bold line instead); `public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review.md` (0 H1); evidence README (0 H1). GitBook renders the `SUMMARY.md` label as the page H1, so a missing body H1 has low impact; the 10-H1 page is the only one that harms outline clarity. |
 | Title vs navigation label | `public-article-odc-25-147-…md`: SUMMARY label "What the ODC's Ruling … Means" vs title "What the Available Record Shows — and Doesn't Show". Not harmful; editorial choice. |

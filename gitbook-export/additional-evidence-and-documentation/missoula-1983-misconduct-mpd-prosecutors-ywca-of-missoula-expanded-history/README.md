@@ -517,14 +517,14 @@ The public record does not presently support a single documented damages total. 
 
 #### C. Legal Malpractice Enabling Statute Expiration
 
-Attorney Bryan Tipp's representation from 2017-2022 involved systematic failures:\[^1\_32]
+Attorney Bryan Tipp's representation from 2017-2022 involved systematic failures (records: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index); [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)):
 
 1. **Advised against civil claims** to "give the matter time"
 2. **Ignored ongoing harassment** (2020-2022) causing St. Regis contract loss
 3. **Failed to identify** obvious conflicts (Brueckner's YWCA Board service)
 4. **Allegedly failed to provide claim-specific limitations advice.** Montana generally borrows a three-year personal-injury period for § 1983 claims, while Mont. Code Ann. § 27-2-204(3) generally supplies a two-year period for libel and slander; accrual and tolling still require claim-specific analysis.
 
-The project alleges that Tipp's conduct implicated Montana Rules of Professional Conduct 1.1 (competence), 1.3 (diligence), 1.4 (communication), and 1.7 (conflict of interest). Those rules do not themselves establish civil liability. A malpractice damages figure requires expert-supported breach, omission-specific timeliness, and suit-within-a-suit proof; no aggregate amount is treated as verified here.\[^1\_32]
+The project alleges that Tipp's conduct implicated Montana Rules of Professional Conduct 1.1 (competence), 1.3 (diligence), 1.4 (communication), and 1.7 (conflict of interest). Those rules do not themselves establish civil liability. A malpractice damages figure requires expert-supported breach, omission-specific timeliness, and suit-within-a-suit proof; no aggregate amount is treated as verified here. Records: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index); [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account).
 
 ***
 
