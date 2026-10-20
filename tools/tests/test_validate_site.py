@@ -76,6 +76,17 @@ def test_missing_include_is_an_error(tmp_path):
     assert "nope.md" in out
 
 
+def test_markdown_footnotes_warn_because_gitbook_drops_them(tmp_path):
+    make_site(tmp_path, {
+        "README.md": page(body="# Home\n\nA claim.[^1]\n\n[^1]: Source.\n"),
+        "b.md": page(description="No notes.", body="# B\n\n```md\nA claim.[^1]\n```\n"),
+    })
+    code, out = run(tmp_path)
+    assert code == 0, out
+    warns = [line for line in out.splitlines() if line.startswith("WARN")]
+    assert len(warns) == 1 and "README.md" in warns[0] and "footnote" in warns[0]
+
+
 def test_unparseable_frontmatter_is_an_error(tmp_path):
     make_site(tmp_path, {"README.md": "---\ntitle: [unclosed\n---\n\n# Home\n"})
     code, out = run(tmp_path)
@@ -216,7 +227,7 @@ def test_absolute_links_to_unpublished_urls_warn(tmp_path, server):
     endpoints.write_text("/real\n/llms.txt\n")
     code, out = run(tmp_path / "site", "--live", endpoints, "--base", server)
     assert code == 0, out
-    warns = [line for line in out.splitlines() if line.startswith("WARN")]
+    warns = [line for line in out.splitlines() if line.startswith("WARN non-canonical-link")]
     assert len(warns) == 3
     for stale in ("/old-path", "/old-footnote", "/old-bare"):
         assert any(f"{stale} " in w or f"{stale}#" in w for w in warns), stale
