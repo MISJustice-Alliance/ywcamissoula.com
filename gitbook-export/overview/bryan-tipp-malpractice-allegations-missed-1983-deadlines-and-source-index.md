@@ -19,13 +19,13 @@ This hub collects Bryan Tipp malpractice **allegations** and the linked primary 
 * Dataset landing page: [Dataset: Bryan Tipp alleged legal malpractice (2017–2025)](https://www.ywcaofmissoula.com/datasets/dataset-bryan-tipp-alleged-legal-malpractice-2017-2025)
 * Montana ODC filing index: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * Primary citations hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 
 ### Start here
 
 * Malpractice overview (analysis): [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
-* Key correspondence analysis: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case)
-* Evidence hub: [Legal malpractice evidence (Bryan Tipp)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp)
+* Key correspondence analysis: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case)
+* Evidence hub: [Legal malpractice evidence (Bryan Tipp)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp)
 
 ### Dataset landing page
 

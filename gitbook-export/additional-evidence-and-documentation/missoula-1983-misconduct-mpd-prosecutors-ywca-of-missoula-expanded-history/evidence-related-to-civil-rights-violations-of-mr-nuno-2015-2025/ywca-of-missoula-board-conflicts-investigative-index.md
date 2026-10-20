@@ -21,20 +21,20 @@ This page is a jump index for investigating board-level conflict-of-interest and
 * CR packet indexes:
   * [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
   * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 
 ### Key documents (high-signal)
 
-* [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
+* [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
 * [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
-* [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
-* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+* [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
+* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
 * [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
 * [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/montana-legal-cases/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 * [YWCA institutional liability evidence](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-institutional-liability-evidence)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 
 ### FAQ
 

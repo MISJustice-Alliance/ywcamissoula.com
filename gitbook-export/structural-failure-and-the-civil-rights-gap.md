@@ -22,7 +22,7 @@ tags:
 
 
 {% hint style="info" %}
-Companion report: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum).
+Companion report: [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum).
 First-person companion piece: [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process.md).
 {% endhint %}
 
@@ -425,7 +425,7 @@ Accordingly, the legal tools already exist: § 1983, *Brady*, *Monell*, the Firs
 
 [^27]: [[PDF] REPORT OF THE BLUE-RIBBON COMMISSION ON FORENSIC ...](https://ocfs.ny.gov/programs/cwcs/assets/docs/Blue-Ribbon-Commission-Report-2022.pdf) - In the New York State courts, judges order and rely on forensic evaluations for some cases involving...
 
-[^28]: [2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct ...](https://www.ywcaofmissoula.com/2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d) - Legal Analysis Summary:
+[^28]: [2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct ...](https://www.ywcaofmissoula.com/washington-cases/2016-dr.-marta-j.l.-miranda-psy.d.-professional-misconduct-hipaa-violations-d) - Legal Analysis Summary:
 
 [^29]: [How Do Forensic Psychologists Who Are Custody Evaluators ...](https://paloaltou.edu/resources/business-of-practice-blog/how-do-forensic-psychologists-who-are-custody-evaluators-navigate-risk-management-and-licensing-board-complaints-1) - They are forensic opinions prepared for courts that make decisions affecting parental rights, family...
 

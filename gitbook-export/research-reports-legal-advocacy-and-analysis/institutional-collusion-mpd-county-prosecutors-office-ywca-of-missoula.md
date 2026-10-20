@@ -19,10 +19,10 @@ This hub pulls together the pages that treat the Missoula record as an ecosystem
 
 ### Supporting evidence
 
-* [YWCA of Missoula conflict of interest: board conflicts, police integration, and remediation priorities](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
+* [YWCA of Missoula conflict of interest: board conflicts, police integration, and remediation priorities](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department)
 * [Missoula County Prosecutors Office](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office)
-* [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
 * [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 
 ### Related

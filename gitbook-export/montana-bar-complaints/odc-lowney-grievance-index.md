@@ -24,9 +24,9 @@ The Lowney grievance is intertwined with ODC 25-147, the Bryan Tipp defense-coun
 
 ### Verify first (primary artifacts)
 
-* Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
-* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
-* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+* Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
+* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
 * Dataset landing page: [Dataset: Brian Lowney prosecutorial misconduct grievance (2018–2026)](https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026)
 * ODC 25-147 companion index (defense counsel): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * Shared intake/case-authorities analysis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
@@ -52,7 +52,7 @@ Related starting points:
 
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
-* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
 * [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 
 ### Suggested reading order
@@ -78,19 +78,19 @@ Related starting points:
 
 #### Primary grievance
 
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
   * **Summary:** Formal ODC grievance alleging prosecutorial misconduct, Brady violations, abuse of process, and unconstitutional speech waiver in the prosecution of Cause No. DC-18-587.
   * **What changed at this stage:** This filing opens the prosecutorial-accountability track and documents exhaustion of non-judicial remedies prior to civil action.
-* [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf)
+* [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-complaint-lowney-missoula-prosecutors-pdf)
   * **Summary:** PDF archive of the formal ODC grievance permanently stored on Arweave. Contains the full court filing against Deputy County Attorney Brian Lowney and the Missoula County Attorney's Office.
   * **What changed at this stage:** Provides an immutable, verifiable primary source document for the grievance record.
 
 #### ODC disposition and Commission review
 
-* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
   * **Summary:** Public record page for ODC's dismissal letter. ODC dismissed the grievance as time-barred and set a July 9, 2026 deadline for Commission on Practice review.
   * **What changed at this stage:** The matter moved from initial grievance posture to review posture; ODC's stated reason became the Rule 11 limitations issue.
-* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
   * **Summary:** Expanded review request arguing that ODC's limitations analysis was incomplete and that Montana and federal authority support investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver allegations.
   * **What changed at this stage:** Adds the appellate-style response to ODC's closure and converts the Lowney record into a Commission-review packet.
 
@@ -99,7 +99,7 @@ Related starting points:
 * [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
   * **Summary:** Documents Detective Brueckner's undisclosed YWCA board membership and its implications for investigative integrity.
   * **What changed at this stage:** Establishes the material conflict of interest that underpins the Brady claim in the Lowney grievance.
-* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+* [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
   * **Summary:** Public complaint and victim statements regarding YWCA institutional conduct during the same period.
   * **What changed at this stage:** Frames the YWCA as an institution with a documented pattern of misconduct, contextualizing the protected-speech complaint that became the basis for stalking charges.
 * [Elise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)

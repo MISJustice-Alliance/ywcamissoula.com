@@ -21,7 +21,7 @@ This dataset is the canonical landing page for record-linked **allegations** inv
 * CR-2025-001 packet index: [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 * Board conflicts index: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Structured-data values: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 
 ### Scope

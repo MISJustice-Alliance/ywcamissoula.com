@@ -144,7 +144,7 @@ Useful follow-on records would include:
 * [Max Moss request for comment on the St. Regis contract and Elvis Nuno's business departure](max-moss-centric-is-st-regis-contract-and-elvis-nuno-business-departure-request-for-comment.md)
 * [St. Regis School and Derek Larson request for comment on access restrictions and the 2024 IT contract](st-regis-school-derek-larson-access-restrictions-and-2024-it-contract-request-for-comment.md)
 * [Montana Legal Cases](montana-legal-cases.md)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
 * [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)

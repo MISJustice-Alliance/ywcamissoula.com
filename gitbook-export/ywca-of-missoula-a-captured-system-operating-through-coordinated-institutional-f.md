@@ -27,7 +27,7 @@ This site is a record-first research guide for legal researchers, journalists, c
 * CR-2025-001 key packet (dossier): https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
 * Case summary packet (2015–2025): https://cr-2025-002-brief-2\_misjusticealliance.arweave.net/
 * MPD complaint packet re: Officer Smith: https://cr-2025-002-complaint-13\_misjusticealliance.arweave.net/
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 
 The 2024 Missoula Needs and Gaps Analysis is cited here alongside allegations and record citations involving YWCA of Missoula, Missoula Police Department (MPD), and prosecutorial agencies, to argue potential institutional capture and accountability gaps.
 

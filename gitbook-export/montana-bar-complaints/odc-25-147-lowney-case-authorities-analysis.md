@@ -66,9 +66,9 @@ The attached intake brief is useful, but several statements required adjustment 
 
 #### Lowney / prosecutorial-misconduct track
 
-* Lowney grievance index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
-* April 28, 2026 Lowney grievance: [Grievance to Montana ODC — Brian Lowney](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
-* PDF archive page: [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf)
+* Lowney grievance index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
+* April 28, 2026 Lowney grievance: [Grievance to Montana ODC — Brian Lowney](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* PDF archive page: [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-complaint-lowney-missoula-prosecutors-pdf)
 
 ### Procedural posture
 

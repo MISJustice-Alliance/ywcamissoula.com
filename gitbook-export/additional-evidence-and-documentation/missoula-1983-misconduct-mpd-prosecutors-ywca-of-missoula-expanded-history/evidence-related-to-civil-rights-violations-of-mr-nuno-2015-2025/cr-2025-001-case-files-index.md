@@ -20,8 +20,8 @@ This page is a stable internal index to the **CR-2025-001** document set publish
 
 * External case portal (canonical public entry): https://misjusticealliance.org/cases/d81209a2-206a-426b-a1e6-270169b45d6c
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Timeline spine (context): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * Related hub (YWCA router): [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 
 {% hint style="info" %}

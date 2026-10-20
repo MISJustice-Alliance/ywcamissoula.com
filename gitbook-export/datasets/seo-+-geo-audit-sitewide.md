@@ -37,7 +37,7 @@ This page is the public audit dataset for search, Dataset Search, and AI crawler
 * Structured-data source of truth: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
 * Dataset CSV export: [Dataset CSV export](https://www.ywcaofmissoula.com/datasets/dataset-csv-export)
 * Source/citation hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * AI crawler map: [llms.txt](https://www.ywcaofmissoula.com/llms.txt)
 
 ### What this audit measures
@@ -185,7 +185,7 @@ Legal Analysis pages updated for Priority 0:
 * ✅ [Full Analysis of Fourteenth Amendment Equal Protection and Due Process Violations (2015-2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis/full-analysis-of-fourteenth-amendment-equal-protection-and-due-process-violation)
 * ✅ [Intentional Infliction of Extreme Psychological Trauma (2015-2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis/intentional-infliction-of-extreme-psychological-trauma-2015-2025)
 * ✅ [Missoula Needs & Gaps analysis: homelessness funding and institutional capture](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-red-flags-the-missoula-needs-gaps-analysis-as-evidence-of-institutional-co)
-* ✅ [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration)
+* ✅ [YWCA of Missoula conflict of interest: board conflicts and police integration](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
 * ✅ [YWCA of Missoula: captured system overview](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * ✅ [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/montana-legal-cases/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
 * ✅ [Update: Analysis of YWCA Misconduct and LifeGuard Group Investigation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/update-analysis-of-ywca-misconduct-and-lifeguard-group-investigation)
@@ -199,10 +199,10 @@ Overview hubs updated for Priority 0:
 
 * ✅ [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](https://www.ywcaofmissoula.com)
 * ✅ [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
-* ✅ [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* ✅ [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * ✅ [Missoula §1983 misconduct: civil rights violations and related claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * ✅ [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* ✅ [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* ✅ [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * ✅ [YWCA Missoula: conflicts of interest, MPD integration, and evidence index](https://www.ywcaofmissoula.com/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index)
 * ✅ [Missoula Police (MPD): misconduct allegations, retaliation evidence, and primary-record index](https://www.ywcaofmissoula.com/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index)
 * ✅ [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index)
@@ -382,7 +382,7 @@ Montana case pages should rank for **event + year + county** queries.
 * High-signal pages:
   * [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/montana-legal-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j)
   * [Fishing Expedition via Facebook Account Data Dump Search Warrant (2018)](https://www.ywcaofmissoula.com/montana-legal-cases/fishing-expedition-via-facebook-account-data-dump-search-warrant-2018)
-  * [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+  * [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 
 ***
 
@@ -519,7 +519,7 @@ This content is high-risk for defamation issues and low-quality rater triggers.
 
 #### Quick link target
 
-* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
 
 ***
 
@@ -547,9 +547,9 @@ These are the “evidence routers”. They should be the most internally linked 
 
 * Standardize **Executive snapshot** + **Verify first** blocks across Legal Analysis.
 * Make canonical hubs link to:
-  * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+  * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
   * [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-  * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+  * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 
 #### Priority 1 (reduce quality/risk flags)
 

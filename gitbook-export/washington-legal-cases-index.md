@@ -117,9 +117,9 @@ This page is the Washington index for case analysis and linked primary records, 
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * CR-2025-002 packet index: [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 ### High-signal Washington entry points
@@ -128,7 +128,7 @@ This page is the Washington index for case analysis and linked primary records, 
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
-* [2016 Dr. Marta Miranda: misconduct and HIPAA violations](https://www.ywcaofmissoula.com/2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d)
+* [2016 Dr. Marta Miranda: misconduct and HIPAA violations](https://www.ywcaofmissoula.com/washington-cases/2016-dr.-marta-j.l.-miranda-psy.d.-professional-misconduct-hipaa-violations-d)
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/washington-cases/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
 * [2020 WA cases: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/2020-wa-cases-witness-tampering-coerced-pleas-and-the-impossible-catch-22-sit)
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)

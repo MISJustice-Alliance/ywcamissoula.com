@@ -98,7 +98,7 @@ ODC's letter did not ask when Complainant discovered the essential facts. That o
 
 Complainant did not know during the criminal case that Detective Connie Brueckner, who assumed a central investigative role after Officer Smith, allegedly served as a YWCA board member while investigating a matter involving a YWCA employee and Complainant's protected complaint against YWCA. That fact is not a legal conclusion; it is an essential fact supporting the Brady/Giglio, probable-cause, and conflict-of-interest allegations.
 
-The current GitBook record treats this as a primary verification point, not a mere inference. See [YWCA Brueckner conflict: allegations summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat), [Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration](https://www.ywcaofmissoula.com/legal-analysis-ywca-of-missoula,-board-conflicts,-and-police-integration), and [Connie Brueckner investigative research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report).
+The current GitBook record treats this as a primary verification point, not a mere inference. See [YWCA Brueckner conflict: allegations summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat), [Legal Analysis: YWCA of Missoula, Board Conflicts, and Police Integration](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration), and [Connie Brueckner investigative research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report).
 
 Because this conflict was allegedly undisclosed by law enforcement, the prosecution, and defense counsel, it is exactly the kind of concealed or self-concealing fact that makes ODC's single-date analysis unreliable. It was not enough that Complainant knew he had been charged. He needed to know that a conflicted investigator allegedly helped build the case, that the conflict connected directly to the complaining witness's institution, and that the conflict was not disclosed in the criminal proceeding.
 
@@ -307,7 +307,7 @@ Date: ____________________
 
 ## Related
 
-* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
 * [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)

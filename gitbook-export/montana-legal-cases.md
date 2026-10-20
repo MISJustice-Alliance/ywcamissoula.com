@@ -117,9 +117,9 @@ This page is the Montana index for case analysis and linked primary records, wit
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * CR-2025-002 packet index (many MT artifacts): [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
 
 ### Montana case pages
@@ -129,7 +129,7 @@ These entries are organized as case records. Each page captures a discrete Monta
 * [YWCA Brueckner conflict: allegations summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
-* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp)
+* [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [Forced to Move Twice: When Harassment and Threats Displace a Person From Their Home and Community](https://www.ywcaofmissoula.com/montana-legal-cases/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community)
 * [Nuno Case Study: Documented Barriers and Tolling Arguments](additional-evidence-and-documentation/nuno-case-study-tolling-arguments.md) — claim-specific limitations analysis, Montana and Washington tolling precedent, DPA evidence-preservation issues, the reported 2024 St. Regis losses, and the second move outside the United States
@@ -137,9 +137,9 @@ These entries are organized as case records. Each page captures a discrete Monta
   * [Max Moss request for comment on the St. Regis contract and Elvis Nuno's business departure](max-moss-centric-is-st-regis-contract-and-elvis-nuno-business-departure-request-for-comment.md)
   * [St. Regis School and Derek Larson request for comment on access restrictions and the 2024 IT contract](st-regis-school-derek-larson-access-restrictions-and-2024-it-contract-request-for-comment.md)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/montana-state-complaints/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
-* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
-* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
+* [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
 
 ### Related
 

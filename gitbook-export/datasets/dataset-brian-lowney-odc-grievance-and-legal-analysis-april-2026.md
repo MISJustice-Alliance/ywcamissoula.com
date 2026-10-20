@@ -21,10 +21,10 @@ This dataset contains the grievance filed with the Montana Office of Disciplinar
 
 ### Verify first (primary artifacts)
 
-* Full grievance document: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
-* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
-* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
-* Grievance index and metadata: [ODC Lowney Grievance Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* Full grievance document: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
+* Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+* Grievance index and metadata: [ODC Lowney Grievance Index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
 * Related bar complaint (pattern context): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * Source/citation hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * Structured-data values: [Structured data registry (Dataset values)](https://www.ywcaofmissoula.com/datasets/structured-data-registry-dataset-values)
@@ -45,19 +45,19 @@ This dataset contains the grievance filed with the Montana Office of Disciplinar
 
 1. **Grievance to Montana ODC — Brian Lowney (April 28, 2026)**
    * Full text of the grievance filing.
-   * [Read the grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+   * [Read the grievance](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
 
 2. **ODC Lowney Grievance Index**
    * Structured metadata, claims summary, and navigation hub.
-   * [View the index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+   * [View the index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
 
 3. **ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)**
    * Public record page for ODC's limitations-based dismissal letter.
-   * [Read the rejection page](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026)
+   * [Read the rejection page](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
 
 4. **Request for Commission on Practice Review — ODC File No. 26-145**
    * Expanded review request with Montana and federal authority on Rule 11, prosecutor duties, Brady/Giglio, and DPA speech-waiver issues.
-   * [Read the review request](https://www.ywcaofmissoula.com/montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+   * [Read the review request](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
 
 ### Legal analysis summary
 

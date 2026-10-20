@@ -27,7 +27,7 @@ The report treats Pabst's career as a sequence of institutional roles, public st
 
 If you want the short version of the career arc, it runs: county prosecutor -> defense counsel in a high-profile sexual-assault case -> elected county attorney. The sections below make that sequence explicit.
 
-For the wider Missoula ecosystem context, see [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief).
+For the wider Missoula ecosystem context, see [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom) and [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief).
 
 Three points are well supported by the record:
 
@@ -837,9 +837,9 @@ Page 3 of 3
 The DOJ findings letter and the June 10, 2014 MOU are now the primary baseline in this report, and the COPP decision and settlement are now transcribed in the body. Any later expansion should keep those four documents ahead of commentary.
 
 ## 11. Related Reading
-- [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+- [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
 - [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 - [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis)
-- [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+- [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 
 This report is meant to sit beside those broader analyses, not replace them.
