@@ -294,9 +294,9 @@ Against Mr. Nuno’s reported history of accumulating demands and unrecognized p
 
 ## Sources and Authorities
 
-[^1]: Email correspondence between Paolo Georgiades, defense counsel, and Aaron Walls, prosecutor, Jan. 21–23, Feb. 4 & Sept. 29, 2026 (correspondence concerning warrant review and probation resolution; retained by author). *See also* Elvis Nuno, *Open Letter to Washington: Unpaid Debt, Unserved Purpose* (Sept. 28, 2026), <https://www.ywcaofmissoula.com/open-letter-to-washington-unpaid-debt-unserved-purpose>.
+[^1]: Email correspondence between Paolo Georgiades, defense counsel, and Aaron Walls, prosecutor, Jan. 21–23, Feb. 4 & Sept. 29, 2026 (correspondence concerning warrant review and probation resolution; retained by author). *See also* Elvis Nuno, *Open Letter to Washington: Unpaid Debt, Unserved Purpose* (Sept. 28, 2026), <https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose>.
 
-[^2]: Elvis Ryland Nuno, *Sworn Declaration* §§ XIV, XXII, at 17, 34–35 (executed & notarized Dec. 10, 2025), <https://www.ywcaofmissoula.com/.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf>. The declaration is linked through the [Edmonds case hub](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017).
+[^2]: Elvis Ryland Nuno, *Sworn Declaration* §§ XIV, XXII, at 17, 34–35 (executed & notarized Dec. 10, 2025), [sworn-declaration-elvis-nuno-2026.pdf](.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf). The declaration is linked through the [Edmonds case hub](https://www.ywcaofmissoula.com/washington-cases/edmonds-case-2015-2017).
 
 [^3]: *State v. Frederick*, 100 Wash. 2d 550, 554–59, 674 P.2d 136 (1983), *overruled on other grounds by* *Thompson v. Dep’t of Licensing*, 138 Wash. 2d 783, 982 P.2d 601 (1999), <https://law.justia.com/cases/washington/supreme-court/1983/49274-3-1.html>.
 
@@ -320,13 +320,13 @@ Against Mr. Nuno’s reported history of accumulating demands and unrecognized p
 
 [^13]: *Harris v. Charles*, 171 Wash. 2d 455, 256 P.3d 328 (2011), <https://law.justia.com/cases/washington/supreme-court/2011/838674-opn.html>.
 
-[^14]: Elvis Nuno, unpublished statement to the editor concerning repeated inquiries about the reported outside warrant (Oct. 15, 2026); *see also* Elvis Nuno, *Open Letter to Washington: Unpaid Debt, Unserved Purpose* (Sept. 28, 2026), <https://www.ywcaofmissoula.com/open-letter-to-washington-unpaid-debt-unserved-purpose>. The reported explanation of unpaid fines, the missing amount and basis, and the lack of a substantive response are attributed to Mr. Nuno pending a complete correspondence log and issuing-court records.
+[^14]: Elvis Nuno, unpublished statement to the editor concerning repeated inquiries about the reported outside warrant (Oct. 15, 2026); *see also* Elvis Nuno, *Open Letter to Washington: Unpaid Debt, Unserved Purpose* (Sept. 28, 2026), <https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose>. The reported explanation of unpaid fines, the missing amount and basis, and the lack of a substantive response are attributed to Mr. Nuno pending a complete correspondence log and issuing-court records.
 
 [^15]: *Bearden v. Georgia*, 461 U.S. 660, 672–73 (1983), <https://supreme.justia.com/cases/federal/us/461/660/>.
 
 [^16]: Letter from Marta Miranda, Psy.D., to Elvis Nuno, at 1 (Oct. 27, 2016) (copy to Omar Gámez, Edmonds Municipal Court; archived source correspondence). Related record index: <https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016>.
 
-[^17]: Motion to Seal or Redact Court Record, *State v. Nuno*, No. 6Z0379742 (captioned Edmonds Mun. Ct., Nov. 3, 2025), <https://www.ywcaofmissoula.com/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici> (motion and subsequent hearing account; the evaluation’s filing and transmission history in the 2019 matter requires verification).
+[^17]: Motion to Seal or Redact Court Record, *State v. Nuno*, No. 6Z0379742 (captioned Edmonds Mun. Ct., Nov. 3, 2025), <https://www.ywcaofmissoula.com/washington-state-complaints/motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici> (motion and subsequent hearing account; the evaluation’s filing and transmission history in the 2019 matter requires verification).
 
 [^18]: Elvis Nuno, unpublished statement to the editor concerning the Dec. 2, 2025 hearing and subsequent months of public-defender inquiry (Oct. 15, 2026). The discovery of warrant status and the duration and unresolved outcome of counsel’s investigation are attributed to Mr. Nuno; the published motion page independently records the hearing account concerning the missing evaluation and continuance.
 
@@ -352,7 +352,7 @@ Against Mr. Nuno’s reported history of accumulating demands and unrecognized p
 
 [^29]: Wash. R. Evid. 1004(a), <https://www.courts.wa.gov/court_rules/pdf/ER/GA_ER_10_04_00.pdf>; Wash. R. Evid. 1101(b), (c)(3), <https://www.courts.wa.gov/court_rules/pdf/ER/GA_ER_11_01_00.pdf>.
 
-[^30]: MISJustice Alliance, *The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation*, section “Court-Ordered Expert Monopolies,” <https://www.ywcaofmissoula.com/structural-failure-and-the-civil-rights-gap> (related commentary; the present article relies on the narrower, independently checked commission findings described in the text).
+[^30]: MISJustice Alliance, *The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation*, section “Court-Ordered Expert Monopolies,” <https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/structural-failure-and-the-civil-rights-gap> (related commentary; the present article relies on the narrower, independently checked commission findings described in the text).
 
 [^31]: N.Y. Blue-Ribbon Comm’n on Forensic Custody Evaluations, *Report of the Blue-Ribbon Commission on Forensic Custody Evaluations* 2–4, 8–12 (Dec. 2021), <https://empirejustice.org/wp-content/uploads/2022/03/Blue-Ribbon-Commission-Report-2022.pdf>; N.Y. Off. of Child. & Fam. Servs., *New York Blue-Ribbon Commission on Forensic Custody Evaluations Concludes Work and Issues Report* (Jan. 11, 2022), <https://apps.cio.ny.gov/apps/mediacontact/public/view.cfm?backButton=&parm=E1C70EC4-AAD2-3CEC-94751716A54DF044>.
 
@@ -364,7 +364,7 @@ Against Mr. Nuno’s reported history of accumulating demands and unrecognized p
 
 [^35]: Wash. Crim. R. Cts. Ltd. Jurisdiction 7.6(c), (f)–(g), <https://www.courts.wa.gov/court_rules/pdf/CrRLJ/CLJ_CRRLJ_07_06_00.pdf>.
 
-[^36]: Elvis Nuno, *Open Letter to Washington: Unpaid Debt, Unserved Purpose* (Sept. 28, 2026), <https://www.ywcaofmissoula.com/open-letter-to-washington-unpaid-debt-unserved-purpose> (discussing uncertainty, family responsibilities, and care for an elderly father). The description of caregiving needs is attributed to Mr. Nuno; a focused medical and caregiving record would support a court’s assessment of requested arrangements.
+[^36]: Elvis Nuno, *Open Letter to Washington: Unpaid Debt, Unserved Purpose* (Sept. 28, 2026), <https://www.ywcaofmissoula.com/washington-cases/open-letter-to-washington-unpaid-debt-unserved-purpose> (discussing uncertainty, family responsibilities, and care for an elderly father). The description of caregiving needs is attributed to Mr. Nuno; a focused medical and caregiving record would support a court’s assessment of requested arrangements.
 
 [^37]: Elvis Nuno, unpublished statement to the editor concerning three incidents requiring his father’s intensive care over the preceding two years and the danger his absence could have posed during each emergency (Oct. 15, 2026). The incident history and assessment of the consequences of his absence are attributed to Mr. Nuno.
 

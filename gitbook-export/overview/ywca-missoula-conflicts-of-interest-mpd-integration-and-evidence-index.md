@@ -8,6 +8,16 @@ description: >-
 
 # YWCA Missoula: conflicts of interest, MPD integration, and evidence index
 
+### Short answer: what is documented, what is alleged, what is unresolved
+
+**Question:** What does the record show about YWCA of Missoula's relationship with Missoula Police, and what is only alleged?
+
+**Answer:** This hub covers YWCA of Missoula (Missoula, Montana), 2018 to 2026. YWCA of Missoula is a subject of this site, not its publisher.
+
+* **Records on this site:** the [August 14, 2018 P.S. email and forwarding chain](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf) (discovery exhibit); [June 2018 letters to YWCA, envelopes, and cashier's check, case 2018-24904](../.gitbook/assets/case-2018-24904-ywca-letters-envelopes-cashiers-check.pdf) (discovery exhibit); MISJustice Alliance notices to YWCA dated [October 12, 2025](../.gitbook/assets/misjustice-alliance-ywca-first-notice-2025-10-12.pdf) and [December 5, 2025](../.gitbook/assets/misjustice-alliance-ywca-second-notice-2025-12-05.pdf); and [YWCA audited financial statements, FY2023–FY2024](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf).
+* **Alleged (not adjudicated):** conflicts of interest between YWCA board roles and MPD or prosecution roles, routing of complaints into investigative channels, confidentiality risks, and retaliation. See the pages listed below.
+* **Unresolved:** this hub links no court or agency decision on these allegations. The [Connie Brueckner research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report) states which parts of the board-membership premise it could verify and which it could not.
+
 ### Executive snapshot
 
 This page is the main router for material involving **YWCA of Missoula** (“YWCA Missoula” on this site). It consolidates record-linked **allegations** about governance conflicts, confidentiality risk, and operational integration signals with law enforcement and prosecutors. Use the **Verify first** links to jump to packets and indexes, then use the curated page list below for analysis and context.
@@ -16,17 +26,17 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Primary artifact index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * Dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
 * CR-2025-001 packet index: [CR-2025-001 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-001-case-files-index)
 
 ### Start here
 
 * Fast site map: [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
-* Primary record navigation: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
+* Primary record navigation: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 
 ### Dataset landing page
 
@@ -39,7 +49,7 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 * Institutional capture overview: [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * Systemic accountability failure: [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/structural_failure_of_police_accountability_in_montana_from_mpd_to_post)
 * First Amendment angle: [YWCA of Missoula's Role in First Amendment Violations Against Mr Nuno (2018-2025)](https://www.ywcaofmissoula.com/montana-legal-cases/ywca-of-missoulas-role-in-first-amendment-violations-against-mr-nuno-2018-2025)
-* Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
+* Historical context: [Remembering When: Missoula Rape Capital Era and Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
 * Montana case record: [Missoula traffic matter, bench warrant escalation, and bondsman seizure (2022–2024)](https://www.ywcaofmissoula.com/montana-legal-cases/missoula-traffic-matter-bench-warrant-escalation-and-bondsman-seizure-2022-2024)
 
 ### Remediation priorities

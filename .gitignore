@@ -4,3 +4,5 @@
 .omc/
 .serena/
 .no-amnesia/
+__pycache__/
+.pytest_cache/

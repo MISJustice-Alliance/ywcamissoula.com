@@ -8,6 +8,16 @@ description: >-
 
 # ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
 
+### Short answer: procedural history and current status
+
+**Question:** What happened to the Montana bar complaint against attorney Bryan Tipp (ODC File No. 25-147)?
+
+**Answer:** The complaint was filed with the Montana Office of Disciplinary Counsel (ODC) in July 2025. It alleges legal malpractice and professional-duty failures by Bryan Tipp as criminal defense counsel.
+
+* **Decided:** ODC [dismissed the complaint on November 3, 2025](../.gitbook/assets/11-03-2025-ODC_25-147_Complaint-Dismissal-Bryan-Tipp-REDACTED.pdf). The Commission on Practice affirmed the dismissal on January 7, 2026. ODC letters dated July 10 and July 30, 2026 state that the matter remains closed.
+* **Pending:** a [September 23, 2026 Commission letter](../.gitbook/assets/odc-25-147-commission-on-practice-letter-september-23-2026.jpeg) states that the complainant's appeal letter and ODC's file were sent to the Montana Supreme Court under Rule 14. Review under Rule 14 is discretionary.
+* **Unresolved:** no Supreme Court order, docket number, or decision is in this record. An ODC dismissal is a decision not to proceed with discipline; it is not a court judgment on the malpractice allegations. See [What the Available Record Shows — and Doesn't Show](https://www.ywcaofmissoula.com/montana-bar-complaints/public-article-odc-25-147-what-the-ruling-means-and-why-it-warrants-review).
+
 ## Current status and case evolution
 
 **Current posture:** ODC dismissed File No. 25-147 on November 3, 2025, and the Commission on Practice affirmed the dismissal on January 7, 2026. A September 23, 2026 Commission letter now confirms that the Commission received Elvis R. Nuno's August 13, 2026 appeal letter and transmitted it, together with ODC's original file, to Chief Justice Cory Swanson and the Montana Supreme Court under Rule 14. The letter does not establish that the Court granted discretionary review, assigned a public docket number, reached the merits, or altered the dismissal. See the [September 23, 2026 transmittal analysis](odc-25-147-september-23-2026-supreme-court-transmittal.md).
@@ -49,8 +59,8 @@ A visual timeline of the underlying record — pre-representation background, th
 * Review request: [MT Bar Complaint ODC-25-147 - Right To Request Review (November 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025)
 * Supreme Court transmittal: [ODC File No. 25-147 — September 23, 2026 Supreme Court Transmittal](odc-25-147-september-23-2026-supreme-court-transmittal.md)
 * Current synthesis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
-* Companion prosecutorial-misconduct grievance: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
-* Companion Lowney index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* Companion prosecutorial-misconduct grievance: [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* Companion Lowney index: [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
 * May 2026 evidence supplement: [MT Bar Complaint ODC No. 25-147: Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-supplemental-submission-4-may-2026)
 * July 2026 clarification request: [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-clarification-request-july-2026)
 * May 2026 supporting witness grievance: [Tyrone Nuno Supporting Witness Grievance](https://www.ywcaofmissoula.com/montana-bar-complaints/tyrone-nuno-supporting-witness-grievance-odc-25-147-may-2026)
@@ -82,7 +92,7 @@ Related starting points:
 
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [2017-2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
-* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case)
+* ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case)
 
 ### Suggested reading order
 
@@ -196,10 +206,10 @@ Related starting points:
 
 #### Companion Lowney prosecutorial-misconduct grievance
 
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
   * **Summary:** Companion index for the ODC grievance against Brian Lowney and the Missoula County Attorney's Office.
   * **What changed at this stage:** Links the defense-counsel malpractice record to the prosecutorial-misconduct record so readers can evaluate Tipp's alleged omissions against the State's alleged Brady/Giglio, protected-speech, charging, bail, and DPA-leverage conduct.
-* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026)
+* [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
   * **Summary:** Formal grievance alleging prosecutorial misconduct, Brady violations, abuse of process, reliance on tainted MPD investigative work, and unconstitutional speech waiver in Cause No. DC-18-587.
   * **What changed at this stage:** Opens the prosecution-side accountability track that is intertwined with the Tipp complaint: the same alleged Smith removal, Brueckner/YWCA conflict, E'Lise Chard evidence, protected-speech ruling, and DPA speech restriction are relevant both to Lowney's duties as prosecutor and Tipp's duties as defense counsel.
 

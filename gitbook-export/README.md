@@ -39,9 +39,9 @@ Start with the **Verify first** links, then use the hubs and datasets below.
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Primary record citations: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
-* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * Article/router index: [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
 
 ### Common searches (fast entry points)
@@ -104,7 +104,7 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
   * [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
   * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
   * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
-    * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
+    * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
   * [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 
 ### Montana Legal Cases
@@ -151,8 +151,8 @@ Records from Seattle and Edmonds, Washington proceedings:
 * [The Shelter and the Storm: How a Montana Safe Haven Became an Engine of Retaliation](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula/the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation)
 * [YWCA of Missoula: a captured system overview](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](structural-failure-and-the-civil-rights-gap.md)
-* [Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to Become…](https://www.ywcaofmissoula.com/remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom)
-* [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
+* [Remembering When: MPD, County Prosecutors, and the YWCA Allowed Missoula to Become…](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
+* [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
 * [When Every Door Opens to a Wall: An Open Letter on Accountability, Due Process, and the Cost of Trying to Be Heard](when-every-door-opens-to-a-wall-an-open-letter-on-accountability-due-process.md) — first-person account of inaccessible remedies, unexplained warrant exposure, and safe access to court
 
 ### Official Complaints
@@ -185,7 +185,7 @@ If you need the paper trail from filing to reply, start here:
 * [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis) — includes the DPA speech-waiver, gag-order, appeal-barrier, and downstream-loss analysis, plus the unsubstantiated "explanation" black-box and rule-by-rule MRPC mapping
 * [ODC File No. 25-147 – Clarification Request Regarding July 10, 2026 Letter and Supplemental Submission #4](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-clarification-request-july-2026)
 * [MT Bar Complaint ODC-25-147 - Right To Request Review](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-25-147-right-to-request-review-november-2025)
-* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-lowney-grievance-index)
+* [ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
 * [MT DoJ Public Safety Officer Standards & Training (POST) Complaint (August 2025)](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)](https://www.ywcaofmissoula.com/montana-state-complaints/post-mortem-of-mt-doj-post-complaint-dismissal-august-2025)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
@@ -195,13 +195,13 @@ If you need the paper trail from filing to reply, start here:
 Use the sidebar to browse by jurisdiction, document type, or legal theory. For the fastest entry points:
 
 * [Nuno case system overview and full article index](https://www.ywcaofmissoula.com/overview/nuno-case-system-overview-and-full-article-index)
-* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 * [Kirsten Pabst DOJ oversight and Jordan Johnson hub](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-jordan-johnson)
 * [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report)
 * [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index)
-* [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * [Deployment lint root cause note](https://www.ywcaofmissoula.com/site-operations/deployment-lint-root-cause)
 
@@ -219,7 +219,7 @@ The public record does not presently support a reliable aggregate damages total.
 | Any claim supporting punitive relief | Punitive damages | Clear-and-convincing claim-specific proof and defendant financial information would be required | Only after liability and statutory eligibility are established | Not yet quantifiable | Montana's cap, where applicable, is the lesser of $10 million or 3% of the defendant's net worth. Mont. Code Ann. § 27-1-220(3) (2025) | Legally contingent |
 | Any claim supporting fees, costs, or interest | Statutory fees, taxable costs, and pre- or postjudgment interest | Billing records, taxable-cost records, judgment date, and a claim-specific fee or interest statute are required | Calculate separately after the legal basis and relevant dates are established | Not yet quantifiable | Never include the same fee, cost, or interest item in compensatory damages | Contingent |
 
-See the detailed evidence ledger at [Damages Evidence: Quantified and Non-Economic](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic), the two-move analysis at [Forced to Move Twice](https://www.ywcaofmissoula.com/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community), the malpractice analysis at [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account), and the limitations analysis at [Nuno Case Study: Documented Barriers and Tolling Arguments](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/nuno-case-study-tolling-arguments).
+See the detailed evidence ledger at [Damages Evidence: Quantified and Non-Economic](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic), the two-move analysis at [Forced to Move Twice](https://www.ywcaofmissoula.com/montana-legal-cases/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community), the malpractice analysis at [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account), and the limitations analysis at [Nuno Case Study: Documented Barriers and Tolling Arguments](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/nuno-case-study-tolling-arguments).
 
 **Research current through October 6, 2026.**
 
