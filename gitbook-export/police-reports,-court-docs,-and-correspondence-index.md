@@ -23,13 +23,13 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 
 ### Verify first (primary artifacts)
 
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * Federal and state complaint library: [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 
 ### Direct links (high-signal)
 
-* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [Sworn Declaration of Elvis Nuno (notarized PDF)](.gitbook/assets/sworn-declaration-elvis-nuno-2026.pdf)
@@ -42,7 +42,7 @@ This page is a direct-links index for **primary artifacts**: police reports, cou
 * [Complaint re: MPD Officer Ethan Smith (March 2018)](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
 * [Police case 2018-24904 discovery copy: YWCA letters (June 3, 2018), envelopes (postmarked June 6, received June 7), and $400 cashier's check](.gitbook/assets/case-2018-24904-ywca-letters-envelopes-cashiers-check.pdf)
 * [E'Lise Chard petition for temporary order of protection (June 12, 2018)](.gitbook/assets/elise-chard-petition-order-of-protection-2018-06-12.pdf)
-* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020)
+* [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018-2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
 * [E'Lise Chard / YWCA of Missoula: Chard harassment complaint & Nuno character reference (August 2018)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#ywca-email-complaint-witness-statement)
 * [E-Mail correspondence w/ Bryan Tipp (Dec 2020 / Jan 2021)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index#e-mail-correspondence-with-bryan-tipp-jan-2021)
 * [Complaint to the Missoula Mayor's Office (July 29, 2020)](missoula-mayors-office-complaint-july-2020.md)

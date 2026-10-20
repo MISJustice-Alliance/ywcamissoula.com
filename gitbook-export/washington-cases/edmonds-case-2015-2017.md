@@ -32,7 +32,7 @@ Use this page as the jump-off point for Edmonds-related records. This includes t
 * [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](https://www.ywcaofmissoula.com/washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](https://www.ywcaofmissoula.com/washington-cases/2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
-* [2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct, HIPAA Violations, DOH Complaint Denial, and Strategic Legal Implications](https://www.ywcaofmissoula.com/2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d)
+* [2016 Dr. Marta J.L. Miranda, Psy.D. - Professional Misconduct, HIPAA Violations, DOH Complaint Denial, and Strategic Legal Implications](https://www.ywcaofmissoula.com/washington-cases/2016-dr.-marta-j.l.-miranda-psy.d.-professional-misconduct-hipaa-violations-d)
 * [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
 
 ### Primary evidence packets (external)
@@ -43,9 +43,9 @@ Use this page as the jump-off point for Edmonds-related records. This includes t
 
 ### Related navigation
 
-* [Master timeline, relationship diagrams, and actionable claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* [Master timeline, relationship diagrams, and actionable claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index)
-* [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/police-reports,-court-docs,-and-correspondence-index)
+* [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 
 ### Related
 

@@ -33,7 +33,7 @@ This page maps a conflict-of-interest theory: YWCA of Missoula governance and op
 * Board conflicts router: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 * YWCA dataset landing page: [Dataset: YWCA of Missoula alleged misconduct (2012–present)](https://www.ywcaofmissoula.com/datasets/dataset-ywca-of-missoula-alleged-misconduct-2012-present)
 * CR-2025-001 key packet (dossier): https://cr-2025-001-other-4\_misjusticealliance.arweave.net/
-* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/comprehensive-timeline,-relationship-diagram,-actionable-claims)
+* Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Primary citations hub: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * Board roster: [YWCA Missoula audited financial statements, years ended June 30, 2024 and 2023](.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf) — the "Organization" page lists Connie Brueckner on the YWCA Missoula Board of Directors (auditors' report dated March 19, 2025; unmodified opinion; no findings or questioned costs reported).
 

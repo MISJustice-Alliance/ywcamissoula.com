@@ -29,7 +29,7 @@ User-agent matrix (ad hoc, not in the repository): `curl` with no UA, curl, pyth
 | Live endpoints 200, no challenge | 14/14 | 14/14 |
 | User-agent matrix | 40/40 × 200, 0 challenges | 40/40 × 200, 0 challenges |
 | Absolute links → live 404 | 6 distinct targets, 8 occurrences | 0 |
-| Absolute links → 307 (all pages) | 15 distinct targets, 275 occurrences | 15 distinct, 223 occurrences (all outside the homepage and five hubs) |
+| Absolute links → 307 (all pages) | 15 distinct targets, 275 occurrences | 0 (PR #7 fixed the homepage and hubs; branch `seo-canonical-internal-links` fixed the other 223 in 73 files, URL-only diff) |
 | Absolute links → 307 in homepage and 5 hubs | 53 occurrences (+1 in the shared ODC include, which the validator does not scan) | 0 |
 | Links to pages not yet published | 0 | 2 (new About page; resolves after publish) |
 | Duplicate published titles | 1 (warning) | 1 (warning, unchanged — editorial) |
