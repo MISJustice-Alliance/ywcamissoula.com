@@ -25,6 +25,7 @@ CODE_BLOCK = re.compile(r"^(```|~~~).*?^\1", re.S | re.M)
 LINK = re.compile(r"\]\(([^)\s]+)")
 # Any absolute URL: inside [text](url), <url>, or bare text (GitBook links all three).
 ABSOLUTE_URL = re.compile(r"https?://[^\s<>()\[\]\"'`]+")
+FOOTNOTE = re.compile(r"\[\^[^\]]+\]")
 INCLUDE = re.compile(r'\{%\s*include\s+"([^"]+)"\s*%\}')
 # A placeholder that a template left empty, e.g. "hub for , with".
 UNFILLED_TEMPLATE = re.compile(r"\b(for|of|on|about)\s+[,.;]")
@@ -71,6 +72,8 @@ def check_page(root: Path, rel: str, report: Report, descriptions, absolute_link
         descriptions[description].append(rel)
 
     prose = CODE_BLOCK.sub("", body)
+    if FOOTNOTE.search(prose):
+        report.warn("footnote", rel, "Markdown footnotes ([^n]) are not published by GitBook; use a visible Notes list")
     for target in INCLUDE.findall(prose):
         if not (path.parent / target).exists():
             report.error("include", rel, f"include target does not exist: {target}")
