@@ -89,7 +89,7 @@ def test_unfilled_description_template_is_an_error(tmp_path):
     })
     code, out = run(tmp_path)
     assert code == 1
-    assert any("description" in l for l in out.splitlines() if l.startswith("ERROR"))
+    assert any("description" in line for line in out.splitlines() if line.startswith("ERROR"))
 
 
 def test_title_comes_from_navigation_label_not_frontmatter(tmp_path):
@@ -98,7 +98,7 @@ def test_title_comes_from_navigation_label_not_frontmatter(tmp_path):
               summary="# Table of contents\n\n* [Home](README.md)\n* [](b.md)\n")
     code, out = run(tmp_path)
     assert code == 1
-    errors = [l for l in out.splitlines() if l.startswith("ERROR")]
+    errors = [line for line in out.splitlines() if line.startswith("ERROR")]
     assert len(errors) == 1 and "b.md" in errors[0]
 
 
@@ -216,7 +216,7 @@ def test_absolute_links_to_unpublished_urls_warn(tmp_path, server):
     endpoints.write_text("/real\n/llms.txt\n")
     code, out = run(tmp_path / "site", "--live", endpoints, "--base", server)
     assert code == 0, out
-    warns = [l for l in out.splitlines() if l.startswith("WARN")]
+    warns = [line for line in out.splitlines() if line.startswith("WARN")]
     assert len(warns) == 3
     for stale in ("/old-path", "/old-footnote", "/old-bare"):
         assert any(f"{stale} " in w or f"{stale}#" in w for w in warns), stale
