@@ -1,0 +1,16 @@
+# Public paths for `validate_site.py --live`. One path per line.
+# Each must return HTTP 200 with content (not a Cloudflare challenge).
+/
+/robots.txt
+/sitemap.xml
+/sitemap-pages.xml
+/llms.txt
+/llms-full.txt
+/llms-full.txt/1
+/overview/nuno-case-system-overview-and-full-article-index
+/overview/sources-and-record-index
+/overview/ywca-missoula-conflicts-of-interest-mpd-integration-and-evidence-index
+/overview/missoula-police-mpd-misconduct-allegations-retaliation-evidence-and-primary-record-index
+/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index
+/datasets/dataset-catalog-indexes
+/overview/sources-and-record-index.md
