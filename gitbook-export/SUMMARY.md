@@ -77,6 +77,7 @@
 * [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md)
 * [2015-2016 Seattle Case & Related Civil Rights Violations](2015-2016-seattle-case-related-civil-rights-violations.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st.md)
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](a-disputed-evaluation.md)
 * [2016 Dr. Marta Miranda: misconduct and HIPAA violations](2016-dr.-marta-j.l.-miranda,-psy.d.-professional-misconduct,-hipaa-violations,-d.md)
 * [2016 Dr. Marta Miranda malpractice: executive summary](2016-dr-marta-j.l.-miranda-medical-malpractice-executive-summary-for-legal-advoc.md)
 * [2016 Legal Analysis of Washington State Bar Complaint: In re Patricia Fulton](2016-legal-analysis-of-washington-state-bar-complaint-in-re-patricia-fulton.md)
