@@ -136,13 +136,13 @@ The related GitBook essay, *The Civil Rights Gap: Structural Failures & Barriers
 
 **Board composition and performance.** The current Washington statute specifies nine psychologists and two public members; the current D.C. statute specifies four psychologists, a behavior analyst, and a consumer member. Those provisions establish professional majorities today, not bias in this case or the composition of a particular historical reviewing panel. Rates of investigation, findings, and discipline require independent data with meaningful denominators and case categories.[19](#source-19)
 
-### Correcting the New York commission attribution
+### Independent evidence on evaluator accountability
 
-The GitBook identifies a “2022 New York Blue Ribbon Commission study” and attributes the phrase “judicial legitimacy amplification” to it. Official indexed source material identifies the document as the *Report of the Blue-Ribbon Commission on Forensic Custody Evaluations*, delivered to Governor Kathy Hochul in December 2021. The commission's official announcement identifies custody determinations as its subject.[20](#source-20)
+New York’s *Report of the Blue-Ribbon Commission on Forensic Custody Evaluations*, delivered in December 2021, identifies concerns beyond this individual dispute. Drawing on research, committee deliberations and public listening sessions, it concludes that some judges overuse evaluations and give them undue weight. Its recommendations include statewide certification and accessible complaints procedures (Recommendation 3), continuing training and peer review (4), conflict disclosures (6), and equitable access to reports and underlying data, with privacy safeguards (7). Under Recommendation 8, a majority supported legislation removing quasi-judicial immunity; opponents warned about retaliatory litigation and favored decertification safeguards. These are New York custody-policy findings and proposals, not binding Washington law or findings about Miranda.[20](#source-20)
 
-The full report could not be retrieved during this review. Consequently, its detailed findings, methodology, recording recommendations, and alleged quotation were not verified. The phrase must be removed as a commission quotation unless a reviewer supplies its actual page and text. The accessible record does not establish whether the phrase was coined by the GitBook author or borrowed elsewhere, and an unsuccessful search is not proof that it is absent from every page.
+Palo Alto University’s practice article approaches accountability from the evaluator’s perspective. It recommends clear role and confidentiality explanations, documented methods and limitations, multiple information sources, appropriate testing, and independence from partisan pressure. It treats one-sided information, role conflicts and misleading presentation as risks requiring safeguards. Its account also recognizes that dissatisfaction can generate complaints even when an evaluation is defensible. This is professional commentary, not a disciplinary finding or a statistical study of board enforcement.[21](#source-21)
 
-References 27–29 in the evaluator section have different evidentiary roles. Reference 27 leads to that New York report; reference 28 leads back to the project's own Miranda allegations; reference 29 is a Palo Alto University practice article about managing licensing complaints. The last source provides professional commentary, not the disciplinary-rate dataset needed to establish that boards rarely discipline forensic evaluators.[18](#source-18)[21](#source-21) None can simply be treated as empirical proof of evaluator concentration or regulatory failure in the Washington case.
+For this dispute, those sources provide a framework for examining the available evidence: whether the report’s factual assertions can be checked, whether its methods and exclusions are explained, whether the subject can meaningfully contest it, and whether the complaint process produces an intelligible outcome. The complaint and Miranda’s response identify issues for that examination; neither resolves them alone. The comparison supports examining these safeguards across different proceedings while keeping the governing legal rules and individual facts distinct.
 
 ## Practical implications
 
@@ -164,7 +164,7 @@ Those records could confirm allegations, qualify them, reveal a different proced
 
 This review examined an archived copy of Miranda's October 27, 2016 letter and an undated, four-page complaint form attributed to Nuno, together with related GitBook text. The letter was read as text and visually inspected. Statutes, rules, published opinions, and original professional guidance were researched using Liner and direct primary-source retrieval. Project allegations were not counted as independent corroboration of themselves.
 
-Eight supplied attachments—including the article being replaced, three other Markdown files, and four October 2026 correspondence PDFs—were inaccessible. No claim is made to have reviewed their contents. The complete New York report, agency case files, authenticated licensing histories, and the evaluation itself were not examined. No agency or professional was contacted. Historical law is distinguished where verified; current provisions are not used to declare an earlier violation. This manuscript should be updated after the missing materials are reviewed.
+Eight supplied attachments—including the article being replaced, three other Markdown files, and four October 2026 correspondence PDFs—were inaccessible. No claim is made to have reviewed their contents. The commission report’s reproduced text and the Palo Alto University article were subsequently reviewed. The official report download remained inaccessible; the reproduction’s introductory exhibit commentary was excluded from the analysis. Agency case files, authenticated licensing histories, and the evaluation itself were not examined. No agency or professional was contacted. Historical law is distinguished where verified; current provisions are not used to declare an earlier violation. This manuscript should be updated after the missing materials are reviewed.
 
 ## Source notes
 
@@ -214,4 +214,40 @@ Wash. GR [31(a)–(d)](https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_31_00_
 
 ### Source 12
 
-Wash. Rev. Code §§ [42.56.520](https://app.leg.wa.gov/rcw/default.aspx?cite=42.56.520), [42.56.550](https://app.leg.wa.gov/rcw/default.aspx?cite=42.56.550). Current framework for agency-record requests; no violation…780 tokens truncated…ow Do Forensic Psychologists Who Are Custody Evaluators Navigate Risk Management and Licensing Board Complaints?*, Palo Alto Univ., [practice article](https://paloaltou.edu/resources/business-of-practice-blog/how-do-forensic-psychologists-who-are-custody-evaluators-navigate-risk-management-and-licensing-board-complaints-1) (accessed Oct. 22, 2026). Commentary reviewed; no disciplinary-rate dataset identified in the cited article.
+Wash. Rev. Code §§ [42.56.520](https://app.leg.wa.gov/rcw/default.aspx?cite=42.56.520), [42.56.550](https://app.leg.wa.gov/rcw/default.aspx?cite=42.56.550). Current framework for agency-record requests; no violation or individual deadline calculated.
+
+### Source 13
+
+D.C. Code §§ [2-532](https://code.dccouncil.gov/us/dc/council/code/sections/2-532), [2-534(a)(2)–(3)](https://code.dccouncil.gov/us/dc/council/code/sections/2-534), [2-537](https://code.dccouncil.gov/us/dc/council/code/sections/2-537). Current District disclosure framework; applicability of particular exemptions requires the actual records and response.
+
+### Source 14
+
+*Estelle v. Smith*, 451 U.S. 454, 461–71 & 470 n.14 (1981), [official U.S. Reports](https://www.govinfo.gov/content/pkg/USREPORTS-451/pdf/USREPORTS-451-454.pdf).
+
+### Source 15
+
+[42 U.S.C. § 1983](https://www.govinfo.gov/content/pkg/USCODE-2024-title42/html/USCODE-2024-title42-chap21-subchapI-sec1983.htm) (2024). Statutory elements identified; no determination of state action or a constitutional deprivation.
+
+### Source 16
+
+*Bruce v. Byrne-Stevens & Assocs. Eng'rs, Inc.*, 113 Wash. 2d 123, 125–38, 776 P.2d 666 (1989), [opinion text](https://law.justia.com/cases/washington/supreme-court/1989/55250-9-1.html); *Reddy v. Karr*, 102 Wash. App. 742, 748–53, 9 P.3d 927 (2000), [opinion text](https://caselaw.findlaw.com/court/wa-court-of-appeals/1486113.html). Function-specific immunity questions; no case-specific immunity ruling or exhaustive subsequent-treatment review is claimed.
+
+### Source 17
+
+Wash. Rev. Code §§ [7.70.040(1)](https://app.leg.wa.gov/rcw/default.aspx?cite=7.70.040), [4.16.350](https://app.leg.wa.gov/rcw/default.aspx?cite=4.16.350). No reliance on the statute's printed repose language as a complete account of enforceable law; judicial treatment and claim classification require separate review.
+
+### Source 18
+
+*The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation*, local GitBook file *structural-failure-and-the-civil-rights-gap.md*, “Court-Ordered Expert Monopolies,” references 27–29, and “Mandatory Recording of Court-Ordered Evaluations.” Project commentary reviewed; not independent case evidence.
+
+### Source 19
+
+Wash. Rev. Code § [18.83.035](https://app.leg.wa.gov/rcw/default.aspx?cite=18.83.035) (current text reflects 2022 amendment); D.C. Code § [3-1202.11](https://code.dccouncil.gov/us/dc/council/code/sections/3-1202.11) (composition changed July 19, 2024). Current statutory composition is not a verified historical roster.
+
+### Source 20
+
+N.Y. Blue-Ribbon Comm’n on Forensic Custody Evaluations, *Report of the Blue-Ribbon Commission on Forensic Custody Evaluations* 2–4, 8–13 (Dec. 2021), Recommendations 3–8, [official report](https://ocfs.ny.gov/programs/cwcs/assets/docs/Blue-Ribbon-Commission-Report-2022.pdf). Report text reviewed in an [accessible reproduction](https://drcachildress-consulting.com/wp-content/uploads/2025/08/Respondents-Exhibit-5-NY-Blue-Ribbon-Commission.pdf), PDF pages 3–20; the first two exhibit-introduction pages are not commission text. The reproduction was not byte-compared with the unavailable official download.
+
+### Source 21
+
+Palo Alto Univ., *How Do Forensic Psychologists Who Are Custody Evaluators Navigate Risk Management and Licensing Board Complaints?*, sections on documentation, common complaints, professional autonomy, and conclusion, [article](https://paloaltou.edu/resources/business-of-practice-blog/how-do-forensic-psychologists-who-are-custody-evaluators-navigate-risk-management-and-licensing-board-complaints-1) (accessed Oct. 22, 2026). Professional practice commentary; not binding law or case-specific evidence.
