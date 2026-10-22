@@ -38,4 +38,6 @@ Immediately following the investigation, Dr. Marta J.L. Miranda closed her pract
 
 ### Related
 
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
+
 {% include ".gitbook/includes/related-links-global (1).md" %}

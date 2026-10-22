@@ -174,6 +174,10 @@ A 2022 New York Blue Ribbon Commission study of forensic evaluators found that t
 
 When a licensing board denies a complaint against a court-ordered evaluator — even without a thorough investigation — that denial functions as an additional layer of official endorsement. Each subsequent court's reliance on the report further entrenches the report's apparent authority, compounding the original harm at each iteration.
 
+Related case analysis:
+
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
+
 ***
 
 ## Part V: Inter-Jurisdictional Intelligence Failure

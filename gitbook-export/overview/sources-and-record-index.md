@@ -296,6 +296,8 @@ Key external bibliography packet:
 
 ## Analysis and index pages
 
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](../a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
+
 * [CRIMINAL INVESTIGATION REFERRAL - YWCA of Missoula](../additional-evidence-and-documentation/referrals-for-criminal-investigation/criminal-investigation-referral-ywca-of-missoula.md)
 * [Prosecutorial misconduct, Brady/Giglio, and abuse-of-process evidence](../additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/prosecutorial-misconduct-evidence.md)
 * [Appendix B: List of Motions That Should Have Been Filed](../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed.md)

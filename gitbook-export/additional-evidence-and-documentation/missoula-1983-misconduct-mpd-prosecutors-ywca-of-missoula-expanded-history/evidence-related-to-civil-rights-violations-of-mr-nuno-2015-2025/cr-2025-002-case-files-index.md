@@ -282,6 +282,8 @@ If you want one GitBook page per file later, say so and I’ll split them out.
 
 ### Where to cross-link these in GitBook
 
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](../../../a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
+
 These pages should generally link back here when they cite CR-2025-002 records:
 
 * Master timeline hub: [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)

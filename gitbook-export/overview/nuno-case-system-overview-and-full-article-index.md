@@ -315,6 +315,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
 * [MOTION TO SEAL OR REDACT COURT RECORD - Dr Marta Miranda Evaluation - Edmonds Municipal Court (Nov 2025)](../motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md)
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](../a-disputed-evaluation.md)
 
 </details>
 

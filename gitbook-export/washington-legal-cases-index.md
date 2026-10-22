@@ -124,6 +124,8 @@ This page is the Washington index for case analysis and linked primary records, 
 
 ### High-signal Washington entry points
 
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
+
 * [2015-2016 Seattle Case & Related Civil Rights Violations](https://www.ywcaofmissoula.com/washington-cases/2015-2016-seattle-case-related-civil-rights-violations)
 * [Edmonds Case (2015-2017)](washington-cases/edmonds-case-2015-2017.md)
 * [WA (2015–2017): plea withdrawal and ineffective assistance](https://www.ywcaofmissoula.com/washington-cases/2015-2017-ineffective-assistance-of-counsel-and-plea-withdrawal-in-washington-st)

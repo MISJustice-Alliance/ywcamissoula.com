@@ -14,6 +14,8 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 
 ### Featured report
 
+* [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](../a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
+
 * [Open Letter to Washington: Unpaid Debt, Unserved Purpose](../open-letter-to-washington-unpaid-debt-unserved-purpose.md)
 * [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](../a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md) — analysis of the September 2019 plea, alleged coercion, the missing evaluation, caregiving, and definite resolution terms
 
