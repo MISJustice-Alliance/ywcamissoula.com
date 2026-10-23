@@ -11,7 +11,7 @@ status: "Publication approved by the author"
 
 *A 2016 letter documents an evaluator's response to a contested court report. Establishing what regulators and courts subsequently did requires a more complete institutional record.*
 
-**Source note:** This article draws on primary documents: Dr. Miranda’s October 27, 2016 letter and the archived health-provider complaint form, together with statutes, court rules, judicial opinions, and original professional guidance. A complaint documents its author’s allegations; it does not itself establish their truth. Source notes identify what was reviewed and the limits of verification.[1](#source-1)[2](#source-2)
+**Source note:** This article draws on primary documents: Dr. Miranda’s October 27, 2016 letter, the archived health-provider complaint form, and Nuno’s two-page complaint concerning Patricia Fulton, together with statutes, court rules, judicial opinions, and original professional guidance. A complaint documents its author’s allegations; it does not itself establish their truth. Source notes identify what was reviewed and the limits of verification.[1](#source-1)[2](#source-2)[30](#source-30)
 
 ## A dispute with several distinct questions
 
@@ -29,6 +29,7 @@ Dates below distinguish statements in a document from events independently corro
 
 | Date or period | What the accessible record shows |
 | --- | --- |
+| December 15, 2015; later ABHC dates unverified | The Fulton complaint identifies the attorney’s retention date and describes an unsuccessful ABHC evaluation attempt and an allegedly untransmitted explanatory letter. |
 | September 19, 2016 | Nuno's complaint form identifies this as the service and incident date. |
 | October 4, 2016 | Miranda's October 27 letter refers to an earlier letter setting out an amendment procedure. |
 | October 22, 2016 | Miranda states that she received an email requesting amendment or withdrawal and a refund. |
@@ -37,10 +38,24 @@ Dates below distinguish statements in a document from events independently corro
 | Date not established | A four-page Washington health-provider complaint form attributed to Nuno is preserved in the project archive. |
 | Later Washington complaint history | A project article identifies complaint number 2017-3122PY and says the complaint was denied. |
 | October 2026 correspondence | Four PDF attachments were supplied for this review, with filenames referring to October 1, 18, and 21 and D.C. outreach. |
+| November 3, 2025 | The project’s motion page identifies a motion to seal or redact the Miranda evaluation. |
+| December 2, 2025 | The published hearing account says the judge could not locate the evaluation despite its reportedly having been filed twice, and continued the matter. The hearing record was not reviewed. |
+| January–October 2026 | The related resolution article describes defense counsel’s efforts to obtain the report. Nuno reports approximately ten months of unsuccessful searches without a custody explanation. |
+| October 21, 2026 | Nuno reports choosing to end public-defender representation, proceed pro se, and send a discovery demand to prosecutor Aaron Walls. Court approval of withdrawal and service of the demand are not established here. |
 
-Sources: Miranda letter, October 27, 2016, page 1; Nuno complaint form, pages 1–4; project complaint article, “Subsequent Actions.”[1](#source-1)[2](#source-2)[3](#source-3)
+Sources: Miranda letter, October 27, 2016, page 1; Nuno complaint form, pages 1–4; project complaint article, “Subsequent Actions”; published motion and resolution accounts; Nuno’s October 22 update; Fulton complaint, pages 1–2.[30](#source-30)[1](#source-1)[2](#source-2)[3](#source-3)[22](#source-22)[23](#source-23)
 
 The principal identified participants are Nuno, Miranda, Edmonds Municipal Court, and the Washington health-professional regulatory system. The letter copies Omar Gámez at Edmonds Municipal Court and refers to Nuno's probation officer, but it does not identify the judicial officer, appointing authority, prosecutor, or defense lawyer. The complaint names family or collateral sources and a treating therapist. Their accounts need direct documentation before being treated as corroboration. The District of Columbia regulatory matter requires its own acknowledgment and procedural record; its connection to this dispute cannot be established from an attachment's filename.
+
+## The earlier ABHC attempt described in the Fulton complaint
+
+Nuno’s earlier complaint concerning attorney Patricia Fulton supplies a separate part of the evaluation history. The two-page complaint says he retained Fulton on December 15, 2015. On page 1, he alleges that evaluation work at Associated Behavioral Health Center (ABHC) involved extensive, multi-day testing but produced neither a full evaluation nor access to the resulting records. He says ABHC initially resisted a refund, relenting only after he raised the prospect of a health-regulatory complaint. These are his allegations; the reviewed document does not include ABHC’s response, the testing file, or a finding that its conduct violated professional rules.[30](#source-30)
+
+The complaint also alleges limited contact between Fulton and his therapist, rejection of other proposed witness interviews, and communications that Nuno believed prejudiced ABHC’s assessment before examination. He expressly presents the last point as his opinion based on reported conversations with his therapist and an ABHC psychiatrist. He further alleges that ABHC later told him it had warned Fulton beforehand that it probably could not provide the evaluation sought, without either party telling him before testing. The underlying communications are needed to determine what was said, what service ABHC agreed to provide, and why it did not produce the requested evaluation.[30](#source-30)
+
+Page 2 connects that unsuccessful attempt to a plea obligation: Nuno says he still lacked the required mental-health evaluation, had been summoned to explain, and understood he faced up to a year in jail. He alleges Fulton promised to send the court an ABHC letter seeking to avoid the hearing, but his assigned public defender subsequently confirmed the court had not received it. The complaint says the ABHC letter was attached, but that attachment is absent from the two-page copy reviewed. No court order, proof of transmission, Fulton or ABHC response, or bar disposition was examined with this source.[30](#source-30)
+
+This earlier allegation of a letter not reaching the court is distinct from the later reported disappearance of Miranda’s completed evaluation. Together they explain why proof of attempted compliance, document delivery and institutional receipt matters to Nuno’s account. They do not establish a common cause or deliberate interference. The complaint’s exact execution date, the ABHC appointment dates, and the order linking that work to the later Miranda evaluation remain unverified; a project label of “2016” is not a filing receipt.[30](#source-30)
 
 ## What is challenged—and what Miranda said
 
@@ -92,7 +107,7 @@ Washington ER 702 governs qualifying expert testimony that assists a decision-ma
 
 The next evidentiary questions are concrete: Which report version reached the court? Was it filed, admitted, or merely discussed? What finding or order relied on it? What objections were made, and how did the judge rule? The October 2016 letter's reference to the court and probation officer supports the report's intended legal use, not a finding of actual judicial reliance or its effect.[1](#source-1)
 
-The same discipline applies to any claim that a judge later said the report was lost. That statement requires the hearing recording, transcript, minute entry, or a custodian's documented search result. The inaccessible October 2026 files cannot be used as proof of the statement, its precise meaning, or responsibility for the loss.
+The project’s published hearing account now supplies a specific lost-record allegation: a December 2, 2025 hearing on a sealing motion at which the judge reportedly could not find the evaluation. That secondary account is discussed below; the recording, transcript, minutes and custodian’s search documentation remain necessary to verify the hearing and explain the absence.[22](#source-22)
 
 ### Access, amendment, and retention are different obligations
 
@@ -121,6 +136,30 @@ Its relevance here would depend on the kind and stage of proceeding, compulsion,
 Civil damages involve further barriers. Washington recognizes witness immunity in circumstances addressed by *Bruce v. Byrne-Stevens & Associates Engineers, Inc.* and quasi-judicial immunity for the family-court investigator's functions addressed in *Reddy v. Karr*. Those cases make the professional's actual function and relationship to a proceeding important; neither adjudicated Miranda's conduct.[16](#source-16)
 
 A professional-negligence theory also requires a legally applicable duty, breach, causation, and injury. Washington's health-care negligence and limitation statutes may be relevant, but their applicability, judicial interpretation, accrual, and any tolling would require a claim-specific analysis. No conclusion that a damages claim is timely, barred, or viable is justified by the documents reviewed here.[17](#source-17) Regulatory review, evidentiary objections, correction rights, and damages litigation are different processes with different remedies.
+
+## The missing court copy and the renewed demand for production
+
+The related [motion to seal or redact the evaluation](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md) places the dispute in a later court-records context. Its published account identifies a November 3, 2025 motion and says that, at the December 2 hearing, the judge could not locate the evaluation despite its having reportedly been filed twice. It says the matter was continued to collect additional evidence and resubmit the motion. This establishes what the project reported, rather than independently proving filing, removal, or the court’s ruling.[22](#source-22)
+
+In an October 22 update, Nuno reports approximately ten months of representation by the Edmonds public-defender office without recovery of the report from the digital systems or archives searched, or identification of an audit trail, removal motion, or order explaining its absence. The related article, [*A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms*](a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md), describes counsel Paolo Georgiades’s efforts to obtain another copy and prosecutor Aaron Walls’s renewed request for evaluation or treatment documentation.[23](#source-23)
+
+Nuno contends that this places responsibility for repairing a government records gap on him, and characterizes the prosecutor’s position as a demand for 120 days in jail for failing to reproduce the evaluation. The related article’s account of the February 4 correspondence describes a 120-day jail position alongside several asserted outstanding obligations; it does not establish that the whole proposed term was based exclusively on this report or that the court imposed it. The later communications and violation notice are needed to resolve that distinction.[23](#source-23)
+
+Nuno further reports that on October 21 he chose to end public-defender representation and proceed *pro se*, meaning without counsel, because of the case’s age, complexity and posture, and sent Walls a discovery demand seeking government-held evidentiary records. The supplied *Demand-for-Discovery.pdf* was located but could not be read or downloaded. Its precise requests, signature and service are not independently established. Nor was a withdrawal order or judicial acceptance of a waiver of counsel reviewed. CrRLJ 3.1(e) addresses court-approved withdrawal once a case is set for trial; CrRLJ 7.6(f) protects representation at a probation hearing unless waived.[23](#source-23)[24](#source-24)
+
+### Institutional custody and the legal duty to disclose
+
+**The court’s responsibility for its own records and the prosecution’s discovery duties are distinct, and both matter.** CrRLJ 4.7 addresses expert reports within prosecutorial possession or control and efforts to obtain identified discoverable material held by others. CrRLJ 7.6(f) directly provides discovery of evidence supporting an alleged probation violation. These rules support directing a focused request to the prosecution while separately seeking a custodian’s account of the court file. They do not establish that the prosecutor controls every judicial archive or that Nuno has satisfied every condition.[24](#source-24)[25](#source-25)
+
+Washington’s retention framework depends on record classification, disposition dates and preservation holds. The court schedule reviewed is version 7.0, approved October 4, 2023—not a 2025 enactment based on its web address. CrRLJ 7.2 separately requires permanent preservation of sentencing and judgment records. Whether this report falls within that permanent record or another category requires the filing and sentencing record. The related resolution article explains the schedule’s different categories and triggers.[26](#source-26)
+
+For sealing specified records, GR 15 requires preserved docket identifiers and an order and findings; redaction preserves the original under seal. Court-ordered destruction has its own documentation requirements. Routine destruction under approved schedules is separately permitted, so a missing motion alone does not prove unlawful disposal.[27](#source-27)
+
+Washington State Archives expressly distinguishes recommended destruction logs from a statutory obligation to create them. Existing destruction and custody-transfer records generally have a 50-year retention period under CORE; ordinary IT audit trails have a different, business-need standard, subject to applicable holds. Neither establishes that every addition or removal must generate a permanent electronic entry. Edmonds’ local policies and the systems actually used still need examination.[28](#source-28)
+
+A missing report can impair proof of compliance and the ability to challenge its conclusions. That raises a records-integrity question even before a constitutional claim is established. Federal lost-evidence doctrine distinguishes apparently exculpatory, irreplaceable evidence from merely potentially useful evidence, for which bad faith is required; Washington applies that distinction in *Wittenbarger*. The loss reported here has not been adjudicated under either test.[29](#source-29)
+
+The practical accountability issue remains: identify what was received, where it was kept, what searches occurred, and what explains its present absence before attributing noncompliance to the person evaluated. Obtaining another copy may restore useful evidence; it would not itself explain the original custody gap. Conversely, a gap does not establish deliberate removal, report inaccuracy, or a violation by Miranda.
 
 ## What this case can contribute to the structural debate
 
@@ -156,15 +195,15 @@ Any individual remedy depends on jurisdiction, the type and stage of proceeding,
 
 ## The records still needed
 
-The most consequential missing items are the evaluation and its versions; the order or referral; the complete amendment exchange; authenticated recordings and testing materials; court filing and reliance records; the Washington intake and disposition file; and the D.C. correspondence and procedural notices. A later lost-record issue requires the hearing record and the custodian's search documentation. Establishing interaction between regulators requires actual referrals or correspondence.
+The most consequential missing items are the evaluation and its versions; the order or referral; the complete amendment exchange; authenticated recordings and testing materials; court filing and reliance records; the Washington intake and disposition file; and the D.C. correspondence and procedural notices. The reported December 2025 lost-record issue requires the hearing record, filing receipts, counsel’s search history, and each custodian’s documented results. The reported October 2026 discovery demand additionally requires its readable text, service evidence, response and any resulting court order. Establishing interaction between regulators requires actual referrals or correspondence.
 
 Those records could confirm allegations, qualify them, reveal a different procedural history, or show that an apparent gap had an explanation. A fair account must remain open to each possibility.
 
 ## Methodology and limitations
 
-This review examined an archived copy of Miranda's October 27, 2016 letter and an undated, four-page complaint form attributed to Nuno, together with related GitBook text. The letter was read as text and visually inspected. Statutes, rules, published opinions, and original professional guidance were researched using Liner and direct primary-source retrieval. Project allegations were not counted as independent corroboration of themselves.
+This review examined an archived copy of Miranda's October 27, 2016 letter, an undated, four-page health-provider complaint form attributed to Nuno, and the complete two-page complaint concerning Fulton, together with related GitBook text. The letter was read as text and visually inspected. Statutes, rules, published opinions, and original professional guidance were researched using Liner and direct primary-source retrieval. Project allegations were not counted as independent corroboration of themselves.
 
-Eight supplied attachments—including the article being replaced, three other Markdown files, and four October 2026 correspondence PDFs—were inaccessible. No claim is made to have reviewed their contents. The commission report’s reproduced text and the Palo Alto University article were subsequently reviewed. The official report download remained inaccessible; the reproduction’s introductory exhibit commentary was excluded from the analysis. Agency case files, authenticated licensing histories, and the evaluation itself were not examined. No agency or professional was contacted. Historical law is distinguished where verified; current provisions are not used to declare an earlier violation. This manuscript should be updated after the missing materials are reviewed.
+Eight supplied attachments—including the article being replaced, three other Markdown files, and four October 2026 correspondence PDFs—were inaccessible. No claim is made to have reviewed their contents. The published sealing-motion account and related resolution article, and Nuno’s October 22 update, were also considered for the missing-record section. Those project accounts were attributed and were not treated as independent court findings. The newly supplied discovery-demand PDF was identified but remained unreadable and could not be downloaded. The commission report’s reproduced text and the Palo Alto University article were subsequently reviewed. The official report download remained inaccessible; the reproduction’s introductory exhibit commentary was excluded from the analysis. Agency case files, authenticated licensing histories, and the evaluation itself were not examined. No agency or professional was contacted. Historical law is distinguished where verified; current provisions are not used to declare an earlier violation. This manuscript should be updated after the missing materials are reviewed.
 
 ## Source notes
 
@@ -251,3 +290,39 @@ N.Y. Blue-Ribbon Comm’n on Forensic Custody Evaluations, *Report of the Blue-R
 ### Source 21
 
 Palo Alto Univ., *How Do Forensic Psychologists Who Are Custody Evaluators Navigate Risk Management and Licensing Board Complaints?*, sections on documentation, common complaints, professional autonomy, and conclusion, [article](https://paloaltou.edu/resources/business-of-practice-blog/how-do-forensic-psychologists-who-are-custody-evaluators-navigate-risk-management-and-licensing-board-complaints-1) (accessed Oct. 22, 2026). Professional practice commentary; not binding law or case-specific evidence.
+
+### Source 22
+
+MISJustice Alliance, [*Motion to seal/redact Miranda evaluation (Nov 2025)*](motion-to-seal-or-redact-court-record-dr-marta-miranda-evaluation-edmonds-munici.md), introductory description and “Hearing Status.” Local published project text reviewed; underlying filed motion, docket and December 2 hearing recording were not independently examined for this update.
+
+### Source 23
+
+Elvis Nuno, statement to the editor (Oct. 22, 2026), reporting unsuccessful searches, his Oct. 21 representation decision, transmission of a discovery demand and his characterization of the proposed jail consequence; MISJustice Alliance, [*A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms*](a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md), “The proceedings and the proposed resolution” and “The missing evaluation.” Its correspondence descriptions are attributed to that article; they were not substituted for direct review of unavailable attachments. *Demand-for-Discovery.pdf* was supplied but inaccessible; no contents or service are independently verified.
+
+### Source 24
+
+Wash. CrRLJ [3.1(e)](https://www.courts.wa.gov/court_rules/pdf/CrRLJ/CLJ_CRRLJ_03_01_00.pdf), [7.6(c), (f), (g)](https://www.courts.wa.gov/court_rules/pdf/CrRLJ/CLJ_CRRLJ_07_06_00.pdf). Official current texts reviewed Oct. 22, 2026. Court approval and a valid waiver are distinct from a litigant’s reported decision.
+
+### Source 25
+
+Wash. CrRLJ [4.7(a)(1)(iii), (a)(4), (d), (e), (h)(7)](https://www.courts.wa.gov/court_rules/pdf/CrRLJ/CLJ_CRRLJ_04_07_00.pdf), official text reflecting amendments through Sept. 1, 2026. Scope depends on possession or control, the identified material, the proceeding and applicable court orders.
+
+### Source 26
+
+Wash. Rev. Code § [40.14.070](https://app.leg.wa.gov/RCW/default.aspx?cite=40.14.070); Wash. Sec’y of State, [*District and Municipal Courts Records Retention Schedule*](https://www.sos.wa.gov/sites/default/files/2025-06/district-and-municipal-courts-records-retention-schedule.PDF), version 7.0 (Oct. 2023), at 1, 8–9, 18; Wash. CrRLJ [7.2(d), (e)(3)](https://www.courts.wa.gov/court_rules/pdf/CrRLJ/CLJ_CRRLJ_07_02_00.pdf). The rule’s published history predates 2016; the current schedule does not establish what law governed an unknown earlier disposal.
+
+### Source 27
+
+Wash. GR [15(c)(5)–(6), (h)](https://www.courts.wa.gov/court_rules/pdf/GR/GA_GR_15_00_00.pdf), official text with amendment history through June 27, 2023. Prescribed sealing and judicial-destruction documentation is distinct from routine scheduled disposition.
+
+### Source 28
+
+Wash. State Archives, [*Documenting the Destruction of Public Records*](https://www.sos.wa.gov/sites/default/files/2025-02/advice-sheet-documenting-the-destruction-of-public-records-%28december-2024%29.pdf) (Dec. 2024), at 1 (guidance); Wash. Sec’y of State, [*Local Government Common Records Retention Schedule (CORE)*](https://www.sos.wa.gov/sites/default/files/2025-06/local-government-common-records-retention-schedule-CORE.PDF), version 5.0 (Oct. 2024), at 85, 175, DANs GS2010-003, GS50-09-06. Record retention does not alone require creation of a particular log.
+
+### Source 29
+
+*California v. Trombetta*, 467 U.S. 479, 488–89 (1984), [U.S. Reports](https://www.govinfo.gov/content/pkg/USREPORTS-467/pdf/USREPORTS-467-479.pdf); *Arizona v. Youngblood*, 488 U.S. 51, 57–58 (1988), [U.S. Reports](https://www.govinfo.gov/content/pkg/USREPORTS-488/pdf/USREPORTS-488-51.pdf); *State v. Wittenbarger*, 124 Wash. 2d 467, 475–77, 880 P.2d 517 (1994), [published opinion](https://law.justia.com/cases/washington/supreme-court/1994/60975-6-1.html). Constitutional criminal-evidence standards, not a finding concerning this report or a general logging mandate.
+
+### Source 30
+
+Elvis R. Nuno, complaint concerning Patricia Fulton (undated two-page letter; project indexes it under 2016), at 1 (ABHC testing, records/refund allegations and reported communications), 2 (plea obligation, promised ABHC letter and claimed nonreceipt). [Published source copy](.gitbook/assets/cr-2025-002-complaint-14_misjusticealliance.arweave.net.pdf); [complaint index](wa-state-bar-complaint-patricia-fulton-2016.md). The complete two-page PDF was read and matched the archived copy titled *9.WA_State_Bar_Complaint_Patricia-Fulto_2016.pdf*. This verifies the complaint’s contents, not its filing, the underlying allegations or a disciplinary finding. Referenced attachments were not part of this PDF.
