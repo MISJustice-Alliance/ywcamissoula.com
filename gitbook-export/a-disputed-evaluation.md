@@ -27,16 +27,16 @@ This review cannot establish that a regulatory complaint remains formally pendin
 
 Dates below distinguish statements in a document from events independently corroborated by another record.
 
-| Date or period | What the accessible record shows | Evidentiary limit |
-| --- | --- | --- |
-| September 19, 2016 | Nuno's complaint form identifies this as the service and incident date. | This is the complainant's account; an appointment record and evaluation would independently establish the service dates. |
-| October 4, 2016 | Miranda's October 27 letter refers to an earlier letter setting out an amendment procedure. | The October 4 letter was not examined. Its contents cannot be reconstructed beyond Miranda's description. |
-| October 22, 2016 | Miranda states that she received an email requesting amendment or withdrawal and a refund. | The underlying email was not examined. Whether it identified particular errors remains disputed by implication, not resolved. |
-| October 27, 2016 | Miranda's letter refuses a refund, offers review without additional charge and a copying-fee waiver, and describes transmitting changes or a continuing disagreement to the probation officer. | The letter establishes her stated response, not whether the proposed steps were completed. |
-| November 10, 2016 | Miranda sets this deadline for requested edits and says she otherwise will consider the case closed and stop responding. | This is a stated future deadline, not proof of a later closure or a legally effective termination of records-access rights. |
-| Date not established | A four-page Washington health-provider complaint form attributed to Nuno is preserved in the project archive. | Its date field is blank. No receipt stamp or complaint number appears in the examined form. |
-| Later Washington complaint history | A project article identifies complaint number 2017-3122PY and says the complaint was denied. | This is a secondary project account. The agency's acknowledgment, screening record, and disposition must be obtained before stating the procedural history as fact. |
-| October 2026 correspondence | Four PDF attachments were supplied for this review, with filenames referring to October 1, 18, and 21 and D.C. outreach. | Their contents were inaccessible. Filenames do not establish transmission, receipt, requested relief, responses, or deadlines. |
+| Date or period | What the accessible record shows |
+| --- | --- |
+| September 19, 2016 | Nuno's complaint form identifies this as the service and incident date. |
+| October 4, 2016 | Miranda's October 27 letter refers to an earlier letter setting out an amendment procedure. |
+| October 22, 2016 | Miranda states that she received an email requesting amendment or withdrawal and a refund. |
+| October 27, 2016 | Miranda's letter refuses a refund, offers review without additional charge and a copying-fee waiver, and describes transmitting changes or a continuing disagreement to the probation officer. |
+| November 10, 2016 | Miranda sets this deadline for requested edits and says she otherwise will consider the case closed and stop responding. |
+| Date not established | A four-page Washington health-provider complaint form attributed to Nuno is preserved in the project archive. |
+| Later Washington complaint history | A project article identifies complaint number 2017-3122PY and says the complaint was denied. |
+| October 2026 correspondence | Four PDF attachments were supplied for this review, with filenames referring to October 1, 18, and 21 and D.C. outreach. |
 
 Sources: Miranda letter, October 27, 2016, page 1; Nuno complaint form, pages 1–4; project complaint article, “Subsequent Actions.”[1](#source-1)[2](#source-2)[3](#source-3)
 
