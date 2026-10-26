@@ -30,6 +30,7 @@ This page is the canonical source list for the project. It separates **primary r
 
 ### Verify first (primary artifacts)
 
+* [Mineral County comparison](../research-reports-legal-advocacy-and-analysis/mineral-county-disclosure-officer-qualification-missoula-comparison.md) — [signed Montana Supreme Court order, OP 24-0341](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=490058) and [State response (party brief)](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=479757); later district-court accounts remain attributed to news reports.
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * Dataset landing pages (crawlable hubs): [Dataset Catalog Indexes](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)

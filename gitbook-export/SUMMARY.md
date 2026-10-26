@@ -19,6 +19,7 @@
 ## Research Reports, Legal Advocacy, and Analysis
 
 * [Research Reports, Legal Advocacy, and Analysis — Overview](research-reports-legal-advocacy-and-analysis/README.md)
+* [Mineral County disclosure disputes, officer qualifications, and the Missoula comparison](research-reports-legal-advocacy-and-analysis/mineral-county-disclosure-officer-qualification-missoula-comparison.md)
 * [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](research-reports-legal-advocacy-and-analysis/collective-civil-rights-litigation-class-action-rico-missoula.md)
 * [Missoula Police Department](research-reports-legal-advocacy-and-analysis/missoula-police-department.md)
   * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](missoula-police-oversight-students-guide-governance-structural-limitations.md)

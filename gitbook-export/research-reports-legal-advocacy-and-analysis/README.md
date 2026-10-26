@@ -14,6 +14,7 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 
 ### Featured report
 
+* [Mineral County disclosure disputes, officer qualifications, and the Missoula comparison](mineral-county-disclosure-officer-qualification-missoula-comparison.md) — sources and outcomes for distinct proceedings, with limits on the Nuno analogy.
 * [The Dr. Marta Miranda Evaluation Dispute: Records, Review, and Accountability](../a-disputed-evaluation.md) — report accuracy, records access, and Washington/D.C. professional oversight
 
 * [Open Letter to Washington: Unpaid Debt, Unserved Purpose](../open-letter-to-washington-unpaid-debt-unserved-purpose.md)

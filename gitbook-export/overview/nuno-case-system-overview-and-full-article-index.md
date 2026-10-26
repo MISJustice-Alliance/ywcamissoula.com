@@ -33,6 +33,7 @@ This page is the canonical **site map** for the Nuno case record (2015–2025) a
 
 ### Verify first (primary artifacts)
 
+* [Mineral County disclosure and qualification comparison](../research-reports-legal-advocacy-and-analysis/mineral-county-disclosure-officer-qualification-missoula-comparison.md) — legal analogy and reported employment overlap only; no established coordination with Nuno matters.
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * Primary record citations: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
 * Police/court/correspondence index: [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
