@@ -13,6 +13,7 @@ This hub groups the MPD-facing reports that focus on governance, record-keeping,
 
 ### Sub-pages
 
+* [Mineral County disclosure disputes, officer qualifications, and the Missoula comparison](mineral-county-disclosure-officer-qualification-missoula-comparison.md) — compares distinct Mineral County proceedings with Missoula records; it does not attribute Mineral conduct to the City of Missoula Police Department.
 * [When Separate Complaints Point to One System: The Case for Collective Civil-Rights Litigation in Missoula](collective-civil-rights-litigation-class-action-rico-missoula.md)
 * [Missoula Police Oversight: A Student's Guide to Governance and Structural Limitations](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/missoula-police-oversight-students-guide-governance-structural-limitations)
 * [Policy Analysis Memorandum: Addressing the 'Opacity Problem' in Missoula's Police Record-Keeping](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/policy-analysis-memorandum-addressing-opacity-problem-missoula-police-record-keeping)
