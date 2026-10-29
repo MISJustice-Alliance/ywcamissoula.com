@@ -1,6 +1,7 @@
 import { describe, expect, it } from "vitest";
 import { handle } from "../src/worker.js";
 import nestedPage from "./fixtures/gitbook-nested-page.html?raw";
+import productionConfig from "../config/schema-routes.json";
 
 const ORIGIN = "https://www.ywcaofmissoula.com";
 const NESTED = "/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis";
@@ -162,5 +163,18 @@ describe("static verification file", () => {
     const res = await handle(get(path, "HEAD"), fetchOrigin, config);
     expect(res.status).toBe(200);
     expect(await res.text()).toBe("");
+  });
+  it("serves the Ahrefs root path exactly, without fetching GitBook", async () => {
+    const path = "/ahrefs_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30";
+    const expected = "ahrefs-site-verification_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30";
+    const { fetchOrigin, calls } = origin("should not be used");
+    const res = await handle(get(path), fetchOrigin, productionConfig);
+    expect(res.status).toBe(200);
+    expect(res.headers.get("content-type")).toBe("text/plain; charset=utf-8");
+    expect(await res.text()).toBe(expected);
+    const head = await handle(get(path, "HEAD"), fetchOrigin, productionConfig);
+    expect(head.status).toBe(200);
+    expect(await head.text()).toBe("");
+    expect(calls).toEqual([]);
   });
 });

@@ -106,6 +106,7 @@ curl -sk --compressed https://127.0.0.1:8790/ | grep structured-data-worker-json
 - [ ] `curl -sI https://www.ywcaofmissoula.com/<allowlisted path> | grep -i x-structured-data` shows the header; a non-allowlisted page does not.
 - [ ] `/sitemap.xml`, `/robots.txt`, `/llms.txt`, and a `.md` URL are unchanged (no header, no block).
 - [ ] `curl -s https://www.ywcaofmissoula.com/s7cwab25byeh3hge7nw15jzaee6qjtxm.txt` returns exactly the key, with `content-type: text/plain; charset=utf-8`.
+- [ ] `curl -s https://www.ywcaofmissoula.com/ahrefs_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30` returns exactly `ahrefs-site-verification_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30`, with `content-type: text/plain; charset=utf-8`.
 - [ ] Browser: View Source (not the DevTools Elements panel, which shows the DOM after scripts run) shows the block before `</body>`.
 - [ ] [Schema.org Validator](https://validator.schema.org/): no errors for both types.
 - [ ] [Google Rich Results Test](https://search.google.com/test/rich-results): BreadcrumbList is detected on a breadcrumb route. Organization is not a rich-result type there; use the Schema.org Validator for it.

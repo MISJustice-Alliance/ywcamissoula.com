@@ -26,10 +26,15 @@ describe("config/schema-routes.json", () => {
     expect(config.dataset.routes).toEqual([]);
   });
 
-  it("serves each static text file with its own name as content (verification-key format)", () => {
+  it("serves the Ahrefs file at its exact root path", () => {
+    expect(config.staticTextFiles["/ahrefs_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30"])
+      .toBe("ahrefs-site-verification_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30");
+  });
+
+  it("keeps static text routes rooted and their content nonempty", () => {
     for (const [file, content] of Object.entries(config.staticTextFiles)) {
-      expect(file).toBe(`/${content}.txt`);
-      expect(content).toMatch(/^[a-z0-9]+$/);
+      expect(file).toMatch(/^\/[a-zA-Z0-9_.-]+$/);
+      expect(content.length).toBeGreaterThan(0);
     }
   });
 });
