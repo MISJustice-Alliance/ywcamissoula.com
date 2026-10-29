@@ -81,6 +81,27 @@ describe("BreadcrumbList injection on a real GitBook page", () => {
 });
 
 describe("Organization injection", () => {
+  it("advertises the published machine-readable overview from GET and HEAD /", async () => {
+    for (const method of ["GET", "HEAD"]) {
+      const { fetchOrigin } = origin(method === "GET" ? simplePage() : null, {
+        headers: { link: '</sitemap.xml>; rel="alternate"' },
+      });
+      const res = await handle(get("/", method), fetchOrigin, config);
+      expect(res.status).toBe(200);
+      expect(res.headers.get("link")).toContain('</llms.txt>; rel="describedby"; type="text/markdown"');
+      expect(res.headers.get("link")).toContain('</sitemap.xml>; rel="alternate"');
+      if (method === "HEAD") expect(await res.text()).toBe("");
+    }
+  });
+
+  it("does not advertise homepage discovery links on other pages or error responses", async () => {
+    for (const [path, status] of [[NESTED, 200], ["/", 404]]) {
+      const { fetchOrigin } = origin(simplePage(), { status });
+      const res = await handle(get(path), fetchOrigin, config);
+      expect(res.headers.has("link")).toBe(false);
+    }
+  });
+
   it("puts one Ahrefs verification meta tag inside the homepage head", async () => {
     const { fetchOrigin } = origin(simplePage());
     const html = await (await handle(get("/"), fetchOrigin, config)).text();

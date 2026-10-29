@@ -4,6 +4,8 @@ import { articleNode, breadcrumbNode, datasetNode, organizationNode, toJsonLd } 
 
 export const SCRIPT_ID = "structured-data-worker-jsonld";
 export const AHREFS_VERIFICATION = "694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30";
+// GitBook publishes this machine-readable site overview. No API catalog or OpenAPI description exists.
+export const DISCOVERY_LINK = '</llms.txt>; rel="describedby"; type="text/markdown"';
 
 const clean = (text) => decodeEntities(text).replace(/\s+/g, " ").trim();
 
@@ -76,7 +78,7 @@ export async function handle(request, fetchOrigin, config) {
   if (fixed) return fixed;
 
   const { pathname } = new URL(request.url);
-  if (request.method !== "GET" || isPassThroughPath(pathname)) return fetchOrigin(request);
+  if (!["GET", "HEAD"].includes(request.method) || isPassThroughPath(pathname)) return fetchOrigin(request);
 
   const types = classifyRoute(pathname, config);
   if (types.length === 0) return fetchOrigin(request);
@@ -85,9 +87,19 @@ export async function handle(request, fetchOrigin, config) {
   const contentType = response.headers.get("content-type") ?? "";
   if (response.status !== 200 || !contentType.toLowerCase().startsWith("text/html")) return response;
 
+  // Add discovery metadata to the homepage only, preserving any origin Link values.
+  // HEAD must expose the same metadata as GET without running the HTML rewriter.
+  if (request.method === "HEAD") {
+    if (pathname !== "/") return response;
+    const out = new Response(null, response);
+    out.headers.append("Link", DISCOVERY_LINK);
+    return out;
+  }
+
   const { state, handlers } = collector();
   const out = new Response(response.body, response);
   out.headers.set("X-Structured-Data", types.join(","));
+  if (pathname === "/") out.headers.append("Link", DISCOVERY_LINK);
 
   return new HTMLRewriter()
     .on('link[rel="canonical"]', handlers.canonical)
