@@ -81,6 +81,29 @@ describe("BreadcrumbList injection on a real GitBook page", () => {
 });
 
 describe("Organization injection", () => {
+  it("puts one Ahrefs verification meta tag inside the homepage head", async () => {
+    const { fetchOrigin } = origin(simplePage());
+    const html = await (await handle(get("/"), fetchOrigin, config)).text();
+    const tag = '<meta name="ahrefs-site-verification" content="694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30">';
+    expect(html.match(/<meta name="ahrefs-site-verification"/g)).toHaveLength(1);
+    expect(html.indexOf(tag)).toBeGreaterThan(html.indexOf("<head>"));
+    expect(html.indexOf(tag)).toBeLessThan(html.indexOf("</head>"));
+    expect(html.indexOf(tag)).toBeLessThan(html.indexOf("<body>"));
+  });
+
+  it("does not duplicate an existing Ahrefs verification meta tag", async () => {
+    const existing = '<meta name="ahrefs-site-verification" content="694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30">';
+    const { fetchOrigin } = origin(simplePage(existing));
+    const html = await (await handle(get("/"), fetchOrigin, config)).text();
+    expect(html.match(/ahrefs-site-verification/g)).toHaveLength(1);
+  });
+
+  it("does not inject the Ahrefs tag into other pages", async () => {
+    const { fetchOrigin } = origin(nestedPage);
+    const html = await (await handle(get(NESTED), fetchOrigin, config)).text();
+    expect(html).not.toContain('name="ahrefs-site-verification"');
+  });
+
   it("adds one Organization block on an allowlisted route", async () => {
     const { fetchOrigin } = origin(simplePage());
     const res = await handle(get("/"), fetchOrigin, config);

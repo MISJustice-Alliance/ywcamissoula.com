@@ -2,7 +2,7 @@
 
 A Cloudflare Worker for `www.ywcaofmissoula.com`. It does two things:
 
-1. It adds a small, route-specific JSON-LD block to GitBook-rendered HTML, on an **allowlist of exact paths**. All other paths pass through unchanged.
+1. It adds a small, route-specific JSON-LD block to GitBook-rendered HTML, on an **allowlist of exact paths**, and an Ahrefs verification meta tag to the homepage head. All other paths pass through unchanged.
 2. It serves fixed UTF-8 text files that GitBook cannot host (for example a site-verification key).
 
 The JSON-LD facts come only from what the page shows: the visible GitBook breadcrumb, the visible H1, the page's own canonical link, and publisher facts that the site states. Schema is never a substitute for the evidence, attribution, or methodology on the page.
@@ -107,6 +107,7 @@ curl -sk --compressed https://127.0.0.1:8790/ | grep structured-data-worker-json
 - [ ] `/sitemap.xml`, `/robots.txt`, `/llms.txt`, and a `.md` URL are unchanged (no header, no block).
 - [ ] `curl -s https://www.ywcaofmissoula.com/s7cwab25byeh3hge7nw15jzaee6qjtxm.txt` returns exactly the key, with `content-type: text/plain; charset=utf-8`.
 - [ ] `curl -s https://www.ywcaofmissoula.com/ahrefs_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30` returns exactly `ahrefs-site-verification_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30`, with `content-type: text/plain; charset=utf-8`.
+- [ ] Homepage HTML source contains exactly one `<meta name="ahrefs-site-verification" content="694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30">` inside `<head>`; other pages have no added Ahrefs tag.
 - [ ] Browser: View Source (not the DevTools Elements panel, which shows the DOM after scripts run) shows the block before `</body>`.
 - [ ] [Schema.org Validator](https://validator.schema.org/): no errors for both types.
 - [ ] [Google Rich Results Test](https://search.google.com/test/rich-results): BreadcrumbList is detected on a breadcrumb route. Organization is not a rich-result type there; use the Schema.org Validator for it.

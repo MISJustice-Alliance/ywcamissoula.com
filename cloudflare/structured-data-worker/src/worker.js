@@ -3,17 +3,19 @@ import { canonicalUrl, decodeEntities } from "./page.js";
 import { articleNode, breadcrumbNode, datasetNode, organizationNode, toJsonLd } from "./schema.js";
 
 export const SCRIPT_ID = "structured-data-worker-jsonld";
+export const AHREFS_VERIFICATION = "694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30";
 
 const clean = (text) => decodeEntities(text).replace(/\s+/g, " ").trim();
 
 // Collects the values the schema needs while the HTML streams past.
 // Nothing is buffered: each handler keeps only short strings.
 function collector() {
-  const state = { canonical: null, hasJsonLd: false, crumbs: [], h1: null, inH1: false };
+  const state = { canonical: null, hasJsonLd: false, hasAhrefsMeta: false, crumbs: [], h1: null, inH1: false };
   let crumb = null;
   const handlers = {
     canonical: { element(el) { state.canonical ??= el.getAttribute("href"); } },
     jsonLd: { element() { state.hasJsonLd = true; } },
+    ahrefsMeta: { element() { state.hasAhrefsMeta = true; } },
     crumb: {
       element(el) {
         crumb = { href: el.getAttribute("href"), text: "" };
@@ -90,6 +92,15 @@ export async function handle(request, fetchOrigin, config) {
   return new HTMLRewriter()
     .on('link[rel="canonical"]', handlers.canonical)
     .on('script[type="application/ld+json"]', handlers.jsonLd)
+    .on('meta[name="ahrefs-site-verification"]', handlers.ahrefsMeta)
+    .on("head", {
+      element(head) {
+        if (pathname !== "/") return;
+        head.onEndTag((end) => {
+          if (!state.hasAhrefsMeta) end.before(`<meta name="ahrefs-site-verification" content="${AHREFS_VERIFICATION}">`, { html: true });
+        });
+      },
+    })
     .on('nav[aria-label="Breadcrumb"] a', handlers.crumb)
     .on("h1", handlers.h1)
     .on("body", {
