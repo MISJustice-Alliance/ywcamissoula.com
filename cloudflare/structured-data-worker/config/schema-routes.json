@@ -89,6 +89,7 @@
   },
   "staticTextFiles": {
     "/s7cwab25byeh3hge7nw15jzaee6qjtxm.txt": "s7cwab25byeh3hge7nw15jzaee6qjtxm",
-    "/ahrefs_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30": "ahrefs-site-verification_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30"
+    "/ahrefs_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30": "ahrefs-site-verification_694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30",
+    "/auth.md": "# auth.md — Agent access to MISJustice Alliance documentation\n\nThis is a public GitBook documentation and advocacy site published by MISJustice Alliance. It is not operated by YWCA of Missoula. Agents and other readers may fetch published pages without registering.\n\n## Registration and provisioning\n\nNo agent registration or provisioning endpoint is offered. There is no supported registration method, OAuth authorization server, token issuer, or protected API for this site. Do not send credentials, identity assertions, or registration requests to this domain.\n\n## Credentials and access\n\nRead public pages with unauthenticated HTTP GET requests. No API key, bearer token, OAuth scope, or user account is required or issued for public content. Pages that are not published are not available through this public site.\n"
   }
 }

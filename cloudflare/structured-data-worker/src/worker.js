@@ -68,7 +68,7 @@ function staticText(request, config) {
   if (content === undefined || !["GET", "HEAD"].includes(request.method)) return null;
   return new Response(request.method === "HEAD" ? null : content, {
     status: 200,
-    headers: { "content-type": "text/plain; charset=utf-8", "cache-control": "public, max-age=3600" },
+    headers: { "content-type": new URL(request.url).pathname === "/auth.md" ? "text/markdown; charset=utf-8" : "text/plain; charset=utf-8", "cache-control": "public, max-age=3600" },
   });
 }
 

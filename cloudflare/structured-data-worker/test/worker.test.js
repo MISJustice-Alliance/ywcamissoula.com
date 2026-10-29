@@ -222,3 +222,21 @@ describe("static verification file", () => {
     expect(calls).toEqual([]);
   });
 });
+
+describe("public agent access manifest", () => {
+  it("serves Markdown at /auth.md without advertising nonexistent registration", async () => {
+    const { fetchOrigin, calls } = origin("GitBook not found");
+    const res = await handle(get("/auth.md"), fetchOrigin, productionConfig);
+    const body = await res.text();
+    expect(res.status).toBe(200);
+    expect(res.headers.get("content-type")).toBe("text/markdown; charset=utf-8");
+    expect(body).toMatch(/^# auth\.md\b/);
+    expect(body).toContain("No agent registration or provisioning endpoint is offered");
+    expect(body).toContain("unauthenticated HTTP GET");
+    const head = await handle(get("/auth.md", "HEAD"), fetchOrigin, productionConfig);
+    expect(head.status).toBe(200);
+    expect(head.headers.get("content-type")).toBe("text/markdown; charset=utf-8");
+    expect(await head.text()).toBe("");
+    expect(calls).toEqual([]);
+  });
+});
