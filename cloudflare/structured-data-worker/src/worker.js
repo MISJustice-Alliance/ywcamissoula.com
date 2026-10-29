@@ -7,6 +7,55 @@ export const AHREFS_VERIFICATION = "694a01b0d4b596393288ec408a9343d679b676c48499
 // GitBook publishes this machine-readable site overview. No API catalog or OpenAPI description exists.
 export const DISCOVERY_LINK = '</llms.txt>; rel="describedby"; type="text/markdown"';
 
+// A bounded, read-only A2A directory for public site resources. It does not
+// answer legal questions, read private data, create tasks, or call GitBook APIs.
+const A2A_ORIGIN = "https://www.ywcaofmissoula.com";
+const A2A_TEXT = `This is a public-documentation directory, not a legal advice or question-answering agent. Read the published site overview at ${A2A_ORIGIN}/llms.txt, browse page URLs at ${A2A_ORIGIN}/sitemap-pages.xml, and check the publisher and corrections policy at ${A2A_ORIGIN}/overview/about-this-site-publisher-and-corrections. The site is published by MISJustice Alliance, not YWCA of Missoula. Verify claims against linked primary sources.`;
+export const AGENT_CARD = {
+  name: "MISJustice Alliance Public Site Directory",
+  description: "Read-only A2A directory that returns verified links to the public GitBook overview, page sitemap, and publisher/corrections policy. It does not answer substantive legal questions or act on users' behalf.",
+  version: "1.0.0",
+  supportedInterfaces: [{ url: `${A2A_ORIGIN}/a2a/v1`, protocolBinding: "JSONRPC", protocolVersion: "1.0" }],
+  provider: { organization: "MISJustice Alliance", url: A2A_ORIGIN },
+  capabilities: { streaming: false, pushNotifications: false, extendedAgentCard: false },
+  defaultInputModes: ["text/plain"],
+  defaultOutputModes: ["text/plain"],
+  skills: [{ id: "public-site-directory", name: "Public site directory", description: "Returns links to the public site overview, page sitemap, and publisher/corrections policy. Does not research or authenticate users.", tags: ["public documentation", "site navigation"] }],
+};
+
+function a2aJson(data, status = 200) {
+  return new Response(JSON.stringify(data), { status, headers: { "content-type": "application/json; charset=utf-8", "cache-control": "no-store", "access-control-allow-origin": "*" } });
+}
+
+async function a2aEndpoint(request) {
+  if (request.method !== "POST") return new Response(null, { status: 405, headers: { allow: "POST" } });
+  if (!request.headers.get("content-type")?.toLowerCase().startsWith("application/json")) return a2aJson({ error: "Content-Type must be application/json" }, 415);
+  if (Number(request.headers.get("content-length")) > 16384) return a2aJson({ error: "Request too large" }, 413);
+  let payload;
+  try {
+    const reader = request.body?.getReader();
+    if (!reader) return a2aJson({ jsonrpc: "2.0", id: null, error: { code: -32700, message: "Parse error" } });
+    const decoder = new TextDecoder();
+    let raw = "";
+    for (;;) {
+      const { done, value } = await reader.read();
+      if (done) break;
+      raw += decoder.decode(value, { stream: true });
+      if (raw.length > 16384) { await reader.cancel(); return a2aJson({ error: "Request too large" }, 413); }
+    }
+    payload = JSON.parse(raw + decoder.decode());
+  } catch { return a2aJson({ jsonrpc: "2.0", id: null, error: { code: -32700, message: "Parse error" } }); }
+  const id = payload?.id ?? null;
+  const error = (code, message) => a2aJson({ jsonrpc: "2.0", id, error: { code, message } });
+  if (!payload || Array.isArray(payload) || payload.jsonrpc !== "2.0" || (typeof payload.id !== "string" && typeof payload.id !== "number")) return error(-32600, "Invalid Request");
+  if (payload.method !== "SendMessage") return error(-32601, "Method not found");
+  const message = payload.params?.message;
+  if (message?.role !== "ROLE_USER" || typeof message.messageId !== "string" || !Array.isArray(message.parts) || !message.parts.length || !message.parts.every(p => typeof p?.text === "string")) return error(-32602, "Expected a ROLE_USER message with text parts and a messageId");
+  if (message.taskId || message.contextId || payload.params?.configuration?.returnImmediately || payload.params?.configuration?.taskPushNotificationConfig) return error(-32602, "This stateless directory does not accept tasks, context, or push notifications");
+  const contextId = crypto.randomUUID();
+  return a2aJson({ jsonrpc: "2.0", id, result: { message: { messageId: crypto.randomUUID(), contextId, role: "ROLE_AGENT", parts: [{ text: A2A_TEXT }] } } });
+}
+
 const clean = (text) => decodeEntities(text).replace(/\s+/g, " ").trim();
 
 // Collects the values the schema needs while the HTML streams past.
@@ -74,10 +123,14 @@ function staticText(request, config) {
 
 // fetchOrigin is the global fetch in production (GitBook origin behind the route).
 export async function handle(request, fetchOrigin, config) {
+  const { pathname } = new URL(request.url);
+  if (pathname === "/.well-known/agent-card.json" && ["GET", "HEAD"].includes(request.method)) {
+    return new Response(request.method === "HEAD" ? null : JSON.stringify(AGENT_CARD), { status: 200, headers: { "content-type": "application/json; charset=utf-8", "cache-control": "public, max-age=3600" } });
+  }
+  if (pathname === "/a2a/v1") return a2aEndpoint(request);
   const fixed = staticText(request, config);
   if (fixed) return fixed;
 
-  const { pathname } = new URL(request.url);
   if (!["GET", "HEAD"].includes(request.method) || isPassThroughPath(pathname)) return fetchOrigin(request);
 
   const types = classifyRoute(pathname, config);

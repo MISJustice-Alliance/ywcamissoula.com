@@ -6,6 +6,7 @@ A Cloudflare Worker for `www.ywcaofmissoula.com`. It does two things:
 2. It serves fixed UTF-8 text files that GitBook cannot host (for example a site-verification key).
 3. It advertises GitBook's existing `/llms.txt` machine-readable site overview using a `Link: </llms.txt>; rel="describedby"; type="text/markdown"` header on successful HTML homepage GET and HEAD responses. This site does not publish an API catalog or service description; do not advertise nonexistent API resources.
 4. It serves `/auth.md` as Markdown describing public, unauthenticated reading. There is no agent registration, OAuth provider, or protected API; do not publish fake OAuth discovery metadata just to satisfy a scanner.
+5. It serves a minimal read-only A2A JSON-RPC directory at `/a2a/v1` and its Agent Card at `/.well-known/agent-card.json`. The only implemented method is `SendMessage`, which returns fixed links to the public overview, sitemap, and publisher/corrections page. It does not answer legal questions, access private material, accept tasks, stream, or send push notifications. The card advertises only this behavior.
 
 The JSON-LD facts come only from what the page shows: the visible GitBook breadcrumb, the visible H1, the page's own canonical link, and publisher facts that the site states. Schema is never a substitute for the evidence, attribution, or methodology on the page.
 
@@ -112,6 +113,7 @@ curl -sk --compressed https://127.0.0.1:8790/ | grep structured-data-worker-json
 - [ ] Homepage HTML source contains exactly one `<meta name="ahrefs-site-verification" content="694a01b0d4b596393288ec408a9343d679b676c48499c304919128d77326df30">` inside `<head>`; other pages have no added Ahrefs tag.
 - [ ] `curl -sSI https://www.ywcaofmissoula.com/` and a GET response show the `describedby` Link to the working `/llms.txt`; a non-homepage page has no added Link header. The scanner at `isitagentready.com/api/scan` reports `checks.discoverability.linkHeaders.status` as `pass`.
 - [ ] `/auth.md` GET returns an H1 beginning `# auth.md` as `text/markdown`, and HEAD returns the same MIME type and no body. The external scanner's `checks.discovery.authMd.status` remains `fail` ("does not describe agent registration") because this public site has no registration service. OAuth discovery checks also fail for the same reason; do not add fictitious metadata to make them pass.
+- [ ] `/.well-known/agent-card.json` returns a valid JSON Agent Card whose JSON-RPC interface `/a2a/v1` answers a `SendMessage` request with public directory links. Unsupported methods return JSON-RPC errors. Scan `https://ywcaofmissoula.com` and confirm `checks.discovery.a2aAgentCard.status` is `pass`.
 - [ ] Browser: View Source (not the DevTools Elements panel, which shows the DOM after scripts run) shows the block before `</body>`.
 - [ ] [Schema.org Validator](https://validator.schema.org/): no errors for both types.
 - [ ] [Google Rich Results Test](https://search.google.com/test/rich-results): BreadcrumbList is detected on a breadcrumb route. Organization is not a rich-result type there; use the Schema.org Validator for it.

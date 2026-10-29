@@ -41,6 +41,51 @@ const simplePage = (extraHead = "", h1 = "Home") =>
   `<!DOCTYPE html><html><head><title>t</title><link rel="canonical" href="${ORIGIN}"/>${extraHead}</head>` +
   `<body><main><h1>${h1}</h1></main></body></html>`;
 
+describe("read-only A2A directory", () => {
+  it("publishes a card pointing at the implemented JSON-RPC interface", async () => {
+    const { fetchOrigin, calls } = origin("unused");
+    const res = await handle(get("/.well-known/agent-card.json"), fetchOrigin, config);
+    const card = await res.json();
+    expect(res.status).toBe(200);
+    expect(res.headers.get("content-type")).toContain("application/json");
+    expect(card).toMatchObject({ name: expect.any(String), version: "1.0.0", description: expect.any(String),
+      capabilities: { streaming: false, pushNotifications: false },
+      supportedInterfaces: [{ url: `${ORIGIN}/a2a/v1`, protocolBinding: "JSONRPC", protocolVersion: "1.0" }],
+      skills: [{ id: "public-site-directory", name: expect.any(String), description: expect.any(String) }],
+    });
+    expect(card.skills[0].tags.length).toBeGreaterThan(0);
+    const head = await handle(get("/.well-known/agent-card.json", "HEAD"), fetchOrigin, config);
+    expect(head.status).toBe(200);
+    expect(await head.text()).toBe("");
+    expect(calls).toEqual([]);
+  });
+
+  it("answers SendMessage with a bounded public directory, without origin access", async () => {
+    const { fetchOrigin, calls } = origin("unused");
+    const req = new Request(`${ORIGIN}/a2a/v1`, { method: "POST", headers: { "content-type": "application/json" },
+      body: JSON.stringify({ jsonrpc: "2.0", id: 7, method: "SendMessage", params: { message: { messageId: "m1", role: "ROLE_USER", parts: [{ text: "Where is the site overview?" }] } } }) });
+    const res = await handle(req, fetchOrigin, config);
+    const body = await res.json();
+    expect(res.status).toBe(200);
+    expect(body).toMatchObject({ jsonrpc: "2.0", id: 7, result: { message: { role: "ROLE_AGENT", messageId: expect.any(String), contextId: expect.any(String), parts: [{ text: expect.stringContaining(`${ORIGIN}/llms.txt`) }] } } });
+    expect(body.result.message.parts[0].text).toContain("not a legal advice");
+    expect(calls).toEqual([]);
+  });
+
+  it("rejects unsupported tasks and malformed requests without reaching GitBook", async () => {
+    const { fetchOrigin, calls } = origin("unused");
+    const base = { jsonrpc: "2.0", id: "x", method: "SendMessage", params: { message: { messageId: "m1", role: "ROLE_USER", parts: [{ text: "hello" }] } } };
+    for (const [request, code] of [[{ ...base, method: "GetTask" }, -32601], [{ ...base, params: { message: { ...base.params.message, taskId: "t1" } } }, -32602], [{ ...base, params: { message: { ...base.params.message, parts: [{ url: "https://example.com" }] } } }, -32602]]) {
+      const res = await handle(new Request(`${ORIGIN}/a2a/v1`, { method: "POST", headers: { "content-type": "application/json" }, body: JSON.stringify(request) }), fetchOrigin, config);
+      expect((await res.json()).error.code).toBe(code);
+    }
+    expect((await handle(get("/a2a/v1"), fetchOrigin, config)).status).toBe(405);
+    const huge = new Request(`${ORIGIN}/a2a/v1`, { method: "POST", headers: { "content-type": "application/json" }, body: "x".repeat(20000) });
+    expect((await handle(huge, fetchOrigin, config)).status).toBe(413);
+    expect(calls).toEqual([]);
+  });
+});
+
 describe("BreadcrumbList injection on a real GitBook page", () => {
   it("builds the trail from the visible breadcrumb and H1, before </body>", async () => {
     const { fetchOrigin } = origin(nestedPage);
