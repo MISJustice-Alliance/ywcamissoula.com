@@ -7,6 +7,20 @@ description: "How detention, financial exhaustion, and the price of trial can ma
 
 **How detention, financial exhaustion, and the price of trial can make a guilty plea a rational choice for an innocent person**
 
+> **About this article:** This research and commentary examines how detention, trial-penalty exposure, defense costs, and collateral consequences can shape a defendant’s decision to plead guilty. It compares official statistics, exoneration records, empirical studies, and legal authorities without treating plea rates as measures of innocence. Elvis Nuno’s accounts are attributed, unadjudicated examples, not independently established findings in this article.
+
+{% hint style="info" %}
+Related analysis: [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md) examines the distinct problem of obtaining counsel for civil-rights claims. [A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms](../a-deal-without-a-finish-line-the-catch-22-behind-edmonds-latest-terms.md) discusses a separately sourced Washington plea and resolution dispute.
+{% endhint %}
+
+* **Published by:** [MISJustice Alliance](../overview/about-this-site-publisher-and-corrections.md) | Legal Analysis & Advocacy Series
+* **Intended audience:** Defendants and families, defense counsel, journalists, legal researchers, and policy advocates
+* **Scope:** U.S. plea bargaining and trial rights, with federal and selected state evidence; attributed Montana and Washington accounts are not representative national data
+* **Research reviewed through:** October 30, 2026
+* **Disclaimer:** Educational and public-interest analysis, not legal advice or a finding of misconduct in Nuno’s cases. The unpublished conversational source and missing case records limit independent verification of his accounts; legal rules and available remedies depend on jurisdiction and procedural posture.
+
+***
+
 ## Executive Summary
 
 The constitutional right to trial promises an opportunity to make the government prove its accusation. Plea bargaining can make exercising that right extraordinarily expensive. A defendant may face continued detention, disappearing income, family disruption, and a substantially longer sentence if convicted after rejecting an offer. Under those conditions, admitting guilt can become a strategy for survival—even when the admission is false.
