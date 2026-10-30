@@ -35,6 +35,12 @@ Verification is record-first.
 
 Start with the **Verify first** links, then use the hubs and datasets below.
 
+### Share your experience
+
+{% hint style="info" %}
+If you believe you have experienced misconduct or civil-rights abuses connected to actions by the Missoula Police Department, the Missoula County Prosecutor's Office, or YWCA of Missoula, we encourage you to contact **MISJustice Alliance** at [outreach@misjusticealliance.org](mailto:outreach@misjusticealliance.org) or [misjusticealliance@proton.me](mailto:misjusticealliance@proton.me). Your account may help identify patterns and guide further research. Please avoid sending sensitive personal records in an initial email; ask about a safer way to share them first. Contacting us does not create an attorney-client relationship or guarantee an investigation or legal assistance. This independent site is not operated by YWCA of Missoula.
+{% endhint %}
+
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 ### Verify first (primary artifacts)
