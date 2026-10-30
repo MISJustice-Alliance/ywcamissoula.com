@@ -43,6 +43,7 @@
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
   * [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
 * [US Legal System Gaps & Analysis](research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis.md)
+  * [A Plea for Justice: The Injustice of the Plea Deal System](research-reports-legal-advocacy-and-analysis/a-plea-for-justice-the-injustice-of-the-plea-deal-system.md)
   * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](structural-failure-and-the-civil-rights-gap.md)
   * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](research-reports-legal-advocacy-and-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum.md)
   * [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](research-reports-legal-advocacy-and-analysis/when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md)

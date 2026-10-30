@@ -11,10 +11,13 @@ description: >-
 
 This hub collects the pages that argue the remedy gap is structural: the right exists, but counsel, enforcement, and oversight often do not function well enough to make that right usable.
 
+*A Plea for Justice* examines a related criminal-process gap: the right to trial may be formally available while detention, costs, and sentence exposure make rejecting a plea difficult. It separates documented national evidence from Nuno’s unadjudicated, attributed accounts.
+
 The linked analysis *When the Watchdog Walks Away* applies this framework to the current federal collapse in pattern-or-practice enforcement. It argues that the May 2025 DOJ retreat, combined with the loss of roughly 75% of the Civil Rights Division's career attorneys and the closure of the 2013–2016 Missoula administrative agreement, leaves an enforcement vacuum in which local and state institutions are expected to police themselves without an effective external backstop. The article also examines what remains available to advocates: § 1983 litigation, bar discipline, Montana POST, ODC, and public records strategies.
 
 ### Sub-pages
 
+* [A Plea for Justice: The Injustice of the Plea Deal System](./a-plea-for-justice-the-injustice-of-the-plea-deal-system.md) — sourced analysis of plea pressure, detention, innocence, and trial rights
 * [The Civil Rights Gap: Structural Failures & Barriers to Securing Legal Representation](../structural-failure-and-the-civil-rights-gap.md)
 * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
 * [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](./when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md) — investigative review of the ODC 25-147 "strategy" rationale and a documented Montana representation-gap problem

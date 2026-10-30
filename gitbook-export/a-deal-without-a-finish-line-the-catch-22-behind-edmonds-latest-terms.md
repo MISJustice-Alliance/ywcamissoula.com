@@ -11,6 +11,8 @@ tags:
 
 # A Deal Without a Finish Line: The Catch-22 Behind Edmonds’ Latest Terms
 
+For broader research on plea pressure and the right to trial, see [A Plea for Justice: The Injustice of the Plea Deal System](research-reports-legal-advocacy-and-analysis/a-plea-for-justice-the-injustice-of-the-plea-deal-system.md). Its national evidence does not independently establish the allegations discussed here.
+
 *Elvis Nuno — MISJustice Alliance | Updated October 22, 2026*
 
 The earlier open letter asked Washington a basic question: **What remains to be done, under what authority, and what will finally end the case?** The newly reviewed correspondence makes that question more urgent, not less. It identifies conditions the Edmonds prosecutor says remain outstanding, but it does not supply a complete accounting of prior compliance, a definite agreement, or a court-approved promise that completing the proposed conditions will end every obligation in the Edmonds matter.[[1]](#sources-and-authorities)

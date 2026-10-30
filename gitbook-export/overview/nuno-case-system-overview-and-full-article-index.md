@@ -169,6 +169,7 @@ Use this documentation to:
 * [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
 * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
+* [A Plea for Justice: The Injustice of the Plea Deal System](../research-reports-legal-advocacy-and-analysis/a-plea-for-justice-the-injustice-of-the-plea-deal-system.md) — national plea-bargaining research with clearly attributed, unadjudicated personal accounts
 * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum) — Source-annotated analysis of DOJ's 2025 pattern-or-practice retreat and the resulting Missoula accountability gap
 
 ### P.S. email: evidence and distinct analytical questions
