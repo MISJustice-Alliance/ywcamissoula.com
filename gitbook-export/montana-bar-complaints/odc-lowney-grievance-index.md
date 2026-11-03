@@ -1,5 +1,6 @@
 ---
 title: ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
+updated: 2026-11-03
 description: >-
   Index of ODC Lowney Grievance (April 2026) — Montana Bar, with complaint
   filings, rulings, and supporting records.
@@ -8,9 +9,11 @@ description: >-
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
 
+> **Status correction — November 3, 2026:** The Commission on Practice affirmed ODC's dismissal in an October 23, 2026 letter. Its Review Panel said the complaint did not demonstrate clear-and-convincing evidence of ethical violations after considering the complaint, ODC file/report, and Nuno's July 14 appeal. ODC's earlier June 9 limitations rationale is a distinct earlier decision. The letter describes an opportunity to request discretionary Supreme Court review; the supplied record does not establish a request or Court action. [Read the two-file decision update](tipp-lowney-disciplinary-decisions-october-2026.md). Historical descriptions below of a pending Commission review are superseded.
+
 ## Current status and review posture
 
-**Current posture:** ODC dismissed the Brian C. Lowney grievance in ODC File No. 26-145 by letter dated June 9, 2026, on the ground that ODC viewed the claims as barred by MRLDE Rule 11(A)'s limitations period. The letter states that the "charges happened in 2019" and that no facts supporting tolling under Rule 11(C) or an exception under Rule 11(D) were alleged. ODC advised that a written request for Commission on Practice review must be submitted on or before July 9, 2026.
+**Current posture (November 3, 2026):** ODC dismissed ODC File No. 26-145 by letter dated June 9, 2026, on a Rule 11 limitations ground. The Commission later affirmed dismissal in an October 23 letter, stating that the panel found insufficient clear-and-convincing evidence of ethical violations. The letter describes a possible written Rule 14 request for discretionary Supreme Court review, but no such subsequent filing or Court action is established in the supplied records. See the [decision update](tipp-lowney-disciplinary-decisions-october-2026.md).
 
 **Review response:** A Commission on Practice review request has been prepared and published here. It argues that ODC's limitations analysis was incomplete because it treated the grievance as a single 2019 event rather than addressing discovery accrual, continuing-offense timing, tolling, and exceptions under MRLDE Rule 11. It also adds Montana and federal authority supporting investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver issues.
 
@@ -70,11 +73,12 @@ Related starting points:
 #### Shared civil-intake analysis
 
 * [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
-  * **Summary:** Distinguishes the pending Lowney prosecutorial-misconduct grievance from the rejected Tipp ODC 25-147 defense-counsel complaint and frames both tracks for potential civil counsel and civil-rights advocacy organizations.
+  * **Summary:** Earlier analysis distinguishes the prosecution-side and defense-counsel tracks; both disciplinary dismissals were subsequently affirmed at different levels. See the November 2026 update above.
   * **What changed at this stage:** Adds a cross-track authorities map for Brady/Giglio, First Amendment retaliation, speech-waiver, and malpractice-intake issues.
+* [Montana Supreme Court Affirms Tipp Grievance Dismissal; Commission Upholds Lowney Dismissal](tipp-lowney-disciplinary-decisions-october-2026.md) — later status of both files.
 * [The ODC's Technicality Defense — Analysis of the July 30, 2026 Closure Letter in ODC File No. 25-147](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-file-no-25-147-july-30-2026-closure-letter-technicality-defense-analysis)
   * **Summary:** Documents how ODC collapsed the Tipp complaint into an outcome-based "strategy" defense, withheld the underlying explanation record, and cited an appeal path that is practically inaccessible; includes the DPA speech-waiver, gag-order, and appeal-barrier analysis shared with the Lowney track.
-  * **What changed at this stage:** Adds the July 30 closure letter as the latest agency response and gives the Lowney track a directly linked evidentiary-black-box companion for the speech-waiver and institutional-opacity analysis.
+  * **What changed at that stage:** The July 30 Tipp letter was the then-latest ODC response; later decisions in both files are described above.
 
 #### Primary grievance
 

@@ -24,6 +24,7 @@ tags:
 * **Prepared by:** MISJustice Alliance — Civil Rights Advocacy Team
 * **Published:** October 12, 2026 | Legal Analysis & Advocacy Series
 * **Updated:** October 12, 2026 | DOJ, court-record, complaint-data, and local-reporting synthesis
+* **Editorial status note (November 3, 2026):** Subsequent disciplinary decisions in the Tipp and Lowney grievances are reported [separately](../montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md). Those adverse outcomes do not establish the collective civil theories proposed below, and neither outcome decides such a suit. This article's October 12 evidence cutoff remains the cutoff for the original analysis; the November note corrects only the subsequent disciplinary posture.
 * **Intended audience:** Attorneys, legal researchers, journalists, and civil-rights advocates
 
 {% hint style="warning" %}

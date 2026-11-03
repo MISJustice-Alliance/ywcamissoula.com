@@ -18,6 +18,8 @@ tags:
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
+> **Later outcome — November 3, 2026:** This article analyzes the July/August ODC correspondence as it stood then. A subsequent Montana Supreme Court order in ODC File No. 25-147, stamped filed October 22, affirmed the Commission's dismissal. The Court called Nuno's August 13 request untimely and characterized it as asking for clarification, not merits review. The article's earlier uncertainty about Court action has therefore been resolved; the order does not decide a separate civil claim or every underlying allegation. [Read the decision report](tipp-lowney-disciplinary-decisions-october-2026.md). The historical analysis below is retained with that later result in view.
+
 > **Informational, not legal advice.** This article is advocacy-oriented
 > public reporting. It does not conclude that any factual allegation is true
 > or false, and it does not conclude that any professional-conduct rule was
@@ -108,9 +110,9 @@ disclosed in either July letter is the appeal's procedural status. A later
 [September 23, 2026 Commission letter](odc-25-147-september-23-2026-supreme-court-transmittal.md)
 now confirms that the Commission received Nuno's August 13 appeal letter and
 transmitted it, with ODC's original file, to Chief Justice Cory Swanson and
-the Montana Supreme Court pursuant to Rule 14. The transmittal does not say
-that the Court granted discretionary review, assigned a public docket number,
-or decided the merits.
+the Montana Supreme Court pursuant to Rule 14. The transmittal did not itself
+establish that the Court granted discretionary review or decided the merits;
+the later October order affirmed the Commission's dismissal, as reported above.
 
 ### The August 21, 2026 letter to Eleanor Nuno, as described in the legal-analysis memorandum
 

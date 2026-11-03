@@ -11,6 +11,8 @@ description: >-
 
 # ODC File No. 25-147 — September 23, 2026 Supreme Court Transmittal
 
+> **Editorial update — November 3, 2026:** This article records what the September 23 letter established at that time. A later Montana Supreme Court order in ODC File No. 25-147, bearing an October 22, 2026 filing stamp, calls Nuno's August request untimely, characterizes it as seeking clarification rather than merits review, and **affirms the Commission's dismissal**. The status questions below are historical, not current. The letter describes a January 7 Commission affirmance; the later order refers to a February 9 notice letter. These may be decision and notice dates, respectively, but the underlying records have not yet been reconciled. See the [November 2026 decision update](tipp-lowney-disciplinary-decisions-october-2026.md). The earlier text is retained to show what was known from the transmittal alone.
+
 ## Executive snapshot
 
 On September 23, 2026, the Commission on Practice of the Supreme Court of the State of Montana sent Chief Justice Cory Swanson a letter concerning **ODC File No. 25-147, Bryan C. Tipp, Esq.** The letter says the Commission received a letter from Elvis R. Nuno on August 13, 2026 “wherein he is appealing the Commission's decision” affirming the Office of Disciplinary Counsel's dismissal. The Commission provided the Court with a copy of Nuno's appeal letter and ODC's original file in PDF format.

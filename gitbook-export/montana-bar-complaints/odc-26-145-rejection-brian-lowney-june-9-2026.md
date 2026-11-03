@@ -12,6 +12,8 @@ description: >-
 
 # ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)
 
+> **Editorial update — November 3, 2026:** This page preserves ODC's June dismissal and its stated limitations rationale. A later October 23, 2026 Commission on Practice letter says the review panel considered the original complaint, the ODC file/report and Nuno's July 14 appeal; it concluded the complaint did not demonstrate clear-and-convincing evidence of ethical violations and affirmed dismissal. The two institutions stated different rationales. No Supreme Court action in the Lowney matter is established by the supplied letter. See the [two-file news update](tipp-lowney-disciplinary-decisions-october-2026.md).
+
 ## Primary artifact
 
 * **Document:** ODC-26-145-Rejection.pdf

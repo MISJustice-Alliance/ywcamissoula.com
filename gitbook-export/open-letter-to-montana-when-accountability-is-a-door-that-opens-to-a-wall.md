@@ -20,6 +20,8 @@ tags:
 
 *Elvis Nuno — MISJustice Alliance | September 28, 2026*
 
+> **Editorial note — November 3, 2026 (not part of the September 28 letter):** Since this letter was written, a Montana Supreme Court order in ODC File No. 25-147 has affirmed the dismissal of Nuno's grievance against Bryan C. Tipp, and the Commission on Practice has affirmed ODC's dismissal in the separate Brian C. Lowney matter, File No. 26-145. The [later decision report](montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md) explains the different procedural stages and the decisions' limits. The first-person text below retains its original September 2026 perspective; it is advocacy, not a substitute for the decisions.
+
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 > ### Reading this record

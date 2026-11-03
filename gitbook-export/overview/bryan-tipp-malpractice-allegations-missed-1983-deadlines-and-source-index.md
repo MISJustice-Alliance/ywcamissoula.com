@@ -8,6 +8,8 @@ description: >-
 
 # Bryan Tipp: malpractice allegations, missed §1983 deadlines, and source index
 
+> **Disciplinary status — November 3, 2026:** The Montana Supreme Court affirmed the Commission's dismissal of the grievance against Bryan C. Tipp in ODC File No. 25-147. Its order, stamped filed October 22, 2026, calls Nuno's August request untimely and characterizes it as seeking clarification rather than merits review. This is not a decision on civil-malpractice liability or each factual allegation. [Decision report](../montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md).
+
 ### Executive snapshot
 
 This hub collects Bryan Tipp malpractice **allegations** and the linked primary documents. It is a navigation page for filings, packets, and supporting correspondence. Start with the **Verify first** links, then use “Start here” for the analysis pages.
