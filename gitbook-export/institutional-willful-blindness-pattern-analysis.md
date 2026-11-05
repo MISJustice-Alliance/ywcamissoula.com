@@ -17,6 +17,7 @@ tags:
 ---
 
 # Institutional Willful Blindness: A Pattern Analysis of Complaint-Suppression Across Missoula's Oversight Architecture
+> **Record correction — November 5, 2026:** This June 2026 advocacy analysis incorrectly describes the Lowney ODC dismissal in sections III–IV as based on scope of representation. ODC's [June 9, 2026 notice](montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md) instead cited a Rule 11 limitations ground. The [Tipp November 2025 determination](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md) contains substantive reasons; claims below that no ODC response addressed *any* allegation or that ODC deliberately avoided review go beyond what the available notices establish. The historical advocacy text is retained below; read the [dated follow-up](montana-bar-complaints/odc-time-bar-strategy-reasons-unanswered.md) and [revised analytical comparison](research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) for the narrower record-based assessment.
 
 > **About this page:** This pattern analysis looks at how complaints were handled across Missoula's oversight bodies, including the attorney-discipline channel (ODC-25-147 and ODC-26-145). It sets out what each agency received and how the page characterizes each response. It is the longest analysis in this section.
 

@@ -508,6 +508,9 @@ ultimately serves.
 
 ## Related Records and Further Reading
 
+- [When 'Time-Barred' and 'Strategy' End the Inquiry: The Duty to Give Reasons](research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) — a distinct named-case analysis of reasons supplied in two ODC files
+- [A Time Bar, Then 'Strategy': What ODC's Reasons Leave Unanswered](montana-bar-complaints/odc-time-bar-strategy-reasons-unanswered.md) — dated factual follow-up
+
 - [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index](montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index.md)
 - [ODC File No. 25-147 July 2026 Closure Letter — Record and Legal Analysis](montana-bar-complaints/odc-25-147-july-2026-closure-response-analysis.md)
 - [Sources & record index](overview/sources-and-record-index.md)

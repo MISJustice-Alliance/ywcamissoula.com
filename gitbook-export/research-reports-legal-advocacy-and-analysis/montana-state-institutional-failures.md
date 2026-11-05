@@ -17,6 +17,8 @@ This hub groups the pages that treat accountability failures as statewide, not m
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis)
 * [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding in Attorney-Regulation Systems](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/transparency-and-public-understanding-attorney-discipline) — anonymized, record-first research report on attorney-disciplinary closure correspondence, supplemental evidence, and non-client submissions
+* [When 'Time-Barred' and 'Strategy' End the Inquiry: The Duty to Give Reasons](odc-time-bar-strategy-duty-to-give-reasons.md) — named ODC case study; distinguishes threshold dismissal from an explanation of the allegations
+* [A Time Bar, Then 'Strategy': What ODC's Reasons Leave Unanswered](../montana-bar-complaints/odc-time-bar-strategy-reasons-unanswered.md) — dated Tipp/Lowney correspondence follow-up
 
 ### Supporting evidence
 

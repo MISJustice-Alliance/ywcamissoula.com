@@ -8,6 +8,8 @@ description: >-
 
 # Montana Supreme Court Affirms Tipp Grievance Dismissal; Commission Upholds Lowney Dismissal
 
+> **Further reporting — November 5, 2026:** [A Time Bar, Then 'Strategy': What ODC's Reasons Leave Unanswered](odc-time-bar-strategy-reasons-unanswered.md) compares the notices with later questions about what material was considered and why the stated grounds applied. The [companion analysis](../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) discusses the broader explanation standard. Neither changes the procedural outcomes reported below.
+
 > **About this article:** A report on two disciplinary documents supplied to MISJustice Alliance and visually reviewed on November 3, 2026. A reproduction of the Tipp order and a recipient-address-redacted reproduction of the Lowney letter are linked below. These descriptions are attributed to the documents, not independent findings about the underlying alleged conduct.
 
 {% hint style="info" %}

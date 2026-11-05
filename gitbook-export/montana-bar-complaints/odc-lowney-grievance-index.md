@@ -8,6 +8,7 @@ description: >-
 
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
+> **Explanation update — November 5, 2026:** [The Tipp/Lowney follow-up](odc-time-bar-strategy-reasons-unanswered.md) examines why ODC's time-bar notice did not address the alleged conduct on its merits and what remains unexplained about the Commission's later ground. See also the [companion analysis](../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md). Neither article establishes a later Court ruling in this file.
 
 > **Status correction — November 3, 2026:** The Commission on Practice affirmed ODC's dismissal in an October 23, 2026 letter. Its Review Panel said the complaint did not demonstrate clear-and-convincing evidence of ethical violations after considering the complaint, ODC file/report, and Nuno's July 14 appeal. ODC's earlier June 9 limitations rationale is a distinct earlier decision. The letter describes an opportunity to request discretionary Supreme Court review; the supplied record does not establish a request or Court action. [Read the two-file decision update](tipp-lowney-disciplinary-decisions-october-2026.md). Historical descriptions below of a pending Commission review are superseded.
 

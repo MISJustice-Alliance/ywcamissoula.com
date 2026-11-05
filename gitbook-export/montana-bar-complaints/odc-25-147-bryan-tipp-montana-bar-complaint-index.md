@@ -8,6 +8,7 @@ description: >-
 
 
 # ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
+> **Explanation update — November 5, 2026:** [The Tipp/Lowney follow-up](odc-time-bar-strategy-reasons-unanswered.md) and [companion analysis](../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) compare the written reasons with later, document-specific questions. They do not reopen the Supreme Court's October disposition.
 
 > **Status correction — November 3, 2026:** A later Montana Supreme Court order, stamped filed October 22, 2026, affirms the Commission's dismissal of ODC File No. 25-147. Earlier statements below describing Supreme Court action as pending or unknown reflect the pre-order record and are superseded. The Court found Nuno's August 13 request untimely and characterized it as seeking procedural clarification rather than merits review. This is an adverse disciplinary disposition, not a civil-malpractice ruling. [Read the two-file decision update](tipp-lowney-disciplinary-decisions-october-2026.md). The September 23 transmittal says January 7 Commission affirmance; the order describes a February 9 notice letter. Compare the underlying records before resolving that date difference.
 

@@ -213,6 +213,7 @@ The most independently verifiable story is the use-of-force disparity: **505 UoF
 The secondary story is the POST pipeline: a paralegal reviewed and closed a multi-year, multi-document civil rights complaint in under 15 hours — and then refused to engage with a correction. The correspondence is documented in primary-source email records. Neither story requires anonymous sources. Both are verifiable from publicly available or directly obtained documents.
 
 ### Related Accountability Analysis
+For a distinct lawyer-discipline comparison that does not equate ODC's rules with police oversight, see [When 'Time-Barred' and 'Strategy' End the Inquiry](research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md).
 
 For complementary analyses of MPD oversight data and structural reform requirements, see:
 
