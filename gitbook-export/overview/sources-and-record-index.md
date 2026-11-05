@@ -10,6 +10,8 @@ description: >-
 
 > **New source review — November 3, 2026:** MISJustice Alliance visually reviewed a two-page Montana Supreme Court order in ODC 25-147 (first page stamped filed October 22, 2026) and a two-page Commission on Practice letter dated October 23, 2026 in ODC 26-145. The [source-attributed decision report](../montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md) links the Tipp order and recipient-address-redacted Lowney letter and identifies the unresolved January 7 decision / February 9 notice date distinction. Contact the [publisher](about-this-site-publisher-and-corrections.md) with corrections.
 
+> **New primary correspondence — November 5, 2026:** The [three-page, email-address-redacted PDF of Nuno's November 4 Lowney clarification request and Bucy's November 5 reply](../.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf) is a raster derivative of the privately held original, not an advocacy summary. The [source ledger and dated chronology](../montana-bar-complaints/odc-review-evidence-ledger-2026.md) identify what it establishes and what the disclosed correspondence does not resolve. The email does not concern a new Tipp decision.
+
 ### Short answer: which materials are primary records, and how to verify them
 
 **Question:** Which items on this site are primary records, and how can a reader check a statement against them?
@@ -43,6 +45,7 @@ This page is the canonical source list for the project. It separates **primary r
   * [ODC Lowney Grievance (April 2026) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-lowney-grievance-index)
   * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
   * [October 2026 Tipp Supreme Court order and Lowney Commission decision — source-attributed report](../montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md) (both two-page records linked; Lowney recipient address redacted)
+  * [November 4–5 Lowney explanation exchange — redacted primary PDF](../.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf) ([source ledger](../montana-bar-complaints/odc-review-evidence-ledger-2026.md))
   * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
   * [MPD Civilian Complaint Scorecard & Accountability Analysis (2016–2022)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-police-department/mpd-civilian-complaint-scorecard-analysis)
   * [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/structural_failure_of_police_accountability_in_montana_from_mpd_to_post)
