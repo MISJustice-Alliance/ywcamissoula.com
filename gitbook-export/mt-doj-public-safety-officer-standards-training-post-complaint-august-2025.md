@@ -32,7 +32,7 @@ Related correspondence:
 
 ### Pattern Analysis
 
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis of how POST's five-year temporal bar and other procedural mechanisms prevent substantive review of continuing-pattern complaints
+* [Institutional Willful Blindness: revised cross-institution pattern analysis](institutional-willful-blindness-pattern-analysis.md) — November 5, 2026 update distinguishing POST's stated jurisdiction and five-year screening grounds, its later-disclosed internal review route, and the separate ODC decisions; it does not establish that every allegation was ignored.
 
 ## Summary
 

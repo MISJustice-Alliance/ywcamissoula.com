@@ -2,8 +2,7 @@
 title: >-
   Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)
 description: >-
-  The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents
-  a profound failure to comprehend the nature and scope of the allegations....
+  August 2025 POST complaint closure and May–June 2026 correspondence: stated purview and age grounds, later-disclosed committee review, and remaining case-specific questions.
 tags:
   - Civil Rights Violations
   - Evidence
@@ -17,17 +16,19 @@ tags:
 
 # Post-Mortem of MT DoJ POST Complaint Dismissal (August 2025)
 
+> **Record correction — November 5, 2026:** This page preserves the original advocacy argument, but its descriptions of a single five-year ground, no review route, unread submissions, and deliberate institutional design are not established by the linked correspondence. POST's August 13 response said Director Allred reviewed complaint information, **most issues fell outside POST's purview**, and allegations older than five years generally would not be investigated except in limited circumstances. Its August 27 message expressly closed the matter. On June 2, 2026 staff disclosed an internal Case Status Committee review route on non-anonymous request; no committee request or outcome is established here. The [revised cross-institution analysis](institutional-willful-blindness-pattern-analysis.md) supplies the current assessment; statements below attributing motive or treating a review route as nonexistent should not be relied upon as findings.
+
 [E-Mail: RE: \[EXTERNAL\] Request for Investigation – Allegations of Police Corruption and Civil Rights Violations](https://cr-2025-002-complaint-12_misjusticealliance.arweave.net/)
 
 Related:
 
 * [Original MT DoJ POST complaint (08-12-2025)](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 * [CR-2025-002 — Case files index](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/cr-2025-002-case-files-index)
-* [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis) — Systemic analysis documenting POST's temporal-bar inversion and the broader pattern of procedural foreclosure across Montana oversight channels
+* [Institutional Willful Blindness: revised cross-institution pattern analysis](institutional-willful-blindness-pattern-analysis.md) — Updated November 5, 2026; compares the two POST screening grounds and later-disclosed committee route with distinct attorney-discipline decisions. It does not establish that the POST submission went unread or that the review route was unavailable.
 
 ## The Fundamental Misunderstanding
 
-The POST dismissal of Mr. Nuno's complaint in less than 24 hours represents a profound failure to comprehend the nature and scope of the allegations. The response stating that "POST does not investigate allegations that are over 5 years old" fundamentally mischaracterizes what the documentation clearly establishes: **this is not a case of isolated historical incidents, but rather an ongoing pattern of institutional harassment that continues to the present day**.
+The August 13 response said Director Allred reviewed the complaint information, that most issues were outside POST's purview, and that allegations more than five years old generally are not investigated except in limited circumstances. It arrived the morning after submission. The complaint alleged both older incidents and a continuing pattern; the response did not explain which officer-specific acts fell under which ground or how alleged recent conduct was treated. The August 27 message expressly closed the matter. That is a gap in the disclosed explanation, not proof that the full submission was unread or that every claimed recent harm was new misconduct within POST's certification mandate.
 
 ## Evidence of Ongoing Pattern Through 2025
 
@@ -70,12 +71,7 @@ On May 27, 2026, the following response was received from Katrina Bolger:
 >
 > Katrina Bolger
 
-This response confirms what the post-mortem analysis identified: POST's process is entirely self-referential — complaints are evaluated against POST's own administrative rules and internal policy, with no external accountability mechanism. The response notably:
-
-- Provides no substantive engagement with the specific questions raised
-- Offers no explanation for the refusal to address the ongoing-pattern framing
-- Declines to confirm whether the full submission was reviewed
-- Cites only internal procedural documents as the governing authority
+This response confirms that POST regarded its August 13 jurisdiction and age grounds as the reasons for not proceeding. It did not answer the later case-specific questions about which attachments were reviewed, how alleged recent conduct was classified, or which provisions were applied to particular officer allegations. Those omissions in the disclosed correspondence do not establish that POST did not review the material; they explain why the Alliance sought further clarification.
 
 The full correspondence is available in the case file: [RE: Request for clarification regarding POST procedures and complaint closure](.gitbook/assets/RE-Request-for-clarification-regarding-POST-procedures-and-complaint-closure.pdf)
 
@@ -91,33 +87,22 @@ The full correspondence is available in the case file: [POST Response — June 2
 >
 > "The request cannot be anonymous."
 
-This is not a trivial procedural footnote. It is a **material omission** from every prior communication. During the original complaint process in August 2025, Mr. Nuno received a single-sentence dismissal with no explanation of appeal rights, no reference to the Case Status Committee, and no indication that the director's determination was subject to any further review. When clarification was sought in May 2026, the response cited only internal ARM provisions and declined to confirm whether the full submission had been reviewed — still without mentioning the Case Status Committee pathway.
+The later disclosure matters because the August 2025 and May 2026 messages reviewed here did not identify the Case Status Committee route. The August 13 message did, however, state **both** jurisdiction and age reasons, and the August 27 message expressly closed the matter. The May response reiterated that reasons had been supplied. This sequence left the complainant without a case-specific account of which acts fell outside POST's jurisdiction and which were screened by age; it does not prove that no material was reviewed or that no further review existed.
 
-The June 2 disclosure does not cure the transparency concerns identified in this post-mortem. Instead, it confirms them: POST's prior communications did not fully explain the review structure available within the Council and did not clearly inform the complainant of the mechanism by which the director's determination could be challenged. The result was a complaint process that remained **opaque at the very moment when clarity was most necessary**.
+The June 2 disclosure does not answer the remaining case-specific questions, but it does establish that an internal review route exists. The earlier correspondence reviewed here did not identify that route; whether a request was made, whether other public materials described it, and what the Case Status Committee would decide are not established by this email chain.
 
 ### Why This Matters Structurally
 
-| Issue | Impact |
-|---|---|
-| **No mention in original dismissal (August 2025)** | Complainant left with no knowledge that further review was possible |
-| **No mention in May 2026 clarification response** | Repeated inquiry still failed to surface the Committee mechanism |
-| **"Not anonymous" requirement** | Raises barrier for complainants who have documented fear of retaliation |
-| **Self-referential review** | Committee is part of the same Council whose director made the original determination — no independent oversight |
-| **No published procedure** | No public documentation found on how to request Committee review, what standard of review applies, or what remedies are available |
+| Issue | What the disclosed exchange shows |
+| --- | --- |
+| Original August 2025 response | POST stated purview and general age grounds, but the reviewed messages did not identify the committee route or allocate each officer allegation to a ground. |
+| May 2026 clarification | POST said reasons had been given and pointed to public rules without answering the specific application questions. |
+| June 2 committee disclosure | A non-anonymous complainant may request committee review of the director's determination. The chain does not show a request or outcome. |
+| Scope of internal review | The committee is part of POST, not an external tribunal. This alone does not establish bias, ineffectiveness or the standard it would apply. |
 
-The Case Status Committee's review power, as described, is not an external appeal. It is an **internal reconsideration by the same body** that employs the director whose determination is being challenged. This does not satisfy the minimum standard of impartiality that a genuine accountability mechanism requires. It is the functional equivalent of allowing a police department's internal affairs division to review its own chief's decisions — a structure that predictably produces the outcomes it is designed to protect.
+### Integration with the original post-mortem
 
-### Integration with the Original Post-Mortem Findings
-
-This addendum reinforces every conclusion reached in the original analysis:
-
-1. **POST's process is entirely self-referential** — The Case Status Committee is not an independent body. It is a subcommittee of the same Council that sets POST policy, employs the director, and benefits from maintaining the appearance of functional oversight without the substance.
-
-2. **Transparency failures are systemic, not incidental** — The Committee mechanism was not disclosed in the original dismissal, not disclosed in the May 2026 clarification, and only surfaced after persistent follow-up. This is not oversight; it is **managed opacity**.
-
-3. **The complainant was denied informed participation** — A process that does not tell a complainant how to challenge a dismissal until months later, and only then in response to repeated inquiry, is not a process designed to receive complaints. It is designed to deflect them.
-
-4. **The "not anonymous" requirement is a retaliation risk** — For a complainant who has documented a decade of institutional retaliation, including home raids, career destruction, and ongoing daily harassment, a requirement to attach their name to a challenge of a powerful state agency's dismissal is not a neutral procedural rule. It is a **deterrent**.
+The useful, narrower finding is a delayed disclosure of an available internal review path and the absence of a case-specific explanation allocating the claimed recent officer conduct among POST's stated purview and age grounds. Whether a further agency or judicial route was available, and whether the committee would have changed the result, requires additional records. A non-anonymous-request condition may affect a person's willingness to seek review, but the record does not establish that it was imposed to deter this complainant or that it prevented a request.
 
 ### The Addendum Source Document
 
@@ -175,7 +160,7 @@ The attached email chain should be read as part of the evidentiary record surrou
 
 ## Conclusion
 
-POST's dismissal demonstrates either failure to review documentation or institutional unwillingness to address systemic corruption. The June 2026 disclosure of the Case Status Committee mechanism — months after the original dismissal and only after repeated inquiry — confirms that POST's complaint process is structurally designed to **appear accountable while remaining inaccessible**. A review body that is not disclosed to complainants, that is not independent of the decision-maker, and that imposes identity requirements on challengers is not an accountability mechanism. It is an **architectural feature of the same system it purports to oversee**.
+The reviewed correspondence establishes a narrower and more useful problem: POST gave two threshold reasons on August 13, 2025—purview and age—closed the matter on August 27, and later referred general process questions to its public rules. It did not identify which particular officer allegations were screened by which ground or how the claimed newer conduct was classified. Its June 2, 2026 message identified an internal Case Status Committee review route that had not appeared in the earlier exchange. That route exists; the record here does not show whether it was used or how the committee would decide. Rapid closure and incomplete explanation do not establish that the material was unread, that misconduct occurred, or that officials designed the process to suppress a complaint. They do support asking for a case-specific account of the screening and a clear description of review options at the time of closure.
 
 ### See also
 
