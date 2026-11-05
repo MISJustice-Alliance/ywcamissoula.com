@@ -40,6 +40,7 @@
   * [Structural Failure of Police Accountability in Montana: From the Local Level to the State DOJ](Structural_Failure_of_Police_Accountability_in_Montana_From_MPD_to_POST.md)
   * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](institutional-willful-blindness-pattern-analysis.md)
   * [When a Disciplinary Complaint Closes: Transparency, Evidence, and Public Understanding](transparency-and-public-understanding-attorney-discipline.md)
+  * [When a Complaint Closes: What Montana’s Oversight Process Decides—and What It Leaves Unclear](when-a-complaint-closes.md)
   * [When 'Time-Barred' and 'Strategy' End the Inquiry: The Duty to Give Reasons](research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
   * [Remembering When: Missoula rape-capital era](remembering-when-mpd,-county-prosecutors,-and-the-ywca-allowed-missoula-to-becom.md)
