@@ -7,8 +7,6 @@ reviewed_through: 2026-11-05
 
 # Institutional Willful Blindness: A Pattern Analysis of Complaint-Suppression Across Missoula's Oversight Architecture
 
-> **November 5, 2026 revision of the June 27, 2026 analysis.** The original title is retained as publication history, not a finding of deliberate blindness or suppression. The earlier account incorrectly assigned a scope-of-representation ground to the Lowney grievance, conflated two different attorney matters, and overstated what the available records show about local police review and institutional intent. This proposed replacement corrects those claims rather than leaving a disclaimer atop contradictory prose. The new evidence is Chief Disciplinary Counsel Pamela D. Bucy's November 5 answer to a narrowed Lowney-file clarification request. The original text remains available in the repository's version history; this revision is subject to editorial approval.
-
 > **About this article:** A case-based comparison of how selected police-certification and attorney-discipline complaints by one complainant were received, closed, and reviewed. The underlying misconduct allegations remain allegations, not findings.
 
 {% hint style="info" %}
