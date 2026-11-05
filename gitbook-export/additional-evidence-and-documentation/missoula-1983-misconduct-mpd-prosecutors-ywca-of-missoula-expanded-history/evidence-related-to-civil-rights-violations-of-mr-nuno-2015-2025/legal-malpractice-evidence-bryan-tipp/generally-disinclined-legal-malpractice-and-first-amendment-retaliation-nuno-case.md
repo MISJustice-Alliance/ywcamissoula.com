@@ -11,7 +11,7 @@ description: >-
 # "Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)
 
 {% hint style="info" %}
-This document heavily references official correspondence between Bryan Tipp and Missoula County Deputy Attorney Brian Lowney sent December 23, 2020, which can be viewed in its entirety here: [https://cr-2024-002-ruling-4\_misjusticealliance.arweave.net/](https://cr-2024-002-ruling-4_misjusticealliance.arweave.net/)
+Read the [two-page December 23, 2020 Tipp-to-Lowney letter (PDF)](../../../../.gitbook/assets/tipp-lowney-letter-december-23-2020.pdf). This letter is **not** Tipp's separate same-day “generally disinclined” email to Nuno. The letter asked the prosecutor to secure dismissal with prejudice and reported speech-related complaints and employment concerns; it does not establish that Tipp did nothing, that Chard authored any particular post, or that Tipp adjudicated a First Amendment violation. Some stronger conclusions below are advocacy assertions, not findings established by this PDF. See the [later, source-bounded ODC analysis](../../../../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md).
 {% endhint %}
 
 ### Quick links
@@ -80,26 +80,20 @@ He further documents:
 
 > "The comments allege that Elvis is a 'woman beater and stalker.' As such, they have caused the organization, and concomitantly Elvis, great consternation."
 
-**Critical implication:** Tipp explicitly recognized:
+**What the letter establishes:** Tipp characterized Nuno's speech as an exercise of constitutional rights, said Lowney had heard complaints about it, attributed online comments to E'Lise “(and perhaps some of her friends)” as information that had come to his attention, and reported consternation and separate employment difficulties. It does **not** independently establish the posts' authorship, a retaliatory motive, falsity, a First Amendment violation, or the amount and cause of any economic loss. Tipp also sought a dismissal with prejudice; the letter cannot fairly be described as inaction on the criminal case.
 
-1. **First Amendment protection** for Nuno's speech
-2. **E'Lise Chard's retaliatory motive** (found speech "objectionable")
-3. **Ongoing harassment campaign** (public online comments)
-4. **Material economic harm** (organizational consternation, career damage)
+#### A-1. January 2021 allegations requiring separate source review
 
-#### A-1. Awareness Extended Into January 2021: The Tyleen Root Business-Sabotage Campaign
+Nuno also reports a January 2021 exchange with Tipp concerning later online comments and alleged interference with his work. The December 23 PDF does not include that exchange or verify who wrote any later post, whether Chard recruited anyone, whether a post was defamatory, or its effect on the business. Those propositions require the original messages, publication records and evidence of resulting harm. The December letter itself documents Tipp's advocacy for final dismissal, not a finding that he ignored the criminal matter.
 
-Tipp's knowledge of ongoing, escalating harassment did not end with the December 23, 2020 letter — it continued into the final days of the representation itself. A documented **January 2021 email correspondence between Nuno and Tipp** exists in the case file addressing the Tyleen Root harassment campaign specifically: E'Lise Chard's recruitment of a YWCA client to run a coordinated defamation and business-sabotage operation against Nuno, including a public Facebook post on the page of his IT nonprofit calling him "a stalker and a woman beater" — precisely the kind of economic and reputational destruction Tipp's own December 23 letter to Lowney had already acknowledged as flowing from E'Lise's retaliation. This places Tipp's knowledge of the harassment campaign at the literal end of the attorney-client relationship, not merely at its outset: he was contemporaneously informed, in writing, that the retaliation he had already characterized as a First Amendment violation to the prosecuting attorney was actively metastasizing into third-party-recruited economic sabotage of his client's livelihood — and he still took no action.
+#### A-2. The disputed referral and civil-advice questions
 
-#### A-2. Complete Abandonment: Refusing Both the Referral Letter and Civil Representation
+Nuno alleges that counsel should have done more about a requested police-referral letter and civil-rights deadlines. The December 23 letter to Lowney is evidence *against* describing Tipp as wholly inactive: he urged final dismissal. The letter does not answer whether another lawyer was suggested, whether specific limitations dates were conveyed, or whether Tipp had an obligation to take the additional steps Nuno requested. Those questions require the separate client correspondence and full representation record:
 
-The combination of (1) Tipp's acknowledged, written knowledge that E'Lise Chard's retaliation constituted a First Amendment violation causing "great consternation" and economic harm, (2) his contemporaneous January 2021 knowledge that the harassment had escalated into a coordinated third-party business-sabotage campaign (Tyleen Root), and (3) his flat, unexplained refusal — "I am generally disinclined" — to provide **either** of the two remedies Nuno requested, is not merely a series of discrete rule breaches. Read together, it describes complete abandonment of the client at the exact moment abandonment caused the most harm:
+* **Requested institutional letter:** Nuno says Tipp declined to write to the Missoula Police Chief seeking a state investigation. The “generally disinclined” phrase comes from a *separate* same-day communication with Nuno, not the Lowney PDF; the complete exchange is needed to assess its scope and any suggested alternatives.
+* **Civil advice and referral:** Nuno says he received neither actionable deadlines nor a useful referral. The [ODC determination, pp. 2–4](../../../../montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-response-to-bryan-tipp-bar-complaint-answer-octo/mt-bar-complaint-odc-no.-25-147-odc-ruling-november-2025.md) instead reports Tipp's account that he warned of potential time limits and encouraged outside counsel. The notice does not identify the particular dates or advice. Whether a further duty existed and was breached remains disputed.
 
-* **He would not write the referral letter.** Nuno asked for a formal letter to the Missoula Police Chief documenting the institutional conflict and requesting referral to the state Criminal Investigation Division — a request Tipp could have granted, declined with a written explanation, or granted through referral to another attorney. He did none of the three; he simply declined, with no explanation and no alternative offered.
-* **He would not provide or arrange civil representation.** Despite personally documenting, in writing, a First Amendment violation and quantifiable economic harm exceeding $1 million, and despite being informed weeks later of an active third-party sabotage campaign against the same client, Tipp neither pursued civil remedies himself nor referred Nuno to civil counsel with any urgency, deadline warning, or referral mechanism.
-* **He knew the harm was ongoing and worsening, and did nothing on either front.** This was not a single missed deadline or a single unreturned call — it was sustained, informed inaction across both the criminal-adjacent referral Nuno asked for and the civil representation Nuno's mounting losses required, continuing through the literal final weeks of the representation.
-
-A criminal defense attorney is not obligated to personally litigate every parallel civil claim his client might have. But an attorney who (a) has personally documented in writing that his client is the victim of a constitutional violation causing quantifiable economic harm, (b) is then informed that the underlying harassment has escalated into an active third-party sabotage campaign, and (c) responds to both the criminal-referral request and the civil-representation need with the same unexplained, unreferred refusal, has not merely breached a duty of communication or diligence in the technical sense captured by Rules 1.3 and 1.4 below — he has left his client with no functioning legal representation on either front, at the precise moment the client's need for it was most acute and best documented. That is abandonment, not a scope dispute.
+A criminal defense attorney is not automatically obligated to litigate parallel civil claims. The narrower issue is whether the advice about pursuing them and the response to the client's requests satisfied duties within the actual engagement. Tipp's letter establishes contemporaneous awareness of reported concerns and his effort to secure a final criminal disposition; it cannot alone resolve the disputed civil-advice question. For the distinction between an ODC reason and one that fully explains this issue, see the [dated follow-up](../../../../montana-bar-complaints/odc-time-bar-strategy-reasons-unanswered.md).
 
 #### B. The "Generally Disinclined" Response (Dec 23, 2020 Email)
 
@@ -107,16 +101,11 @@ Despite acknowledging Nuno's First Amendment rights and E'Lise's retaliation, wh
 
 > "I am **generally disinclined** to send the letter you are requesting."
 
-**No explanation provided.** No alternative remedy suggested. No referral to civil counsel. No SOL warnings.
+That excerpt alone does not show the complete explanation, alternative advice, or referral record. Nuno disputes receiving actionable limitations advice; ODC later reported Tipp's contrary account that he warned of possible time limits and encouraged outside counsel. The specific dates and content of that advice are not set out in ODC's notice.
 
-#### C. Institutional Conflict Context
+#### C. Institutional questions outside the letter's proof
 
-The December 23, 2020 letter also reveals Tipp's awareness of the broader institutional problem:
-
-* YWCA employed E'Lise Chard (subject of complaint)
-* Brueckner served on YWCA board (discoverable public record; Tipp should have known)
-* Escalating charges despite Nuno's compliance with DPA and proven free speech defense
-* Dismissal with prejudice the only outcome (proving weak case)
+Nuno has separately raised questions about YWCA relationships, witness credibility and the terms of the deferred prosecution agreement. The December 23 letter does not document a Brueckner–YWCA board relationship, prove a constitutional defense, establish that the charges lacked merit, or show why Tipp made each strategic choice. It does show that he pressed for dismissal with prejudice and gave reasons connected to the client's reported employment and legal uncertainty. The remaining questions require the underlying court and representation records rather than an inference from this letter.
 
 ***
 
