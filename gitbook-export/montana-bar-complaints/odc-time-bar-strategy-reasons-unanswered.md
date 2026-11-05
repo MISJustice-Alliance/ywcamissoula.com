@@ -6,7 +6,7 @@ reviewed_through: 2026-11-05
 
 # A Time Bar, Then 'Strategy': What ODC's Reasons Leave Unanswered
 
-> **About this article:** A follow-up to the [November 3 status report](https://www.ywcaofmissoula.com/montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026), comparing written reasons and subsequent clarification requests in two separate lawyer-discipline matters. The correspondence reviewed for this draft runs through November 4, 2026; the source review was completed November 5. It is not the complete disciplinary file.
+> **About this article:** A follow-up to the [November 3 status report](https://www.ywcaofmissoula.com/montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026), comparing written reasons and subsequent clarification requests in two separate lawyer-discipline matters. The correspondence reviewed for this article runs through November 4, 2026; the source review was completed November 5. It is not the complete disciplinary file.
 
 {% hint style="info" %}
 **Related analysis:** [When a Disciplinary Complaint Closes](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/transparency-and-public-understanding-attorney-discipline) addresses the broader transparency question without deciding either grievance.
