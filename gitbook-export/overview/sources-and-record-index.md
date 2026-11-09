@@ -296,6 +296,8 @@ Key external bibliography packet:
 * [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
 * [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [Kirsten Pabst DOJ oversight and Jordan Johnson hub](../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md)
+* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
 * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
 * [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 ### Related

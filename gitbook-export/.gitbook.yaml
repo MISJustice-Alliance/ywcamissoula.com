@@ -9,6 +9,9 @@ structure:
   summary: SUMMARY.md
 
 redirects:
+  # Preserve the two published Pabst/Jordan Johnson URLs after moving them under the DOJ research hub.
+  additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-jordan-johnson: research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md
+  additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report: research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md
   # Case-file pages renamed from "....md" (canonical URLs previously ended in a literal "...")
   additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2...: additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-d81209a2.md
   additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62...: additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/misjustice-alliance-case-file-daf82b62.md

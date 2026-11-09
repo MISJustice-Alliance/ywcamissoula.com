@@ -27,6 +27,8 @@ The DOJ investigation and subsequent findings letter (February 2014) focused on 
 
 In 2013-2014 the US DoJ began the process of publishing their findings and securing formal agreements with Missoula law enforcement, prosecutorial agencies, and local community victims advocacy institutions, of which the YWCA was included, and concluded with formally closing the case in 2016.
 
+For a narrower examination of Pabst's public statements, role transitions, and the Jordan Johnson record, see the [DOJ oversight and Jordan Johnson hub](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md) and [public-record investigative report](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md).
+
 Unfortunately, when it came to actually implementing the changes necessitated by DOJ's findings, correcting operational failures and building durable accountability, the outcome did not match the promise of reform.
 
 What these institutions often did instead was create a toxic combination of ignoring core responsibilities and adopting conspicuous overcorrections: policies and branding that signaled change on paper while also making future accountability harder, narrowing independent oversight, and increasing the institutions' ability to suppress dissent or criticism quickly.

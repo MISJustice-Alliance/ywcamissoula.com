@@ -109,6 +109,8 @@ This documentation centers on First, Fourth, and Fourteenth Amendment issues. It
   * [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
   * [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
   * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+    * [Kirsten Pabst DOJ oversight and Jordan Johnson hub](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md)
+    * [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
   * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
     * [A Plea for Justice: The Injustice of the Plea Deal System](research-reports-legal-advocacy-and-analysis/a-plea-for-justice-the-injustice-of-the-plea-deal-system.md) — sourced analysis of plea pressure and trial rights; personal accounts are attributed, not adjudicated findings
     * [When the Watchdog Walks Away: DOJ Civil Rights Retreat and the Missoula Enforcement Vacuum](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis/when-the-watchdog-walks-away-doj-civil-rights-retreat-and-the-missoula-enforcement-vacuum)
@@ -207,8 +209,6 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
-* [Kirsten Pabst DOJ oversight and Jordan Johnson hub](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-jordan-johnson)
-* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report)
 * [Washington/Montana Legal Cases Index](https://www.ywcaofmissoula.com/overview/washington-montana-legal-cases-index)
 * [Police Reports, Court Docs, and Correspondence Index](https://www.ywcaofmissoula.com/overview/police-reports-court-docs-and-correspondence-index)
 * [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)

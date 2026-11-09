@@ -18,6 +18,8 @@ This hub is the historical anchor for the DOJ investigation era. It is the place
 ### Sub-pages
 
 * [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
+* [Kirsten Pabst DOJ oversight and Jordan Johnson hub](doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md) — entry points to the oversight record and related analysis.
+* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md) — source hierarchy, role transitions, and unresolved verification questions.
 
 ### Supporting evidence
 

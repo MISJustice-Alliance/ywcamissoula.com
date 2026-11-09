@@ -70,7 +70,7 @@ Johnson was charged in July 2012, suspended from the team, and faced up to 100 y
 
 The timing of institutional response revealed priorities: Football coach Robin Pflugrad publicly praised Johnson's "character and tremendous moral fiber" three days before University President Royce Engstrom fired both Pflugrad and Athletic Director Jim O'Day in April 2012.
 
-For a tighter source-backed treatment of the prosecutor-to-defense transition and the conflict-of-interest appearance question, see [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report).
+For a tighter source-backed treatment of the prosecutor-to-defense transition and the conflict-of-interest appearance question, see the [Kirsten Pabst DOJ oversight and Jordan Johnson hub](../../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md) and [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case: Public-Record Investigative Report](../../research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md).
 
 **Kerry Barrett (Gang Rape—No Charges)**
 

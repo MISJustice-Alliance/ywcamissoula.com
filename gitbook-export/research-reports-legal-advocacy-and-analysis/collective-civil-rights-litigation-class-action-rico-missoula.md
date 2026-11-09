@@ -193,7 +193,7 @@ The following MISJustice Alliance pages were reviewed as source material. They v
 * [Request for Commission on Practice Review — ODC File No. 26-145](../montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
 * [YWCA Complaint & Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](../ywca-complaint-google-reviews;-other-victims-of-ywca-misconduct-2018-2020.md)
 * [Connie Brueckner investigative research report](../additional-evidence-and-documentation/connie-brueckner-investigative-report.md)
-* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case](../additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
+* [Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case](doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
 
 ---
 

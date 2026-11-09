@@ -19,6 +19,8 @@ contested: false
 
 # Kirsten Pabst, DOJ Oversight, and the Jordan Johnson Case
 
+For a short route through the underlying DOJ-era materials and related reading, see the [Kirsten Pabst DOJ oversight and Jordan Johnson hub](kirsten-pabst-doj-oversight-and-jordan-johnson/README.md) in [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../doj-investigation-of-missoula-county-institutional-failure-2012-2014.md).
+
 ## 1. Executive Summary
 
 This is a source-backed investigative report that critically examines Kirsten H. Pabst's career. DOJ oversight and the Jordan Johnson case are the anchor examples, but the aim is broader: to map the public evidence for conflicts of interest, narrative management, campaign-practices controversy, and other accountability flags that appear across her rise from prosecutor to county attorney. It stays source-tight and does not dress disputed claims up as adjudicated fact.

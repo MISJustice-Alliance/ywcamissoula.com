@@ -2,7 +2,7 @@
 title: "Kirsten Pabst DOJ oversight and Jordan Johnson hub"
 description: >-
   Record-focused hub for the DOJ oversight, public-statement, and Jordan
-  Johnson subtopic within the expanded Missoula history section.
+  Johnson subtopic within the DOJ investigation research section.
 updated: 2026-07-05
 type: synthesis
 confidence: medium
@@ -13,11 +13,11 @@ contested: false
 
 ## Executive snapshot
 
-Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread inside the expanded history section. The goal is to keep the source baseline and the synthesis page separated so the record stays easier to audit.
+Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread within the DOJ investigation research section. The goal is to keep the source baseline and the synthesis page separated so the record stays easier to audit.
 
 ### Primary entry points
 
-* [Source-backed investigative report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report)
+* [Source-backed investigative report](../kirsten-pabst-doj-oversight-and-the-jordan-johnson-case-source-backed-investigative-report.md)
 * [Remembering When: Missoula rape-capital era](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014/remembering-when-mpd-county-prosecutors-and-the-ywca-allowed-missoula-to-becom)
 * [Montana Police Accountability: Complaint Suppression and Civil Rights Advocacy Brief](https://www.ywcaofmissoula.com/montana-state-complaints/montana-police-accountability-complaint-suppression-and-civil-rights-advocacy-brief)
 * [Institutional Willful Blindness: Pattern Analysis of Complaint-Suppression (June 2026)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/institutional-willful-blindness-pattern-analysis)
@@ -30,5 +30,6 @@ Use this hub to navigate the narrower DOJ-oversight and Jordan Johnson thread in
 
 ## Related reading
 
+* [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](../../doj-investigation-of-missoula-county-institutional-failure-2012-2014.md)
 * [Expanded history landing page](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
 * [Evidence map for the civil-rights record](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025)

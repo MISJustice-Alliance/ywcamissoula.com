@@ -32,6 +32,7 @@ This section groups the project’s long-form legal research, advocacy briefs, a
 * [Institutional Collusion: MPD, County Prosecutors Office, YWCA of Missoula](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/institutional-collusion-mpd-county-prosecutors-office-ywca-of-missoula)
 * [Montana State Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures)
 * [DOJ Investigation of Missoula County Institutional Failure (2012-2014)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/doj-investigation-of-missoula-county-institutional-failure-2012-2014)
+* [Kirsten Pabst DOJ oversight and Jordan Johnson hub](doj-investigation-of-missoula-county-institutional-failure-2012-2014/kirsten-pabst-doj-oversight-and-jordan-johnson/README.md) — DOJ-era entry points and the public-record investigative report.
 * [US Legal System Gaps & Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/us-legal-system-gaps-analysis)
 * [Multi-Jurisdiction & Cross-State Legal Analysis](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/multi-jurisdiction-cross-state-legal-analysis)
 * [When "Strategy" Ends the Inquiry: ODC File No. 25-147 and the Documented Difficulty Securing Counsel](./when-strategy-ends-the-inquiry-odc-25-147-representation-gap-analysis.md)
