@@ -1,6 +1,6 @@
 ---
 title: ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
-updated: 2026-11-03
+updated: 2026-11-13
 description: >-
   Index of ODC Lowney Grievance (April 2026) — Montana Bar, with complaint
   filings, rulings, and supporting records.
@@ -8,6 +8,9 @@ description: >-
 
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
+
+> **Records-request update — evidence through November 12, 2026:** After the October dispositions, Nuno sent ODC a separate November 7 request for existing records in Files 25-147 and 26-145, then follow-ups on November 11 and 12. He reports no acknowledgment or processing information as of November 12. The request does not reopen or change the dispositions. See the [records-request report](odc-records-request-follow-up-2026.md) and the [October 2026 decision report](tipp-lowney-disciplinary-decisions-october-2026.md).
+
 > **Explanation update — November 5, 2026:** Chief Disciplinary Counsel Bucy [answered Nuno's November 4 request](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf), said ODC's prior correspondence supplied its reasoning, declined further information, and pointed him toward Supreme Court review. The [dated Tipp/Lowney follow-up](odc-time-bar-strategy-reasons-unanswered.md) compares the request and response; the [companion analysis](../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) examines the explanation problem. Neither establishes a later Court filing or ruling in Lowney's file.
 
 > **Status correction — November 3, 2026:** The Commission on Practice affirmed ODC's dismissal in an October 23, 2026 letter. Its Review Panel said the complaint did not demonstrate clear-and-convincing evidence of ethical violations after considering the complaint, ODC file/report, and Nuno's July 14 appeal. ODC's earlier June 9 limitations rationale is a distinct earlier decision. The letter describes an opportunity to request discretionary Supreme Court review; the supplied record does not establish a request or Court action. [Read the two-file decision update](tipp-lowney-disciplinary-decisions-october-2026.md). Historical descriptions below of a pending Commission review are superseded.
@@ -15,6 +18,8 @@ description: >-
 ## Current status and review posture
 
 **Current posture (record through November 5, 2026):** ODC dismissed ODC File No. 26-145 by letter dated June 9, 2026, on a Rule 11 limitations ground. The Commission later affirmed dismissal in an October 23 letter, stating that the panel found insufficient clear-and-convincing evidence of ethical violations. Bucy's November 5 email referred back to the earlier explanations and called the next available remedy an “appeal to the Supreme Court,” without identifying the particular passage Nuno requested. The letter describes a possible written Rule 14 request for discretionary Supreme Court review, but no such subsequent filing or Court action is established in the supplied records. See the [decision update](tipp-lowney-disciplinary-decisions-october-2026.md) and [evidence chronology](odc-review-evidence-ledger-2026.md).
+
+**Separate records request (evidence through November 12, 2026):** Nuno's November 7 request for existing records in both ODC files is a different administrative matter from the closed disciplinary review. See the [records-request report](odc-records-request-follow-up-2026.md).
 
 **Review response:** A Commission on Practice review request has been prepared and published here. It argues that ODC's limitations analysis was incomplete because it treated the grievance as a single 2019 event rather than addressing discovery accrual, continuing-offense timing, tolling, and exceptions under MRLDE Rule 11. It also adds Montana and federal authority supporting investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver issues.
 
@@ -93,6 +98,9 @@ Related starting points:
 
 #### ODC disposition and Commission review
 
+* [After the Disciplinary Decisions: A Records Request and No Reported Acknowledgment as of November 12](odc-records-request-follow-up-2026.md)
+  * **Summary:** Source-attributed account of Nuno's November 7 records request and November 11–12 follow-ups concerning ODC Files 25-147 and 26-145, with the evidence limits stated.
+  * **What changed at this stage:** Adds the sender's reported lack of acknowledgment as of November 12. It is separate from the October dispositions and does not reopen them.
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
   * **Summary:** Public record page for ODC's dismissal letter. ODC dismissed the grievance as time-barred and set a July 9, 2026 deadline for Commission on Practice review.
   * **What changed at this stage:** The matter moved from initial grievance posture to review posture; ODC's stated reason became the Rule 11 limitations issue.
