@@ -98,7 +98,7 @@ Related starting points:
 
 #### ODC disposition and Commission review
 
-* [After the Disciplinary Decisions: A Records Request and No Reported Acknowledgment as of November 12](odc-records-request-follow-up-2026.md)
+* [Montana ODC records request for Files 25-147 and 26-145: November 2026 emails](odc-records-request-follow-up-2026.md)
   * **Summary:** Source-attributed account of Nuno's November 7 records request and November 11–12 follow-ups concerning ODC Files 25-147 and 26-145, with the evidence limits stated.
   * **What changed at this stage:** Adds the sender's reported lack of acknowledgment as of November 12. It is separate from the October dispositions and does not reopen them.
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
