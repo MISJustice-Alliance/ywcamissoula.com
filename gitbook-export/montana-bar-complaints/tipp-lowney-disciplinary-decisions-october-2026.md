@@ -1,7 +1,7 @@
 ---
 title: Montana Supreme Court Affirms Tipp Grievance Dismissal; Commission Upholds Lowney Dismissal
 created: 2026-11-03
-updated: 2026-11-03
+updated: 2026-11-13
 description: >-
   Two distinct Montana attorney-discipline outcomes in October 2026: the Supreme Court's order in ODC 25-147 and the Commission's letter in ODC 26-145.
 ---
@@ -9,6 +9,10 @@ description: >-
 # Montana Supreme Court Affirms Tipp Grievance Dismissal; Commission Upholds Lowney Dismissal
 
 > **Further reporting — November 5, 2026:** [A Time Bar, Then 'Strategy': What ODC's Reasons Leave Unanswered](odc-time-bar-strategy-reasons-unanswered.md) compares the notices with Nuno's November 4 clarification request and [Bucy's November 5 response in the Lowney file](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf). The [companion analysis](../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) addresses the practical burden of seeking review without a passage tying the stated ground to the specific allegation. This later correspondence does not change the October outcomes reported below.
+
+
+
+> **Records-request follow-up — November 13, 2026:** After the October disciplinary dispositions, Elvis Nuno submitted a November 7 electronic records request concerning ODC Files 25-147 and 26-145. The request seeks existing submissions, notices, correspondence, file inventories, and records identifying materials transmitted for review, along with other records to the extent disclosure is authorized. It recognizes disciplinary confidentiality and excludes confidential Review Panel deliberations. In follow-ups dated November 11 and 12, Nuno reported that he had received no acknowledgment or processing information. The November 12 email copied the Commission on Practice, Montana Supreme Court Clerk, Montana Department of Justice, and a section of the U.S. DOJ Civil Rights Division for visibility and procedural routing; it did not ask those offices to overturn the disciplinary dispositions or claim that the email was a court filing. Nuno requested an acknowledgment, processing position, and estimated timeframe by November 17, expressly describing that as a requested response date rather than a fixed statutory deadline. The correspondence reviewed here does not establish ODC's internal handling, a formal denial, or any later response. Read the [records-request follow-up](/montana-bar-complaints/odc-records-request-follow-up-2026).
 
 > **Underlying correspondence added:** Tipp's [December 23, 2020 letter to Lowney](../.gitbook/assets/tipp-lowney-letter-december-23-2020.pdf) records his effort to obtain dismissal with prejudice and reports concerns about Nuno's speech and employment. The follow-up distinguishes this advocacy from the complainant's separate objections about interim harm and civil-deadline advice.
 
