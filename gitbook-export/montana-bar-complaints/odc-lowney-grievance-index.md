@@ -97,7 +97,7 @@ Related starting points:
 
 #### ODC disposition and Commission review
 
-* [After the Disciplinary Decisions: A Records Request, Two Follow-Ups, and an Escalation for Basic Processing Information](montana-bar-complaints/odc-records-request-follow-up-2026.md)
+* [After the Disciplinary Decisions: A Records Request, Two Follow-Ups, and an Escalation for Basic Processing Information](odc-records-request-follow-up-2026.md)
   * **Summary:** Source-attributed account of the November 7 request and November 11–12 follow-ups concerning ODC Files 25-147 and 26-145.
   * **What changed at this stage:** Documents the sender's reported lack of acknowledgment as of November 12 while preserving the distinction between the records request and the closed disciplinary review.
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
