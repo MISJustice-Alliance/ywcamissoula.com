@@ -14,7 +14,7 @@ About two weeks after the Montana Supreme Court and the Commission on Practice i
 This is a separate administrative request. It does not reopen either disciplinary decision, and nothing in the emails shows that it changed them. This report covers what the emails asked for, who received them, and where the documented record stops.
 
 {% hint style="info" %}
-**Source scope and as-of date.** This report rests on Nuno's three emails of November 7, 11 and 12, 2026 ([address-redacted PDF](../.gitbook/assets/odc-25-147-26-145-records-request-emails-november-7-12-2026-address-redacted.pdf)) and on ODC's November 5 email in File 26-145. The evidence runs through the November 12 email. Published and last revised November 13, 2026. The emails are the sender's own account; MISJustice Alliance has no reply from ODC or any copied office to them, and no comment was sought from ODC for this report.
+**Source scope and as-of date.** This report rests on Nuno's three emails of November 7, 11 and 12, 2026 ([address-redacted PDF](../.gitbook/assets/odc-25-147-26-145-records-request-emails-november-7-12-2026-address-redacted.pdf)) and on ODC's November 5 email in File 26-145. The evidence runs through the November 12 email. Published and last revised November 13, 2026. The emails are the sender's own account; MISJustice Alliance has no reply from ODC or any copied office to them (Nuno told the Alliance on November 13, 2026 that he had received none), and no comment was sought from ODC for this report.
 {% endhint %}
 
 * **Published by:** [MISJustice Alliance](../overview/about-this-site-publisher-and-corrections.md), an advocacy publisher associated with complainant Elvis R. Nuno, who wrote the emails reported here.
@@ -119,6 +119,8 @@ A request sent is not a request received. Reported silence is not a denial. A re
 Confidentiality may limit what ODC can release, and ODC's stated position is that its dismissal correspondence already explained its decisions. Neither point answers the narrower questions the emails ask. Is the request being processed? Under what procedure, on what timeline, and at what cost? What would be provided, and what withheld, on what authority? On the record reviewed, those questions had not been answered as of November 12.
 
 ## Updates
+
+**November 13, 2026.** Nuno told MISJustice Alliance that, as of the morning of November 13, he had received no response to his November 7, 11 or 12 emails from ODC or any copied office. This is his statement, not an independent finding, and it does not establish how ODC or any other office handled the emails.
 
 This page will be updated if ODC or a copied office responds, if a court filing is made, or if the request is resolved. Updates will separate the date a message was sent from the date it was received, and will describe a response's scope without implying that confidential material had to be released.
 
