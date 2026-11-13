@@ -78,7 +78,7 @@ This draft should be updated if ODC or any copied office responds, if a formal c
 * [ODC review evidence ledger — Tipp and Lowney decisions (2026)](odc-review-evidence-ledger-2026.md)
 * [Montana attorney discipline review process](montana-attorney-discipline-review-process.md)
 * [Montana State Institutional Failures](../research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures.md)
-* [Research Reports, Legal Advocacy, and Analysis](../research-reports-legal-advocacy-and-analysis/research-reports-legal-advocacy-and-analysis.md)
+* [Research Reports, Legal Advocacy, and Analysis](../research-reports-legal-advocacy-and-analysis/README.md)
 * [Sources & record index](../overview/sources-and-record-index.md)
 * [Publisher and corrections](../overview/about-this-site-publisher-and-corrections.md)
 
