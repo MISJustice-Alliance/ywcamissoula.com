@@ -1,23 +1,23 @@
 ---
-title: "After the Disciplinary Decisions: A Records Request and No Reported Acknowledgment as of November 12"
+title: "Montana ODC records request for Files 25-147 and 26-145: November 2026 emails"
 created: 2026-11-13
 updated: 2026-11-13
 reviewed_through: 2026-11-12
 description: >-
-  Elvis Nuno's November 7 records request to Montana's Office of Disciplinary Counsel for Files 25-147 and 26-145, his November 11 and 12 follow-ups, and what the emails do and do not establish.
+  Nuno's November 7 request to Montana ODC for records in Files 25-147 and 26-145, his November 11–12 follow-ups, and the limits of his reported nonresponse.
 ---
 
-# After the Disciplinary Decisions: A Records Request and No Reported Acknowledgment as of November 12
+# Montana ODC records request for Files 25-147 and 26-145: November 2026 emails
 
-About two weeks after the Montana Supreme Court and the Commission on Practice issued October decisions on his two grievances, complainant Elvis R. Nuno asked the Office of Disciplinary Counsel (ODC) for copies of existing records in both files. By his own account in a November 12 follow-up, he had received no acknowledgment, fee estimate, processing timeframe, records, or written determination. That follow-up copied four other offices and asked ODC to respond by November 17.
+After separate October disciplinary decisions, complainant Elvis R. Nuno sent a November 7 request to Montana's Office of Disciplinary Counsel (ODC) for existing records in Files 25-147 and 26-145. In his November 12 follow-up, he reported receiving no acknowledgment, fee estimate, processing timeframe, records, or written determination; the sent-message printout does not establish ODC's receipt or handling. He addressed that follow-up to two ODC staff members, copied four other offices, and requested a response by November 17—not a statutory deadline [1, pp. 1–4].
 
-This is a separate administrative request. It does not reopen either disciplinary decision, and nothing in the emails shows that it changed them. This report covers what the emails asked for, who received them, and where the documented record stops.
+This separate request does not itself reopen either disciplinary decision. This report identifies what the emails asked for, the recipients shown for November 12, and where the reviewed record stops; it cannot establish actual delivery or receipt [1, pp. 1–4].
 
 {% hint style="info" %}
-**Source scope and as-of date.** This report rests on Nuno's three emails of November 7, 11 and 12, 2026 ([address-redacted PDF](../.gitbook/assets/odc-25-147-26-145-records-request-emails-november-7-12-2026-address-redacted.pdf)) and on ODC's November 5 email in File 26-145. The evidence runs through the November 12 email. Published and last revised November 13, 2026. The emails are the sender's own account; MISJustice Alliance has no reply from ODC or any copied office to them (Nuno told the Alliance on November 13, 2026 that he had received none), and no comment was sought from ODC for this report.
+**Source scope and dates.** The correspondence reviewed is Nuno's November 7, 11 and 12 emails ([address-redacted PDF](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-25-147-26-145-records-request-emails-november-7-12-2026-address-redacted.pdf)) and ODC's separate November 5 reply in File 26-145. The correspondence evidence for the records request ends with the November 12 sent email. Nuno separately told the publisher on the morning of November 13 that he had received no response; this is an attributed update, not independently confirmed ODC handling. ODC's FAQ was accessed November 13, not verified as of the email dates. Published and last revised November 13, 2026. No comment was sought from ODC for this report.
 {% endhint %}
 
-* **Published by:** [MISJustice Alliance](../overview/about-this-site-publisher-and-corrections.md), an advocacy publisher associated with complainant Elvis R. Nuno, who wrote the emails reported here.
+* **Published by:** [MISJustice Alliance](../overview/about-this-site-publisher-and-corrections.md), an advocacy publisher associated with complainant Elvis R. Nuno, who wrote the emails reported here. It is not affiliated with YWCA of Missoula.
 * **Scope:** The records request and its follow-ups. It does not revisit the merits of either grievance.
 * **Disclaimer:** MISJustice Alliance is not a law firm. This report is for education, advocacy, and investigative review, not legal advice.
 
@@ -28,7 +28,7 @@ The request came after two separate October outcomes, which this article keeps d
 * **ODC File 25-147 (Bryan C. Tipp).** A Montana Supreme Court order filed October 22, 2026 affirmed the Commission on Practice's decision. The order says Nuno's August 13 request for Court review was untimely [3].
 * **ODC File 26-145 (Brian C. Lowney).** A Commission on Practice letter dated October 23, 2026 affirmed ODC's June 9 dismissal. It says the Review Panel found the complaint did not demonstrate clear and convincing evidence of ethical violations [4].
 
-Neither outcome decides whether the underlying allegations are true. See the [October decision report](tipp-lowney-disciplinary-decisions-october-2026.md).
+The Tipp order resolves the request for Court review on timeliness and framing grounds; the Lowney Commission letter affirms dismissal after stating an evidentiary conclusion about the complaint. Neither document adjudicates every underlying factual allegation or a separate civil claim. See the [October decision report](tipp-lowney-disciplinary-decisions-october-2026.md) and the order and letter linked in [3] and [4].
 
 ## Chronology
 
@@ -42,7 +42,7 @@ Neither outcome decides whether the underlying allegations are true. See the [Oc
 | Nov. 12 | Second follow-up to Bucy and ODC's Sheena Broadwater, copying four offices | [1, pp. 1–3] |
 | Nov. 17 | Date by which Nuno asked for a response (his request, not a deadline set by law) | [1, p. 3] |
 
-## What the November 7 request asked for
+## What records did Nuno request from Montana ODC?
 
 Nuno wrote as the grievant and asked for an electronic copy of records on both files from intake through their current status [1, p. 4]. The categories include:
 
@@ -57,9 +57,9 @@ He cited several Montana Rules for Lawyer Disciplinary Enforcement provisions an
 
 The request is broad. It reaches beyond Nuno's own submissions to attorney responses and investigative records, each conditioned on authorization. Whether any of those records may be released to a grievant is not addressed here, and the emails do not claim to settle it.
 
-## The follow-ups
+## What do the November 11–12 follow-ups establish?
 
-**November 11.** Nuno wrote that he had received no acknowledgment. He asked whether ODC was processing the request, what procedure and fees applied, and, if any part was denied, for a written explanation of the affected category and authority [1, p. 3]. He said he needed the records to draft informed requests ahead of statutory deadlines he faces. The printout shows recipients only for the November 12 email, so who received the November 7 and 11 messages is not documented in it.
+**November 11.** Nuno wrote that he had received no acknowledgment. He asked whether ODC was processing the request, what procedure and fees applied, and, if any part was denied, for a written explanation of the affected category and authority [1, p. 3]. He said he needed the records to draft informed requests ahead of statutory deadlines he faces. The printout shows recipients only for the November 12 email, so it does not identify the addressees of the November 7 and 11 messages or establish their receipt.
 
 **November 12.** Nuno wrote to Bucy and Broadwater and reported that he still had no acknowledgment, production timeframe, fee estimate, records, or written determination. He asked for six things: confirmation of receipt for both files; the person or office processing the request; a timeframe and any fee estimate; disclosable records, on a rolling basis where practical; a written statement of any withheld categories and the authority for withholding; and custodian information for records held elsewhere. He wrote that he was not asking for the whole production at once [1, pp. 1–2]. He asked for a response by November 17, calling it a requested date and not an assertion that a statutory deadline applies [1, p. 3].
 
@@ -74,7 +74,7 @@ The November 12 email lists a limited purpose for each [1, pp. 2–3]:
 | Montana Department of Justice, Office of the Attorney General | Visibility, and identification of any assistance or referral within its authority |
 | U.S. Department of Justice, Civil Rights Division, Federal Coordination and Compliance Section | Notice and any appropriate referral, "without presuming" the dispute is within its jurisdiction |
 
-The email states that copying these offices is not a court filing and is not a request that anyone overturn a disciplinary decision [1, p. 3]. Nothing reviewed shows that any copied office responded, opened a matter, or took action.
+The email states that copying these offices is not a court filing and is not a request that anyone overturn a disciplinary decision [1, p. 3]. A copied address does not establish receipt, jurisdiction, intervention, or a new proceeding; no such action is documented in the materials reviewed.
 
 ## The November 5 email and the later request
 
@@ -92,7 +92,7 @@ The FAQ shows that ODC publishes a copy-charge procedure. It does not establish 
 
 **Documented in the emails:**
 
-* what Nuno requested on November 7, and that he sent follow-ups dated November 11 and 12;
+* what the November 7 sent-message printout requests and what the November 11 and 12 sent follow-ups say;
 * who the November 12 email was addressed to and copied, and the purposes he gave;
 * that the request recognizes confidentiality limits and asks ODC to identify them;
 * that November 17 is a date he asked for.
@@ -106,7 +106,7 @@ The FAQ shows that ODC publishes a copy-charge procedure. It does not establish 
 
 * whether ODC received each email or has begun processing the request;
 * whether any requested record exists or may be released to a grievant;
-* whether any reply has arrived since November 12;
+* from the correspondence packet alone, whether any reply arrived after November 12 (Nuno separately reported none as of the morning of November 13);
 * any denial, intent, or violation of law by ODC or anyone else;
 * any action by a copied office.
 
@@ -116,7 +116,7 @@ A request sent is not a request received. Reported silence is not a denial. A re
 
 *This section is MISJustice Alliance's editorial view, not a finding.*
 
-Confidentiality may limit what ODC can release, and ODC's stated position is that its dismissal correspondence already explained its decisions. Neither point answers the narrower questions the emails ask. Is the request being processed? Under what procedure, on what timeline, and at what cost? What would be provided, and what withheld, on what authority? On the record reviewed, those questions had not been answered as of November 12.
+Confidentiality may limit what ODC can release. Bucy's November 5 position—that earlier dismissal correspondence explained ODC's reasoning—concerned File 26-145 and predates the records request [2, p. 1]. The November 7–12 sent-message packet contains no ODC answer to the later request's questions about processing, timing, fees, or withholding [1, pp. 1–4]. Nuno reported no response as of November 12; the packet alone cannot establish how ODC handled or received those messages.
 
 ## Updates
 
@@ -126,8 +126,8 @@ This page will be updated if ODC or a copied office responds, if a court filing 
 
 ## Sources
 
-1. Elvis Nuno, emails to ODC: November 7, 2026 (request), November 11, 2026 (follow-up), and November 12, 2026 (second follow-up), 10-page Proton Mail Sent-folder print generated November 13, 2026. [Address-redacted PDF](../.gitbook/assets/odc-25-147-26-145-records-request-emails-november-7-12-2026-address-redacted.pdf). Email addresses of the sender and individual ODC staff are redacted; the unredacted original is not published. Page numbers above refer to this PDF.
-2. Pamela D. Bucy, email to Elvis Nuno, "RE: ODC File No. 26-145 — Request for Written Facts and Reasons Supporting Dismissal," November 5, 2026, with Nuno's November 4 request. [Email-address-redacted PDF](../.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf), p. 1.
+1. Elvis Nuno, emails to ODC: November 7, 2026 (request), November 11, 2026 (follow-up), and November 12, 2026 (second follow-up), 10-page Proton Mail Sent-folder print generated November 13, 2026. [Address-redacted PDF](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-25-147-26-145-records-request-emails-november-7-12-2026-address-redacted.pdf). Email addresses of the sender and individual ODC staff are redacted; the unredacted original is not published. Page numbers above refer to this PDF.
+2. Pamela D. Bucy, email to Elvis Nuno, "RE: ODC File No. 26-145 — Request for Written Facts and Reasons Supporting Dismissal," November 5, 2026, with Nuno's November 4 request. [Email-address-redacted PDF](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf), p. 1.
 3. Montana Supreme Court, Order, *In the Matter of the Grievance Against Bryan C. Tipp*, ODC File No. 25-147, filed October 22, 2026. [Page 1](../.gitbook/assets/odc-25-147-supreme-court-order-october-2026-page-1.jpeg).
 4. Commission on Practice of the Supreme Court of Montana, letter to Elvis Nuno re ODC File No. 26-145, October 23, 2026. [Page 1](../.gitbook/assets/odc-26-145-commission-decision-october-23-2026-page-1.png).
 5. Office of Disciplinary Counsel for the State of Montana, [Frequently Asked Questions](https://montanaodc.org/faqs), question 6, accessed November 13, 2026.

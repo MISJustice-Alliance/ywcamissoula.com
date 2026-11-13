@@ -101,7 +101,7 @@
 ## Montana Bar Complaints
 
 * [Montana Supreme Court Affirms Tipp Grievance Dismissal; Commission Upholds Lowney Dismissal](montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md)
-* [After the Disciplinary Decisions: A Records Request and No Reported Acknowledgment as of November 12](montana-bar-complaints/odc-records-request-follow-up-2026.md)
+* [Montana ODC records request for Files 25-147 and 26-145: November 2026 emails](montana-bar-complaints/odc-records-request-follow-up-2026.md)
 * [A Time Bar, Then 'Strategy': What ODC's Reasons Leave Unanswered](montana-bar-complaints/odc-time-bar-strategy-reasons-unanswered.md)
 * [ODC review evidence ledger — Tipp and Lowney decisions (2026)](montana-bar-complaints/odc-review-evidence-ledger-2026.md)
 * [How a Montana Attorney Grievance Moves Through Review](montana-bar-complaints/montana-attorney-discipline-review-process.md)
