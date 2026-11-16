@@ -218,6 +218,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 <summary><strong>Montana Cases</strong></summary>
 
 * [Montana Legal Cases](../montana-legal-cases.md)
+* [A Letter Became Evidence. His Requests for Protection Met a Wall.](../a-letter-became-evidence.md) — YWCA grievance and petition, distinct dismissal stages, and attributed reporting accounts
 * [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)

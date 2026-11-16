@@ -255,6 +255,7 @@ These are issue labels used for research and cross-referencing, not legal advice
 
 ### Related pages
 
+* [A Letter Became Evidence. His Requests for Protection Met a Wall.](a-letter-became-evidence.md) — compares the actual June letter and petition, acknowledges Chard’s account of fear, and limits conclusions where the hearing and later records remain unverified
 * [Montana Legal Cases](montana-legal-cases.md)
 * [2017–2019 stalking charges (MT): civil-rights violations](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Aug 2018: warrantless arrest and false imprisonment](https://www.ywcaofmissoula.com/montana-legal-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j)

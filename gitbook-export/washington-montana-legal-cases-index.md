@@ -47,6 +47,7 @@ Use it to pivot from an event or proceeding into the deeper record.
 
 ### Montana legal cases
 
+* [A Letter Became Evidence. His Requests for Protection Met a Wall.](a-letter-became-evidence.md) — source-limited comparison of the YWCA letter, petition, Montana prosecution, and Seattle disposition
 * [YWCA Brueckner conflict: allegations summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)

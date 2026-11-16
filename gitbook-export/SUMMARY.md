@@ -58,6 +58,7 @@
 ## Montana Legal Cases
 
 * [Montana Legal Cases](montana-legal-cases.md)
+* [A Letter Became Evidence. His Requests for Protection Met a Wall.](a-letter-became-evidence.md) — record-bounded analysis of the 2018 YWCA letter, protection petition, Missoula case, and later reporting requests
 * [Open Letter to Montana: When Accountability Is a Door That Opens to a Wall](open-letter-to-montana-when-accountability-is-a-door-that-opens-to-a-wall.md) — featured open letter on grievance-system failures, independent review, and protected petitioning
 * [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith (Badge #345)](officer-ethan-smith-complaint-march-2018.md)
 * [MPD Officer Misconduct: Ethan Smith Timeline](mpd-officer-misconduct-ethan-smith-timeline.md)

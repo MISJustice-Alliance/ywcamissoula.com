@@ -56,6 +56,10 @@ This page is the canonical source list for the project. It separates **primary r
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
 {% endhint %}
 
+### June 2018 YWCA letter and protection petition
+
+For the June 2018 grievance and protection-order petition, read the [source-bounded analysis](../a-letter-became-evidence.md) alongside the [petition](../.gitbook/assets/elise-chard-petition-order-of-protection-2018-06-12.pdf) and the discovery copy already indexed in the [police and correspondence records](../police-reports,-court-docs,-and-correspondence-index.md). The discovery copy includes a cashier’s check with banking details; do not reproduce them.
+
 ### P.S. email: primary exhibit and focused analyses
 
 The August 14, 2018 email and its forwarding chain are available as a [discovery exhibit PDF](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf). The [P.S. email hub](../additional-evidence-and-documentation/ps-email-addendum-august-2018/README.md) distinguishes the exhibit from the questions it raises:
