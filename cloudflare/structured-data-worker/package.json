@@ -9,8 +9,8 @@
     "build-breadcrumb-routes": "node scripts/build-breadcrumb-routes.mjs"
   },
   "devDependencies": {
-    "@cloudflare/vitest-plugin": "^1.4.5",
+    "@cloudflare/vitest-plugin": "1.8.3",
     "vitest": "^4.1.12",
-    "wrangler": "^4.151.2"
+    "wrangler": "4.163.0"
   }
 }
