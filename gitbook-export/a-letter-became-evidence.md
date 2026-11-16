@@ -19,7 +19,7 @@ By April 2019, a psychiatrist had documented severe deterioration. Dr. William S
 
 At the center of the Missoula escalation was a formal grievance to YWCA leadership, accompanied by a $400 donation and an explicit statement supporting its mission. An employee’s protection-order petition characterized the employer contact as “a new level of aggression.” Felony stalking charges followed later that year.
 
-When Nuno subsequently sought help with online accusations affecting his business and its supporters, the response was markedly less definite: skepticism, contemplated investigator contact, reluctance to seek outside review, and an alleged refusal to accept a police report. A Dillon officer’s intervention, described in Nuno’s account, provides the practical counterpoint.
+When Nuno subsequently sought help with online accusations affecting his business and its supporters, the response was markedly less definite: skepticism, contemplated investigator contact, reluctance to seek outside review, and an alleged refusal to accept a police report. A Dillon officer’s intervention, described in Nuno’s contemporaneous October 2020 email, provides the practical counterpoint.
 
 The question is not whether every complaint should produce charges. It is why complaints against Nuno entered an established machinery of legal consequences while his own requests for assistance encountered such uncertain follow-through.
 
@@ -77,7 +77,7 @@ The distinction matters when assessing the eventual agreement. Nuno was not cons
 
 ## Speech became part of the price of relief
 
-Nuno’s account of Tipp’s advice is direct: accept restrictions on expression to obtain prosecutorial leniency. His declaration describes conditions requiring removal of his YWCA complaint and a period of silence. The signed agreement and related advice govern the restrictions’ exact terms.
+Nuno’s account of Tipp’s advice is direct: accept restrictions on expression to obtain prosecutorial leniency. He says GPS monitoring ended when he signed the deferred prosecution agreement. His declaration describes conditions requiring removal of his YWCA complaint and a period of silence. The signed agreement and related advice govern the restrictions’ exact terms and dates.
 
 That places expression at both ends of the account. A complaint to organizational leadership became part of the case for restraint. The negotiated route out then required, in Nuno’s account, retreat from related speech.
 
@@ -143,7 +143,7 @@ An institution cannot demonstrate accessibility merely by counting complaints it
 
 ## Dillon supplies the practical comparison
 
-Nuno’s account describes a different experience with Dillon police. The site’s chronology places the described Missoula and Dillon encounters in or around 2022; the complete original correspondence is needed to fix their dates. Nuno credited an officer with “considerable investigation and tracking down” and resolving the immediate problem “professionally and swiftly.” His later declaration identifies Officer Ian Turnes and describes contact that secured removal of public posts.
+Nuno’s October 15, 2020 email describes a different experience with Dillon police. He credited an officer with “considerable investigation and tracking down” and resolving the immediate problem “professionally and swiftly.” His later declaration identifies Officer Ian Turnes and describes contact that secured removal of public posts. The email establishes that Nuno reported this episode by October 15, 2020; it does not independently verify the police response.
 
 The sequence is concrete: receive the complaint, locate the person involved, make contact, and obtain a practical result.
 
@@ -178,4 +178,4 @@ It deserves an explanation of why the system was so definite about scrutinizing 
 
 ***
 
-*Record status: The [Montana Office of Disciplinary Counsel dismissed Nuno’s grievance against Tipp](.gitbook/assets/11-03-2025-ODC_25-147_Complaint-Dismissal-Bryan-Tipp-REDACTED.pdf), giving reasons and finding no disciplinary violation established; the [Montana Supreme Court later affirmed the Commission’s dismissal](montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md) on an untimely, non-merits review request. Those decisions do not adjudicate civil liability. The hearing record, signed agreement, release orders, complete client correspondence, employment records, and police intake records remain necessary to resolve this article’s identified questions. The roughly eighteen-month period and precise speech restrictions in earlier accounts are not independently established by the materials reviewed here.*
+*Record status: The publisher reviewed copies of Tipp’s September 17, 2020 “Re: Civil no-contact order” email and his December 23, 2020 “Small request” reply with Nuno’s quoted October 15 request. They support the quotations and chronology above but do not establish what Dominick did, why Tipp declined the requested referral letter, or what the police recorded. The [Montana Office of Disciplinary Counsel dismissed Nuno’s grievance against Tipp](.gitbook/assets/11-03-2025-ODC_25-147_Complaint-Dismissal-Bryan-Tipp-REDACTED.pdf), giving reasons and finding no disciplinary violation established; the [Montana Supreme Court later affirmed the Commission’s dismissal](montana-bar-complaints/tipp-lowney-disciplinary-decisions-october-2026.md) on an untimely, non-merits review request. Those decisions do not adjudicate civil liability. The hearing record, signed agreement, release orders, other client correspondence, employment records, and police intake records remain necessary to resolve this article’s identified questions. The roughly eighteen-month period and precise speech restrictions in earlier accounts are not independently established by the materials reviewed here.*
