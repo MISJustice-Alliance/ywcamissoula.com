@@ -142,6 +142,7 @@
 * [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf.md)
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
 * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
+* [Rule 14 review request emailed to Commission — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-discretionary-review-montana-supreme-court-odc-26-145-brian-lowney.md)
 
 ## Montana State Complaints
 

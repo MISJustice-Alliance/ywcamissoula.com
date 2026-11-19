@@ -1,6 +1,6 @@
 ---
 title: ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
-updated: 2026-11-13
+updated: 2026-11-19
 description: >-
   Index of ODC Lowney Grievance (April 2026) — Montana Bar, with complaint
   filings, rulings, and supporting records.
@@ -8,6 +8,8 @@ description: >-
 
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
+> **Rule 14 submission update — November 19, 2026:** In a [sent-email copy addressed to Dia Lang, Office Administrator of the Commission on Practice](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-rule14-request-submission-email-november-19-2026-public-copy-privacy-and-scope-redactions.pdf), Nuno asks the Commission to transmit his Rule 14 request and file to the Montana Supreme Court. The public copy has privacy and scope redactions. It lists a request, memorandum, transmittal, proposed exhibit index, and archive named Exhibits A–H, but contains none of those attachments. The underlying documents, including a signed January 2021 dismissal order described in Nuno's draft, were not supplied for this review. The sent copy establishes the message's contents, not Commission receipt, forwarding, Court review, or a ruling. See the [request summary](request-for-discretionary-review-montana-supreme-court-odc-26-145-brian-lowney.md). Earlier November 3 and 5 notes below describe the records then reviewed, not this later sent message.
+
 
 > **Records-request update — evidence through November 12, 2026:** After the October dispositions, Nuno sent ODC a separate November 7 request for existing records in Files 25-147 and 26-145, then follow-ups on November 11 and 12. He reports no acknowledgment or processing information as of November 12. The request does not reopen or change the dispositions. See the [records-request report](odc-records-request-follow-up-2026.md) and the [October 2026 decision report](tipp-lowney-disciplinary-decisions-october-2026.md).
 
@@ -17,7 +19,7 @@ description: >-
 
 ## Current status and review posture
 
-**Current posture (record through November 5, 2026):** ODC dismissed ODC File No. 26-145 by letter dated June 9, 2026, on a Rule 11 limitations ground. The Commission later affirmed dismissal in an October 23 letter, stating that the panel found insufficient clear-and-convincing evidence of ethical violations. Bucy's November 5 email referred back to the earlier explanations and called the next available remedy an “appeal to the Supreme Court,” without identifying the particular passage Nuno requested. The letter describes a possible written Rule 14 request for discretionary Supreme Court review, but no such subsequent filing or Court action is established in the supplied records. See the [decision update](tipp-lowney-disciplinary-decisions-october-2026.md) and [evidence chronology](odc-review-evidence-ledger-2026.md).
+**Current posture (sources reviewed through November 19, 2026):** ODC dismissed ODC File No. 26-145 by letter dated June 9, 2026, invoking Rule 11 limitations; that rule addresses filing a formal Complaint, and ODC did not reach the grievance allegations' merits. The Commission Review Panel affirmed dismissal in an October 23 letter, stating that the complaint did not demonstrate clear-and-convincing evidence of ethical violations; its notice did not address ODC's earlier limitations analysis. Bucy's November 5 email referred back to ODC's earlier explanations without identifying the particular passage Nuno requested. Nuno's [November 19 sent-email copy](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-rule14-request-submission-email-november-19-2026-public-copy-privacy-and-scope-redactions.pdf) is addressed to Dia Lang at the Commission on Practice and requests transmittal of a Rule 14 request to the Court. The request and listed attachments were not supplied here. Rule 14(B) leaves review to the Court's discretion; Commission receipt and Court action are not established by the sent copy. See the [request summary](request-for-discretionary-review-montana-supreme-court-odc-26-145-brian-lowney.md), [decision update](tipp-lowney-disciplinary-decisions-october-2026.md) and [evidence chronology](odc-review-evidence-ledger-2026.md).
 
 **Separate records request (evidence through November 12, 2026):** Nuno's November 7 request for existing records in both ODC files is a different administrative matter from the closed disciplinary review. See the [records-request report](odc-records-request-follow-up-2026.md).
 
@@ -36,11 +38,16 @@ The Lowney grievance is intertwined with ODC 25-147, the Bryan Tipp defense-coun
 * Grievance document (full text + analysis): [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
 * ODC dismissal letter: [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/odc-26-145-rejection-brian-lowney-june-9-2026)
 * Commission review request: [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
+
 * November 4 clarification request and November 5 Bucy reply: [three-page email-address-redacted primary PDF](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf) ([source ledger](odc-review-evidence-ledger-2026.md)); the original, unredacted PDF is retained privately.
 * Dataset landing page: [Dataset: Brian Lowney prosecutorial misconduct grievance (2018–2026)](https://www.ywcaofmissoula.com/datasets/dataset-brian-lowney-odc-grievance-and-legal-analysis-april-2026)
 * ODC 25-147 companion index (defense counsel): [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index)
 * Shared intake/case-authorities analysis: [Tipp malpractice and Lowney ODC grievance: civil intake case analysis](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-lowney-case-authorities-analysis)
 * Canonical source list: [Sources & record index](https://www.ywcaofmissoula.com/overview/sources-and-record-index)
+
+### Later submission email (primary record of sender's message)
+
+* [November 19 email to Dia Lang, Commission on Practice — public copy with privacy and scope redactions](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-rule14-request-submission-email-november-19-2026-public-copy-privacy-and-scope-redactions.pdf) — two-page sent-email copy; lists, but does not contain, five attachments. [Read the Rule 14 request summary](request-for-discretionary-review-montana-supreme-court-odc-26-145-brian-lowney.md).
 
 ### Target audience
 
@@ -107,6 +114,9 @@ Related starting points:
 * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/request-for-commission-on-practice-review-odc-26-145-brian-lowney)
   * **Summary:** Expanded review request arguing that ODC's limitations analysis was incomplete and that Montana and federal authority support investigation of the prosecutor-duty, Brady/Giglio, probable-cause, and DPA speech-waiver allegations.
   * **What changed at this stage:** Adds the appellate-style response to ODC's closure and converts the Lowney record into a Commission-review packet.
+* [Request for Discretionary Review by the Montana Supreme Court — ODC File No. 26-145 (Brian C. Lowney)](request-for-discretionary-review-montana-supreme-court-odc-26-145-brian-lowney.md)
+  * **Summary:** The November 19 sent email to Dia Lang at the Commission requests transmittal of a Rule 14 request to the Court. The accompanying analysis challenges ODC's limitations analysis, the Panel's different stated rationale, and the adequacy of the explanation. The email lists five attachments, but the signed January 2021 order described in Nuno's draft and the other attachments were not supplied for this review.
+  * **What changed at this stage:** A dated sent-email copy now supports Nuno's account of what he asked the Commission to transmit. It does not establish Commission receipt, forwarding or Court action; Rule 14 does not guarantee review or a merits ruling.
 * [November 4–5 Lowney explanation exchange (redacted primary PDF)](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/odc-26-145-november-5-2026-bucy-response-email-address-redacted.pdf)
   * **Summary:** Nuno asked for the passage explaining dismissal; Bucy said earlier correspondence already explained it, declined further information, pointed to Supreme Court review and asked him to stop writing. The email does not identify the requested passage or decide the distinct Tipp grievance.
 
