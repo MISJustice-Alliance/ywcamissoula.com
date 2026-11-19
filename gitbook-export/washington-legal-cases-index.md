@@ -134,6 +134,7 @@ This page is the Washington index for case analysis and linked primary records, 
 * [2016 Seattle OPA Complaint - 2016OPA-1167 - Post Mortem / Legal Analysis](https://www.ywcaofmissoula.com/washington-cases/2016-seattle-opa-complaint-2016opa-1167-post-mortem-legal-analysis)
 * [2020 WA cases: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/2020-wa-cases-witness-tampering-coerced-pleas-and-the-impossible-catch-22-sit)
 * [Washington plea withdrawal advisory: witness tampering and coerced pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
+* [Washington bar grievance concerning Edmonds prosecutor’s response to a plea-coercion report](washington-bar-grievance-edmonds-prosecutor-plea-coercion-report.md) — Nuno’s account of a November 18, 2026 filing and analysis; the grievance packet is not public and no Bar finding is reported.
 
 ### Research Reports, Legal Advocacy, and Analysis
 

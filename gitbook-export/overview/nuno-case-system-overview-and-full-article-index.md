@@ -254,6 +254,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 * [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](https://www.ywcaofmissoula.com/washington-cases/2020-wa-cases-witness-tampering-coerced-pleas-and-the-impossible-catch-22-sit)
 * [Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 * [Edmonds Case (2015-2017)](../washington-cases/edmonds-case-2015-2017.md)
+* [Washington bar grievance concerning the Edmonds prosecutor’s response (Nov 2026)](../washington-bar-grievance-edmonds-prosecutor-plea-coercion-report.md) — article and filing account, not a Bar determination; no grievance packet is public.
 * [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](https://www.ywcaofmissoula.com/washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167)
 </details>
 <details>

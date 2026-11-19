@@ -137,6 +137,8 @@ This page is an index of complaint filings and published complaint packets acros
 
 ### Washington state complaints
 
+* [Washington State Complaints Index](../washington-state-complaints-index.md) — Washington complaint pages and related analysis.
+* [Washington bar grievance questions Edmonds prosecutor’s handling of a plea-coercion report](../washington-bar-grievance-edmonds-prosecutor-plea-coercion-report.md) — Nuno says he filed with WSBA on November 18, 2026; this is his analysis, not a disciplinary finding.
 * [WA State Bar Complaint: Patricia Fulton (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-bar-complaint-patricia-fulton-2016)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](https://www.ywcaofmissoula.com/washington-state-complaints/seattle-opa-complaint-2016opa-1167-2016)
