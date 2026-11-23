@@ -57,7 +57,7 @@ Crucially, Tyrone asserts that Smith "has no reason to believe" Elvis was "actua
 
 The complaint culminates in an explicit cease-and-desist request: Tyrone asks that he "be left alone" and that "all attempts to contact" himself and his family "cease and desist immediately." This language clearly communicates non-consent to further contact and places the department on notice that the family experiences the officer's outreach as harassment rather than assistance.
 
-Archive summaries indicate that, after the Nuno parents' complaint — the March 2018 letter reproduced here was signed by Tyrone Nuno — and subsequent conversations with Sergeant Delridge, Officer Smith was removed from any case involving Elvis Nuno and E'Lise Chard due to the "appearance of impropriety and unbecoming conduct" toward the Nuno parents. Despite that reassignment, later charging documents reportedly continued to rely on Smith's investigative work, underscoring the importance of preserving this complaint as a contemporaneous record of objection to his methods.
+Archive summaries indicate that, after the complaint submitted by Tyrone Nuno and subsequent conversations between Tyrone and Sergeant Delridge, Officer Smith was removed from any case involving Elvis Nuno and E'Lise Chard due to the "appearance of impropriety and unbecoming conduct" toward the Nuno parents. Despite that reassignment, later charging documents reportedly continued to rely on Smith's investigative work, underscoring the importance of preserving this complaint as a contemporaneous record of objection to his methods.
 
 ## Placement Within the MPD Officer Misconduct Series
 
