@@ -57,6 +57,33 @@ This page uses the cited record to frame a structural risk: overlapping relation
 
 The later documented board membership of Detective Connie Brueckner appears in the [FY2023 GSAFAC audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) and the [FY2023–FY2024 audited statements](.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf); neither establishes board service during the 2018 investigation or a case-period conflict. Comparative 2022 financial schedules do not establish 2022 board service.
 
+### Two MPD detectives documented on the board, at different times
+
+Two Missoula Police Department detectives are documented on the YWCA of Missoula Board of Directors in different periods, and the distinction between those periods carries the analysis.
+
+- **Jamie Merifield** is listed as Board Member in YWCA's Form 990 Part VII for [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) (July 1, 2019–June 30, 2020) and [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) (July 1, 2020–June 30, 2021), and as a former board member in [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full).
+- **Connie Brueckner** is documented later: on the roster in the [FY2023 GSAFAC audited statements](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) and in the [FY2023–FY2024 audited statements](.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf) (independent auditors' report dated March 19, 2025).
+
+**What the documented dates do and do not overlap.** Merifield's documented tenure (July 2019–June 2021) begins after the events that opened this matter. The [case chronology](montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison.md) dates the YWCA letter-and-donation complaint to June 3, 2018, the stalking charges to approximately July 2018, and the warrantless home entry and arrest to August 2018 — all before July 2019. His tenure does overlap the later pendency of that prosecution: the same chronology records the deferred-prosecution agreement as already three-quarters complete on September 17, 2020 and a dismissal with prejudice entered January 5, 2021, both inside the documented tenure. The repo does not establish start and end dates for the underlying investigative work as distinct from the charges, so no claim is made about overlap with specific investigative steps.
+
+**Why the governance question survives that narrowing.** The claim here is structural, not personal: for roughly two fiscal years, a sitting MPD detective sat on the governing board of the victim-advocacy organization at the center of these complaints, while the prosecution arising from a complaint against that organization's employees remained pending and while complaints about the organization and the department moved through the oversight channels this project documents as closed or unexplained. That is a conflict-of-interest and institutional-independence question warranting investigation of board minutes, conflict disclosures, recusal practice, and information flow between the organization and the department.
+
+**Limits, stated plainly.** The filings do not show that Merifield investigated this case, took part in any decision in it, or had any contact with it; nothing here alleges personal involvement by him. The filings establish board membership and its dates, nothing more. Any conflict inference remains analysis and allegation, not an adjudicated finding. Brueckner's documented board membership is later than the case and representation period, and the reviewed FY2018–FY2022 Part VII rosters do not list her.
+
+### The investigation's premise documents and the officer later removed
+
+The charging theory rests on police reports authored by MPD Officer Ethan Smith, whose reports this archive contests. Party filings in the disciplinary record state that a formal complaint by Mr. Nuno's parents led Smith's commanding officer to identify an "obvious appearance of impropriety" — his documented close personal relationship with the complaining witness — and to remove Smith from any case involving E'Lise Chard and Mr. Nuno. Source: the [Lowney grievance](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md), Section II; the [independent grievance of Eleanor Nuno](montana-bar-complaints/eleanor-ellie-nuno-independent-odc-grievance-odc-25-147-may-2026.md) describes the same removal.
+
+The quoted phrase is reproduced as it appears in those filings. The underlying Missoula Police Department complaint record and removal decision are not in this archive, so the removal and its stated ground are the documented account of the complainants, not an independently verified department record; the primary documents are listed in records to obtain.
+
+What that does establish, if the filings are confirmed against department records: the evidentiary foundation of the prosecution was authored by an officer later removed from the matter for an appearance of impropriety, which is a reason to test the reliability of those reports and to ask whether the removal was disclosed. What it does not establish: that any report was false, that the charges lacked probable cause, that the reassignment was improper, or that any later investigator acted on a conflict.
+
+### Records to obtain for these questions
+
+- YWCA Missoula board minutes, conflict-of-interest disclosures, and recusal records for FY2020–FY2021, to test whether the board addressed police representation during the pendency of this prosecution.
+- The Missoula Police Department complaint file and removal decision concerning Officer Ethan Smith, to verify the removal and its stated ground against a department record rather than party filings.
+- The charging documents and supporting affidavit in the Montana stalking prosecution, together with any recorded witness statement referenced in the [Lowney grievance](montana-bar-complaints/grievance-to-montana-odc-brian-lowney-4.28.2026.md), Section II.G(4). **Citation needed — documents not yet located in this archive.** No statement attributed to that witness is asserted as fact on this page.
+
 ## Case Materials and Pattern Evidence: Elvis Nuno
 
 Documentary records reflect a pattern in which YWCA-affiliated staff allegedly leveraged organizational credibility and relationships with MPD to instigate or escalate police actions based on defamatory narratives - followed by charges that were dismissed, repeated arrests, high bail, a home raid, and other severe consequences.
