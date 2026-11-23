@@ -1,12 +1,7 @@
 ---
 title: Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)
 description: >-
-  Record-first research and public documentation of the community- and
-  state-level legal-system ecosystem — the Nuno case (2015–2025) serving as
-  one evidentiary spine among many — covering alleged misconduct, civil-rights
-  claims, complaint filings, official responses, and institutional redress
-  pathways involving YWCA Missoula, MPD, prosecutors, and state/federal
-  institutions.
+  Record-first research and documentation of the community- and state-level legal-system ecosystem — the Nuno case (2015–2025) serving as one evidentiary spine among many — covering alleged misconduct.
 tags:
   - Missoula
   - Montana

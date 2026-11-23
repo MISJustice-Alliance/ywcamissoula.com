@@ -21,6 +21,8 @@ I, Elvis Nuno, am seeking counsel on two tracks, which may be taken together or 
 1. **Individual track** — a legal-malpractice action against my former criminal-defense attorney, Bryan C. Tipp, together with my individual civil-rights claims. I report discovering the full extent of the alleged malpractice on July 5, 2025; on that discovery date, the three-year limitations period for the malpractice claim runs to July 5, 2028. Counsel should assess each act or omission, its discovery date, and the ten-year repose limit separately.
 2. **Collective track** — a potential collective civil-rights action, structured as a class action only if evidence supports certification, concerning alleged conduct by the City of Missoula / Missoula Police Department, the Missoula County Prosecutor's Office, and the YWCA of Missoula. Counsel should test the proposed First, Fourth, Fifth, and Fourteenth Amendment theories, and the thesis that complaint channels exist in theory but are effectively blocked in practice, against the documented complaint routes and outcomes in specific cases. With diligent investigation, a RICO theory may also be available; I present it as a question for counsel's assessment, not a conclusion.
 
+[Collective civil-rights litigation, class action, and RICO analysis](../research-reports-legal-advocacy-and-analysis/collective-civil-rights-litigation-class-action-rico-missoula.md)
+
 For out-of-state firms: Montana Admission Rule VI (state court) and District of Montana Local Rule 83.1(d) (federal court) permit pro hac vice admission with an associated Montana attorney of record; current requirements should be confirmed before any appearance.
 
 ## Track 1 — Individual: malpractice and individual civil rights
