@@ -25,6 +25,7 @@ This hub collects Bryan Tipp malpractice **allegations** and the linked primary 
 
 ### Start here
 
+* Counsel intake (individual and collective tracks): [Start Here — Partner Summary](start-here-partner-summary-representation-evaluation.md).
 * Malpractice overview (analysis): [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * Key correspondence analysis: ["Generally disinclined": Legal malpractice and First Amendment retaliation (Nuno case)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp/generally-disinclined-legal-malpractice-and-first-amendment-retaliation-nuno-case)
 * Evidence hub: [Legal malpractice evidence (Bryan Tipp)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/legal-malpractice-evidence-bryan-tipp)

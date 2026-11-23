@@ -21,6 +21,8 @@ tags:
 
 ### Executive snapshot
 
+**For prospective counsel:** [Start Here — Partner Summary: Representation Evaluation (Individual & Collective Matters)](overview/start-here-partner-summary-representation-evaluation.md) gives the two-track request and the first records to review.
+
 This site is a **record-first** research project and living public record examining the Missoula law-enforcement and victim-advocacy ecosystem — the community- and state-level legal-system structure that determines whether reports of institutional misconduct are investigated or quietly closed. The **research materials** provide the macro view: how this ecosystem is designed to preempt investigation into cases that necessitate accountability, and how its layered bureaucratic structure functions as a firewall protecting civil and public institutions from victim and public reporting on misconduct that has become endemic.
 
 The **Nuno case (2015–2025)** is one of many such cases. It serves here as an evidentiary spine — a documented, verifiable thread through events, filings, complaint responses, institutional actors, and the downstream human and legal costs — but it is not the subject of the research. It is the worked example: a structured dataset for pattern-of-practice analysis demonstrating how the same channels, non-responses, and institutional protections recur across cases, most of which never generate a public record at all.

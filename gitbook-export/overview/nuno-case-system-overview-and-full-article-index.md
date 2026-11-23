@@ -54,6 +54,7 @@ This index is organized so investigators can start with the Nuno record, then pi
 
 Use these first if you're validating the pattern or building an investigative roadmap:
 
+* [Start Here — Partner Summary: Representation Evaluation](start-here-partner-summary-representation-evaluation.md) — the two-track counsel intake and first source links.
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
@@ -140,6 +141,7 @@ Use this documentation to:
 
 <summary><strong>Overview</strong></summary>
 
+* [Start Here — Partner Summary: Representation Evaluation](start-here-partner-summary-representation-evaluation.md)
 * [Introduction](https://www.ywcaofmissoula.com)
 * [Dataset catalog (Google indexing)](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](https://www.ywcaofmissoula.com/datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025)
