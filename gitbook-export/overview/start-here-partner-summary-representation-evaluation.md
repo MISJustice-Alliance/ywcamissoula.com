@@ -7,7 +7,9 @@ description: >-
 # Start Here — Partner Summary: Representation Evaluation (Individual & Collective Matters)
 
 **From:** Elvis Nuno, individually and as public coordinator of the MISJustice Alliance
+
 **Re:** Two related matters for representation evaluation — (1) individual legal-malpractice and civil-rights claims; (2) a possible collective civil-rights action concerning alleged recurring conduct in Missoula, Montana
+
 **Research archive:** [ywcaofmissoula.com](../README.md), an independent MISJustice Alliance site with source records and advocacy analysis. This public summary is a request for counsel to evaluate disputed claims, not a pleading or a finding of liability. Some supporting records and other people’s accounts are not public; no attorney-client relationship is created by reading this page.
 
 **Dated:** November 22, 2026. **Source:** Elvis Nuno’s November 22 partner summary, revised for public sourcing and third-party privacy.
