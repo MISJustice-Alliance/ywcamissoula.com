@@ -54,7 +54,7 @@ This index is organized so investigators can start with the Nuno record, then pi
 
 Use these first if you're validating the pattern or building an investigative roadmap:
 
-* [Start Here — Partner Summary: Representation Evaluation (Individual & Collective Matters)](start-here-partner-summary-representation-evaluation.md) — two-track counsel intake and source-led evaluation
+* [Start Here — Partner Summary: Representation Evaluation](start-here-partner-summary-representation-evaluation.md) — the two-track counsel intake and first source links.
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
@@ -141,6 +141,7 @@ Use this documentation to:
 
 <summary><strong>Overview</strong></summary>
 
+* [Start Here — Partner Summary: Representation Evaluation](start-here-partner-summary-representation-evaluation.md)
 * [Introduction](https://www.ywcaofmissoula.com)
 * [Dataset catalog (Google indexing)](https://www.ywcaofmissoula.com/datasets/dataset-catalog-indexes)
 * [Dataset: Nuno case civil-rights violations and timeline (2014–2025)](https://www.ywcaofmissoula.com/datasets/dataset-nuno-case-civil-rights-violations-and-timeline-2014-2025)
@@ -255,6 +256,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 * [2020 WA Cases, Witness Tampering, Coerced Pleas, and the Impossible Catch-22 Situation](https://www.ywcaofmissoula.com/washington-cases/2020-wa-cases-witness-tampering-coerced-pleas-and-the-impossible-catch-22-sit)
 * [Washington Plea Withdrawal Advisory: Witness Tampering and Coerced Pleas](https://www.ywcaofmissoula.com/washington-cases/plea-withdrawal-witness-tampering-coerced-pleas-advisory-brief)
 * [Edmonds Case (2015-2017)](../washington-cases/edmonds-case-2015-2017.md)
+* [Washington bar grievance concerning the Edmonds prosecutor’s response (Nov 2026)](../washington-bar-grievance-edmonds-prosecutor-plea-coercion-report.md) — article and filing account, not a Bar determination; no grievance packet is public.
 * [Edmonds Police Report Fabrication: Constitutional Analysis of 2016OPA-1167](https://www.ywcaofmissoula.com/washington-cases/edmonds-police-report-fabrication-constitutional-analysis-2016opa-1167)
 </details>
 <details>

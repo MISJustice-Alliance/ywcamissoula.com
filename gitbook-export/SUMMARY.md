@@ -143,6 +143,7 @@
 * [ODC Complaint: Lowney / Missoula Prosecutors (PDF)](montana-bar-complaints/odc-complaint-lowney-missoula-prosecutors-pdf.md)
 * [ODC File No. 26-145 Rejection — Brian C. Lowney (June 9, 2026)](montana-bar-complaints/odc-26-145-rejection-brian-lowney-june-9-2026.md)
 * [Request for Commission on Practice Review — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-commission-on-practice-review-odc-26-145-brian-lowney.md)
+* [Rule 14 review request emailed to Commission — ODC File No. 26-145 (Brian C. Lowney)](montana-bar-complaints/request-for-discretionary-review-montana-supreme-court-odc-26-145-brian-lowney.md)
 
 ## Montana State Complaints
 
@@ -153,6 +154,8 @@
 
 ## Washington State Complaints
 
+* [Washington State Complaints Index](washington-state-complaints-index.md)
+* [Washington bar grievance questions Edmonds prosecutor’s handling of a plea-coercion report](washington-bar-grievance-edmonds-prosecutor-plea-coercion-report.md)
 * [WA State Bar Complaint: Patricia Fulton (2016)](wa-state-bar-complaint-patricia-fulton-2016.md)
 * [WA State Dept. of Health Complaint: Dr. Marta Miranda (2016)](wa-state-dept.-of-health-complaint-dr.-marta-miranda-2016.md)
 * [Seattle OPA Complaint - 2016OPA-1167 (2016)](seattle-opa-complaint-2016opa-1167-2016.md)
