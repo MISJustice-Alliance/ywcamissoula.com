@@ -104,14 +104,14 @@ The experience of Elvis Nuno illustrates this failure. Despite submitting a nota
 
 "Institutional Capture" occurs when multiple agencies coordinate to protect shared interests rather than the public interest.
 
-* **The Conflict-of-Interest Theory**: A primary red flag is the overlap between law enforcement and advocacy boards. Sources cite Detective Connie Brueckner, who served on the board of the YWCA of Missoula while simultaneously serving as an MPD detective investigating complaints involving YWCA staff.
+* The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 * **Civil Rights Conspiracy (42 U.S.C. Section 1985)**: This legal theory alleges that institutions (MPD, YWCA, and Prosecutors) operate in coordination to suppress critics. When a grievance is converted into state-sanctioned retaliation or malicious prosecution, it moves from a private dispute into a constitutional violation.
 
 ## 7. Summary of Systemic Reform Requirements
 
 The Missoula governance model is currently "structurally unable" to resolve these conflicts internally. A healthy system requires the following immediate reforms:
 
-* [ ] **Remove Law Enforcement from Advocacy Governance**: End the practice of active officers, like Detective Brueckner, serving on boards of victim-service organizations.
+* [ ] **Review Law Enforcement in Advocacy Governance**: Evaluate safeguards for active officers on victim-service boards. [YWCA's FY2020 and FY2021 Form 990 filings](https://projects.propublica.org/nonprofits/organizations/810245851) list Detective Jamie Merifield, not Brueckner, during those fiscal years; Brueckner's documented board listing is later and does not establish service during the 2018 case.
 * [ ] **Establish Genuine Independence**: Create an independent intake and investigative mechanism entirely separate from the MPD.
 * [ ] **Immediate Confidentiality Protection**: Ensure client data from shelters and advocacy groups cannot be accessed by adversarial law enforcement channels.
 * [ ] **Professional Standards Enforcement**: Require mandatory outside review for all Use-of-Force and discrimination allegations.
@@ -137,3 +137,5 @@ True accountability cannot exist when the accused is the sole author of the inve
 ---
 
 *This guide is produced by MISJustice Alliance for educational, research, and public accountability purposes. It does not constitute legal advice and does not create an attorney-client relationship. All factual claims are cited to publicly accessible primary sources.*
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

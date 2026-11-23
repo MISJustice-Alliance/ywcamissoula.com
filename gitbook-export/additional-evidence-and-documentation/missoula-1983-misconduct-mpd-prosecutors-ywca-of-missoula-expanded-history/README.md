@@ -15,7 +15,7 @@ description: >-
 
 The civil rights violations documented in the case of Elvis Ryland Nuno represent not an isolated incident but rather a manifestation of deeply entrenched institutional corruption within Missoula, Montana's law enforcement, prosecutorial, and victim advocacy systems. This report expands the evidentiary record to encompass systematic patterns of abuse affecting multiple victims across more than a decade, revealing coordinated misconduct by the **YWCA of Missoula**, **Missoula Police Department (MPD)**, and Missoula County Attorney's Office that preceded, paralleled, and followed Mr. Nuno's experience. The navigation structure on this page emphasizes both evidence routing and the structural remediation priorities now used across the YWCA-facing index pages.
 
-The documented evidence establishes that Mr. Nuno's case—characterized by Detective Connie Brueckner's unprecedented dual role as both YWCA Board member and investigating officer, retaliatory prosecution following protected First Amendment complaints, warrantless home invasions, and career destruction—fits within a broader pattern of institutional capture that has victimized multiple populations including sexual assault survivors, domestic violence victims, YWCA clients, individuals with mental illness, disabled persons, and families seeking services.
+The case account discusses Detective Brueckner’s investigative role and alleged harms, but does not establish a contemporaneous YWCA board conflict.
 
 #### Key external packets (CR-2025-001)
 
@@ -28,7 +28,7 @@ The documented evidence establishes that Mr. Nuno's case—characterized by Dete
 
 * **2012–2014 Federal Investigation**: U.S. Department of Justice investigation found Missoula became "America's rape capital" with systematic gender discrimination in prosecution of 350 sexual assault cases, resulting in only 16.5% prosecution rate
 * **Multiple Victim Populations**: Evidence documents abuse patterns affecting sexual assault survivors, YWCA shelter clients, families reported to child protective services, individuals with mental illness, and critics of institutional misconduct
-* **Institutional Capture**: Detective Connie Brueckner's simultaneous service on YWCA Board while investigating complaints against YWCA employees created structural conflicts enabling constitutional violations across multiple cases
+* **Institutional capture theory — correction:** The claimed Brueckner board overlap is not established.
 * **Confidentiality Violations**: Current and former YWCA clients report counseling information leaked to abusive ex-partners, HIPAA breaches, and weaponization of private disclosures
 * **Police Accountability Failure**: 2016–2022 data shows only 16% of 349 civilian complaints ruled in favor of complainants; 0% success rate for use-of-force and discrimination complaints
 * **CFS Over-Reporting**: YWCA reports "almost every family" exiting shelter to Child and Family Services regardless of legitimate grounds
@@ -122,11 +122,11 @@ This federal investigation and settlement established critical context: the same
 
 ### II. YWCA of Missoula: From Victim Advocacy to Institutional Weapon
 
-#### A. Structural Corruption: Detective Connie Brueckner's Dual Role
+#### A. Board chronology and the investigative record
 
-The most egregious institutional conflict enabling systematic abuse is Detective Connie Brueckner's simultaneous service on the **YWCA of Missoula** Board of Directors while investigating complaints against YWCA employees. ProPublica nonprofit records conclusively establish Brueckner as a YWCA Board member-at-large with her employer identified as "Missoula PD" (i.e., **Missoula Police Department (MPD)**).
+Later board rosters cannot prove that Detective Brueckner served on the YWCA board during this investigation.
 
-This arrangement creates:
+Separate governance and investigative questions remain:
 
 1. **Institutional Capture**: Law enforcement serving organizational interests rather than public safety
 2. **Fiduciary Conflict**: Board duties to protect YWCA conflicting with investigative objectivity
@@ -137,7 +137,7 @@ This arrangement creates:
 
 Law enforcement officers perpetrate domestic violence at 2-4 times the rate of the general population, with best estimates around 21% (ranging 7-29% in U.S. studies). Earlier research documented rates up to 40% under broader definitions. Departmental accountability failures include light discipline, rare prosecution, and documented cases of officers with sustained DV findings advancing in rank.
 
-Within this empirical reality, seating an MPD detective on the board of a domestic violence shelter creates a **non-waivable structural conflict**. The organization must be capable of adversarial advocacy against police actors, including officer-abusers, yet has seated police leadership in its oversight body. Recusal cannot cure the survivor-perceived risk or institutional capture.
+A later board roster raises governance questions about an MPD detective’s presence on a victim-service board. That roster cannot establish a conflict in this earlier investigation, and the legal effect of any later affiliation requires case-specific evidence.
 
 #### B. Client Testimony: Systematic Confidentiality Violations
 
@@ -410,7 +410,7 @@ Mr. Nuno's father, Tyrone Nuno, filed a formal complaint in March 2018 regarding
 
 > _"Beginning in June of 2017 officer Smith showed up at my ex wife's Ellie Nuno residence...asking questions about my son Elvis Nuno. Since that time he has made at least a half dozen other attempts to contact me and my ex wife. He has incessantly harassed myself, Tyrone Nuno, and ex wife, Ellie Nuno, with phone calls, messages, and letters... This is highly unprofessional and unethical conduct for a police officer to confront someone's family members over a matter they have nothing to do with. I would like to be left alone seeing as how I dont know anything, and it causes a great deal of tension in my family. It seems to me like he is greatly exaggerating whatever this situation is and has no reason to believe my son is actually doing anything wrong, but is simply fishing for information and is trying to embarrass, humiliate, and intimidate my son."_
 
-Officer Smith's commanding officer **removed him from the case** for "obvious appearance of impropriety" based on his close personal relationship with YWCA employee E'Lise Chard. However, the case was immediately transferred to Detective Connie Brueckner—whose **undisclosed YWCA Board membership created an even more egregious conflict**—enabling escalation rather than remediation.
+Officer Smith was reportedly removed for an “obvious appearance of impropriety”; the subsequent assignment to Detective Brueckner does not establish a new YWCA board conflict.
 
 ***
 
@@ -493,7 +493,7 @@ Mr. Nuno's experience—detailed extensively in prior analyses—exemplifies how
 **Immediate Response**:
 
 * E'Lise Chard filed order of protection with fictional narrative claiming extensive criminal history, drug history, threats to children—all fabrications
-* Case transferred from Officer Ethan Smith (removed for impropriety) to Detective Connie Brueckner (undisclosed YWCA Board member)
+* Case transferred from Officer Ethan Smith to Detective Connie Brueckner; the claimed contemporaneous board membership is not established.
 
 **Escalation Under Detective Brueckner**:
 
@@ -521,7 +521,7 @@ Attorney Bryan Tipp's representation from 2017-2022 involved systematic failures
 
 1. **Advised against civil claims** to "give the matter time"
 2. **Ignored ongoing harassment** (2020-2022) causing St. Regis contract loss
-3. **Failed to identify** obvious conflicts (Brueckner's YWCA Board service)
+3. **Board-conflict predicate unsupported:** The cited records do not establish board service during the case.
 4. **Allegedly failed to provide claim-specific limitations advice.** Montana generally borrows a three-year personal-injury period for § 1983 claims, while Mont. Code Ann. § 27-2-204(3) generally supplies a two-year period for libel and slander; accrual and tolling still require claim-specific analysis.
 
 The project alleges that Tipp's conduct implicated Montana Rules of Professional Conduct 1.1 (competence), 1.3 (diligence), 1.4 (communication), and 1.7 (conflict of interest). Those rules do not themselves establish civil liability. A malpractice damages figure requires expert-supported breach, omission-specific timeliness, and suit-within-a-suit proof; no aggregate amount is treated as verified here. Records: [ODC 25-147 (Bryan Tipp) — Montana Bar Complaint index](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-bryan-tipp-montana-bar-complaint-index); [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account).
@@ -547,7 +547,7 @@ The evidence presented establishes that Mr. Nuno's experience constitutes one do
 
 #### B. Structural Enablers
 
-**Detective Connie Brueckner's Dual Role**: The unprecedented arrangement of an MPD detective serving on the YWCA Board while investigating complaints against YWCA employees creates institutional capture enabling:
+**Board and police roles — correction:** Later rosters do not establish a case-period conflict. The following investigative questions require independent evidence:
 
 * **Investigation bias** favoring institutional interests over constitutional rights
 * **Suppression of exculpatory evidence** (character references, conflicting witness statements)
@@ -573,7 +573,7 @@ The documented evidence spans:
 
 #### A. Immediate Governance Reforms
 
-1. **Remove Detective Connie Brueckner** and all active law enforcement officers from YWCA Board
+1. **Review active law-enforcement board membership** and adopt conflict safeguards; the FY2020–FY2021 Form 990 filings document Jamie Merifield's board tenure, not Brueckner's service during the 2018 case. [YWCA Form 990 filings](https://projects.propublica.org/nonprofits/organizations/810245851)
 2. **Prohibit future law enforcement membership** while permitting consultative liaison roles with strict boundaries
 3. **Establish independent ethics committee** with external experts to oversee conflicts and confidentiality breaches
 4. **Implement auditable information governance** with written MOUs, least-necessary data practices, survivor-informed consent, and immutable logs
@@ -616,7 +616,7 @@ The documented evidence spans:
 
 The civil rights violations documented in the case of Elvis Nuno represent not an isolated incident of overzealous prosecution but rather a manifestation of deeply entrenched institutional corruption within Missoula's law enforcement, prosecutorial, and victim advocacy systems. The evidence presented—spanning federal investigations, victim testimony, employee reviews, court records, and institutional documents—establishes systematic patterns of abuse affecting multiple populations across more than a decade.
 
-The 2012-2014 federal investigation found Missoula law enforcement and prosecutors engaged in systematic gender discrimination that made the city "America's rape capital." Rather than producing lasting reform, the settlement created surface compliance while enabling deeper institutional capture. The **YWCA of Missoula**, designated as a "community partner" in reformed processes, became a vehicle for institutional retaliation through Detective Connie Brueckner's unprecedented dual role as both Board member and investigating officer.
+The 2012–2014 federal review provides context but does not establish Detective Brueckner’s simultaneous YWCA board role in this case.
 
 Current and former YWCA clients report confidentiality violations, disability discrimination, selective service delivery punishing advocates, weaponization of child protective services reporting, and letters to judges lacking factual foundation. Employee reviews spanning 2018-2024 document untrained staff, exploitative compensation, oppressive management, and mistrust of leadership. Police accountability metrics show near-zero civilian complaint success, particularly for use-of-force and discrimination claims. The homelessness industrial complex perpetuates crisis for profit through 90-day shelter limits, 30-day waiting periods, and bias-based service allocation.
 
@@ -645,3 +645,5 @@ This report synthesizes evidence from 76+ sources including:
 Additional long-form reporting used for historical context:
 
 * Matthew Frank, _To Serve and Deflect_, Missoula Independent (archived via Internet Archive). https://web.archive.org/web/20160910080807/http://missoulanews.bigskypress.com/missoula/to-serve-and-deflect/Content?oid=1882726\&mode=print
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

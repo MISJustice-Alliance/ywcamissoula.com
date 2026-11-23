@@ -135,7 +135,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Tags: `report` `court-filing` `misconduct` `neglect` `abuse` `final`
 * **ywca-misconduct-and-lifeguard-group-coverup.pdf**
   * Link: [Open](https://arweave.net/z090jtLboolS9BP_oTv_QSKSAhHTtev6iD_MnI2IRCo)
-  * Synopsis: Legal analysis of alleged conflict of interest (Brueckner on YWCA board) and links to LifeGuard Group safe house controversy.
+  * Synopsis: Legal analysis of alleged YWCA-police relationships and LifeGuard Group; its Brueckner case-period board premise is not established.
   * Tags: `report` `court-filing` `misconduct` `civil-rights` `fraud` `discrimination` `final`
 * **case-study-state-of-montana-vs-elvis-nuno.pdf**
   * Link: [Open](https://cr-2025-001-evidence-22_misjusticealliance.arweave.net/)
@@ -165,7 +165,7 @@ If you want one GitBook page per file later, say so and I’ll split them out.
   * Synopsis: Chart of annual federal funding sources for a specific organization (totaling $1.13M).
   * Tags: `report` `court-filing` `financial-record` `neglect` `final`
 * **damages\_by\_victim\_real.png**
-  * Link: [Open](https://cr-2025-001-evidence-6_misjusticealliance.arweave.net/)
+  * Link: [Open](https://cr-2025-001-evidence-6_misjusticealliance.arweave.net/) — early estimate; its $22,500,000 figure for the Nuno case is superseded by the Appendix D filed calculation (total lost recovery $8,150,000–$12,000,000). Retained for the record.
   * Synopsis: Bar chart of estimated damages for multiple victim classes (excluding the Nuno case).
   * Tags: `report` `court-filing` `negligence` `civil-rights` `final` `exhibit`
 * **rico\_timeline\_real.png**
@@ -242,3 +242,5 @@ These pages should generally link back here when they cite CR-2025-001 documents
 ### Related
 
 {% include "../../../.gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

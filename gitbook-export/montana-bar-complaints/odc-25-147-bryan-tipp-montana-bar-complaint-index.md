@@ -6,6 +6,8 @@ description: >-
   rulings, and supporting records.
 ---
 
+**Editorial case-period correction:** Reviewed FY2018–FY2022 Part VII rosters do not list Connie Brueckner. [FY2020 (July 2019–June 2020)](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 (July 2020–June 2021)](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list **Jamie Merifield** as Board Member; [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists Merifield as former. Merifield is not identified as an investigator in this case. Later board listings cannot establish Brueckner’s role during this investigation. The case-period Brueckner board-conflict theory, and legal conclusions relying solely on it, are not established. Historical quoted correspondence is retained as an attributed record.
+
 
 # ODC 25-147 (Bryan Tipp) — Montana Bar Complaint Index
 > **Explanation update — November 5, 2026:** [The Tipp/Lowney follow-up](odc-time-bar-strategy-reasons-unanswered.md) and [companion analysis](../research-reports-legal-advocacy-and-analysis/odc-time-bar-strategy-duty-to-give-reasons.md) compare the written reasons with later, document-specific questions. They do not reopen the Supreme Court's October disposition.
@@ -88,7 +90,7 @@ It is also useful for **civil-rights advocates** and **technical readers** asses
 * Bryan Tipp (Missoula, Montana)
 * Legal malpractice, competence, diligence, and conflicts of interest
 * Brian Lowney prosecutorial misconduct grievance and Brady/Giglio theory
-* MPD investigator conflict, Officer Ethan Smith removal, and Detective Brueckner/YWCA conflict
+* MPD investigator questions and Officer Ethan Smith’s reported removal; the alleged case-period Brueckner/YWCA board conflict is not established
 * E'Lise Chard, YWCA of Missoula, and institutional information-sharing evidence
 * First Amendment and Fifth Amendment issues in plea or resolution terms
 * Digital evidence and compelled password disclosure
@@ -162,7 +164,7 @@ Related starting points:
 * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025)
   * **Summary:** Expands from statute-of-limitations harm into competence and diligence failures. Emphasizes conflicts, missing motions, and unasserted constitutional issues.
   * **What changed at this stage:** The theory shifts from “missed civil deadlines” to “criminal defense failures drove the harm.”
-  * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts)
+  * [Appendix A: Smith removal and Brueckner investigation — corrected comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts)
     * **Summary:** Side-by-side conflict framing for two investigators. It supports “obvious red flags” and “failure to investigate” themes.
     * **What changed at this stage:** Adds a clean conflict comparison for quick citations.
   * [Appendix B: List of Motions That Should Have Been Filed](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed)
@@ -218,7 +220,7 @@ Related starting points:
   * **What changed at this stage:** Links the defense-counsel malpractice record to the prosecutorial-misconduct record so readers can evaluate Tipp's alleged omissions against the State's alleged Brady/Giglio, protected-speech, charging, bail, and DPA-leverage conduct.
 * [Grievance to Montana ODC — Brian Lowney (April 28, 2026)](https://www.ywcaofmissoula.com/odc-lowney-grievance-2026/grievance-to-montana-odc-brian-lowney-4.28.2026)
   * **Summary:** Formal grievance alleging prosecutorial misconduct, Brady violations, abuse of process, reliance on tainted MPD investigative work, and unconstitutional speech waiver in Cause No. DC-18-587.
-  * **What changed at this stage:** Opens the prosecution-side accountability track that is intertwined with the Tipp complaint: the same alleged Smith removal, Brueckner/YWCA conflict, E'Lise Chard evidence, protected-speech ruling, and DPA speech restriction are relevant both to Lowney's duties as prosecutor and Tipp's duties as defense counsel.
+  * **What changed at this stage:** The prosecution-side account discusses Smith’s reported removal, Chard evidence, the protected-speech ruling, and the DPA restriction. The alleged case-period Brueckner/YWCA board conflict is not established and is not a verified shared predicate.
 
 #### Supplemental Submission #4 (May 2026)
 
@@ -278,7 +280,7 @@ Related starting points:
 #### Cross-matter chronology, PS email index, and police-report comparison
 
 * [ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/odc-25-147-chronological-case-record-timeline-ps-email-chain-index-police-report-comparison)
-  * **Summary:** A neutral, source-attributed master chronology spanning the Montana ODC 25-147 record, the August 14, 2018 P.S. email forwarding chain (discovery document 2018-37193), the Officer Ethan Smith removal and Detective Brueckner/YWCA board connection, and a side-by-side comparison of Seattle PD reports GO#2015-421345 and GO#2015-429912.
+  * **Summary:** A source-attributed chronology of the ODC record, the August 14, 2018 P.S. email chain, Smith’s reported removal, and a comparison of Seattle reports GO#2015-421345 and GO#2015-429912. It identifies the Brueckner board connection as an unsubstantiated case-period allegation.
   * **What changed at this stage:** Consolidates dates, actors, and record status (official record vs. party allegation vs. oversight disposition) from every prior filing into one indexed table set, and adds the first published side-by-side comparison of the two underlying Seattle PD report versions.
 
 #### External dossier pointer

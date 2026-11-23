@@ -54,6 +54,7 @@ This index is organized so investigators can start with the Nuno record, then pi
 
 Use these first if you're validating the pattern or building an investigative roadmap:
 
+* [Start Here — Partner Summary: Representation Evaluation (Individual & Collective Matters)](start-here-partner-summary-representation-evaluation.md) — two-track counsel intake and source-led evaluation
 * [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 * [Civil Rights Violations and Related Claims (2015-2025)](https://www.ywcaofmissoula.com/overview/civil-rights-violations-and-related-claims-2015-2025)
 * [Systemic Civil Rights Violations, Institutional Misconduct, and Victim Abuse: Expanded History](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history)
@@ -219,7 +220,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 
 * [Montana Legal Cases](../montana-legal-cases.md)
 * [A Letter Became Evidence. His Requests for Protection Met a Wall.](../a-letter-became-evidence.md) — YWCA grievance and petition, distinct dismissal stages, and attributed reporting accounts
-* [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [YWCA board allegation: corrected case-period summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [2017-2019 Stalking Charges — Civil Rights Violations and Prosecutorial Misconduct](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Home Invasion, Warrantless Arrest, & False Imprisonment; Lost in Missoula County Jail (August 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j)
@@ -273,7 +274,7 @@ The [August 14, 2018 P.S. email evidence hub](../additional-evidence-and-documen
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july)
   * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025)
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025)
-    * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts)
+    * [Appendix A: Smith removal and Brueckner investigation — corrected comparison](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts)
     * [Appendix B: List of Motions That Should Have Been Filed](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed)
     * [Appendix C: Constitutional Violations Identified But Not Addressed](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-c-constitutional-violations-identified-but-not-addressed)
     * [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations)

@@ -155,9 +155,9 @@ Nuno has separately raised questions about YWCA relationships, witness credibili
 * Rule 1.4 mandates **prompt communication** of material decisions affecting client's legal rights
 * Whether reasonably careful criminal counsel should identify, advise on, or refer parallel civil remedies is a standard-of-care question for qualified expert analysis, not an assumed rule on this record.
 * Mr. Nuno argues that the alleged Brueckner conflict was discoverable; its materiality, counsel's knowledge, and the diligence required remain disputed:
-  * YWCA Missoula board membership public record (IRS Form 990, board lists, ProPublica)
+  * YWCA Form 990 Part VII lists Jamie Merifield as Board Member in [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full), former in [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full); these filings do not document Brueckner's case-period board service or show Merifield investigated this case.
   * Temporal proximity: Nuno files Sept 17, 2017 YWCA complaint → Brueckner assumes lead investigator role Sept–Oct 2017 → charges escalate through 2017–2018
-  * Brady material: Brueckner's fiduciary duty to YWCA (protecting organization from accountability) created bias against Nuno's credibility, motivation to credit E'Lise Chard
+  * The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 
 ***
 
@@ -177,31 +177,31 @@ Nuno has separately raised questions about YWCA relationships, witness credibili
 
 **Application argument:** A verified imminent deadline for a potentially valuable claim could be material to the client. Whether Rule 1.4 or the professional standard of care required Tipp to calculate, communicate, or refer that civil matter depends on engagement scope, the facts known at the time, and expert evidence. The previously stated $1.5M–$3M value is not established by the cited record.
 
-**2. Failure to Investigate Brueckner Conflict (MRPC 1.1 & 1.3)**
+**2. Claimed Brueckner Board Conflict (MRPC 1.1 & 1.3) — predicate unverified**
 
-**Undisclosed conflict:**
+**Claimed board conflict — chronology correction:**
 
-* Detective Connie Brueckner served on YWCA Missoula board **throughout her investigation** of stalking charges arising from Nuno's September 2017 complaint to YWCA
-* Brueckner's fiduciary duty to YWCA (protecting organization from liability) created inherent bias against Nuno's credibility
-* Brady-Giglio exculpatory material: Brueckner's motive to suppress complaint and credit E'Lise Chard (board employee) over Nuno
+* Detective Connie Brueckner is described as an investigator in the case; the claimed YWCA board service throughout that investigation is not established.
+* A YWCA fiduciary duty during this case is not established; do not infer bias from a later roster.
+* A Brady/Giglio theory premised on contemporaneous YWCA board service is unsupported by the cited filings.
 
 **Opportunity (evidence Tipp should have pursued):**
 
-* YWCA board membership public (990 filings, board minutes)
+* The [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) Form 990 Part VII filings list Jamie Merifield as Board Member, [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) as former; none documents Brueckner's board membership during the investigation or Merifield's assignment to it.
 * Temporal sequence obvious (complaint → Brueckner role → escalating charges)
 * FOIA requests for Brueckner-YWCA communications
 * Subpoena to YWCA for internal emails regarding Nuno complaint and Brueckner's involvement
 
 **Asserted breach theory:** Mr. Nuno invokes Rule 1.1 and argues that competent representation required investigation of potentially material exculpatory or conflict evidence. The applicable professional standard, engagement scope, materiality, and causal effect require expert and record-based proof.
 
-**Application:** Tipp's failure to investigate, challenge, or even mention Brueckner's YWCA conflict in any filing or communication falls below standard of care.
+The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 
 **3. Inadequate Discovery & Brady Investigation (MRPC 1.1 & 1.3)**
 
 **Omissions:**
 
 * No motion to disqualify Brueckner based on conflict
-* No Brady motion highlighting Brueckner's motive to suppress exculpatory evidence (Nuno's clean background, peaceful demeanor, protected speech)
+* The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 * No cross-examination or deposition of E'Lise Chard (would have exposed defamation, fabrication)
 * No FOIA requests for Brueckner-YWCA documents
 * No subpoena to YWCA for character reference or internal communications
@@ -260,7 +260,7 @@ Tipp did none.
    * Refers Nuno to experienced civil rights counsel with explicit SOL warning
 3. **Before any verified deadline:** Nuno consults civil counsel to determine whether a complaint or other legally effective filing is warranted; a notice of intent or informal complaint does not automatically preserve a federal claim
 4. **Before any verified deadline:** Civil counsel evaluates whether a complaint or other legally effective filing is warranted; an informal notice or complaint does not automatically toll a federal claim
-5. **Jan 2021 onward:** Criminal case proceeds to dismissal with prejudice; parallel civil discovery into Brueckner conflict yields Brady material retroactively usable in criminal case; both remedies available
+5. **Jan 2021 onward:** Any hypothetical civil discovery into a Brueckner board conflict would require contemporaneous records; no such discovery or Brady material is established here.
 
 **Actual timeline (Tipp's breach):**
 
@@ -356,7 +356,7 @@ The previously stated verdict ranges and aggregate totals are removed because th
 
 1. **Criminal result versus civil-preservation argument.** A favorable criminal disposition does not automatically resolve whether separate civil advice was required. Conversely, speculation that a trial or earlier settlement would have improved a civil case requires proof and must account for the risks of an adverse criminal record.
 2. **Rule 1.1 breadth:** Competence includes identifying all claims arising from facts underlying representation. Dismissal is criminal outcome; civil remedy preservation is separate duty.
-3. **Conflict investigation duty is independent.** Even if criminal case dismissed anyway, Tipp's failure to investigate Brueckner's YWCA conflict is malpractice standing alone. Brady material suppression is independent violation.
+3. **Investigation duty is a separate question.** The favorable criminal outcome does not by itself answer whether counsel reasonably investigated independently documented, material evidence concerning the assigned detective. But the reviewed FY2018–FY2022 Form 990 rosters do not establish Brueckner's board service during the investigation; failure to pursue that unsupported board premise is not malpractice standing alone. A Brady disclosure violation likewise requires its own evidence and materiality analysis. [YWCA Form 990 Part VII filings](https://projects.propublica.org/nonprofits/organizations/810245851)
 4. **Dismissal may have been Tipp's negotiated choice.** Motion to Dismiss With Prejudice language in Dec 23 letter suggests Tipp was negotiating early dismissal. If so, Tipp should have coordinated civil filing before agreeing to dismissal. Strategic failure, not success.
 
 ***
@@ -431,7 +431,7 @@ No Tipp or law-firm policy, declarations, limits, retention, notice record, rese
 | **Dec 23, 2020 email (disinclined refusal)**                                          | Nuno email / Tipp firm file                 | Supports Mr. Nuno's breach and communication theory; scope, context, and standard of care remain disputed    |
 | **Jan 4, 2021 email**                                                                 | Nuno file                                   | Documents claimed damages and demand for civil action; not an adjudicated malpractice notice                  |
 | **Jan 6, 2021 Dismissal Order**                                                       | Court file DC–18–587; Tipp firm file        | Documents the criminal disposition; does not by itself prove closure of every civil filing window            |
-| **YWCA Board records (IRS 990 filings, meeting minutes)**                             | ProPublica database; YWCA corporate records | Documentary proof of Brueckner board service during investigation period                                      |
+| **YWCA Board records (IRS 990 filings, meeting minutes)** | ProPublica database; YWCA corporate records | The cited filings do not establish Brueckner board service during the investigation; seek contemporaneous records before drawing a conflict inference |
 | **Brueckner timeline (YWCA complaint → investigator assignment → charge escalation)** | Case file, YWCA records, MPD records        | Temporal sequence offered to support an alleged conflict; materiality and legal effect remain disputed        |
 | **Charges dismissed with prejudice**                                                  | Court order                                 | Documents disposition; does not alone prove that the prosecution was weak or that a conflict investigation would have produced material evidence |
 
@@ -485,3 +485,25 @@ _**MISJustice Alliance Research Note:** Research current through October 6, 2026
 ### Related
 
 {% include "../../../../.gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.
+
+
+**Calculated damages — Appendix D (filed).**
+
+Total Lost Recovery Calculation (Appendix D, §A):
+- Federal Civil Rights (§ 1983): $3,750,000 – $5,200,000
+- Federal Conspiracy (§ 1985): $1,000,000 – $1,500,000
+- State Defamation Claims: $1,000,000 – $1,500,000
+- State IIED Claims: $800,000 – $1,200,000
+- Business Interference: $500,000 – $800,000
+- Witness Intimidation: $700,000 – $1,100,000
+- Deceptive Trade Practices: $400,000 – $700,000
+- **TOTAL LOST RECOVERY: $8,150,000 – $12,000,000**
+
+Adjustments stated in Appendix D:
+- Realistic Lost Recovery (litigation risk and collection): $6,400,000 – $8,400,000
+- Remaining claims within statute — Potential Recovery: $2,000,000 – $3,000,000
+- Lost Recovery Due to Statute Expiration (the malpractice measure): $4,400,000 – $5,400,000
+
+Source: [Appendix D — Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations), ODC 25-147 Supplemental Submission 1. Figures are the complainant's filed calculation, not an adjudicated finding.

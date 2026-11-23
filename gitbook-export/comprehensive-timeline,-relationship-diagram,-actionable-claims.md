@@ -103,7 +103,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 * [E'Lise Chard: protection order filing abuse (June 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018): [evidence packet](https://cr-2025-002-evidence-23_misjusticealliance.arweave.net/)
 * [Judge Warren rules the YWCA complaint protected First Amendment speech](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 * [Detective Smith removed for "obvious impropriety"](https://cr-2025-002-complaint-13_misjusticealliance.arweave.net/)
-* [Detective Connie Brueckner assigned while serving on YWCA board](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
+* [Detective Connie Brueckner’s investigative assignment; claimed contemporaneous board service not established](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
 * [Stalking charges filed and related civil rights violations (2017-2019)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)
 
@@ -140,7 +140,7 @@ They also frame later vulnerability and leverage dynamics that appear in Montana
 
 {% embed url="https://tacbh7prijxnl5ifqup6i6bcppoy4zc5a3rj66o6qmtrvur4u5ga.arweave.net/mAQT_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w" %}
 
-* [YWCA board (including Detective Connie Brueckner)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
+* [YWCA board governance (do not infer Brueckner’s membership during the 2018 investigation)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/legal-analysis-ywca-of-missoula-board-conflicts-and-police-integration)
 * [YWCA staff (E'Lise Chard, Rebecca Pettit)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
 * [Missoula Police Department](https://www.ywcaofmissoula.com/montana-legal-cases/home-invasion-warrantless-arrest-false-imprisonment-lost-in-missoula-county-j)
 * [Prosecutors](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations-false-imp)
@@ -189,3 +189,5 @@ The diagram below maps the alleged "core circular power loop" connecting YWCA go
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

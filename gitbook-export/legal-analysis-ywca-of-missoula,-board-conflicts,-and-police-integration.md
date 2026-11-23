@@ -55,7 +55,7 @@ This page uses the cited record to frame a structural risk: overlapping relation
 
 ## Institutional Conflicts of Interest and Board Composition
 
-The governance structure presents a central red flag: a sitting MPD detective (Connie Brueckner) as a Board member at-large, alongside other government-linked directors.
+The later documented board membership of Detective Connie Brueckner appears in the [FY2023 GSAFAC audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) and the [FY2023–FY2024 audited statements](.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf); neither establishes board service during the 2018 investigation or a case-period conflict. Comparative 2022 financial schedules do not establish 2022 board service.
 
 ## Case Materials and Pattern Evidence: Elvis Nuno
 
@@ -92,3 +92,5 @@ Board-level integration with law enforcement is treated here as a structural con
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

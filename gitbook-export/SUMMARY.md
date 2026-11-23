@@ -3,6 +3,7 @@
 ## Overview
 
 * [Missoula law enforcement and victim-advocacy ecosystem misconduct (2012–present)](README.md)
+* [Start Here — Partner Summary: Representation Evaluation (Individual & Collective Matters)](overview/start-here-partner-summary-representation-evaluation.md)
 * [The Human Cost of an Unaccountable System: What Is Lost When No One Takes Responsibility for Repair?](the-human-cost-of-an-unaccountable-system.md) — featured open letter on the cumulative human cost of systems that process but do not repair
 * [Nuno case system overview and full article index](overview/nuno-case-system-overview-and-full-article-index.md)
 * [About this site — publisher, independence, record types, and corrections](overview/about-this-site-publisher-and-corrections.md)
@@ -63,7 +64,7 @@
 * [MPD Officer Misconduct: 2018 Complaint — Officer Ethan Smith (Badge #345)](officer-ethan-smith-complaint-march-2018.md)
 * [MPD Officer Misconduct: Ethan Smith Timeline](mpd-officer-misconduct-ethan-smith-timeline.md)
 * [Officer Ethan Smith Complaint Analysis — March 2018](officer-ethan-smith-complaint-analysis-march-2018.md)
-* [YWCA Brueckner conflict: allegations summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
+* [YWCA board allegation: corrected case-period summary](allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat.md)
 * [2017–2019 stalking charges (MT): civil-rights violations](2017-2019-misdemeanor-felony-stalking-charges-civil-rights-violations,-false-imp.md)
 * [Missoula Charging Documents](stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb.md)
 * [Aug 2018: warrantless arrest and false imprisonment](home-invasion,-warrantless-arrest,-false-imprisonment;-lost-in-missoula-county-j.md)
@@ -112,7 +113,7 @@
 * [MT Bar Complaint ODC No. 25-147 - Bryan Tipp of Tipp, Colburn, Lockwood, P.C. (July 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/README.md)
   * [July 2025 Bryan Tipp complaint — full filing (ODC 25-147)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july-2025.md)
   * [MT Bar Complaint ODC No. 25-147: Supplemental Submission #1 (August 2025)](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/README.md)
-    * [Appendix A: Comparison of Officer Smith vs. Detective Brueckner Conflicts](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
+    * [Appendix A: Smith removal and Brueckner investigation — corrected comparison](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-a-comparison-of-officer-smith-vs.-detective-brueckner-conflicts.md)
     * [Appendix B: List of Motions That Should Have Been Filed](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-b-list-of-motions-that-should-have-been-filed.md)
     * [Appendix C: Constitutional Violations Identified But Not Addressed](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-c-constitutional-violations-identified-but-not-addressed.md)
     * [Appendix D: Documentation of Lost Civil Claims and Statute of Limitations](montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations.md)

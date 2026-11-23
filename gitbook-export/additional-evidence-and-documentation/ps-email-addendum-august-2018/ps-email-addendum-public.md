@@ -80,7 +80,7 @@ These questions are appropriate subjects for public accountability because they 
 
 ## Relationship to Broader Pattern
 
-Existing chronology materials describe a broader pattern in which Elvis Nuno's formal complaints to YWCA were followed by no documented internal response, continued employment of the accused staff, and escalating police and prosecutorial activity involving YWCA-linked actors. Those materials also describe structural conflicts, including Detective Connie Brueckner's role on the YWCA board while police activity related to the same dispute intensified.
+Existing chronology materials describe complaints to YWCA and escalating police activity involving Detective Brueckner. They also allege case-period board service, but the cited filings do not substantiate it.
 
 Within that larger pattern, the P.S. email is important because it supplies a concrete, time-stamped forwarding chain rather than a general theory. The chain substantiates rapid external routing by the employee criticized in the message. It does not establish that the board was bypassed, but it makes the absence of records showing neutral intake, independent review, delegated authority, or board notice a specific and answerable governance issue.
 
@@ -100,3 +100,5 @@ What it does support is a narrower and more defensible conclusion: a complaint a
 - [Mont. Code Ann. § 35-2-440](https://mca.legmt.gov/bills/mca/title_0350/chapter_0020/part_0040/section_0400/0350-0020-0040-0400.html) (2025).
 - [Mont. Code Ann. § 35-2-441](https://mca.legmt.gov/bills/mca/title_0350/chapter_0020/part_0040/section_0410/0350-0020-0040-0410.html) (2025).
 - [Mont. Code Ann. § 45-8-213](https://mca.legmt.gov/bills/mca/title_0450/chapter_0080/part_0020/section_0130/0450-0080-0020-0130.html) (2025); [2017 version applicable in August 2018](https://mca.legmt.gov/bills/2017/mca/title_0450/chapter_0080/part_0020/section_0130/0450-0080-0020-0130.html).
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

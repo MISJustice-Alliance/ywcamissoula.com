@@ -17,7 +17,7 @@ tags:
 
 ### Executive snapshot
 
-This page is an update tying the LifeGuard Group investigation material to a conflict-of-interest theory involving Detective Connie Brueckner’s MPD role and YWCA of Missoula board service. It is a synthesis and implications note, not a finding of misconduct. Use the “Verify first” links to review the underlying packets.
+This synthesis ties LifeGuard Group materials to YWCA governance questions and Detective Connie Brueckner’s MPD investigative role. It does not establish contemporaneous YWCA board service or a finding of misconduct. Use the “Verify first” links to review the packets.
 
 {% include ".gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
@@ -28,7 +28,7 @@ This page is an update tying the LifeGuard Group investigation material to a con
 * Relationship diagram (PNG): https://arweave.net/mAQT\_fFCbtX1BYUf5Hgie92OZF0G4p953oMnGtI8p0w
 * Timeline spine (event → record): [Comprehensive Timeline, Relationship Diagram, & Actionable Claims](https://www.ywcaofmissoula.com/overview/comprehensive-timeline-relationship-diagram-actionable-claims)
 
-The documentation cited here is used to argue a pattern of governance conflict involving **Detective Connie Brueckner**, who simultaneously served on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees.
+The documentation cited here discusses Detective Connie Brueckner’s investigative role, but does not establish that she served on the YWCA board while investigating complaints against its employees.
 
 ### Supporting documents (CR-2025-001)
 
@@ -40,7 +40,7 @@ The documentation cited here is used to argue a pattern of governance conflict i
 
 ### Institutional Capture Through Board Service
 
-* **Board Member Status**: Brueckner served as a Board member at-large for YWCA Missoula while employed as a detective with the Missoula Police Department
+* **Board Member Status**: The claim that Brueckner was on the YWCA board during the investigation is not established by the cited filings; later roster evidence cannot date her service to this case.
 * **Investigating Officer**: She assumed primary investigative responsibility for complaints against YWCA employees after Officer Ethan Smith was removed for obvious impropriety
 * **Disclosure theory**: if board service created impeachment or exculpatory material and it was not disclosed, that can raise **Brady/Giglio** questions (fact-specific)
 
@@ -108,8 +108,10 @@ Loss of career, individual contracts, compensatory civil-rights injury, punitive
 
 ## Conclusion
 
-This page argues that Brueckner’s dual role is a conflict-of-interest indicator that warrants careful fact review. Any comparative claim about “most egregious” conduct should be treated as rhetorical framing unless tied to a defined comparator set and primary sources.
+The claimed overlap between Brueckner’s detective work and YWCA board service in this case is not established. Any comparative claim about “most egregious” conduct needs a defined comparator set and primary sources.
 
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

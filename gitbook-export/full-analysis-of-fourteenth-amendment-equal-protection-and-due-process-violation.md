@@ -79,3 +79,23 @@ Confirm the exact standards and defenses in primary authority.
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+
+**Calculated damages — Appendix D (filed).**
+
+Total Lost Recovery Calculation (Appendix D, §A):
+- Federal Civil Rights (§ 1983): $3,750,000 – $5,200,000
+- Federal Conspiracy (§ 1985): $1,000,000 – $1,500,000
+- State Defamation Claims: $1,000,000 – $1,500,000
+- State IIED Claims: $800,000 – $1,200,000
+- Business Interference: $500,000 – $800,000
+- Witness Intimidation: $700,000 – $1,100,000
+- Deceptive Trade Practices: $400,000 – $700,000
+- **TOTAL LOST RECOVERY: $8,150,000 – $12,000,000**
+
+Adjustments stated in Appendix D:
+- Realistic Lost Recovery (litigation risk and collection): $6,400,000 – $8,400,000
+- Remaining claims within statute — Potential Recovery: $2,000,000 – $3,000,000
+- Lost Recovery Due to Statute Expiration (the malpractice measure): $4,400,000 – $5,400,000
+
+Source: [Appendix D — Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations), ODC 25-147 Supplemental Submission 1. Figures are the complainant's filed calculation, not an adjudicated finding.

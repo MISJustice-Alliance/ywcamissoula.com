@@ -31,7 +31,7 @@ This site is a record-first research guide for legal researchers, journalists, c
 
 The 2024 Missoula Needs and Gaps Analysis is cited here alongside allegations and record citations involving YWCA of Missoula, Missoula Police Department (MPD), and prosecutorial agencies, to argue potential institutional capture and accountability gaps.
 
-Detective Connie Brueckner's simultaneous service on the YWCA of Missoula Board of Directors while investigating complaints against YWCA employees is presented here as a core conflict-of-interest theory.
+The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 
 ## Pattern framing used in this analysis
 
@@ -39,7 +39,7 @@ Detective Connie Brueckner's simultaneous service on the YWCA of Missoula Board 
 
 The record cited here is used to argue coordination and escalation after complaints. When Mr. Nuno filed a complaint with YWCA leadership regarding staff conduct, this analysis treats later events as potentially relevant to retaliation and conflict-of-interest theories.
 
-The case was transferred from Officer Ethan Smith (removed for obvious conflicts) directly to Detective Brueckner, whose undisclosed YWCA board membership enabled escalating constitutional violations including:
+The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 
 * Warrantless home invasion during a business meeting, resulting in loss of $150,000 annual IT consulting contract
 * Mass seizure of electronics and social media data with no evidence found
@@ -82,3 +82,5 @@ This page argues that structural incentives and conflicts may prevent internal r
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

@@ -33,7 +33,7 @@ The primary record for this report is `YWCA of Missoula - Criminal Investigation
 
 ## Executive narrative
 
-The source packet alleges that YWCA of Missoula became the institutional center of a multi-party pattern involving nonprofit governance conflicts, law-enforcement coordination, retaliation for protected complaints, evidence suppression, civil-rights violations, client confidentiality breaches, discrimination, and grant-reporting concerns. The central structural allegation is that Detective Connie Brueckner served simultaneously as a Missoula Police Department detective and YWCA board member while investigating conduct involving YWCA employees and while the YWCA possessed records relevant to Elvis Ryland Nuno's June 3, 2018 complaint and the August 14, 2018 P.S. character-reference letter.
+The source packet alleges YWCA governance conflicts and police coordination concerning the 2018 complaint and P.S. letter. Its claim of Detective Brueckner’s simultaneous board service is not established.
 
 The source packet further alleges that YWCA received Mr. Nuno's June 3, 2018 complaint about E'Lise Chard and Rebecca Pettit, did not investigate it, and instead provided the complaint and associated donation information to E'Lise Chard. E'Lise allegedly used those materials nine days later in a protection-order petition. The same packet alleges that YWCA later received a character-reference letter from witness P.S. that contradicted a dangerousness narrative used in criminal proceedings, but that the letter was not disclosed to Mr. Nuno, his defense counsel, prosecutors, or the court.
 
@@ -63,13 +63,13 @@ Beyond the Nuno-specific facts, the packet alleges broader institutional pattern
 
 #### Concise narrative
 
-The source packet alleges that Detective Connie Brueckner served on the YWCA Missoula Board of Directors while also acting as the MPD detective assigned to investigate matters involving YWCA employees and Mr. Nuno. It alleges this dual role was not disclosed to the defense, court, prosecutors, or warrant-issuing judge, and that the conflict allowed YWCA-sourced narratives to be converted into police and prosecution action.
+The source packet alleges Detective Brueckner investigated the matter. Its additional claim of concurrent YWCA board service is not established; nondisclosure and conflict theories premised on that overlap cannot be stated as fact.
 
 #### Supporting record hooks
 
 | Alleged fact | Source support | Needed corroboration |
 | --- | --- | --- |
-| Brueckner board service during the relevant investigation period | Source packet §§ 1.2, 3.2, 13.1 | IRS Form 990 filings, YWCA minutes, board rosters, ProPublica source records |
+| Claimed Brueckner board service during the investigation: not established | Source packet §§ 1.2, 3.2, 13.1 | Contemporaneous board minutes or roster; later filings cannot establish 2018 overlap |
 | Brueckner led or shaped the MPD investigation | Source packet §§ 3.1-3.3 | MPD assignment logs, warrant affidavit, detective reports, prosecutor communications |
 | Conflict allegedly was not disclosed | Source packet §§ 1.2, 3.2, 5.3 | Court filings, discovery logs, defense files, prosecutor interviews |
 | Four-stage feedback loop allegedly converted private grievance into state action | Source packet § 3.1 | Communications among YWCA, MPD, prosecutors, and involved employees |
@@ -125,7 +125,7 @@ The source packet alleges that on or about August 14, 2018, witness P.S. sent YW
 | P.S. letter existed and was received by YWCA | Source packet §§ 2.3, 13.1 | Original email, metadata, attachments, YWCA inbox records |
 | Letter was favorable and potentially exculpatory | Source packet §§ 2.3, 13.1 | Letter text, P.S. interview, comparison to warrant/bail/prosecution filings |
 | Letter was not disclosed in discovery | Source packet §§ 2.3, 5.3 | Discovery indexes, prosecutor file, defense file, court record |
-| Brueckner had board access and investigative role | Source packet §§ 1.2, 3.2 | Board records, MPD case assignments, communication logs |
+| Brueckner’s investigative role; claimed contemporaneous board access unverified | Source packet §§ 1.2, 3.2 | MPD case assignments and contemporaneous board records |
 
 #### Element analysis
 
@@ -301,3 +301,5 @@ Venue would likely center in the District of Montana for federal investigation a
 8. Client confidentiality and disability-accommodation policies, training materials, incident reports, complaint logs, releases, and any OCR/HUD/DOJ correspondence.
 
 The present record is strongest as an institutional-records referral for civil-rights, governance-conflict, evidence-handling, grant-audit, and client-confidentiality investigation. Direct criminal charges against YWCA as an entity or against specific officers, employees, or prosecutors require primary records and individualized mens rea proof not established by the source packet alone.
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

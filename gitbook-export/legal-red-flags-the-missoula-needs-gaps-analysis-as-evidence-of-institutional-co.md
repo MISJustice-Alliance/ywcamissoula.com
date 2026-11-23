@@ -30,7 +30,7 @@ The 2024 Missoula Needs and Gaps Analysis, when read alongside allegations and r
 
 Additional current and former client accounts are presented as alleging confidentiality breaches and ethics failures affecting vulnerable populations.
 
-One conflict-of-interest theory referenced across the site is Detective Connie Brueckner’s simultaneous MPD role and YWCA of Missoula board service while investigating complaints touching YWCA staff.
+The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 
 ### Primary documents referenced (CR-2025-001)
 
@@ -171,3 +171,5 @@ This page argues that internal governance may be structurally unable to resolve 
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

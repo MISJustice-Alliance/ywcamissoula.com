@@ -122,17 +122,8 @@ steps.
 such as those made by E’Lise Chard. These accusations were passed up to the YWCA’s
 leadership and board, framing an internal or civil matter as a threat requiring institutional
 intervention.
-- Step 2: Board Oversight & Law Enforcement Overlap Crucially, sitting on the YWCA Board
-of Directors was MPD Detective Connie Brueckner. This dual role created what legal doc-
-uments call an “extreme conflict of interest.” As a board member, she was involved in the
-governance of the organization whose employee was the accuser. As an MPD detective,
-she was in a position to direct or oversee the official police investigation into those same
-accusations.
-- Step 3: Tainted Police Investigations With this conflict in place, Detective Brueckner’s “dual
-rol[e] shapes investigations.” As a board member, she was positioned to strategically influ-
-ence the direction and framing of the MPD’s official investigation from its inception. This
-process lent official weight to her own organization’s claims, transforming what might other-
-wise be a civil dispute into a criminal matter backed by the authority of law enforcement.
+- Step 2: Board Oversight & Law Enforcement Overlap. The article originally described Detective Connie Brueckner as a YWCA director during the case. The cited records do not establish that overlap. Board governance questions remain separate from her investigative role.
+- Step 3: Police Investigations. Detective Brueckner’s investigative conduct must be evaluated on the case records; no case-period board affiliation is established. The earlier phrase “dual rol[e] shapes investigations” reflects the source article’s unsupported premise, not a verified conflict here.
 - Step 4: Prosecutorial Action The County Prosecutor’s office received these police reports
 and, based on the officially sanctioned narrative, made charging decisions. These decisions,
 in turn, gave legal credibility back to the initial staff accusations, completing the circle and
@@ -230,10 +221,7 @@ institutional capture and retaliatory power. But it does not close the book. Ins
 of urgent questions that demand answers from the institutions entrusted with public safety, justice,
 and the care of vulnerable citizens. The evidence points to critical gaps where decisions were
 made behind closed doors, conflicts of interest were ignored, and oversight failed to materialize.
-1. The Conflict of Interest For how long was the Missoula Police Department aware that a
-sitting detective, Connie Brueckner, was simultaneously serving on the board of the YWCA,
-an organization frequently involved in its investigations? What steps, if any, were ever taken
-to manage this clear and “extreme conflict of interest”?
+1. Board chronology. Did any contemporaneous board records identify Detective Brueckner during the investigation? The later roster does not answer that question.
 2. Suppression of Evidence Did YWCA leadership or Detective Brueckner ever disclose the
 exculpatory character reference for Elvis Nuno—evidence that directly contradicted the stalk-
 ing allegations—to prosecutors or defense counsel? If not, why was evidence that could have
@@ -252,3 +240,5 @@ foundation of civic trust. The experiences documented here reveal the profound h
 that erosion—a cost measured in lost careers, fractured families, and the denial of justice. The
 unanswered questions left in the wake of this systemic failure are not merely rhetorical; they are a
 call for genuine, structural reform.
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

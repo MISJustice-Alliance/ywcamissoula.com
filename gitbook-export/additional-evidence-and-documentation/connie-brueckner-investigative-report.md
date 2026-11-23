@@ -1,11 +1,11 @@
 ---
 title: "Connie Brueckner Investigative Research Report"
 description: >-
-  Investigative research report on Missoula Police Detective Connie Brueckner and the alleged YWCA Missoula board role, separating verified facts, allegations, and open questions.
+  Investigative research report distinguishing Detective Connie Brueckner's later documented YWCA board listing from the unsupported case-period board claim.
 ---
 
 # Investigative Research Report: Connie Brueckner
-## Missoula Police Department detective; alleged YWCA Missoula board member
+## Missoula Police Department detective; later documented YWCA board listing
 
 **Report date:** June 2026  
 **Scope:** Independent verification/refutation of claims in `~/Connie-Brueckner-MPD-YWCA-Research-Report.md`  
@@ -17,13 +17,13 @@ description: >-
 
 Connie Brueckner is well documented in the public record as a Missoula Police Department detective who worked sexual-assault and related investigations during and after the 2012–2014 Missoula DOJ review. Local reporting and public court filings name her in the Jordan Johnson trial, the 2018 Mark McNeeley investigation, and later Montana appellate briefs involving sexual-offense or related cases. See, for example, NBC Montana’s coverage of Brueckner’s Johnson interview testimony, KPAX’s report on the McNeeley case, and public Montana Supreme Court filings in State v. Smith, State v. Hamernick, State v. Roberts, and State v. Purcell. [NBC Montana](https://www.nbcmontana.com/news/local/jury-sees-video-of-detective-interview-with-johnson), [KPAX](https://www.kpax.com/news/2018/08/16/missoula-man-charged-with-rape), [State v. Smith brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623), [State v. Hamernick brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425), [State v. Roberts brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=449571), [State v. Purcell brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=553616)
 
-**Updated finding:** Connie Brueckner is listed as a member of the YWCA Missoula Board of Directors in the organization’s 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064). The board roster names her alongside Shayla Beaumont, Erika Colstad, Rachel Dierken, and others. The same filing shows schedules for both 2022 and 2023, suggesting the roster reflects service during that period. What remains unverified: the exact start and end dates of her board service, any specific board role (e.g., “board member at large”), and whether she served during the 2012–2014 DOJ investigation period. Other years’ filings in the local archive did not list board members in the extracted text, so the service window cannot be fully established from the files reviewed here. GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo)
+**Updated finding:** The later documented board membership of Detective Connie Brueckner appears on a roster in YWCA Missoula's [FY2023 audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) (GSAFAC filing 2023-06-GSAFAC-0000027064). The audit's comparative 2022 financial schedules do not establish that this board roster applied in 2022. The exact start and end dates of her service are not established here. YWCA's Form 990 Part VII rosters for FY2018–FY2022 do not list her; they do not document board membership during the 2018–2022 case and representation period. [YWCA filings](https://projects.propublica.org/nonprofits/organizations/810245851)
 
-**Second roster (added October 2026):** The audited consolidated financial statements of YWCA Missoula and YWCA Missoula Title Holding Company for the years ended June 30, 2024 and 2023 (independent auditors' report by Junkermier, Clark, Campanella, Stevens, P.C., dated March 19, 2025) also list Connie Brueckner on the YWCA Missoula Board of Directors. [Audited financial statements, FY2023–FY2024 (PDF)](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf). This extends documented board service to the roster printed in the March 2025 report. It does not establish service in 2018 or earlier.
+**Second later roster (added October 2026):** The audited consolidated financial statements for the years ended June 30, 2024 and 2023 (auditors' report dated March 19, 2025) also list Detective Connie Brueckner on the YWCA Missoula board. [Audited financial statements, FY2023–FY2024 (PDF)](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf). The roster in this later report does not establish service during the 2018–2022 case period.
 
 The DOJ’s official Missoula findings letter and settlement documents documented systemic problems in how sexual-assault cases were investigated and prosecuted, but my full-text search of those official DOJ documents did not find Brueckner’s name. The official documents focus on systemic failures: more than 350 police sexual-assault reports reviewed, poor communication, weak evidence development, and gender bias concerns. [DOJ findings letter](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf), [DOJ settlement/MOU](https://www.justice.gov/sites/default/files/crt/legacy/2014/06/10/missoula_settle_6-10-14.pdf)
 
-Bottom line: Brueckner’s status as an MPD detective and investigator is verified; YWCA board membership is verified for at least 2022–2023 via a primary-source government filing, and again on the roster in the FY2023–FY2024 audited statements issued March 19, 2025; direct DOJ naming is not; claims about earlier board service (including 2012–2014) remain unverified.
+Bottom line: Brueckner’s MPD detective role is documented. The later documented board membership of Detective Connie Brueckner appears in the [FY2023 audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) and the [FY2023–FY2024 audit](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf); FY2018–FY2022 Form 990 rosters do not list her. Neither later roster establishes board service during the case period. The DOJ documents reviewed here do not name her.
 
 **Reliability note:** This report weights official DOJ documents, court filings, and official organizational pages above local news. Advocacy pages and self-published allegations are treated as allegations only.
 
@@ -41,8 +41,8 @@ Bottom line: Brueckner’s status as an MPD detective and investigator is verifi
 | 2018 | Brueckner assigned to review the Mark McNeeley case involving a 15-year-old and a 19-year-old; she interviews witnesses and reviews texts | Verified | [KPAX](https://www.kpax.com/news/2018/08/16/missoula-man-charged-with-rape) |
 | 2021 | Montana Supreme Court brief in State v. Smith describes Brueckner as the investigating officer | Verified | [State v. Smith brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623) |
 | 2023 | Public Montana appellate filings in Hamernick and Roberts again name Brueckner as the detective/investigator | Verified | [Hamernick brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425), [Roberts brief](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=449571) |
-| 2022–2023 | Brueckner listed on YWCA Missoula Board of Directors per GSAFAC audited financial statements | Verified | GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo) |
-| March 19, 2025 | Brueckner listed on the YWCA Missoula Board of Directors in the audited statements for the years ended June 30, 2024 and 2023 | Verified | [Audited financial statements, FY2023–FY2024](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf) |
+| FY2023 audit | Later documented board membership of Detective Connie Brueckner appears on the board roster; comparative 2022 financial schedules do not establish 2022 board service | Documented later roster | [FY2023 audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) |
+| March 19, 2025 | Later documented board membership of Detective Connie Brueckner appears on the roster in the audited statements covering FY2023–FY2024 | Documented later roster | [Audited financial statements, FY2023–FY2024](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf) |
 
 **Reliability note:** The timeline intentionally separates official records from local news and self-published allegation packets.
 
@@ -60,13 +60,13 @@ The 2018 KPAX report quotes court documents stating that Brueckner was assigned 
 
 ### 3.2 YWCA Missoula board membership
 
-**Verified fact (updated June 2026):** Connie Brueckner is listed as a member of the YWCA Missoula Board of Directors in the organization’s 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064). The board roster names her alongside Shayla Beaumont, Erika Colstad, Rachel Dierken, and others. The same filing shows schedules for both 2022 and 2023, suggesting the roster reflects service during that period.
+**Later documented membership:** Detective Connie Brueckner is listed on the board roster in the [FY2023 GSAFAC audited statements](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064). Comparative financial schedules for 2022 do not establish her membership in that year.
 
-**What remains unverified:** The exact start and end dates of her board service, any specific board role (e.g., “board member at large”), and whether she served during the 2012–2014 DOJ investigation period. Other years’ filings in the local archive did not list board members in the extracted text, so the service window cannot be fully established from the files reviewed here.
+**Case-period limit:** The YWCA Form 990 Part VII rosters for FY2018–FY2022 do not list Brueckner. Her exact board-service start and end dates and any specific board title beyond the later roster listing are not established here. The reviewed records do not document service during the case and representation period. [Form 990 filing index](https://projects.propublica.org/nonprofits/organizations/810245851)
 
-**Second roster:** The FY2023–FY2024 audited statements (auditors' report dated March 19, 2025) list her again on the YWCA Missoula board. [Audited financial statements, FY2023–FY2024 (PDF)](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf)
+**Second later roster:** The FY2023–FY2024 audited statements (auditors' report dated March 19, 2025) again list Detective Connie Brueckner on the board. [Audited financial statements, FY2023–FY2024 (PDF)](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf)
 
-**Assessment:** The board-membership claim is now verified for at least the 2022–2023 period via a primary-source government filing, and for the roster printed in the March 2025 audit report. Claims about service during earlier years (including 2012–2014) remain unverified in the sources reviewed.
+**Assessment:** The later roster listings establish a later board relationship, not contemporaneous board service in the 2018 investigation. Claims about service during the 2012–2014 DOJ investigation are also unverified in the sources reviewed.
 
 **Reliability note:** This is a negative-finding section. Absence of evidence in the public sources reviewed is not proof of non-service, but it is not enough to support the claim as fact.
 
@@ -112,18 +112,19 @@ The Purcell postconviction brief includes an appendix transcript of B.B.’s int
 
 ## 6. YWCA governance and conflict-of-interest analysis
 
-The conflict-of-interest theory in the starting file is straightforward: if Brueckner simultaneously served as an MPD detective and as a YWCA board member while the police investigated complaints involving YWCA staff or clients, that would raise governance and appearance-of-impropriety concerns.
+The starting file's proposed conflict theory assumed Brueckner held both an MPD investigative role and a YWCA board seat during the case. The reviewed FY2018–FY2022 Form 990 rosters do not support that board-seat premise. A distinct governance question concerns Jamie Merifield's documented board service during [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full)–[FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full); no inference about Merifield's participation in Brueckner's 2018 investigation follows from the filings.
 
 What is verified:
 - YWCA Missoula is a community advocate partner named in the DOJ MOU. [DOJ MOU](https://www.justice.gov/sites/default/files/crt/legacy/2014/06/10/missoula_settle_6-10-14.pdf)
-- Brueckner is listed on the YWCA Missoula Board of Directors in the 2023 GSAFAC audited financial statements (filing 2023-06-GSAFAC-0000027064), indicating service during at least the 2022–2023 period. GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo)
+- The later documented board membership of Detective Connie Brueckner appears in the [FY2023 audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064); it does not establish case-period service.
+- Jamie Merifield is listed as Board Member on YWCA Form 990 Part VII for [FY2020 (July 1, 2019–June 30, 2020)](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 (July 1, 2020–June 30, 2021)](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full), and as former Board Member on the [FY2022 filing](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full). This is the documented detective-on-the-board record for that span; it does not show that Merifield investigated this case.
 - YWCA Missoula’s current public board page does not list Brueckner. [YWCA Missoula staff & board](https://www.ywcamissoula.org/about-us/our-staff-board)
 
 What is not verified:
-- Whether Brueckner served on the board during the 2012–2014 DOJ investigation period or during the 2018 investigations discussed in this report.
-- Any specific investigative matter in which her board role created an actual conflict, as opposed to an appearance concern.
+- Brueckner does not appear in the reviewed FY2018–FY2022 Part VII rosters; board service during the case period is not documented. The reviewed records also do not establish whether she served during the 2012–2014 DOJ investigation.
+- Whether the later documented board role overlapped with a later investigative matter involving YWCA; the 2018 overlap is not documented, and no actual conflict in that case follows from the later roster.
 
-**Conclusion:** The dual-role predicate is partially verified: Brueckner’s MPD detective status is confirmed, and her YWCA board membership is confirmed for at least 2022–2023. Whether that combination created an actual conflict in any specific case depends on whether her board service overlapped with investigations touching YWCA staff or clients. That overlap is not established in the sources reviewed here.
+**Conclusion:** Brueckner's case-period detective role and her later board listing are separate facts; the reviewed records do not establish their overlap. Merifield's documented [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full)–[FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) board tenure supports a governance inquiry about police representation on the board, not a finding of misconduct, a conflict in Brueckner's investigation, or a failure by counsel to challenge one.
 
 **Reliability note:** This section is a falsifiable governance analysis. It does not accuse Brueckner of wrongdoing; it tests the factual predicate for a conflict theory.
 
@@ -133,7 +134,7 @@ What is not verified:
 
 ### 7.1 2025 self-published complaint materials
 
-A 2025 complaint packet and related pages on ywcaofmissoula.com allege a “pattern of civil rights violations, conflicts of interest, and abuse of power” involving Brueckner and MPD, and some of those materials repeat the claim that she was a YWCA board member. The board-membership premise is now partially verified for 2022–2023 via the GSAFAC filing, but the specific allegations of investigative misconduct or retaliation remain unverified in primary sources. I treat the advocacy-site materials as allegations only. [YWCA-related complaint page](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
+A 2025 complaint packet and related pages on ywcaofmissoula.com allege a “pattern of civil rights violations, conflicts of interest, and abuse of power” involving Brueckner and MPD, and some repeat a case-period YWCA board-membership claim. The [FY2018–FY2022 Form 990 rosters](https://projects.propublica.org/nonprofits/organizations/810245851) do not document that claim; the [FY2023 audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064) records later board membership only. The specific misconduct allegations remain unverified in primary sources. [YWCA-related complaint page](https://www.ywcaofmissoula.com/montana-state-complaints/mt-doj-public-safety-officer-standards-training-post-complaint-august-2025)
 
 ### 7.2 What I did not find
 
@@ -154,16 +155,17 @@ I did not locate:
 2. She played an investigative role in the Jordan Johnson case and later Missoula sexual-offense cases. [NBC Montana](https://www.nbcmontana.com/news/local/jury-sees-video-of-detective-interview-with-johnson), [State v. Smith](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623), [Hamernick](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425), [Roberts](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=449571), [Purcell](https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=553616)
 3. DOJ found systemic deficiencies in Missoula’s handling of sexual-assault cases. [DOJ findings letter](https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf)
 4. DOJ’s public documents reviewed here do not name Brueckner.
-5. Brueckner is listed on the YWCA Missoula Board of Directors in the 2023 GSAFAC audited financial statements, verifying board membership for at least the 2022–2023 period. GSAFAC filing 2023-06-GSAFAC-0000027064 (local archive file not bundled in this repo)
+5. The later documented board membership of Detective Connie Brueckner appears in the [FY2023 audited-statements roster](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064); this does not document membership in 2018–2022.
+6. Jamie Merifield is listed as Board Member in [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full), and former Board Member in [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full), Form 990 Part VII.
 
 ### Allegations / unadjudicated claims
-1. Brueckner served on the YWCA Missoula board during the 2012–2014 DOJ investigation period or during the 2018 investigations.
-2. Brueckner’s MPD role and YWCA board role created an actual conflict of interest in a specific case.
+1. The historical allegation that Brueckner served on the YWCA board during the 2018 investigations is not documented in the FY2018–FY2022 Form 990 rosters; service during the 2012–2014 DOJ investigation also remains unverified here.
+2. The alleged case-period overlap of Brueckner’s MPD role and a YWCA board role—and any conflict inferred from it—is not established by the reviewed records.
 3. Brueckner’s later investigations involved impropriety or retaliation.
 
 ### Unresolved issues
 1. Historical YWCA board rosters (2012–2014) are not publicly established in the sources reviewed.
-2. Whether Brueckner’s board service overlapped with investigations touching YWCA staff or clients.
+2. Whether Brueckner’s later documented board service overlapped with any later investigation touching YWCA staff or clients.
 3. PACER and non-digitized state-court records may contain additional cases, but I did not locate a public filing that changes the core findings above.
 
 **Reliability note:** This section is the working conclusion. The strongest statements are the ones supported by official DOJ documents, court filings, and the current official YWCA page.
@@ -175,9 +177,9 @@ I did not locate:
 ### Official / primary
 - DOJ findings letter: https://www.justice.gov/sites/default/files/crt/legacy/2014/02/19/missoula_ltr_2-14-14.pdf
 - DOJ settlement/MOU: https://www.justice.gov/sites/default/files/crt/legacy/2014/06/10/missoula_settle_6-10-14.pdf
-- YWCA Missoula GSAFAC audited financial statements (2023): local archive file not bundled in this repo
+- YWCA Missoula GSAFAC audited financial statements (FY2023): [ProPublica audit](https://projects.propublica.org/nonprofits/display_audit/2023-06-GSAFAC-0000027064)
 - YWCA Missoula audited consolidated financial statements, years ended June 30, 2024 and 2023 (auditors' report dated March 19, 2025; unmodified opinion; schedule of findings reports no findings or questioned costs): [PDF](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf)
-- ProPublica YWCA Missoula nonprofit page: https://projects.propublica.org/nonprofits/organizations/810245851
+- YWCA Missoula Form 990 Part VII: [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full), [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full), [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full); [filing index](https://projects.propublica.org/nonprofits/organizations/810245851)
 - YWCA Missoula staff & board: https://www.ywcamissoula.org/about-us/our-staff-board
 - Montana judicial documents: https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=355623
 - Montana judicial documents: https://juddocumentservice.mt.gov/getDocByCTrackId?DocId=422425

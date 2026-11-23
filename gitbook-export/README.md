@@ -21,6 +21,8 @@ tags:
 
 ### Executive snapshot
 
+For counsel evaluating the individual and possible collective matters, begin with [Start Here — Partner Summary: Representation Evaluation (Individual & Collective Matters)](overview/start-here-partner-summary-representation-evaluation.md).
+
 This site is a **record-first** research project and living public record examining the Missoula law-enforcement and victim-advocacy ecosystem — the community- and state-level legal-system structure that determines whether reports of institutional misconduct are investigated or quietly closed. The **research materials** provide the macro view: how this ecosystem is designed to preempt investigation into cases that necessitate accountability, and how its layered bureaucratic structure functions as a firewall protecting civil and public institutions from victim and public reporting on misconduct that has become endemic.
 
 The **Nuno case (2015–2025)** is one of many such cases. It serves here as an evidentiary spine — a documented, verifiable thread through events, filings, complaint responses, institutional actors, and the downstream human and legal costs — but it is not the subject of the research. It is the worked example: a structured dataset for pattern-of-practice analysis demonstrating how the same channels, non-responses, and institutional protections recur across cases, most of which never generate a public record at all.
@@ -216,17 +218,37 @@ Use the sidebar to browse by jurisdiction, document type, or legal theory. For t
 
 ## Nuno case: damages evidence status
 
-The public record does not presently support a reliable aggregate damages total. The table below separates categories and identifies the proof needed before an amount can be published. It assumes neither liability nor recoverability and is designed to prevent double counting.
+The public record does not presently support a reliable aggregate damages total, because several categories overlap and are alternative measures of the same losses. The table below separates categories, states a party-asserted projection for each category where one exists, and identifies the proof needed before a projection can be treated as documented. It assumes neither liability nor recoverability and is designed to prevent double counting.
 
 | Claim / potential defendant | Category and legal basis | Evidence and source date | Calculation / period | Supported amount or range | Caps, exclusions, offsets, and overlap | Status |
 | --- | --- | --- | --- | --- | --- | --- |
-| Contract or business-interference theories / defendant to be identified by act | Lost contract, income, or earning capacity | Executed contracts, invoices, tax records, client communications, and mitigation records are required | Claim-specific loss period; gross revenue must be reduced by avoided costs and other mitigation | Not yet quantifiable from the public record | Do not duplicate the same earnings loss under tort, constitutional, malpractice, or relocation theories | Estimated and disputed |
-| Federal civil-rights theories / each alleged state actor | Compensatory injury under 42 U.S.C. § 1983 | Claim-specific incident records, dispositions, medical evidence, and causation proof are required | Each independently timely act must be valued separately | Not yet quantifiable | Municipal punitive damages are unavailable under *City of Newport v. Fact Concerts, Inc.*, 453 U.S. 247, 271 (1981); other immunities and causation defenses may apply | Legally contingent and disputed |
-| Legal-malpractice theory / Bryan Tipp | Loss caused by a provable act, error, or omission | Complete client file, engagement scope, expert opinion, underlying-case records, and suit-within-a-suit proof are required | Omission-by-omission; exclude losses not caused by counsel and amounts barred by repose | Not yet quantifiable | No automatic recovery of the value asserted in an underlying claim; avoid overlap with direct civil-rights damages | Contingent and disputed |
+| Contract or business-interference theories / defendant to be identified by act | Lost contract, income, or earning capacity | Executed contracts, invoices, tax records, client communications, and mitigation records are required | Claim-specific loss period; gross revenue must be reduced by avoided costs and other mitigation | Projected: within the $3M–$5M aggregate direct-damages projection (lost wages and legal expenses combined), per the November 2026 damages assessment; worksheet reconciliation in progress | Do not duplicate the same earnings loss under tort, constitutional, malpractice, or relocation theories | Estimated and disputed |
+| Federal civil-rights theories / each alleged state actor | Compensatory injury under 42 U.S.C. § 1983 | Claim-specific incident records, dispositions, medical evidence, and causation proof are required | Each independently timely act must be valued separately | Projected: $5M–$10M potential value (party-asserted), per the November 2026 damages assessment | Municipal punitive damages are unavailable under *City of Newport v. Fact Concerts, Inc.*, 453 U.S. 247, 271 (1981); other immunities and causation defenses may apply | Legally contingent and disputed |
+| Legal-malpractice theory / Bryan Tipp | Loss caused by a provable act, error, or omission | Complete client file, engagement scope, expert opinion, underlying-case records, and suit-within-a-suit proof are required | Omission-by-omission; exclude losses not caused by counsel and amounts barred by repose | Projected: $4.4M–$5.4M net to the malpractice claim (Appendix D suit-within-a-suit valuation of the lost underlying claims) — an alternative measure of the same losses valued in the civil-rights row, not additive to it | No automatic recovery of the value asserted in an underlying claim; avoid overlap with direct civil-rights damages | Contingent and disputed |
 | Washington → Montana relocation / responsible defendant to be proved | First-move direct and consequential losses | Dated travel, housing, storage, employment, medical, and contemporaneous causation records are required | Separate ledger for the reported 2017 move | Not yet quantifiable | Relocation is a damages theory, not automatic proof that earlier claims are timely | Alleged; not yet quantified |
 | Montana → Mexico relocation / responsible defendant to be proved | Second-move direct costs, business disruption, safety costs, emotional harm, and caregiving effects | Dated threat and call records; travel, housing, storage, immigration, business, medical, and caregiving records from 2026 are required | Separate ledger beginning with the reported July 2026 move; subtract unrelated or overlapping losses | Not yet quantifiable | “Constructive exile” is advocacy language, not a standalone cause of action; do not reuse first-move or general business-loss figures | Alleged; not yet quantified |
 | Any claim supporting punitive relief | Punitive damages | Clear-and-convincing claim-specific proof and defendant financial information would be required | Only after liability and statutory eligibility are established | Not yet quantifiable | Montana's cap, where applicable, is the lesser of $10 million or 3% of the defendant's net worth. Mont. Code Ann. § 27-1-220(3) (2025) | Legally contingent |
 | Any claim supporting fees, costs, or interest | Statutory fees, taxable costs, and pre- or postjudgment interest | Billing records, taxable-cost records, judgment date, and a claim-specific fee or interest statute are required | Calculate separately after the legal basis and relevant dates are established | Not yet quantifiable | Never include the same fee, cost, or interest item in compensatory damages | Contingent |
+
+
+**Calculated damages — Appendix D (filed).**
+
+Total Lost Recovery Calculation (Appendix D, §A):
+- Federal Civil Rights (§ 1983): $3,750,000 – $5,200,000
+- Federal Conspiracy (§ 1985): $1,000,000 – $1,500,000
+- State Defamation Claims: $1,000,000 – $1,500,000
+- State IIED Claims: $800,000 – $1,200,000
+- Business Interference: $500,000 – $800,000
+- Witness Intimidation: $700,000 – $1,100,000
+- Deceptive Trade Practices: $400,000 – $700,000
+- **TOTAL LOST RECOVERY: $8,150,000 – $12,000,000**
+
+Adjustments stated in Appendix D:
+- Realistic Lost Recovery (litigation risk and collection): $6,400,000 – $8,400,000
+- Remaining claims within statute — Potential Recovery: $2,000,000 – $3,000,000
+- Lost Recovery Due to Statute Expiration (the malpractice measure): $4,400,000 – $5,400,000
+
+Source: [Appendix D — Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations), ODC 25-147 Supplemental Submission 1. Figures are the complainant's filed calculation, not an adjudicated finding.
 
 See the detailed evidence ledger at [Damages Evidence: Quantified and Non-Economic](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/damages-evidence-quantified-and-non-economic), the two-move analysis at [Forced to Move Twice](https://www.ywcaofmissoula.com/montana-legal-cases/forced-to-move-twice-when-harassment-and-threats-displace-a-person-from-their-home-and-community), the malpractice analysis at [Bryan Tipp malpractice (2017–2025)](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account), and the limitations analysis at [Nuno Case Study: Documented Barriers and Tolling Arguments](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/nuno-case-study-tolling-arguments).
 

@@ -7,6 +7,8 @@ description: >-
   professional obligations to protect his client...
 ---
 
+**Update (November 2026):** Further research has revealed that the YWCA of Missoula Form 990 rosters for FY2018–FY2022 do not list Detective Connie Brueckner as a board member during the case period. The detective documented on the board in that period is Jamie Merifield (Board Member FY2020–FY2021, listed as former FY2022); Brueckner's documented board membership is later (FY2023 audited statements). Passages in this document that rest on a case-period Brueckner board role — including the Detective Brueckner Conflict passage — are preserved as submitted and should be read subject to this correction.
+
 
 # Appendix C: Constitutional Violations Identified But Not Addressed
 

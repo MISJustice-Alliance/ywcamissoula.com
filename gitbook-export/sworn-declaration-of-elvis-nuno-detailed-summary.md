@@ -173,7 +173,7 @@ With the exception of the noted coerced pleas, all criminal matters have been di
 
 ## III-A. The 2025 MISJustice Alliance formal notices to YWCA
 
-- **October 12, 2025:** MISJustice Alliance (on behalf of Mr. Nuno and other victims) sent a formal legal notice requesting response on systemic issues, possible criminal conduct, and conflicts of interest — including Detective Connie Brueckner's simultaneous role as law enforcement officer and YWCA board member; retaliation patterns; misuse of confidential client information (including documented HIPAA violations); funding practices prioritizing crisis metrics; and the Board's conflict-management and complaint-handling protocols.
+- **October 12, 2025:** MISJustice Alliance sent a notice asking about governance and other allegations, including a claimed overlap of Detective Connie Brueckner’s MPD and YWCA board roles. This summarizes the notice’s allegation, not verified board service in the 2018 case.
 - **December 5, 2025:** A comprehensive second notice to YWCA leadership, copied to senior YWCA staff and key Missoula city/county officials (Mayor, Police Chief, County Attorney), documenting: how E'Lise Chard imported and amplified Danielle's discredited Washington accusations; recruitment of subordinate Rebecca Pettit and liaison Officer Ethan Smith; repeated baseless arrests and harassment; recruitment of YWCA client Tyleen Root for online harassment and defamation; MPD's refusal to intervene (alleged joint state-private conspiracy); and YWCA's institutional indifference.
 - The December notice detailed federal causes of action: § 1983 (First, Fourth, Fourteenth Amendments), § 1985 conspiracy, state tort defamation/IIED, and civil/criminal RICO (18 U.S.C. § 1962).
 - **As of the declaration on December 10, 2025:** the declaration reports that YWCA had provided no response to either notice—approximately 59 days after the October 12 notice and five days after the December 5 notice. That establishes the declarant's account of nonresponse through December 10, not an affirmative refusal. The declaration separately argues that institutional inferences should be drawn from the reported nonresponse; those inferences are advocacy positions rather than established findings.
@@ -196,18 +196,18 @@ With the exception of the noted coerced pleas, all criminal matters have been di
 - A search warrant on his Missoula residence was obtained by **Detective Connie Brueckner**, based on an affidavit incorporating investigative reports and statements from Officer Ethan Smith.
 - **Officer Smith's fabricated evidence (as alleged):** fabricated phone conversations with Mr. Nuno's parents (explicitly denied by them); false claims his mother "alluded to" mental health issues (denied); mischaracterization of professional IT skills as criminal intent; reliance on E'Lise's uncorroborated allegations.
 - Smith was **removed from the case by MPD for "obvious appearance of impropriety"** — his close personal relationship with E'Lise Chard — the sole instance of institutional accountability in the case.
-- **Brueckner's undisclosed conflict:** Detective Brueckner simultaneously served on the **YWCA Missoula Board of Directors** — the same organization where E'Lise worked and against which Mr. Nuno had filed the June 2018 complaint. Her conflict was never disclosed to the issuing judge, defense counsel, prosecutors, or Mr. Nuno.
+- **Claimed Brueckner board conflict — correction:** The declaration alleges Detective Brueckner simultaneously served on the YWCA board while investigating the 2018 matter, but the cited filings do not establish that overlap. Her investigative role remains a separate allegation; nondisclosure of a case-period board membership cannot be stated as fact.
 - **Franks v. Delaware analysis (438 U.S. 154, 1978):** The declaration argues the warrant was void — (a) the affidavit contained deliberately false statements or statements made with reckless disregard for the truth (Smith's fabrications), and (b) those false statements were necessary to establish probable cause. Concealment of Brueckner's conflict also violated *Brady v. Maryland* and constituted fraud upon the court.
 - **Economic destruction:** Seizure of all work equipment (laptops with proprietary client work, phones with business contacts and credentials, storage devices, tablets) made work impossible; employment was terminated; equipment was retained for the full 18-month investigation; when returned, work product was obsolete and client relationships severed. Alleged losses: employment/income exceeding $150,000 annually; economic damages exceeding **$2.1 million** over 2018–2025; permanent exit from the telecommunications engineering career.
 - **Legal violations cited:** Fourth Amendment; *Franks*; *Brady*; Montana professional-conduct rules; 18 U.S.C. § 242; Montana perjury/false-statement statutes.
 
 ---
 
-## VII. Detective Connie Brueckner: weaponizing institutional conflicts
+## VII. Detective Connie Brueckner: declaration's institutional-conflict allegation
 
-- **Dual-role allegation:** The declaration alleges that Brueckner served as a YWCA Board member while working as a Missoula police detective. The available P.S. exhibit does not establish that Brueckner knew of or reviewed the August 14, 2018 message; that question requires board, email, and case-file records.
+- **Dual-role allegation — correction:** The declaration alleges a simultaneous board role, but the available filings do not establish one during this investigation. The P.S. exhibit does not show that Brueckner knew of or reviewed the August 14, 2018 message.
 - **Alleged weaponization:** The declaration alleges that Brueckner leveraged YWCA's reputation, suppressed the P.S. character-reference letter, protected YWCA from accountability, and used dual institutional weight in the warrant process. These are the declaration's allegations, not findings established by the P.S. exhibit.
-- **Recusal required but withheld:** Under law-enforcement ethics and Montana POST standards, Brueckner should have recused from any investigation involving YWCA employees or complaints against YWCA. Instead she concealed the board membership from all parties — a matter of public record (IRS Form 990 filings on ProPublica).
+- **Recusal theory — correction:** A duty to recuse based on YWCA board service during this investigation is not established. Later board records cannot prove that she concealed a board role from parties to the 2018 case.
 - **Conduct characterized as:** fraud upon the court; *Brady* violation; deprivation of rights under color of law (18 U.S.C. § 242); conspiracy against rights (§ 241); POST professional misconduct; abuse of authority.
 - **Reported discovery in 2025:** Mr. Nuno states that he learned of the alleged YWCA conflict while researching the case. That date may support a tolling argument, but it does not establish tolling by itself. A court would require claim-specific proof of concealment or prevention of discovery, reasonable diligence, and the governing accrual and tolling rules.
 
@@ -301,7 +301,7 @@ These categories must be tied to particular acts and legally responsible defenda
 - **Tyleen Root** was a YWCA Missoula client while E'Lise worked there as Operations Manager. Mr. Nuno states he never met, contacted, or knew of her before her harassment campaign.
 - **Escalation pattern:** (1) private social-media DMs falsely claiming he stalked her and her family while she was sheltered at YWCA (never responded to); (2) public posting on the Facebook page of his nonprofit, Pacific Northwest Rural Broadband Alliance — *"The guy who owns this is a stalker and a woman beater"*; (3) direct messaging of anyone who liked/commented/followed the business page.
 - **Law enforcement response contrast:** MPD — attempting to report the harassment, two officers cornered him in a hallway, ridiculed the complaint, yelled at him, and one unclipped his sidearm and placed his hand on his gun when Mr. Nuno reached for his phone to show screenshots; refused to file a report. **Dillon PD** — Officer Ian Turnes immediately recognized Tyleen's history of similar harassment, located her (hiding from Child Protective Services), ensured removal of the defamatory posts, and documented the harassment for potential charges.
-- **Alleged violations by E'Lise:** abuse of professional position (using access to YWCA clients to recruit harassment proxies; providing confidential information); YWCA institutional liability (client relationships exploited for retaliation, no investigation); ethical violations (exploitation of vulnerable populations, breach of duty to protect clients). Pattern of recruited proxies: Rebecca Pettit (YWCA subordinate — false police reports), Steve Leutcheman (boyfriend — death threats, harassment), Officer Ethan Smith (YWCA liaison — surveillance/harassment), Tyleen Root (YWCA client — business sabotage), Detective Brueckner (YWCA board member — fraudulent warrant).
+- **Alleged violations by E’Lise:** The declaration alleges exploitation of YWCA client relationships and retaliation involving several actors, including Detective Brueckner in an investigative capacity. Its characterization of her as a board member during the warrant process is not established.
 - **Criminal liability cited:** criminal solicitation (MCA § 45-4-102), criminal defamation (MCA § 45-8-212), conspiracy (MCA § 45-4-102), abuse of position.
 
 ---
@@ -364,3 +364,25 @@ Executed **December 10, 2025** by **Elvis Ryland Nuno**, sworn to and subscribed
 - [The Shelter and the Storm](the-shelter-and-the-storm-how-a-montana-safe-haven-became-an-engine-of-retaliation.md)
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.
+
+
+**Calculated damages — Appendix D (filed).**
+
+Total Lost Recovery Calculation (Appendix D, §A):
+- Federal Civil Rights (§ 1983): $3,750,000 – $5,200,000
+- Federal Conspiracy (§ 1985): $1,000,000 – $1,500,000
+- State Defamation Claims: $1,000,000 – $1,500,000
+- State IIED Claims: $800,000 – $1,200,000
+- Business Interference: $500,000 – $800,000
+- Witness Intimidation: $700,000 – $1,100,000
+- Deceptive Trade Practices: $400,000 – $700,000
+- **TOTAL LOST RECOVERY: $8,150,000 – $12,000,000**
+
+Adjustments stated in Appendix D:
+- Realistic Lost Recovery (litigation risk and collection): $6,400,000 – $8,400,000
+- Remaining claims within statute — Potential Recovery: $2,000,000 – $3,000,000
+- Lost Recovery Due to Statute Expiration (the malpractice measure): $4,400,000 – $5,400,000
+
+Source: [Appendix D — Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations), ODC 25-147 Supplemental Submission 1. Figures are the complainant's filed calculation, not an adjudicated finding.

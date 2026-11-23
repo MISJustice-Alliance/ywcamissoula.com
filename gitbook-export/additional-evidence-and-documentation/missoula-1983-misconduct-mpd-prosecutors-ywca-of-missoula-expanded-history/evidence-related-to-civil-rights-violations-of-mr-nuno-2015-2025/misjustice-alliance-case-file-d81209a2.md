@@ -68,7 +68,7 @@ This page is a stable internal index for the published external case file **d812
   * Tags: `report` `court-filing` `misconduct` `abuse` `discrimination` `final` `evidence` `global-casefiles`
   * Link: [https://cr-2025-001-evidence-25\_misjusticealliance.arweave.net/](https://cr-2025-001-evidence-25_misjusticealliance.arweave.net/)
 * **investigative-report-ywca-missoula.pdf**
-  * Synopsis: Investigative report detailing alleged systemic misconduct involving YWCA Missoula, MPD, and the Missoula County Attorney’s Office; centers on Brueckner’s board role and uses the Nuno case as a core example.
+  * Synopsis: Report alleging YWCA, MPD, and prosecutor misconduct; its Brueckner case-period board premise is not established.
   * Tags: `report` `agency-complaint` `misconduct` `civil-rights` `discrimination` `fraud` `final` `global-casefiles`
   * Link: [https://cr-2025-001-evidence-24\_misjusticealliance.arweave.net/](https://cr-2025-001-evidence-24_misjusticealliance.arweave.net/)
 * **shelter-and-the-storm-article.pdf**
@@ -86,7 +86,7 @@ This page is a stable internal index for the published external case file **d812
 * **damages\_by\_victim\_real.png**
   * Synopsis: Bar chart of estimated damages for victim classes (excluding the Elvis Nuno case).
   * Tags: `report` `court-filing` `negligence` `civil-rights` `final` `exhibit`
-  * Link: [https://cr-2025-001-evidence-6\_misjusticealliance.arweave.net/](https://cr-2025-001-evidence-6_misjusticealliance.arweave.net/)
+  * Link: [https://cr-2025-001-evidence-6\_misjusticealliance.arweave.net/](https://cr-2025-001-evidence-6_misjusticealliance.arweave.net/) — early estimate; its $22,500,000 figure for the Nuno case is superseded by the Appendix D filed calculation (total lost recovery $8,150,000–$12,000,000). Retained for the record.
 * **federal\_funding\_chart\_real.png**
   * Synopsis: Chart of annual federal funding sources for an organization, totaling $1.13M.
   * Tags: `report` `court-filing` `financial-record` `neglect` `final`
@@ -139,3 +139,5 @@ This page is a stable internal index for the published external case file **d812
 ### Related
 
 {% include "../../../.gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

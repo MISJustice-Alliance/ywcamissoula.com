@@ -38,7 +38,7 @@ This page examines how law enforcement, county prosecutors, and local victim-adv
 When the publicly available record is viewed as a whole, including federal DOJ materials, staff and client accounts, court-facing advocacy practices, and the governance structure of the YWCA, a persistent structural risk becomes difficult to ignore: institutional capture through overlapping relationships with law enforcement and prosecutorial actors. That risk is magnified by three things already visible elsewhere in this project:
 
 1. the empirical reality that law-enforcement officers perpetrate intimate-partner violence at elevated rates relative to the general population,
-2. the presence of a Missoula Police Department detective on the YWCA Board of Directors,
+2. the documented FY2020–FY2021 YWCA board service of Detective Jamie Merifield ([FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full), [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full); [FY2022 lists her as former](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full)), which does not establish participation in the 2018 investigation,
 3. specific case histories in which YWCA staff conduct, information flows, and direct coordination with MPD and county prosecutors allegedly contributed to retaliation, escalation, harassment, or prosecutorial overreach.
 
 ### Supporting documents (CR-2025-001)
@@ -49,7 +49,7 @@ When the publicly available record is viewed as a whole, including federal DOJ m
 
 ## Why These Conflicts Matter
 
-The YWCA of Missoula's governance structure presents an immediate red flag: a sitting MPD detective, Connie Brueckner, serving as a board member at large alongside other government-linked directors. That arrangement threatens core fiduciary duties, loyalty to mission, care for client safety, and obedience to the organization's stated purpose. It also undermines the appearance and reality of institutional independence.
+A later audited YWCA board roster lists Detective Connie Brueckner, raising governance questions for that later period. It does not establish that she held a board role during the 2018 investigation or specify her board title.
 
 For survivors whose abusers are law-enforcement officers, the presence of police leadership in YWCA governance can chill help-seeking, compromise confidence in confidentiality, and create a reasonable perception that disclosures may travel back into an aligned institution.
 
@@ -90,7 +90,7 @@ If those background conditions are real, then a shelter with law-enforcement lea
 
 ## Case Materials and Pattern of Evidence
 
-The Nuno case is presented in the source article as a concrete example of escalation following a formal complaint and protected activity. The article argues that YWCA-affiliated staff allegedly leveraged organizational credibility and close relationships with MPD to help trigger or intensify police action based on narratives the author characterizes as defamatory and unsupported, including an investigation led by board member Connie Brueckner and a sequence of charges, re-filings, arrests, bail escalation, a home raid, and prolonged pretrial harm.
+The Nuno case is presented in the source article as an example of escalation following a formal complaint. The article argues that YWCA-affiliated staff allegedly leveraged organizational credibility and relationships with MPD to intensify police action, including an investigation involving Detective Connie Brueckner and a sequence of charges, arrests, bail escalation, a home raid, and prolonged pretrial harm. The source article’s description of her as a board member during that investigation is not substantiated.
 
 That account should be read alongside the underlying case-record pages in this project, not in isolation. Its value here is pattern recognition. The article frames the alleged harm not as one bad decision but as a recurring problem: when advocacy roles blur with law-enforcement influence, the system can transform private allegations into public coercive power without the level of independent verification and oversight that such power requires.
 
@@ -153,3 +153,5 @@ The case materials discussed across this site illustrate how these conflicts can
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

@@ -202,7 +202,7 @@ This page is an analysis layer, not a reform order. Still, the site’s remedy v
 
 **Key Cases**: *Monell v. Dep't of Soc. Servs.*, 436 U.S. 658 (1978); *Connick v. Thompson*, 563 U.S. 51 (2011)
 
-**MISJustice Cross-Validation**: ✅ Confirmed — Maps directly onto documented facts. Detective Connie Brueckner's simultaneous service on the YWCA board of directors while investigating Elvis Nuno is specifically cited as evidence of policy-level entanglement creating a non-waivable structural conflict. The pattern of serial charge refilings, escalating bail, and retaliatory prosecution following Nuno's September 2017 complaint supports a "custom or practice" theory beyond isolated incidents.
+**MISJustice Cross-Validation — correction:** Detective Connie Brueckner’s investigative role does not establish simultaneous YWCA board service during the Nuno investigation. That purported overlap cannot support a structural-conflict or *Monell* premise on this record. The alleged pattern of charges and other acts requires independent case-record proof.
 
 **Key Risk**: *Connick v. Thompson* requires more than a single incident to establish failure-to-train liability. The documented pattern across multiple officers (Smith, Brueckner) and multiple years (2017–2021) strengthens — but does not guarantee — this showing.
 
@@ -286,7 +286,7 @@ See [Nuno Case Study: Documented Barriers and Tolling Arguments](additional-evid
 
 **MISJustice Cross-Validation — NOVEL LEGAL QUESTION ⚠️**: The Nuno record contains unusually strong facts for establishing state action:
 
-1. **Detective Brueckner's YWCA board service** — simultaneous fiduciary duty to YWCA and investigatory authority over Nuno creates a *joint action* argument of exceptional clarity
+1. **Detective Brueckner’s investigative role** — the claimed overlapping YWCA fiduciary duty is not established; do not use it as a predicate for joint action.
 2. **Contracts with MPD for victim services, training, and data sharing** — satisfies the functional entwinement test
 3. **YWCA receiving and suppressing the August 2018 character reference** — while coordinating with prosecutors — constitutes active participation in a constitutional deprivation
 4. **YWCA's Just Response model** integrating advocacy with prosecution — DOJ had already flagged information-sharing risks
@@ -663,7 +663,7 @@ Drawing on the synthesis and cross-validation with the broader Space record, the
 
 3. **DOJ MOU records:** Obtain the 2013–2016 DOJ Memoranda of Understanding with Missoula — these establish notice to policymakers and support the "clearly established" argument against qualified immunity.
 
-4. **Brueckner YWCA board documentation:** Obtain IRS Form 990 filings and YWCA board minutes confirming Brueckner's board service during the investigation. These are the cornerstone of both the state-actor theory and the Brady/Giglio conflict argument.
+4. **Case-period board predicate:** Reviewed Form 990 rosters do not document Brueckner's board service during the investigation. [FY2020](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list Jamie Merifield, with [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) listing her as former. None of those entries shows Merifield investigated the case or supplies a Brueckner-based Brady/Giglio predicate.
 
 5. **Malpractice claim against Bryan Tipp:** The Montana 3-year discovery rule (from ~2025 discovery) keeps a Tipp malpractice claim viable until approximately 2028. File in Montana state court before that window closes.
 
@@ -713,3 +713,5 @@ Drawing on the synthesis and cross-validation with the broader Space record, the
 *Refined with MISJustice Alliance Research Collective cross-validation — May 11, 2026*
 
 ---
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

@@ -413,3 +413,23 @@ The updated source packet identifies several possible recipients. This report li
 ## Bottom-line assessment
 
 The record is strongest as an investigation referral for Washington false reporting, Washington false statements to public servants, Washington witness-tampering/intimidation screening, and document-based review of the August 2018 false-extradition / warrantless-detention allegation. The record is moderately supportive of conspiracy screening in Washington and Montana if communications and metadata corroborate coordination. Montana direct charges against Danielle Chard/Bemis require additional proof because the source packet attributes many direct Montana filings to E'Lise Chard. Federal theories should be preserved for screening, with § 241 and § 1512 currently more concrete than RICO or wire fraud, unless investigators develop interstate-facility use, federal nexus, specific civil-rights intent, predicate racketeering acts, and enterprise evidence.
+
+
+**Calculated damages — Appendix D (filed).**
+
+Total Lost Recovery Calculation (Appendix D, §A):
+- Federal Civil Rights (§ 1983): $3,750,000 – $5,200,000
+- Federal Conspiracy (§ 1985): $1,000,000 – $1,500,000
+- State Defamation Claims: $1,000,000 – $1,500,000
+- State IIED Claims: $800,000 – $1,200,000
+- Business Interference: $500,000 – $800,000
+- Witness Intimidation: $700,000 – $1,100,000
+- Deceptive Trade Practices: $400,000 – $700,000
+- **TOTAL LOST RECOVERY: $8,150,000 – $12,000,000**
+
+Adjustments stated in Appendix D:
+- Realistic Lost Recovery (litigation risk and collection): $6,400,000 – $8,400,000
+- Remaining claims within statute — Potential Recovery: $2,000,000 – $3,000,000
+- Lost Recovery Due to Statute Expiration (the malpractice measure): $4,400,000 – $5,400,000
+
+Source: [Appendix D — Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations), ODC 25-147 Supplemental Submission 1. Figures are the complainant's filed calculation, not an adjudicated finding.

@@ -15,6 +15,8 @@ tags:
   - Montana Bar Complaints
 ---
 
+**Update (November 2026):** Further research has revealed that the YWCA of Missoula Form 990 rosters for FY2018–FY2022 do not list Detective Connie Brueckner as a board member during the case period. The detective documented on the board in that period is Jamie Merifield (Board Member FY2020–FY2021, listed as former FY2022); Brueckner's documented board membership is later (FY2023 audited statements). Passages in this document that rest on a case-period Brueckner board role — including Section 5D, Detective Connie Brueckner / YWCA Board Connection — are preserved as submitted and should be read subject to this correction.
+
 # ODC File No. 25-147 — Chronological Case-Record Timeline, PS Email Chain Index, and Police Report Comparison
 
 > **Chronology update — November 3, 2026:** A later Tipp Supreme Court order, stamped filed October 22, affirms the Commission's dismissal; the separate Lowney grievance was affirmed by the Commission on October 23. This page's older “no Court action established” cells below describe what the September transmittal alone showed, not today's posture. [Decision report](tipp-lowney-disciplinary-decisions-october-2026.md). The September transmittal states a January 7 Commission decision; the Court order describes a February 9 notice letter. These dates remain to be reconciled against the underlying Commission records.

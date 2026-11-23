@@ -35,7 +35,7 @@ The email was favorable to Elvis Nuno in at least two ways visible on its face: 
 
 ## Relationship to the Larger Case Pattern
 
-Existing chronology materials describe a broader sequence in which complaints to YWCA were followed by police escalation, involvement of Detective Connie Brueckner while she was also tied to YWCA governance, prolonged criminal proceedings, and eventual dismissal with prejudice. Those same materials describe the prosecution as continuing despite weak or disputed factual support and despite concerns about institutional conflict.
+Existing materials describe YWCA complaints followed by police escalation involving Detective Brueckner as an investigator. They do not establish concurrent YWCA board service.
 
 Within that larger sequence, the P.S. email matters because it appears to add one more piece of information that cut against a one-sided prosecution narrative. For public readers, that makes the document relevant to the question whether the criminal process was moving forward in spite of accumulating warning signs rather than because of a neutral and balanced assessment of all available information.
 
@@ -61,3 +61,5 @@ The forwarding language is part of why the exhibit is notable. E'Lise characteri
 This public addendum does not claim that the P.S. email alone proves malice, proves lack of probable cause on every charge, or establishes liability against every person mentioned in the broader record. It also does not try to resolve legal questions that depend on full official files, testimony, and attorney review.
 
 The narrower conclusion supported here is that the email is a documented example of favorable and contradictory information entering the same institutional channels through which the case continued, and that this is relevant to public evaluation of whether the process reflected neutral case review or something more adversarial and self-reinforcing.
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

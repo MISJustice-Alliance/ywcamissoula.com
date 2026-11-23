@@ -125,7 +125,7 @@ The City routinely cites the personnel records exemption (ARM 2.21.6612) to refu
 
 Forensic evidence suggests a theory of institutional capture involving the YWCA Missoula and local law enforcement:
 
-* **Conflict of Interest**: Detective Connie Brueckner served on the YWCA Board while simultaneously investigating matters involving YWCA staff.
+* The cited records do not establish Connie Brueckner’s YWCA board service during the 2017–2018 investigation; her detective role must not be treated as a contemporaneous board conflict.
 * **Confidentiality Breaches**: Client testimony alleges counseling information was leaked from YWCA channels into adversarial police and court settings.
 * **Grant-Reporting Misrepresentation**: The October 2021 Meadowlark Shelter evictions and the Rapid Rehousing payment cap mismatch suggest that the service model reported to federal funders does not align with operational realities on the ground.
 
@@ -172,3 +172,5 @@ This evaluation concludes that the internal governance of the Missoula Police De
 ---
 
 *This report is produced by MISJustice Alliance for research, advocacy, and public accountability purposes. It does not constitute legal advice and does not create an attorney-client relationship. All factual claims are cited to publicly accessible primary sources or primary-source documents provided by the subject of the case.*
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

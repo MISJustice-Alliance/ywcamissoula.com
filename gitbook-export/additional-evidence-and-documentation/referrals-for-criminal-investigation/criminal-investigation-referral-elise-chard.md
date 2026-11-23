@@ -34,7 +34,7 @@ The updated source packet alleges that E'Lise Chard used her position at YWCA Mi
 
 The source packet alleges the petition contained statements about repeated threats, harassment, dangerousness, criminal history, and Washington proceedings that were materially inconsistent with E'Lise Chard's later sworn hearing testimony. It states that, when Judge Sam Warren asked whether Mr. Nuno had contacted her beyond three 2017 emails, E'Lise answered "No," and when asked about threats, she answered "No threats." The source further states that Mr. Nuno did not contest the protection order and said he had no desire for contact.
 
-The source packet then alleges a post-protection-order criminal phase involving Missoula Police Detective Connie Brueckner, who allegedly served simultaneously as a Missoula police detective and YWCA Missoula board member. It alleges Detective Brueckner used reports from Officer Ethan Smith, who had allegedly been removed from related matters for an "obvious appearance of impropriety," to obtain a search warrant and seize Mr. Nuno's work electronics. It also alleges E'Lise Chard received and forwarded an August 14, 2018 character-reference letter from witness P.S. that contradicted the dangerousness narrative, but that the letter was not disclosed to the defense, prosecutors, or court.
+The source packet alleges a criminal phase involving Detective Brueckner, Officer Smith’s reports, and a warrant seizing work equipment. Its concurrent-board allegation is not established. It also alleges nondisclosure of a P.S. letter.
 
 The source packet separately alleges E'Lise Chard made a September 2018 false report of "phantom phone calls" during the protection-order hearing, which subpoenaed phone records allegedly disproved. It further alleges that, from 2020 through 2024, E'Lise Chard recruited or coordinated with Tyleen Root to publish statements accusing Mr. Nuno of being a "stalker and woman beater," causing business and nonprofit losses. Finally, it alleges coordination with Danielle Chard / Bemis in connection with an August 2018 "lost in jail" or false-extradition incident.
 
@@ -125,13 +125,13 @@ The source packet alleges that after the protection-order hearing, E'Lise Chard 
 
 #### Concise narrative
 
-The source packet alleges that Detective Connie Brueckner led the Missoula investigation while simultaneously serving on the YWCA Missoula board. It alleges this conflict was undisclosed to Mr. Nuno, defense counsel, prosecutors, and the court. It further alleges Detective Brueckner relied on Officer Ethan Smith's reports after Officer Smith had been removed from matters involving Mr. Nuno and E'Lise Chard for an "obvious appearance of impropriety." The resulting warrant allegedly seized Mr. Nuno's work equipment and caused severe career harm.
+The source packet alleges Detective Brueckner led the investigation and relied on Smith’s reports. Its contemporaneous-board and nondisclosure premises are not established; the warrant allegedly seized Mr. Nuno’s equipment.
 
 #### Supporting record hooks
 
 | Alleged fact | Source support | Needed corroboration |
 | --- | --- | --- |
-| Detective Brueckner allegedly held dual roles as MPD detective and YWCA board member | Source packet, Criminal Act 2 and Institutional Documentation | ProPublica/nonprofit filings, YWCA board records, MPD personnel/conflict records |
+| Detective Brueckner’s investigative role; claimed concurrent YWCA board role not established | Source packet, Criminal Act 2 and Institutional Documentation | Contemporaneous board records and MPD assignment records |
 | Nuno's June 3, 2018 complaint allegedly concerned YWCA employees and was routed to E'Lise | Source packet, Criminal Acts 1 and 8 | YWCA intake records, email headers, internal communications |
 | Officer Smith allegedly had a close relationship with E'Lise and was removed for appearance of impropriety | Source packet, Criminal Act 2 | Internal-affairs records, Sergeant DelRidge records, Tyrone Nuno complaint, MPD assignment logs |
 | Search warrant allegedly relied on Smith reports and caused seizure of work electronics | Source packet, Criminal Act 2 | Warrant affidavit, inventory, return, body camera, employer/client records |
@@ -279,3 +279,25 @@ Venue would likely center in Missoula County, Montana for the direct E'Lise cond
 9. Platform records, screenshots with metadata, police reports, and business-loss documentation concerning the Tyleen Root allegations.
 
 The present record is strongest for a Montana document-based investigation into perjury or false swearing, false reporting, and evidence-fabrication or evidence-concealment issues. Conspiracy, civil-rights, and RICO-style theories should be preserved as investigative screens, but they depend on communications, official records, and state-action or federal-nexus proof not yet established within the source packet alone.
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.
+
+
+**Calculated damages — Appendix D (filed).**
+
+Total Lost Recovery Calculation (Appendix D, §A):
+- Federal Civil Rights (§ 1983): $3,750,000 – $5,200,000
+- Federal Conspiracy (§ 1985): $1,000,000 – $1,500,000
+- State Defamation Claims: $1,000,000 – $1,500,000
+- State IIED Claims: $800,000 – $1,200,000
+- Business Interference: $500,000 – $800,000
+- Witness Intimidation: $700,000 – $1,100,000
+- Deceptive Trade Practices: $400,000 – $700,000
+- **TOTAL LOST RECOVERY: $8,150,000 – $12,000,000**
+
+Adjustments stated in Appendix D:
+- Realistic Lost Recovery (litigation risk and collection): $6,400,000 – $8,400,000
+- Remaining claims within statute — Potential Recovery: $2,000,000 – $3,000,000
+- Lost Recovery Due to Statute Expiration (the malpractice measure): $4,400,000 – $5,400,000
+
+Source: [Appendix D — Documentation of Lost Civil Claims and Statute of Limitations](https://www.ywcaofmissoula.com/montana-bar-complaints/mt-bar-complaint-odc-no.-25-147-bryan-tipp-of-tipp-colburn-lockwood-p.c.-july/mt-bar-complaint-odc-no.-25-147-supplemental-submission-1-august-2025/appendix-d-documentation-of-lost-civil-claims-and-statute-of-limitations), ODC 25-147 Supplemental Submission 1. Figures are the complainant's filed calculation, not an adjudicated finding.

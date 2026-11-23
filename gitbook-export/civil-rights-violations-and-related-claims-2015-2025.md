@@ -56,7 +56,7 @@ These headings are intentionally “query-shaped” for SEO/GEO.
 
 ### Note on conflict-of-interest theories referenced here
 
-This page discusses a conflict-of-interest theory involving Detective Connie Brueckner’s MPD role and concurrent YWCA of Missoula board service, as described in the linked packets and analysis pages.
+This page examines Detective Connie Brueckner’s MPD investigative role and YWCA-related allegations. The claimed concurrent board service during the case is not established.
 
 ### FAQ (claims + evidence navigation)
 
@@ -113,7 +113,7 @@ This section does not try to prove a formal conspiracy by label alone. Instead, 
 
 ### A. The YWCA-Police Department Nexus
 
-Detective Connie Brueckner serves simultaneously on the YWCA Missoula Board of Directors while investigating complaints against YWCA employees.
+Detective Connie Brueckner is discussed as an investigating MPD detective. The record does not establish that she was a YWCA board member while investigating these complaints.
 
 The record frames that relationship as more than routine coordination. Victim-services work often requires contact with police, but the concern here is that coordination may have crossed the line from parallel support into information-sharing and institutional alignment that affected how the complaint was handled. On the site’s theory, once a shelter or advocacy organization becomes operationally dependent on police referrals, joint training, and informal backchannel communication, the risk is not just bias in one case but a structural loss of independence.
 
@@ -127,7 +127,7 @@ A dual-role arrangement also complicates post-complaint review. If the same inst
 
 **Phase 2: Transfer to Detective Brueckner** - this record frames later actions as an escalation that should be evaluated under First/Fourteenth/Fourth Amendment theories.
 
-The record characterizes Smith’s removal as an acknowledgment that the matter had become tainted by conflict. The important point is not merely that Smith was taken off the case; it is what happened next. The later assignment to Detective Connie Brueckner is framed as continuity of the same institutional environment, not a clean break from it, because Brueckner is described elsewhere in this archive as serving simultaneously on the YWCA board.
+The record characterizes Smith’s removal as an acknowledgment of an appearance-of-impropriety concern. The later assignment to Detective Connie Brueckner is discussed as continuity in the investigation, but the claimed contemporaneous YWCA board role is not established.
 
 That sequence matters for two reasons. First, it suggests that the department recognized a conflict problem but did not fully insulate the investigation from YWCA-linked influence. Second, it allows the site to argue that later events were not isolated errors by a new officer; they were the continuation of a process already shaped by a contested organizational relationship.
 
@@ -243,7 +243,7 @@ In practical terms, the federal-civil-rights theory is that the same factual seq
 
 ### B. Monell, state action, and YWCA–MPD entwinement
 
-The strongest institutional-liability theory is not limited to one officer. It is the claim that the YWCA–MPD relationship and the Brueckner conflict may support state-action or Monell-style liability if the record shows policy, custom, ratification, deliberate indifference, or joint action. That framing appears explicitly in the legal-analysis page and the §1983 cluster summary. See the sections on Monell, deliberate indifference, and YWCA state-actor exposure in [Legal analysis of 42 U.S.C. § 1983 claims — YWCA Missoula & MPD (2012–2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office/legal-analysis-1983-claims-ywca-mpd-2012-2025).
+The strongest institutional-liability theory is not limited to one officer. It asks whether evidence of a YWCA–MPD relationship establishes policy, custom, ratification, deliberate indifference, or joint action in a particular deprivation. The case-period Brueckner board-conflict predicate is not documented in the reviewed Form 990 rosters and cannot carry that theory. That distinction matters to the legal-analysis page and the §1983 cluster summary. See the sections on Monell, deliberate indifference, and YWCA state-actor exposure in [Legal analysis of 42 U.S.C. § 1983 claims — YWCA Missoula & MPD (2012–2025)](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/missoula-county-prosecutors-office/legal-analysis-1983-claims-ywca-mpd-2012-2025) and the [YWCA Form 990 filing index](https://projects.propublica.org/nonprofits/organizations/810245851).
 
 The significance of this theory is that it shifts the focus from isolated missteps to system design: board-level entanglement, coordinated-response practices, information-sharing, and the alleged use of advocacy channels in a way that impacted criminal and civil outcomes. If those facts are proven, they can support broader institutional liability than a claim against a single detective or prosecutor.
 
@@ -307,7 +307,7 @@ The strongest misconduct theory is not merely that the prosecution lost a close 
 
 * Judge Warren’s on-the-record ruling that the YWCA complaint was protected First Amendment speech and was not a communication to E’Lise Chard;
 * Officer Ethan Smith’s removal for an "obvious appearance of impropriety" tied to his relationship with E’Lise Chard;
-* Detective Connie Brueckner’s undisclosed YWCA board role while she was assigned as the investigating detective;
+* Detective Connie Brueckner’s assignment as an investigating detective; the claimed overlapping board role is not established;
 * E’Lise Chard’s sworn statements that Mr. Nuno had not engaged in meaningful contact or threatening conduct; and
 * the favorable P.S. character-reference letter routed through YWCA channels.
 
@@ -348,7 +348,7 @@ This page’s core argument is that the Nuno record should not be read as a set 
 
 Read together, the materials on this page describe a sequence in which complaint activity was allegedly met with escalating state response, the response was allegedly shaped by overlapping institutional roles, and the resulting process allegedly produced search, seizure, disclosure, and charging problems that reached beyond ordinary litigation error. On the site’s own theory, the significance of those events is cumulative. A single questionable decision may be reversible or explainable; a repeated pattern spanning complaint intake, investigative assignment, evidence handling, and prosecution is more consistent with structural failure than with accident.
 
-The strongest connective theme across the page is institutional entanglement. The YWCA–MPD relationship, the Brueckner conflict theory, the complaint-routing issues, and the prosecution record are all presented as evidence that the same dispute moved through a system in which advocacy, investigation, and enforcement were not meaningfully separated. If that account is supported by the primary record, the legal consequences may extend beyond individual misconduct to Monell-style liability, state-action arguments, Brady/Giglio issues, malpractice exposure, and injunctive reform.
+The strongest connective theme across the page is the allegation of institutional entanglement. The YWCA–MPD relationship, complaint-routing issues, and prosecution record warrant separate review of whether advocacy, investigation, and enforcement were meaningfully separated. Brueckner's detective role is not proof that she held a YWCA board seat during the investigation; the later board listing does not supply a case-period conflict. If independently supported by the primary record, distinct acts and relationships may still raise questions about Monell liability, state action, disclosure, malpractice, or reform. [YWCA Form 990 filing index](https://projects.propublica.org/nonprofits/organizations/810245851)
 
 At the same time, the page is an analysis layer, not a judicial finding. Each of the major claims still depends on primary records, admissible evidence, and proper procedural posture. The most defensible reading of the page is therefore not that liability has been established, but that the record, as assembled here, is strong enough to justify serious outside review of whether constitutional process, professional duties, and institutional boundaries were violated.
 
@@ -359,3 +359,5 @@ Any comparative claim about “most egregious” conduct should be treated as rh
 ### Related
 
 {% include ".gitbook/includes/related-links-global (1).md" %}
+
+**Board chronology correction:** The 2018 investigation predates the board service documented for Jamie Merifield: YWCA Missoula’s [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list her as a board member; the [FY2022 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. These filings do not show that Merifield investigated the 2018 case, and do not establish that Detective Connie Brueckner served on the board during that investigation. A separately documented later Brueckner board roster does not establish an earlier overlap.

@@ -16,7 +16,8 @@ description: >-
 
 * **Records on this site:** the [August 14, 2018 P.S. email and forwarding chain](../.gitbook/assets/discovery-ymca-em-from-P.S.-81418.pdf) (discovery exhibit); [June 2018 letters to YWCA, envelopes, and cashier's check, case 2018-24904](../.gitbook/assets/case-2018-24904-ywca-letters-envelopes-cashiers-check.pdf) (discovery exhibit); MISJustice Alliance notices to YWCA dated [October 12, 2025](../.gitbook/assets/misjustice-alliance-ywca-first-notice-2025-10-12.pdf) and [December 5, 2025](../.gitbook/assets/misjustice-alliance-ywca-second-notice-2025-12-05.pdf); and [YWCA audited financial statements, FY2023–FY2024](../.gitbook/assets/ywca-missoula-audited-financial-statements-fy2023-fy2024.pdf).
 * **Alleged (not adjudicated):** conflicts of interest between YWCA board roles and MPD or prosecution roles, routing of complaints into investigative channels, confidentiality risks, and retaliation. See the pages listed below.
-* **Unresolved:** this hub links no court or agency decision on these allegations. The [Connie Brueckner research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report) states which parts of the board-membership premise it could verify and which it could not.
+* **Board-roster chronology:** The [FY2020 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) (July 2019–June 2020) and [FY2021 Form 990](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) (July 2020–June 2021) list Jamie Merifield on the board; [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists her as former. This does not establish that she investigated the 2017–2018 matter. The reviewed FY2018–FY2022 Form 990 rosters do not list Connie Brueckner; later FY2023–FY2024 financial statements list her, but do not prove board service during the earlier case or an investigative assignment in it.
+* **Unresolved:** this hub links no court or agency decision on these allegations. The [Connie Brueckner research report](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/connie-brueckner-investigative-report) discusses later board service and the limits of the case-period board-membership premise.
 
 ### Executive snapshot
 
@@ -44,7 +45,7 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 
 ### High-signal YWCA Missoula pages
 
-* Conflicts + allegations summary: [YWCA of Missoula Allegations and Brueckner Conflict of Interest](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* Conflicts + allegations summary: [YWCA board allegation: corrected case-period summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * Board-level conflicts index: [YWCA of Missoula board conflicts (investigative index)](https://www.ywcaofmissoula.com/additional-evidence-and-documentation/missoula-1983-misconduct-mpd-prosecutors-ywca-of-missoula-expanded-history/evidence-related-to-civil-rights-violations-of-mr-nuno-2015-2025/ywca-of-missoula-board-conflicts-investigative-index)
 * Institutional capture overview: [YWCA of Missoula: A Captured System Operating Through Coordinated Institutional Failures](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/ywca-of-missoula/ywca-of-missoula-a-captured-system-operating-through-coordinated-institutional-f)
 * Systemic accountability failure: [Structural Failure of Police Accountability in Montana: From MPD to POST](https://www.ywcaofmissoula.com/research-reports-legal-advocacy-and-analysis/montana-state-institutional-failures/structural_failure_of_police_accountability_in_montana_from_mpd_to_post)
@@ -54,11 +55,11 @@ This page is the main router for material involving **YWCA of Missoula** (“YWC
 
 ### Remediation priorities
 
-The reform pages across this site converge on the same structural fix: create separation where the record shows overlap, and create independent review where the record shows internal screening. In practice, that means an outside complaint intake path, board-level conflict restrictions, auditable confidentiality rules, and public reporting that lets survivors and counsel test whether reform actually changed outcomes.
+The reform pages across this site propose separation where dated records establish overlapping roles and independent review where the record shows internal screening. A later board roster does not establish a conflict during an earlier case. In practice, proposed safeguards include an outside complaint intake path, board-level conflict restrictions, auditable confidentiality rules, and public reporting that lets survivors and counsel test whether reform actually changed outcomes.
 
 Core remedy themes used across the YWCA pages:
 
-* Remove active law-enforcement personnel and prosecutors from governance roles that touch survivor complaints, referrals, or staff disputes.
+* Adopt restrictions on active law-enforcement personnel and prosecutors in governance roles that touch survivor complaints, referrals, or staff disputes; verify present roles before proposing a named removal.
 * Separate advocacy intake from any direct law-enforcement coordination function unless survivor consent and written safeguards are documented.
 * Create an independent ombuds or review function for retaliation concerns, complaint handling, and institutional self-complaints.
 * Require retention of complaint, referral, and response records so outside review is possible.

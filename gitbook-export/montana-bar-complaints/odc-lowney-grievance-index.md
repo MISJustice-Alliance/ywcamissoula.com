@@ -6,6 +6,8 @@ description: >-
   filings, rulings, and supporting records.
 ---
 
+**Editorial case-period correction:** Reviewed FY2018–FY2022 Part VII rosters do not list Connie Brueckner. [FY2020 (July 2019–June 2020)](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 (July 2020–June 2021)](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list **Jamie Merifield** as Board Member; [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists Merifield as former. Merifield is not identified as an investigator in this case. Later board listings cannot establish Brueckner’s role during this investigation. The case-period Brueckner board-conflict theory, and legal conclusions relying solely on it, are not established. Historical quoted correspondence is retained as an attributed record.
+
 
 # ODC Lowney Grievance (April 2026) — Montana Bar Complaint Index
 
@@ -55,7 +57,7 @@ It is also useful for **civil-rights advocates** and **technical readers** asses
 * Brian Lowney (Missoula County Attorney's Office)
 * Prosecutorial misconduct, Brady violations, and abuse of process
 * First Amendment waiver in deferred prosecution agreements
-* Detective conflict of interest (YWCA board membership)
+* Historical detective board-conflict allegation (not established for the case period)
 * Institutional capture and selective enforcement
 
 Related starting points:
@@ -63,7 +65,7 @@ Related starting points:
 * [Federal and State Department Complaints](https://www.ywcaofmissoula.com/state-and-federal-complaints/federal-and-state-department-complaints)
 * [2017–2025 Bryan Tipp's Malpractice & Its Devastating Impact on Civil Rights Accountability](https://www.ywcaofmissoula.com/montana-legal-cases/2017-2025-bryan-tipps-malpractice-its-devastating-impact-on-civil-rights-account)
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
-* [Allegations Against YWCA Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+* [Historical Brueckner board allegation — case-period correction](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 
 ### Suggested reading order
 
@@ -112,8 +114,8 @@ Related starting points:
 
 #### Supporting institutional context
 
-* [Allegations Against YWCA of Missoula Board Member Detective Connie Brueckner](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
-  * **Summary:** Documents Detective Brueckner's undisclosed YWCA board membership and its implications for investigative integrity.
+* [Historical Brueckner board allegation — case-period correction](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
+  * **Summary:** Records the historical allegation of an undisclosed board role; reviewed case-period rosters do not establish that role or an investigative conflict.
   * **What changed at this stage:** Establishes the material conflict of interest that underpins the Brady claim in the Lowney grievance.
 * [YWCA Complaint: Google Reviews; Other Victims of YWCA Misconduct (2018–2020)](https://www.ywcaofmissoula.com/ywca-complaints/ywca-complaint-google-reviews-other-victims-of-ywca-misconduct-2018-2020)
   * **Summary:** Public complaint and victim statements regarding YWCA institutional conduct during the same period.

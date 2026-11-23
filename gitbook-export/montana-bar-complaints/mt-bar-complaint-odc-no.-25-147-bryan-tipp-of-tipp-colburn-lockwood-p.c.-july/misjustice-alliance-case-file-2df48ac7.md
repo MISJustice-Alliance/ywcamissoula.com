@@ -5,6 +5,8 @@ description: >-
   Index for the published ODC 25-147 case page and its linked documents.
 ---
 
+**Editorial case-period correction:** Reviewed FY2018–FY2022 Part VII rosters do not list Connie Brueckner. [FY2020 (July 2019–June 2020)](https://projects.propublica.org/nonprofits/organizations/810245851/202140909349301614/full) and [FY2021 (July 2020–June 2021)](https://projects.propublica.org/nonprofits/organizations/810245851/202230119349301503/full) list **Jamie Merifield** as Board Member; [FY2022](https://projects.propublica.org/nonprofits/organizations/810245851/202330909349301313/full) lists Merifield as former. Merifield is not identified as an investigator in this case. Later board listings cannot establish Brueckner’s role during this investigation. The case-period Brueckner board-conflict theory, and legal conclusions relying solely on it, are not established. Historical quoted correspondence is retained as an attributed record.
+
 
 # MisJustice Alliance case file: 2df48ac7
 
@@ -75,7 +77,7 @@ This page is a stable internal index for the published external case file **2df4
 ### Supplemental Submission #1 appendices (external)
 
 * **03.1-ODC-25-147-Supplemental-01-Appendix-A.pdf**
-  * Synopsis: Conflict-of-interest comparison (Officer Smith vs. Detective Brueckner) framing due process and ineffective assistance implications.
+  * Synopsis: Corrected comparison of Smith’s reported removal and Brueckner’s investigative assignment; case-period board conflict is unsupported.
   * Tags: `evidence` `court-filing` `misconduct` `civil-rights` `fraud` `final` `exhibit`
   * Link: [https://cr-2025-003-other-2\_misjusticealliance.arweave.net/](https://cr-2025-003-other-2_misjusticealliance.arweave.net/)
 * **03.2-ODC-25-147-Supplemental-01-Appendix-B.pdf**
