@@ -33,7 +33,7 @@ It is the complainants' own account. Its statements are allegations, not finding
 * The limited history of contact between Mr. Nuno and E'Lise Chard, including three 2017 emails asking her to stop harassing him and his family.
 * "Privacy in communications" citations that followed those emails, and Mr. Nuno's agreement to an Alford plea, which the letter describes as admitting no wrongdoing.
 * The June 2018 letter and $400 donation to YWCA Missoula, the protection-order petition that followed, and Judge Warren's statements at the hearing about protected speech and about contact beyond the three emails.
-* Officer Smith's removal from the case after a complaint by Mr. Nuno's father, followed by a search warrant, one misdemeanor and two felony stalking charges, and $50,000 bail.
+* Officer Smith's removal from the case after a complaint by Mr. Nuno's parents, followed by a search warrant, one misdemeanor and two felony stalking charges, and $50,000 bail.
 * A later arrest after a missed arraignment, an attempt to raise bail to $100,000, and a bail-revocation motion after a GPS exclusion-zone citation.
 * The loss of a $150,000 contract and of three job offers after background checks.
 * A Facebook post by a person named in the letter as a friend of E'Lise Chard, an MPD hallway encounter when Mr. Nuno tried to report it, and the contrasting response of a Dillon Police Department officer.

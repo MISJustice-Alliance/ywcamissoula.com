@@ -59,7 +59,7 @@ Tyrone concludes his complaint by expressly demanding that MPD cease all attempt
 
 He states that he wants to be "left alone" because he "doesn't know anything" about the alleged situation, and that the pressure has left him "incredibly angered" by what he calls Officer Smith's "unbecoming behavior and incessant harassment." This explicit cease-and-desist request is important for later legal analysis because it confirms the family's non-consent to further contact and clearly notifies the department of the distress caused by Smith's conduct.
 
-Subsequent internal summaries in this archive indicate that, following the complaint and "subsequent conversations" between Tyrone and Sergeant Delridge, Officer Smith was removed from any case involving Mr. Nuno and E'Lise Chard based on the "appearance of impropriety and unbecoming conduct" toward the Nuno parents. That reassignment is a tacit institutional acknowledgement that the complaint was credible enough to warrant intervention.
+Subsequent internal summaries in this archive indicate that, following the Nuno parents' complaint — the March 2018 written letter discussed here was signed by Tyrone Nuno — and "subsequent conversations" with Sergeant Delridge, Officer Smith was removed from any case involving Mr. Nuno and E'Lise Chard based on the "appearance of impropriety and unbecoming conduct" toward the Nuno parents. That reassignment is a tacit institutional acknowledgement that the complaint was credible enough to warrant intervention.
 
 ## Relationship to YWCA–MPD Coordination
 
