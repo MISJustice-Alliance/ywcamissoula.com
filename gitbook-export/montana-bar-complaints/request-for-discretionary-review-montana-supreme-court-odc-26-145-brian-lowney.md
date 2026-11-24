@@ -3,14 +3,17 @@ title: >-
   Request for Discretionary Review by the Montana Supreme Court — ODC File No.
   26-145 (Brian C. Lowney)
 description: >-
-  Nuno's November 19, 2026 submission email to Dia Lang at the Commission on
-  Practice requests transmittal of a Rule 14 review request. Listed attachments
-  are not included in the public email copy; receipt is unconfirmed.
+  Nuno's November 19 Rule 14 request in ODC 26-145: the Commission confirmed
+  receipt and transfer to the Justices on November 20; a later DPA supplement
+  remained with the Commission.
 ---
 
 {% include "../.gitbook/includes/analysis-page-disclaimer-seo-geo-standard.md" %}
 
 # Request for Discretionary Review by the Montana Supreme Court — ODC File No. 26-145 (Brian C. Lowney)
+
+> **Rule 14 status update — November 24, 2026 (ODC 26-145):** Dia C. Lang, Office Administrator of the Commission on Practice, confirmed receipt of Nuno’s Rule 14 request in a November 20 email. In her November 24 email, Lang wrote: “Your file was transferred to the Justices of the Supreme Court on 11/20/2026. It is considered Submitted. The Court will not take any further information.” Nuno supplied the Commission a supplement on November 24: the executed DPA in State v. Nuno, DC-18-587, received from the Missoula County Attorney’s Office on November 23 and [published with the DPA article](../the-price-of-dismissal-was-silence-the-signed-deferred-prosecution-agreement-in-state-v-nuno.md). The supplement reached the Commission after the November 20 transfer. It is of record with the Commission, not part of the file before the Justices; Lang’s response says the Court will not take any further information. The Commission’s emails supersede earlier reservations about receipt, forwarding, and Submitted status, not the absence of a Court ruling. As of November 24, no Supreme Court ruling had issued and no Court case number had been communicated.
+
 
 Nuno's November 19, 2026 sent-email copy addresses Dia Lang, Office Administrator, Commission on Practice of the Supreme Court of the State of Montana. It asks the Commission to transmit his Rule 14 request and the file to the Montana Supreme Court for discretionary review of the Commission Review Panel's affirmance of ODC's limitations-based dismissal of the grievance against Brian C. Lowney. The sent copy documents what Nuno wrote and the attachments it lists; it does not establish receipt by the Commission, transmission to the Court, or review of the attachments themselves.
 

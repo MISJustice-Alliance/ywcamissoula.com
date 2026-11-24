@@ -14,6 +14,9 @@ description: >-
 
 > **Editorial update — November 3, 2026:** This page preserves ODC's June dismissal and its stated limitations rationale. A later October 23, 2026 Commission on Practice letter says the review panel considered the original complaint, the ODC file/report and Nuno's July 14 appeal; it concluded the complaint did not demonstrate clear-and-convincing evidence of ethical violations and affirmed dismissal. The two institutions stated different rationales. No Supreme Court action in the Lowney matter is established by the supplied letter. See the [two-file news update](tipp-lowney-disciplinary-decisions-october-2026.md).
 
+> **Rule 14 status update — November 24, 2026 (ODC 26-145):** Dia C. Lang, Office Administrator of the Commission on Practice, confirmed receipt of Nuno’s Rule 14 request in a November 20 email. In her November 24 email, Lang wrote: “Your file was transferred to the Justices of the Supreme Court on 11/20/2026. It is considered Submitted. The Court will not take any further information.” Nuno supplied the Commission a supplement on November 24: the executed DPA in State v. Nuno, DC-18-587, received from the Missoula County Attorney’s Office on November 23 and [published with the DPA article](../the-price-of-dismissal-was-silence-the-signed-deferred-prosecution-agreement-in-state-v-nuno.md). The supplement reached the Commission after the November 20 transfer. It is of record with the Commission, not part of the file before the Justices; Lang’s response says the Court will not take any further information. The Commission’s emails supersede earlier reservations about receipt, forwarding, and Submitted status, not the absence of a Court ruling. As of November 24, no Supreme Court ruling had issued and no Court case number had been communicated.
+
+
 ## Primary artifact
 
 * **Document:** ODC-26-145-Rejection.pdf
