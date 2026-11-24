@@ -11,6 +11,8 @@ description: >-
 
 *This article distinguishes court dispositions, contemporaneous correspondence, allegations in case materials, and editorial analysis.*
 
+> **Update — November 24, 2026:** The signed agreement was obtained from the Missoula County Attorney's Office on November 23, 2026 and [published with the DPA article](the-price-of-dismissal-was-silence-the-signed-deferred-prosecution-agreement-in-state-v-nuno.md). This resolves only the signed-agreement item in the historical record-status note below; the hearing record and release orders remain outstanding.
+
 In Seattle, the prosecution began in December 2015 and ended on August 23, 2016. [Seattle Municipal Court Case No. 613225](2015-2016-seattle-case-related-civil-rights-violations.md), *City of Seattle v. Elvis Nuno*, was dismissed with prejudice for insufficient proof. The research corpus identifies the order, signed by the judge and prosecutor, as the source of that disposition.
 
 In Missoula, resolution took more than two years—and the consequences arrived long before the final dismissal. The case materials describe a prolonged period preceding the deferred prosecution agreement marked, in Nuno’s account, by the loss of a $150,000-a-year professional engagement, repeated arrests, escalating bail demands, GPS monitoring, restrictions on movement, and recurring pretrial-services obligations. They also describe an arrest that left Nuno “lost in jail” for days while counsel challenged the absence of a warrant or formal report supporting his custody.

@@ -95,7 +95,7 @@ The merged case chronology should be treated as an intake map, not a final litig
 | September 25, 2018 | Lowney grievance identifies charging documents in Cause No. DC-18-587. | Use September 25, 2018 as the district-court charging-affidavit anchor unless primary court records show a different date. |
 | September 2018-December 6, 2020 | GPS ankle monitoring and Missoula County travel restrictions allegedly remain in effect until the DPA. | Damages and Eighth/Fourteenth Amendment context; check bail orders, monitoring invoices, and release-condition records. |
 | April 10, 2019 | Dr. William D. Stratford transmits psychiatric letter to Tipp documenting anxiety/agoraphobic features and risk from ongoing proceedings/monitoring. | Supports malpractice theory that counsel had medical evidence for a release-condition modification motion but filed none. |
-| December 6, 2020 | DPA executed; local records state GPS monitoring ended at the DPA. | Key date for DPA speech restriction, end of active GPS monitoring, and potential waiver/coercion analysis. |
+| December 11, 2019 | DPA executed; local records state GPS monitoring ended at the DPA. | Key date for DPA speech restriction, end of active GPS monitoring, and potential waiver/coercion analysis. |
 | December 23, 2021 | Formal dismissal with prejudice. | Use this date for formal termination unless certified court records say otherwise. Avoid collapsing it into the December 2020 DPA date. |
 | 2025–October 2026 | ODC 25-147 dismissal and later Supreme Court affirmance; ODC 26-145 dismissal and Commission affirmance; May 2026 supplemental/supporting submissions. | Separate disciplinary outcomes and separate possible civil questions. The submissions do not themselves reopen a dismissal. |
 
