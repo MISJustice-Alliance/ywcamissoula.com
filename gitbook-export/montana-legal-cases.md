@@ -127,6 +127,7 @@ This page is the Montana index for case analysis and linked primary records, wit
 These entries are organized as case records. Each page captures a discrete Montana matter and points to the underlying record trail, so the section functions as a series rather than a loose list of incident summaries.
 
 * [A Letter Became Evidence. His Requests for Protection Met a Wall.](a-letter-became-evidence.md) — compares the June 2018 YWCA grievance and protection petition with the prosecution record and later, attributed requests for help; distinguishes records from unresolved allegations
+* [The Price of Dismissal Was Silence: The Signed Deferred Prosecution Agreement in State v. Nuno](the-price-of-dismissal-was-silence-the-signed-deferred-prosecution-agreement-in-state-v-nuno.md) — executed five-page DPA and its public-post removal condition; the agreement does not establish a general year-long speech ban
 * [YWCA board allegation: corrected case-period summary](https://www.ywcaofmissoula.com/montana-legal-cases/allegations-against-ywca-of-missoula-board-member-detective-connie-brueckner-pat)
 * [E'Lise Chard's Abuse and Manipulation of the Protection Filing System (June 2018)](https://www.ywcaofmissoula.com/montana-legal-cases/elise-chards-abuse-and-manipulation-of-the-protection-filing-system-june-2018)
 * [Missoula Charging Documents](https://www.ywcaofmissoula.com/montana-legal-cases/stalking-charging-documents-systemic-misconduct-and-evidentiary-failures-septemb)

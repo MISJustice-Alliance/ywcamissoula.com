@@ -11,6 +11,8 @@ description: >-
 
 **Research current through October 12, 2026. Repository review range: `8b46d21b0875ede390c67b77ec11eca146053c94` (October 4, 2026) through `957bc79f00939cfb4794e3b703603dabb79d9a18` (October 11, 2026).**
 
+> **Update — November 24, 2026:** The executed December 11, 2019 deferred prosecution agreement was obtained from the Missoula County Attorney's Office on November 23, 2026 and is published with [The Price of Dismissal Was Silence](../the-price-of-dismissal-was-silence-the-signed-deferred-prosecution-agreement-in-state-v-nuno.md). The historical discussion below reflects the evidence available at its October 12 review cutoff; the agreement establishes the exact removal term but not a general twelve-month speech ban, actual deletion of every copy, or unlawful destruction of evidence.
+
 ## Scope and publication standard
 
 This report consolidates four July 2026 working drafts concerning Elvis Ryland Nuno's reported legal circumstances, related civil-rights and legal-malpractice theories, and possible statute-of-limitations arguments. The drafts substantially overlap: one is a first-person declaration, one is a tolling memorandum, one expands that memorandum to document the completed decision to relocate to Mexico, and one is an exported AI conversation containing much of the same material.

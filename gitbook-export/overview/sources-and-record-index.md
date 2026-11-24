@@ -56,6 +56,10 @@ This page is the canonical source list for the project. It separates **primary r
 If a claim matters, link the _exact_ underlying record. Prefer PDFs, case docket entries, and agency correspondence.
 {% endhint %}
 
+### Executed agreement in State v. Nuno
+
+For State v. Nuno, DC-18-587, read the [executed December 11, 2019 deferred prosecution agreement (five-page PDF)](https://raw.githubusercontent.com/MISJustice-Alliance/ywcamissoula.com/main/gitbook-export/.gitbook/assets/state-v-nuno-dc-18-587-executed-dpa-2019-12-11.pdf) alongside the [source-bounded analysis of its public-post removal condition](../the-price-of-dismissal-was-silence-the-signed-deferred-prosecution-agreement-in-state-v-nuno.md). The signed term establishes what was required, not whether the original posts or all copies were destroyed.
+
 ### June 2018 YWCA letter and protection petition
 
 For the June 2018 grievance and protection-order petition, read the [source-bounded analysis](../a-letter-became-evidence.md) alongside the [petition](../.gitbook/assets/elise-chard-petition-order-of-protection-2018-06-12.pdf) and the discovery copy already indexed in the [police and correspondence records](../police-reports,-court-docs,-and-correspondence-index.md). The discovery copy includes a cashier’s check with banking details; do not reproduce them.
